@@ -1,0 +1,412 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ПИН\/м-19-1-о",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Академический ин.яз.",
+                "rooms": [
+                    "А-606"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Семенкина",
+                        "initials": "а",
+                        "fullName": "доц. Семенкина И.А."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Индустриальное производство ПО",
+                "rooms": [
+                    "В-514"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц. Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ИП ПО",
+                "rooms": [
+                    "В-514"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц. Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Программирование ВС",
+                "rooms": [
+                    "В-514"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шокин",
+                        "initials": "н",
+                        "fullName": "доц. Шокин А.Г."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "ПИН\/м-19-1-о",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Эволюц.методы оптимизации",
+                "rooms": [
+                    "В-514"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Доронина",
+                        "initials": "а",
+                        "fullName": "проф. Доронина Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Эволюц.методы оптимизации",
+                "rooms": [
+                    "В-514"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Доронина",
+                        "initials": "а",
+                        "fullName": "проф. Доронина Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Эволюц.методы оптимизации",
+                "rooms": [
+                    "В-514"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Доронина",
+                        "initials": "а",
+                        "fullName": "проф. Доронина Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ЭДТО",
+                "rooms": [
+                    "В-513"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шевченко",
+                        "initials": "о",
+                        "fullName": "доц. Шевченко В.И."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Электронные дистанционные технологии обучения",
+                "rooms": [
+                    "В-513"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шевченко",
+                        "initials": "о",
+                        "fullName": "доц. Шевченко В.И."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Академический ин.яз.",
+                "rooms": [
+                    "А-606"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Семенкина",
+                        "initials": "а",
+                        "fullName": "доц. Семенкина И.А."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Индустриальное производство ПО",
+                "rooms": [
+                    "В-514"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц. Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Защита интелл.собств. (ф-в)",
+                "rooms": [
+                    "В-514"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Чернышенко",
+                        "initials": "о",
+                        "fullName": "проф. Чернышенко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Защита интелл.собств. (ф-в)",
+                "rooms": [
+                    "В-514"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Чернышенко",
+                        "initials": "о",
+                        "fullName": "проф. Чернышенко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Научный семинар ( journal club)",
+                "rooms": [
+                    "В-513"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Электронные дистанционные технологии обучения",
+                "rooms": [
+                    "В-513"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шевченко",
+                        "initials": "о",
+                        "fullName": "доц. Шевченко В.И."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Программирование ВС",
+                "rooms": [
+                    "В-513"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шокин",
+                        "initials": "н",
+                        "fullName": "доц. Шокин А.Г."
+                    }
+                ],
+                "groups": [
+                    "ПИН-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

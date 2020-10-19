@@ -1,0 +1,868 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "ОПЦУ ЛЗ",
+                "rooms": [
+                    "В-509"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун А.И."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМК",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Козырев",
+                        "initials": "в",
+                        "fullName": "доц. Козырев В.Г."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМК ЛЗ",
+                "rooms": [
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Козырев",
+                        "initials": "в",
+                        "fullName": "доц. Козырев В.Г."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ОПЦУ ЛЗ",
+                "rooms": [
+                    "В-509",
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун А.И."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "РЯДО",
+                "rooms": [
+                    "А-606"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Морозова",
+                        "initials": "а",
+                        "fullName": "доц. Морозова Т.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Программирование МК",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Козырев",
+                        "initials": "в",
+                        "fullName": "доц. Козырев В.Г."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Иностранный язык асс.",
+                "rooms": [
+                    "В-601",
+                    "Г-002"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Роговенко Н.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "А-606"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Никитин",
+                        "initials": "н",
+                        "fullName": "асс. Никитин М.М."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Инженерный проект",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанов",
+                        "initials": "в",
+                        "fullName": "доц. Кабанов А.А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун А.И."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун Т.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Жиляков",
+                        "initials": "в",
+                        "fullName": "асс. Жиляков П.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Липко И.Ю."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Осадченко",
+                        "initials": "о",
+                        "fullName": "доц. Осадченко А.Е."
+                    },
+                    {
+                        "state": "professor",
+                        "surname": "Крамарь",
+                        "initials": "ь",
+                        "fullName": "проф. Крамарь О.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Бабенко",
+                        "initials": "о",
+                        "fullName": "асс. Бабенко О.О."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Фатеев",
+                        "initials": "в",
+                        "fullName": "асс. Фатеев С.И."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Стаценко",
+                        "initials": "о",
+                        "fullName": "асс. Стаценко А.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ТСиЭБРС.ИДиП Мирянова",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "М и АВМ",
+                "rooms": [
+                    "В-509"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липко",
+                        "fullName": "ст.пр. Липко"
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ластовенко",
+                        "initials": "о",
+                        "fullName": "доц. Ластовенко О.Р."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Программирование МК",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Козырев",
+                        "initials": "в",
+                        "fullName": "доц. Козырев В.Г."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методы и алгоритмы вычислительной математики",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Липко И.Ю."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "ОПЦУ ЛЗ",
+                "rooms": [
+                    "В-509"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун А.И."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМК",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Козырев",
+                        "initials": "в",
+                        "fullName": "доц. Козырев В.Г."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМК ЛЗ",
+                "rooms": [
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Козырев",
+                        "initials": "в",
+                        "fullName": "доц. Козырев В.Г."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ОПЦУ ЛЗ",
+                "rooms": [
+                    "В-509",
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун А.И."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о",
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "М и АВМ",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липко",
+                        "fullName": "ст.пр. Липко"
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "РЯДО",
+                "rooms": [
+                    "А-606"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Морозова",
+                        "initials": "а",
+                        "fullName": "доц. Морозова Т.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Методы и алгоритмы ВМ",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Липко И.Ю."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "УТС\/б-19-2о",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Иностранный язык асс.",
+                "rooms": [
+                    "В-601",
+                    "Г-002"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Роговенко Н.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "А-606"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Никитин",
+                        "initials": "н",
+                        "fullName": "асс. Никитин М.М."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Инженерный проект",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанов",
+                        "initials": "в",
+                        "fullName": "доц. Кабанов А.А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун А.И."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун Т.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Жиляков",
+                        "initials": "в",
+                        "fullName": "асс. Жиляков П.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Липко И.Ю."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Осадченко",
+                        "initials": "о",
+                        "fullName": "доц. Осадченко А.Е."
+                    },
+                    {
+                        "state": "professor",
+                        "surname": "Крамарь",
+                        "initials": "ь",
+                        "fullName": "проф. Крамарь О.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Бабенко",
+                        "initials": "о",
+                        "fullName": "асс. Бабенко О.О."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Фатеев",
+                        "initials": "в",
+                        "fullName": "асс. Фатеев С.И."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Стаценко",
+                        "initials": "о",
+                        "fullName": "асс. Стаценко А.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ТСиЭБРС.ИДиП Мирянова",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ТС и ЭБ РС. ИД и приводы",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мирянова",
+                        "initials": "а",
+                        "fullName": "доц. Мирянова В.Н."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы проектирования ЦУ",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун А.И."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-2о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Основы проектирования цифровых устройств",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун А.И."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ластовенко",
+                        "initials": "о",
+                        "fullName": "доц. Ластовенко О.Р."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Тех.средства и ЭБ РС. ИД и приводы",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мирянова",
+                        "initials": "а",
+                        "fullName": "доц. Мирянова В.Н."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

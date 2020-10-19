@@ -1,0 +1,421 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Основы системного анализа",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хохлов",
+                        "initials": "в",
+                        "fullName": "доц. Хохлов В.В."
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ольшанская",
+                        "initials": "я",
+                        "fullName": "доц. Ольшанская И.В."
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Объектно-ориентированное программирование",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пелипас",
+                        "initials": "с",
+                        "fullName": "доц. Пелипас В.О."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сметанина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Сметанина Т.И."
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "О-ОПр.",
+                "rooms": [
+                    "Б-507",
+                    "Г-511"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сметанина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Сметанина Т.И."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Забаштанский",
+                        "fullName": "ст.пр. Забаштанский"
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "А-001"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Секрет",
+                        "initials": "т",
+                        "fullName": "асс. Секрет К.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "А и П Сметанина ЛЗ",
+                "rooms": [
+                    "Г-512"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "АВУ ИС (ф-в) Кудрявченко",
+                "rooms": [
+                    "Б-505"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Секрет",
+                        "initials": "т",
+                        "fullName": "асс. Секрет К.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "АВУ ИС (ф-в) Кудрявченко",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Операционные системы и среды",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Овчинников",
+                        "initials": "в",
+                        "fullName": "ст.пр. Овчинников А.Л."
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ольшанская",
+                        "initials": "я",
+                        "fullName": "доц. Ольшанская И.В."
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Объектно-ориентированное программирование",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пелипас",
+                        "initials": "с",
+                        "fullName": "доц. Пелипас В.О."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сметанина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Сметанина Т.И."
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ЭК по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "А-001"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Секрет",
+                        "initials": "т",
+                        "fullName": "асс. Секрет К.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "А и П",
+                "rooms": [
+                    "Б-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Абрамович",
+                        "initials": "ч",
+                        "fullName": "Абрамович А.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОКС",
+                "rooms": [
+                    "Б-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чернега",
+                        "initials": "а",
+                        "fullName": "доц. Чернега В.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Кудрявченко",
+                        "initials": "о",
+                        "fullName": "Кудрявченко И.В."
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Секрет",
+                        "initials": "т",
+                        "fullName": "асс. Секрет К.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

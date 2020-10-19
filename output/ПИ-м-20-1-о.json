@@ -1,0 +1,469 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Основы ПГ",
+                "rooms": [
+                    "Б-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Минкин",
+                        "initials": "н",
+                        "fullName": "доц. Минкин С.И."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ИАД ПЗ- с 30.11.",
+                "rooms": [
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шумейко",
+                        "initials": "о",
+                        "fullName": "доц. Шумейко И.П."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сырых",
+                        "initials": "х",
+                        "fullName": "Сырых О.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о",
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Управление проектами в сфере IT",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Смирнова Н.Б."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о",
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ИПД и ГНС",
+                "rooms": [
+                    "Б-507",
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шумейко",
+                        "initials": "о",
+                        "fullName": "доц. Шумейко И.П."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дымченко",
+                        "fullName": "ст.пр. Дымченко"
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИАД",
+                "rooms": [
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сырых",
+                        "initials": "х",
+                        "fullName": "ст.пр. Сырых О.А."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Методология ИД в ПИ Л-до 8.10. ПЗ-с 15.10.20",
+                "rooms": [
+                    "Г-511"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кротов",
+                        "initials": "в",
+                        "fullName": "доц. Кротов В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайн инф.среды",
+                "rooms": [
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сырых",
+                        "initials": "х",
+                        "fullName": "ст.пр. Сырых О.А."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Ин.язык для спец.целей",
+                "rooms": [
+                    "В-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранова",
+                        "initials": "а",
+                        "fullName": "доц. Баранова А.В."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Дизайн ИС (по выб.) .10. ПЗ-с 2.11.",
+                "rooms": [
+                    "Л-19",
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сырых",
+                        "initials": "х",
+                        "fullName": "Сырых О.А."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы ПГ",
+                "rooms": [
+                    "Г-511"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Минкин",
+                        "initials": "н",
+                        "fullName": "доц. Минкин С.И."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ИПД и ГНС",
+                "rooms": [
+                    "Б-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шумейко",
+                        "initials": "о",
+                        "fullName": "доц. Шумейко И.П."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Пр.инженерия",
+                "rooms": [
+                    "Б-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Строганов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Строганов В.А."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Пр.инж. Л-по 3.11. ПЗ-с 17.11.",
+                "rooms": [
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пелипас",
+                        "initials": "с",
+                        "fullName": "доц. Пелипас В.О."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИПД и ГНС",
+                "rooms": [
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дымченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Дымченко И.В."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Геоинф.сист.(ф-в) Л-по 20.10. ПЗ-с 3.11.",
+                "rooms": [
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сырых",
+                        "initials": "х",
+                        "fullName": "Сырых О.А."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ПИ\/м-20-1-о",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Методология ИД в ПИ Л-до 8.10. ПЗ-с 15.10.20",
+                "rooms": [
+                    "Г-511"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кротов",
+                        "initials": "в",
+                        "fullName": "доц. Кротов В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Геоинф.сист.(ф-в)",
+                "rooms": [
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сырых",
+                        "initials": "х",
+                        "fullName": "Сырых О.А."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Ин.язык для спец.целей",
+                "rooms": [
+                    "В-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранова",
+                        "initials": "а",
+                        "fullName": "доц. Баранова А.В."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [
+            {
+                "subject": "ПИ\/м-20-1-о",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": "",
+                "parity": "none",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,394 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Методы и А ОИ",
+                "rooms": [
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Скороход",
+                        "initials": "д",
+                        "fullName": "проф. Скороход Б.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы и алгоритмы ОИ",
+                "rooms": [
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Скороход",
+                        "initials": "д",
+                        "fullName": "проф. Скороход Б.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Академический ин.язык",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мороз",
+                        "initials": "з",
+                        "fullName": "доц. Мороз Ю.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-19-1-о",
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Физика моря Л-до 22.09. ПЗ-с 29.09.",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Греков",
+                        "initials": "в",
+                        "fullName": "доц. Греков А.Н."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Физика моря",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Греков",
+                        "initials": "в",
+                        "fullName": "доц. Греков А.Н."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Греков",
+                        "initials": "в",
+                        "fullName": "доц. Греков А.Н."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "УАМ Крамарь Л-до 28.10 ПЗ-с 11.11.",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление АМ",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Крамарь",
+                        "initials": "ь",
+                        "fullName": "проф. Крамарь В.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Методы и А ОИ",
+                "rooms": [
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Скороход",
+                        "initials": "д",
+                        "fullName": "проф. Скороход Б.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы и алгоритмы ОИ",
+                "rooms": [
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Скороход",
+                        "initials": "д",
+                        "fullName": "проф. Скороход Б.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Академический ин.язык",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мороз",
+                        "initials": "з",
+                        "fullName": "доц. Мороз Ю.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-19-1-о",
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Физика моря Л-до 22.09. ПЗ-с 29.09.",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Греков",
+                        "initials": "в",
+                        "fullName": "доц. Греков А.Н."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Физика моря",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Греков",
+                        "initials": "в",
+                        "fullName": "доц. Греков А.Н."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление АМ 08.09.2020",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Крамарь",
+                        "initials": "ь",
+                        "fullName": "Крамарь В.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Управление АМ",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Крамарь",
+                        "initials": "ь",
+                        "fullName": "проф. Крамарь В.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление АМ",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Крамарь",
+                        "initials": "ь",
+                        "fullName": "проф. Крамарь В.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "МИР\/м-19-1-о",
+                "rooms": [
+                    "11"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "МИР-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

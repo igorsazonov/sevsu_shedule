@@ -1,0 +1,1067 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "АКС проф",
+                "rooms": [
+                    "А-101"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Апраксин",
+                        "initials": "н",
+                        "fullName": "Апраксин Ю.Г."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Пр.ЯВУ ст.пр.Владимирова",
+                "rooms": [
+                    "А-505",
+                    "В-514"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волкова",
+                        "fullName": "доц. Волкова"
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "МЛиТА Козлова",
+                "rooms": [
+                    "А-501"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "КГ",
+                "rooms": [
+                    "А-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Малицкая",
+                        "initials": "я",
+                        "fullName": "асс. Малицкая А.А."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "АКС",
+                "rooms": [
+                    "А-101"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волкова",
+                        "initials": "а",
+                        "fullName": "доц. Волкова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Правоведение 21630.09. 14.10.20",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Росенко",
+                        "initials": "о",
+                        "fullName": "проф. Росенко М.И."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Песчанский",
+                        "initials": "й",
+                        "fullName": "проф. Песчанский А.И."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Математическая логика и теория алгоритмов",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Козлова",
+                        "initials": "а",
+                        "fullName": "доц. Козлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Архитектура компьютерных систем",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волкова",
+                        "initials": "а",
+                        "fullName": "доц. Волкова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Объектно-ориентированное программирование",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пелипас",
+                        "initials": "с",
+                        "fullName": "доц. Пелипас В.О."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сметанина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Сметанина Т.И."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "О-ОП",
+                "rooms": [
+                    "Б-502",
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пелипас",
+                        "initials": "с",
+                        "fullName": "доц. Пелипас В.О."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Петраков",
+                        "initials": "в",
+                        "fullName": "Петраков В.А."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "В-315"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Никитин",
+                        "initials": "н",
+                        "fullName": "асс. Никитин М.М."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Правоведение",
+                "rooms": [
+                    "В-411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Росенко",
+                        "initials": "о",
+                        "fullName": "проф. Росенко М.И."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "В-302",
+                    "В-303",
+                    "А-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "асс. Межова Н.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Секрет",
+                        "initials": "т",
+                        "fullName": "асс. Секрет К.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Черницова",
+                        "initials": "а",
+                        "fullName": "асс. Черницова Ю.П."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "В-302",
+                    "В-303",
+                    "А-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "асс. Межова Н.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Секрет",
+                        "initials": "т",
+                        "fullName": "асс. Секрет К.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Черницова",
+                        "initials": "а",
+                        "fullName": "асс. Черницова Ю.П."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-19-1-о",
+                    "ИС-б-19-2о",
+                    "ИС-б-19-3о",
+                    "ПИ-б-19-1о",
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "МЛиТА",
+                "rooms": [
+                    "А-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Козлова",
+                        "initials": "а",
+                        "fullName": "Козлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о",
+                    "УТС-б-19-1о",
+                    "УТС-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "АКС",
+                "rooms": [
+                    "А-101"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волкова",
+                        "initials": "а",
+                        "fullName": "доц. Волкова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Песчанский",
+                        "initials": "й",
+                        "fullName": "проф. Песчанский А.И."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Архитектура компьютерных систем",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волкова",
+                        "initials": "а",
+                        "fullName": "доц. Волкова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИВТ\/б-19-2о",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Компьютерная графика",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ченгарь",
+                        "initials": "ь",
+                        "fullName": "доц. Ченгарь О.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Объектно-ориентированное программирование",
+                "rooms": [
+                    "remote"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пелипас",
+                        "initials": "с",
+                        "fullName": "доц. Пелипас В.О."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сметанина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Сметанина Т.И."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "КГ Малицкая",
+                "rooms": [
+                    "А-505"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "АКС",
+                "rooms": [
+                    "А-101"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Апраксин",
+                        "initials": "н",
+                        "fullName": "проф. Апраксин Ю.Г."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "О-ОП",
+                "rooms": [
+                    "Б-502",
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пелипас",
+                        "initials": "с",
+                        "fullName": "доц. Пелипас В.О."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Петраков",
+                        "initials": "в",
+                        "fullName": "Петраков В.А."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "В-315"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Никитин",
+                        "initials": "н",
+                        "fullName": "асс. Никитин М.М."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Правоведение",
+                "rooms": [
+                    "В-411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Росенко",
+                        "initials": "о",
+                        "fullName": "проф. Росенко М.И."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "В-302",
+                    "В-303",
+                    "А-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "асс. Межова Н.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Секрет",
+                        "initials": "т",
+                        "fullName": "асс. Секрет К.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Черницова",
+                        "initials": "а",
+                        "fullName": "асс. Черницова Ю.П."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "В-302",
+                    "В-303",
+                    "А-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "асс. Межова Н.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Секрет",
+                        "initials": "т",
+                        "fullName": "асс. Секрет К.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Черницова",
+                        "initials": "а",
+                        "fullName": "асс. Черницова Ю.П."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-19-1о",
+                    "ИВТ-б-19-2о",
+                    "ПИН-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

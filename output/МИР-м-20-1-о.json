@@ -1,0 +1,372 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "А и ПС СУР",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанов",
+                        "initials": "в",
+                        "fullName": "доц. Кабанов А.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "А и ПС СУР",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанов",
+                        "initials": "в",
+                        "fullName": "доц. Кабанов А.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. яз для спец. целей ВАКАНСИЯ",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а",
+                        "fullName": "доц. Кабанкова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Управление технологическими проектами",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Потанина",
+                        "initials": "а",
+                        "fullName": "доц. Потанина М.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гребешкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Гребешкова И.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Жизненные циклы и МР ПО",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Альчаков",
+                        "initials": "в",
+                        "fullName": "доц. Альчаков В.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-20-1-о",
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Жизненные циклы и МР ПО",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Альчаков",
+                        "initials": "в",
+                        "fullName": "доц. Альчаков В.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-20-1-о",
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методология ИД в области робототехники СУ Л-до 9.10 ПЗ-с 16.10.20",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Крамарь",
+                        "initials": "ь",
+                        "fullName": "проф. Крамарь В.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-20-1-о",
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "А и ПС СУР",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанов",
+                        "initials": "в",
+                        "fullName": "доц. Кабанов А.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "А и ПС СУР",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанов",
+                        "initials": "в",
+                        "fullName": "доц. Кабанов А.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. яз для спец. целей ВАКАНСИЯ",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а",
+                        "fullName": "доц. Кабанкова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Управление технологическими проектами",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Потанина",
+                        "initials": "а",
+                        "fullName": "доц. Потанина М.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гребешкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Гребешкова И.А."
+                    }
+                ],
+                "groups": [
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЖЦ и МР ПО",
+                "rooms": [
+                    "Г-504",
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Альчаков",
+                        "initials": "в",
+                        "fullName": "доц. Альчаков В.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-20-1-о",
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "МИР\/м-20-1-о",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Жизненные циклы и МР ПО",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Альчаков",
+                        "initials": "в",
+                        "fullName": "доц. Альчаков В.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-20-1-о",
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методология ИД в области робототехники СУ Л-до 9.10 ПЗ-с 16.10.20",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Крамарь",
+                        "initials": "ь",
+                        "fullName": "проф. Крамарь В.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-20-1-о",
+                    "МИР-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

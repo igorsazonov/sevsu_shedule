@@ -1,0 +1,1062 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Матем.программирование и ИО",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун Т.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Моделирование О и СУ",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Шушляпин",
+                        "initials": "н",
+                        "fullName": "проф. Шушляпин Е.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Стаценко",
+                        "initials": "о",
+                        "fullName": "асс. Стаценко А.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Моделирование О и СУ",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Шушляпин",
+                        "initials": "н",
+                        "fullName": "проф. Шушляпин Е.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ТАУ.НиНСАУ",
+                "rooms": [
+                    "В-509"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун А.И."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИС и Т",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мирянова",
+                        "initials": "а",
+                        "fullName": "доц. Мирянова В.Н."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ТАУ. Нелинейные и неординарные САУ",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун А.И."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "МП и ИО",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Жиляков",
+                        "initials": "в",
+                        "fullName": "асс. Жиляков П.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Автоматизированные И-УС",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун Т.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Автоматизированные И-УС",
+                "rooms": [
+                    "В-509"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун Т.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "МП и ИО",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Жиляков",
+                        "initials": "в",
+                        "fullName": "асс. Жиляков П.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Обработка сигналов",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Карапетьян",
+                        "initials": "н",
+                        "fullName": "доц. Карапетьян В.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ОС",
+                "rooms": [
+                    "В-509"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Карапетьян",
+                        "initials": "н",
+                        "fullName": "доц. Карапетьян В.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МИ",
+                "rooms": [
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Дубовик",
+                        "initials": "к",
+                        "fullName": "проф. Дубовик С.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методы идентификации",
+                "rooms": [
+                    "В-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Дубовик",
+                        "initials": "к",
+                        "fullName": "проф. Дубовик С.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МИ",
+                "rooms": [
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Дубовик",
+                        "initials": "к",
+                        "fullName": "проф. Дубовик С.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Автоматизированные И-УС",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун Т.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Моделирование О и СУ",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Шушляпин",
+                        "initials": "н",
+                        "fullName": "проф. Шушляпин Е.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Стаценко",
+                        "initials": "о",
+                        "fullName": "асс. Стаценко А.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ИС и телекоммуникации",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мирянова",
+                        "initials": "а",
+                        "fullName": "доц. Мирянова В.Н."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ИС и Т",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мирянова",
+                        "initials": "а",
+                        "fullName": "доц. Мирянова В.Н."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ТАУ.НиНСАУ",
+                "rooms": [
+                    "В-509"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц.Грушун А.И."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ТАУ. Нелинейные и неординарные САУ",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун А.И."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "МП и ИО",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Жиляков",
+                        "initials": "в",
+                        "fullName": "асс. Жиляков П.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Автоматизированные И-УС",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун Т.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Автоматизированные И-УС",
+                "rooms": [
+                    "В-509"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц. Грушун Т.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "МП и ИО",
+                "rooms": [
+                    "Г-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Жиляков",
+                        "initials": "в",
+                        "fullName": "асс. Жиляков П.В."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "УТС\/б-17-1-о",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (3чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Обработка сигналов",
+                "rooms": [
+                    "В-508"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Карапетьян",
+                        "initials": "н",
+                        "fullName": "доц. Карапетьян В.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МИ ЛЗ",
+                "rooms": [
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Дубовик",
+                        "fullName": "проф. Дубовик"
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ОС",
+                "rooms": [
+                    "В-509"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Карапетьян",
+                        "initials": "н",
+                        "fullName": "доц. Карапетьян  В.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МИ",
+                "rooms": [
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Дубовик",
+                        "initials": "к",
+                        "fullName": "проф. Дубовик С.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

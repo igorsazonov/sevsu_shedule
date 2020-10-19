@@ -1,0 +1,745 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Инновац. IT-отрасли Л-до 12.10. ПЗ-с 19.10.20",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Борисов",
+                        "initials": "в",
+                        "fullName": "Борисов Е.С."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Обработка изображений и СКЗ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Кузнецов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Кузнецов С.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Академический ин.яз.",
+                "rooms": [
+                    "Б-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мороз",
+                        "initials": "з",
+                        "fullName": "доц. Мороз Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "САиПрИС 7.12.2020",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Карлусов",
+                        "initials": "в",
+                        "fullName": "доц.Карлусов В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-17-1-о",
+                    "ИС-б-17-2-о",
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-17-1-о",
+                    "ИС-б-17-2-о",
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ОИ и СКЗ (ф-в)",
+                "rooms": [
+                    "Б-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Кузнецов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Кузнецов С.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ТА (ф-в) Л-до 28.10 ПЗ-с 11.11.20",
+                "rooms": [
+                    "Г-512"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Минкин",
+                        "initials": "н",
+                        "fullName": "доц. Минкин С.И."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Тензорн.анализ (ф-в)",
+                "rooms": [
+                    "Б-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Минкин",
+                        "initials": "н",
+                        "fullName": "доц. Минкин С.И."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Научный семинар (jc)",
+                "rooms": [
+                    "Г-512"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кротов",
+                        "initials": "в",
+                        "fullName": "доц. Кротов К.В."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ТОДДЗ Л-до 29.10. ПЗ-с 12.11",
+                "rooms": [
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дымченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Дымченко И.В."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "БД и обл.технологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пелипас",
+                        "initials": "с",
+                        "fullName": "доц. Пелипас В.О."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Строганов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Строганов В.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Глубокое обучение",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бондарев",
+                        "initials": "в",
+                        "fullName": "доц. Бондарев В.Н."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Инновац. IT-отрасли Л-до 12.10. ПЗ-с 19.10.20",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Борисов",
+                        "initials": "в",
+                        "fullName": "Борисов Е.С."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "САиПрИС Л-до 23.11. ПЗ-с 7.12.",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Карлусов",
+                        "initials": "в",
+                        "fullName": "доц.Карлусов В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Академический ин.яз.",
+                "rooms": [
+                    "Б-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мороз",
+                        "initials": "з",
+                        "fullName": "доц. Мороз Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-17-1-о",
+                    "ИС-б-17-2-о",
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-17-1-о",
+                    "ИС-б-17-2-о",
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-б-17-1-о",
+                    "ИС-б-17-2-о",
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "СА и ПрИС",
+                "rooms": [
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Карлусов",
+                        "initials": "в",
+                        "fullName": "доц. Карлусов В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "БД и ОТ",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пелипас",
+                        "initials": "с",
+                        "fullName": "доц. Пелипас В.О."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИС\/м-19-1-о",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Пр.деят.",
+                "rooms": [
+                    "Г-511",
+                    "Г-512"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Строганов",
+                        "initials": "в",
+                        "fullName": "Строганов В.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Борисов",
+                        "initials": "в",
+                        "fullName": "Борисов Е.С."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ТОДДЗ",
+                "rooms": [
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дымченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Дымченко И.В."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "БД и ОТ",
+                "rooms": [
+                    "Г-511"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пелипас",
+                        "initials": "с",
+                        "fullName": "доц. Пелипас В.О."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Глубокое обучение",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бондарев",
+                        "initials": "в",
+                        "fullName": "доц. Бондарев В.Н."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о",
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Глубокое обучение",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бондарев",
+                        "initials": "в",
+                        "fullName": "доц. Бондарев В.Н."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [
+            {
+                "subject": "ИС\/м-19-1-о",
+                "rooms": [
+                    "12"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-19-1-о"
+                ],
+                "pair": "",
+                "parity": "none",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

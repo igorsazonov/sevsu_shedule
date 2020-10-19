@@ -1,0 +1,486 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ИАД ПЗ- с 30.11.",
+                "rooms": [
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шумейко",
+                        "initials": "о",
+                        "fullName": "доц. Шумейко И.П."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сырых",
+                        "initials": "х",
+                        "fullName": "Сырых О.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о",
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Управление проектами в сфере IT",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Смирнова Н.Б."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о",
+                    "ПИ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Программирование Л-до 26.10.ПЗ-с 9.11.",
+                "rooms": [
+                    "Г-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кузнецов",
+                        "initials": "в",
+                        "fullName": "Кузнецов С.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ТОМД",
+                "rooms": [
+                    "Г-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Строганов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Строганов В.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Программир. (ф-в) 29.12.2020",
+                "rooms": [
+                    "Б-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кузнецов",
+                        "initials": "в",
+                        "fullName": "Кузнецов С.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Моделир.ИП Л-до 13.10. ПЗ-с 27.10.",
+                "rooms": [
+                    "Г-511"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Безуглая",
+                        "initials": "я",
+                        "fullName": "доц. Безуглая А.Е."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Моделирование ИП",
+                "rooms": [
+                    "Г-511"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Безуглая",
+                        "initials": "я",
+                        "fullName": "доц. Безуглая А.Е."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Методология ИД в ИС Л-до 7.10. П.10.2020",
+                "rooms": [
+                    "З-14",
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кротов",
+                        "initials": "в",
+                        "fullName": "доц. Кротов В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. яз для спец. целей ВАКАНСИЯ",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а",
+                        "fullName": "доц. Кабанкова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "МО и НПр. Л-до 29.10. ПЗ-с 12.11.20",
+                "rooms": [
+                    "Б-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Карлусов",
+                        "initials": "в",
+                        "fullName": "доц. Карлусов В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Программирование (ф-в)",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кузнецов",
+                        "initials": "в",
+                        "fullName": "Кузнецов С.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ИАД",
+                "rooms": [
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сырых",
+                        "initials": "х",
+                        "fullName": "ст.пр. Сырых О.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ТОМД",
+                "rooms": [
+                    "Г-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Строганов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Строганов В.А."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "ТОМД",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бондарев",
+                        "initials": "в",
+                        "fullName": "доц. Бондарев В.Н."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Методология ИД в ИС Л-до 7.10. П.10.2020",
+                "rooms": [
+                    "З-14",
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кротов",
+                        "initials": "в",
+                        "fullName": "доц. Кротов В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. яз для спец. целей ВАКАНСИЯ",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а",
+                        "fullName": "доц. Кабанкова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИС\/м-20-1-о",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "МО и НПр.",
+                "rooms": [
+                    "Б-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Карлусов",
+                        "initials": "в",
+                        "fullName": "доц. Карлусов В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "МИИП и Т Л-до 19.11.ПЗ-с 3.12.",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хохлов",
+                        "initials": "в",
+                        "fullName": "доц. Хохлов В.В."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "МИИП и Т",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хохлов",
+                        "initials": "в",
+                        "fullName": "доц. Хохлов В.В."
+                    }
+                ],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [
+            {
+                "subject": "ИС\/м-20-1-о",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИС-м-20-1-о"
+                ],
+                "pair": "",
+                "parity": "none",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}
