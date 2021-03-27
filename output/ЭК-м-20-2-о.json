@@ -1,0 +1,432 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Методология исследовательской деятельности",
+                "rooms": [
+                    "155"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Пискун",
+                        "initials": "н",
+                        "fullName": "проф. Пискун Е.И."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Инновационный менеджмент",
+                "rooms": [
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Пискун",
+                        "initials": "н",
+                        "fullName": "проф. Пискун Е.И."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Лаб.практикум по экономике предприятий и организаций",
+                "rooms": [
+                    "155"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "ст.пр. Поляков А.П."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Лаб.практикум по экономике предприятий и организаций",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "ст.пр. Поляков А.П."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Стратегический анализ инновационных решений",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранов",
+                        "initials": "в",
+                        "fullName": "доц. Баранов А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Технико-экономический анализ",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Митус",
+                        "initials": "с",
+                        "fullName": "доц. Митус А.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Актуальальные вопросы финансового анализа",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дремова",
+                        "initials": "а",
+                        "fullName": "доц. Дремова У.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мороз",
+                        "initials": "з",
+                        "fullName": "доц. Мороз Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Экономика общественного сектора (факультатив)",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гармашова",
+                        "initials": "а",
+                        "fullName": "доц. Гармашова Е.П."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Лаб.практику по БУ в системе (пр.уровень)",
+                "rooms": [
+                    "1С",
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шипилов",
+                        "initials": "в",
+                        "fullName": "доц. Шипилов Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Методология исследовательской деятельности",
+                "rooms": [
+                    "155"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Пискун",
+                        "initials": "н",
+                        "fullName": "проф. Пискун Е.И."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Инновационный менеджмент",
+                "rooms": [
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Никулина",
+                        "initials": "а",
+                        "fullName": "асс. Никулина А.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Стратегический анализ инновационных решений",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранов",
+                        "initials": "в",
+                        "fullName": "доц. Баранов А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Технико-экономический анализ",
+                "rooms": [
+                    "359"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Митус",
+                        "initials": "с",
+                        "fullName": "доц. Митус А.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Актуальальные вопросы финансового анализа",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дремова",
+                        "initials": "а",
+                        "fullName": "доц. Дремова У.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мороз",
+                        "initials": "з",
+                        "fullName": "доц. Мороз Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Экономика общественного сектора (факультатив)",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гармашова",
+                        "initials": "а",
+                        "fullName": "доц. Гармашова Е.П."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Лаб.практику по БУ в системе (пр.уровень)",
+                "rooms": [
+                    "1С",
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шипилов",
+                        "initials": "в",
+                        "fullName": "доц. Шипилов Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

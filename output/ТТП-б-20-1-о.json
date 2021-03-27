@@ -1,0 +1,878 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Иност. язык асс.асс.асс.асс.Остапенко А.асс.АлдошинаЯ.С.асс. ст.пр.ст.пр.асс.асс.",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "Г-403",
+                    "В-304",
+                    "В-213",
+                    "В-204",
+                    "В-205",
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "Грищук А.В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "Малыгина К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сессорова",
+                        "initials": "а",
+                        "fullName": "Сессорова С.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Мжачева",
+                        "initials": "а",
+                        "fullName": "Мжачева М.В."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Теор.механика асс.",
+                "rooms": [
+                    "В-310"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Рыжков",
+                        "initials": "в",
+                        "fullName": "Рыжков А.И."
+                    }
+                ],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Эл.тех.и эл. проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Высоцкий",
+                        "initials": "й",
+                        "fullName": "Высоцкий В.Е."
+                    }
+                ],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИКГОТМ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Сазонов",
+                        "initials": "в",
+                        "fullName": "доц.Сазонов С.Е."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Бут",
+                        "initials": "т",
+                        "fullName": "доц.Бут А.Ю."
+                    }
+                ],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Иност. язык асс.асс.асс.асс.Остапенко А.асс.АлдошинаЯ.С. асс. ст.пр.ст.пр.асс.асс.",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "В-314",
+                    "В-304",
+                    "В-213",
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "Грищук А.В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "Малыгина К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сессорова",
+                        "initials": "а",
+                        "fullName": "Сессорова С.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Мжачева",
+                        "initials": "а",
+                        "fullName": "Мжачева М.В."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о",
+                    "АТП-б-20-1-о",
+                    "МР-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ЖЦП ст.пр.",
+                "rooms": [
+                    "16"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Огрызков",
+                        "initials": "в",
+                        "fullName": "Огрызков С.В."
+                    }
+                ],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ОТНРТСЛЗ Огрызков14",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ОПНД ПЗКияшко14",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Самоменеджментпр.",
+                "rooms": [
+                    "В-309"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Голдаева",
+                        "initials": "а",
+                        "fullName": "Голдаева Е.В."
+                    }
+                ],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Информатика ст.пр.",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Лебедева",
+                        "initials": "а",
+                        "fullName": "Лебедева М.А."
+                    }
+                ],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [
+                    "А-303"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Эл.техника и электроника проф.",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Высоцкий",
+                        "initials": "й",
+                        "fullName": "Высоцкий В.Е."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретическая механика проф.",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бохонский",
+                        "initials": "й",
+                        "fullName": "Бохонский А.И."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Осн.теории надежности и работоспособности технических систем ст.пр.",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Остренко",
+                        "initials": "о",
+                        "fullName": "Остренко А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Иност. язык асс.асс.асс.асс.Остапенко А.асс.АлдошинаЯ.С.асс. ст.пр.ст.пр.асс.асс.",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "Г-403",
+                    "В-304",
+                    "В-213",
+                    "В-204",
+                    "В-205",
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "Грищук А.В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "Малыгина К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сессорова",
+                        "initials": "а",
+                        "fullName": "Сессорова С.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Мжачева",
+                        "initials": "а",
+                        "fullName": "Мжачева М.В."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Эл.тех.и элект.асс.",
+                "rooms": [
+                    "В-207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нагирняк",
+                        "initials": "к",
+                        "fullName": "Нагирняк А.А."
+                    }
+                ],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ИКГОТМ доц.Сазоновдоц.Бут",
+                "rooms": [
+                    "223",
+                    "119"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИКГОТМ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Сазонов",
+                        "initials": "в",
+                        "fullName": "доц.Сазонов С.Е."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Бут",
+                        "initials": "т",
+                        "fullName": "доц.Бут А.Ю."
+                    }
+                ],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Иност. язык асс.асс.асс.асс.Остапенко А.асс.АлдошинаЯ.С. асс. ст.пр.ст.пр.асс.асс.",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "В-314",
+                    "В-304",
+                    "В-213",
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "Грищук А.В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "Малыгина К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сессорова",
+                        "initials": "а",
+                        "fullName": "Сессорова С.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Мжачева",
+                        "initials": "а",
+                        "fullName": "Мжачева М.В."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о",
+                    "АТП-б-20-1-о",
+                    "МР-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ОПНДст.прКияшко",
+                "rooms": [
+                    "14"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ОТНРТС Огрызков",
+                "rooms": [
+                    "14"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "БЖД доц.Осадчая Л.Ис 11.02.21",
+                "rooms": [
+                    "313"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "БЖД с 25.03.21",
+                "rooms": [
+                    "313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осадчая",
+                        "initials": "я",
+                        "fullName": "доц.Осадчая Л.И."
+                    }
+                ],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Психол.трен.пр.",
+                "rooms": [
+                    "В-309"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Долгополова",
+                        "initials": "а",
+                        "fullName": "Долгополова Л.В."
+                    }
+                ],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Информатика ст.пр.",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Лебедева",
+                        "initials": "а",
+                        "fullName": "Лебедева М.А."
+                    }
+                ],
+                "groups": [
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Жизненный цикл продукции",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Сопин",
+                        "initials": "н",
+                        "fullName": "доц.Сопин П.К."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретическая механика проф.",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бохонский",
+                        "initials": "й",
+                        "fullName": "Бохонский А.И."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы проектной и научной деятельности",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Харченко",
+                        "initials": "о",
+                        "fullName": "доц.Харченко А.А."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности ст.пр. по27.03.2021",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "Гутник В.С."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-20-1-о",
+                    "ТТП-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

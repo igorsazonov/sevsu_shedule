@@ -1,0 +1,862 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о",
+                    "ЭК-б-19-5-о",
+                    "ЭК-б-19-6-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о",
+                    "ЭК-б-19-5-о",
+                    "ЭК-б-19-6-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о",
+                    "ЭК-б-19-5-о",
+                    "ЭК-б-19-6-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о",
+                    "ЭК-б-19-5-о",
+                    "ЭК-б-19-6-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о",
+                    "ЭК-б-19-5-о",
+                    "ЭК-б-19-6-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о",
+                    "ЭК-б-19-5-о",
+                    "ЭК-б-19-6-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика труда",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "ст.пр. Поляков А.П."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Деньги кредит банки",
+                "rooms": [
+                    "В-308"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Зима",
+                        "initials": "а",
+                        "fullName": "ст.пр. Зима Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Финансы организаций С.В",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сорокина",
+                        "fullName": "ст.пр. Сорокина"
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Бухгалтерский учет",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одинцова",
+                        "initials": "а",
+                        "fullName": "доц. Одинцова Т.М."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Деньги кредит банки",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Колесова",
+                        "initials": "а",
+                        "fullName": "доц. Колесова И.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика труда",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "ст.пр. Поляков А.П."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Финансы организаций С.В (кроме 18.03.2021)",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сорокина",
+                        "fullName": "ст.пр. Сорокина"
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Основы менеджмента (кроме 18.03.2021)",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Юрченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Юрченко Н.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Эконометрия 156 (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Голдаева",
+                        "initials": "а",
+                        "fullName": "пр. Голдаева Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика труда ст.пр. (кроме 18.03.2021)",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Байербах",
+                        "initials": "х",
+                        "fullName": "Байербах А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. язык",
+                "rooms": [
+                    "А-001"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "асс. Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. язык",
+                "rooms": [
+                    "А-001"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "асс. Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Эконометрия",
+                "rooms": [
+                    "361",
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гребешкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Гребешкова И.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы менеджмента (с 01.03 )",
+                "rooms": [
+                    "361",
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Калюжная",
+                        "initials": "я",
+                        "fullName": "доц. Калюжная Т.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Писарюк",
+                        "initials": "к",
+                        "fullName": "доц. Писарюк С.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о",
+                    "ЭК-б-19-5-о",
+                    "ЭК-б-19-6-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о",
+                    "ЭК-б-19-5-о",
+                    "ЭК-б-19-6-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о",
+                    "ЭК-б-19-5-о",
+                    "ЭК-б-19-6-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о",
+                    "ЭК-б-19-5-о",
+                    "ЭК-б-19-6-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о",
+                    "ЭК-б-19-5-о",
+                    "ЭК-б-19-6-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о",
+                    "ЭК-б-19-5-о",
+                    "ЭК-б-19-6-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Бухгалтерский учет",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковалева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Ковалева С.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Деньги кредит банки",
+                "rooms": [
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Зима",
+                        "initials": "а",
+                        "fullName": "ст.пр. Зима Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Бухгалтерский учет",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одинцова",
+                        "initials": "а",
+                        "fullName": "доц. Одинцова Т.М."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Деньги кредит банки",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Колесова",
+                        "initials": "а",
+                        "fullName": "доц. Колесова И.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика труда",
+                "rooms": [
+                    "312"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "ст.пр. Поляков А.П."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-1-о",
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Основы менеджмента (кроме 18.03.2021)",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Юрченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Юрченко Н.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика труда ст.пр. 151",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Байербах",
+                        "initials": "х",
+                        "fullName": "Байербах А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Эконометрия",
+                "rooms": [
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Голдаева",
+                        "initials": "а",
+                        "fullName": "пр. Голдаева Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Эконометрия",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Голдаева",
+                        "initials": "а",
+                        "fullName": "пр. Голдаева Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-19-2-о",
+                    "ЭК-б-19-3-о",
+                    "ЭК-б-19-4-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. язык",
+                "rooms": [
+                    "А-001"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "асс. Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. язык",
+                "rooms": [
+                    "А-001"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "асс. Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

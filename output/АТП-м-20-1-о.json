@@ -1,0 +1,606 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Академический ин. Язык",
+                "rooms": [
+                    "187",
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чалая",
+                        "initials": "я",
+                        "fullName": "доц.Чалая Ю.П."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Матем.моделир.автом.систем проф.",
+                "rooms": [
+                    "223"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Копп",
+                        "initials": "п",
+                        "fullName": "Копп В.Я."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Матем.моделир.автом.систем проф.",
+                "rooms": [
+                    "223"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Копп",
+                        "initials": "п",
+                        "fullName": "Копп В.Я."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Методол.ис.деят.",
+                "rooms": [
+                    "219",
+                    "254",
+                    "257"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Круговой",
+                        "initials": "й",
+                        "fullName": "доц.Круговой А.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Методы и сред.диагност.и испыт",
+                "rooms": [
+                    "223",
+                    "219"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осипов",
+                        "initials": "в",
+                        "fullName": "доц.Осипов К.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Модели и методы исслед.опер.",
+                "rooms": [
+                    "257",
+                    "219"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осипов",
+                        "initials": "в",
+                        "fullName": "доц.Осипов К.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Научный семинар",
+                "rooms": [
+                    "131"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Головин",
+                        "initials": "н",
+                        "fullName": "доц.Головин В.И."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Оптим.и адаптивное управление",
+                "rooms": [
+                    "250"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осипов",
+                        "initials": "в",
+                        "fullName": "доц.Осипов К.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Техника и технология науч.экс.",
+                "rooms": [
+                    "257"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Заморенова",
+                        "initials": "а",
+                        "fullName": "доц.Заморенова Д.В."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [
+                    "138"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [
+                    "219"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [
+                    "257"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [
+                    "259"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Академический ин. Язык",
+                "rooms": [
+                    "187",
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чалая",
+                        "initials": "я",
+                        "fullName": "доц.Чалая Ю.П."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Матем.моделир.автом.систем проф.",
+                "rooms": [
+                    "223"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Копп",
+                        "initials": "п",
+                        "fullName": "Копп В.Я."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Матем.моделир.автом.систем проф.",
+                "rooms": [
+                    "223"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Копп",
+                        "initials": "п",
+                        "fullName": "Копп В.Я."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Методы и сред.диагност.и испыт",
+                "rooms": [
+                    "223",
+                    "219"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осипов",
+                        "initials": "в",
+                        "fullName": "доц.Осипов К.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Модели и методы исслед.опер.",
+                "rooms": [
+                    "223",
+                    "219"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осипов",
+                        "initials": "в",
+                        "fullName": "доц.Осипов К.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Оптим.и адаптивное управление",
+                "rooms": [
+                    "250"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осипов",
+                        "initials": "в",
+                        "fullName": "доц.Осипов К.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Техника и технология науч.экс.",
+                "rooms": [
+                    "257"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Заморенова",
+                        "initials": "а",
+                        "fullName": "доц.Заморенова Д.В."
+                    }
+                ],
+                "groups": [
+                    "АТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [
+                    "138"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [
+                    "219"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [
+                    "257"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [
+                    "259"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "АТП-м-20-1-о",
+                    "КТП-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

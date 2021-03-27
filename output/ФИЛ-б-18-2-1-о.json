@@ -1,0 +1,566 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Практикум по КРО ВИЯ",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Кузьменко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Кузьменко А.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по КРО Анг.Я",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Фетисова",
+                        "initials": "а",
+                        "fullName": "асс. Фетисова В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по КРО Анг.Я",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Фетисова",
+                        "initials": "а",
+                        "fullName": "асс. Фетисова В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о",
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Теория и практика перевода основного иностранного языка",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шутова",
+                        "initials": "а",
+                        "fullName": "доц. Шутова О.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Деловой английский язык",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Халезова",
+                        "initials": "а",
+                        "fullName": "доц. Халезова Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Методика преподавания литературы",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Храбкова",
+                        "initials": "а",
+                        "fullName": "доц. Храбкова В.Е."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "ЭК по ФК и Спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по КРО ВИЯ",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Кузьменко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Кузьменко А.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по КРО ВИЯ",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Кузьменко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Кузьменко А.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Практикум по КРО ВИЯ",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Кузьменко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Кузьменко А.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по КРО Анг.Я",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Фетисова",
+                        "initials": "а",
+                        "fullName": "асс. Фетисова В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по КРО Анг.Я",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Фетисова",
+                        "initials": "а",
+                        "fullName": "асс. Фетисова В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о",
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Теория и практика перевода основного иностранного языка",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шутова",
+                        "initials": "а",
+                        "fullName": "доц. Шутова О.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Деловой английский язык",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Халезова",
+                        "initials": "а",
+                        "fullName": "доц. Халезова Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Пр по КРО ВИЯ Кузьменко",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "История мировой литературы 1-й половины 20 в",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаренко",
+                        "initials": "о",
+                        "fullName": "доц. Макаренко Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "История основного языка",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шутова",
+                        "initials": "а",
+                        "fullName": "доц. Шутова О.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ИСТОРИЯ МИРОВОЙ ЛИТЕРАТУР-й ПОЛОВИНЫ 20в",
+                "rooms": [
+                    "Ы 1",
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаренко",
+                        "initials": "о",
+                        "fullName": "доц. Макаренко Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о",
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МЕТОДИКА ПРЕПОДАВАНИЯ ЛИТЕРАТУРЫ",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Храброва",
+                        "initials": "а",
+                        "fullName": "доц. Храброва В.Е."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о",
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИСТОРИЯ ОСНОВНОГО ЯЗЫКА",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шутова",
+                        "initials": "а",
+                        "fullName": "доц. Шутова О.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о",
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "ЭК по ФК и Спорту(13.02.21г)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по КРО ВИЯ",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Кузьменко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Кузьменко А.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по КРО ВИЯ",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Кузьменко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Кузьменко А.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-2-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

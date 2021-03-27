@@ -1,0 +1,362 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Контроллинг (продвинутый уровень)",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одинцова",
+                        "initials": "а",
+                        "fullName": "доц. Одинцова Т.М."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Контроллинг (продвинутый уровень)",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одинцова",
+                        "initials": "а",
+                        "fullName": "доц. Одинцова Т.М."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Учет в организациях гос. сектора",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Саченок",
+                        "initials": "к",
+                        "fullName": "доц. Саченок Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Учет в организациях гос. сектора",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Саченок",
+                        "initials": "к",
+                        "fullName": "доц. Саченок Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Бухгалтерская финансовая отчетность (продвинутый уровень)",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Батищева",
+                        "initials": "а",
+                        "fullName": "доц. Батищева Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Бухгалтерская финансовая отчетность (продвинутый уровень)",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Батищева",
+                        "initials": "а",
+                        "fullName": "доц. Батищева Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Научный семинар (journal club)",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одинцова",
+                        "initials": "а",
+                        "fullName": "доц. Одинцова Т.М."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мороз",
+                        "initials": "з",
+                        "fullName": "доц. Мороз Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Анализ и диагностика финансово-хозяйственной деятельности",
+                "rooms": [
+                    "359"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матушевская",
+                        "initials": "я",
+                        "fullName": "доц. Матушевская Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Анализ и диагностика финансово-хозяйственной деятельности",
+                "rooms": [
+                    "359"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матушевская",
+                        "initials": "я",
+                        "fullName": "доц. Матушевская Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Методология исследовательской деятельности",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Коцуба",
+                        "initials": "а",
+                        "fullName": "асс. Коцуба А.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мороз",
+                        "initials": "з",
+                        "fullName": "доц. Мороз Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности (11.02 25.0211.03 25.03 08.04)",
+                "rooms": [
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рожкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рожкова М.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Аудит (продвинутый уровень)",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кулагин",
+                        "initials": "н",
+                        "fullName": "доц. Кулагин А.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Аудит (продвинутый уровень)",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кулагин",
+                        "initials": "н",
+                        "fullName": "доц. Кулагин А.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

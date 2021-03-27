@@ -1,0 +1,570 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Проектирование и расчет теплофизич.параметов холод.оборудования для промышленного оборудования Без 8.03 22.02.",
+                "rooms": [
+                    "А-11"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мирошниченко",
+                        "initials": "о",
+                        "fullName": "доц. Мирошниченко С.Т."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Международные требования к хладонам",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Теплоиспользующие холодильные машины и тепловые насосы Без 3.03.",
+                "rooms": [
+                    "А-11"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Соколов",
+                        "initials": "в",
+                        "fullName": "доц. Соколов В.В."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Международные требования к хладонам",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Теплоиспольз.холод.машины и теплонасосы 4.02 18.02",
+                "rooms": [
+                    "А-11"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Соколов",
+                        "initials": "в",
+                        "fullName": "доц. Соколов В.В."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование и расчет теплофизич.параметов холод.оборудования для промышленного оборудования (кроме 18.03.2021)",
+                "rooms": [
+                    "А-11"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мирошниченко",
+                        "initials": "о",
+                        "fullName": "доц. Мирошниченко С.Т."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Международные требования к хладонам 4.02 18.02 4.03 01.04",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Теплоиспользующие холодильные машины и тепловые насосы",
+                "rooms": [
+                    "А-11"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Соколов",
+                        "initials": "в",
+                        "fullName": "доц. Соколов В.В."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование и расчет теплофизич.параметов холод.оборудования для промышленного оборудования",
+                "rooms": [
+                    "А-11"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мирошниченко",
+                        "initials": "о",
+                        "fullName": "доц. Мирошниченко С.Т."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Проектирование и расчет теплофизич.параметов холод.оборудования для промышленного оборудования Без 8.03 22.02.",
+                "rooms": [
+                    "А-11"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мирошниченко",
+                        "initials": "о",
+                        "fullName": "доц. Мирошниченко С.Т."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Международные требования к хладонам",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Теплоиспользующие холодильные машины и тепловые насосы Без 3.03.",
+                "rooms": [
+                    "А-11"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Соколов",
+                        "initials": "в",
+                        "fullName": "доц. Соколов В.В."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Международные требования к хладонам",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Проектирование и расчет теплофизич.параметов холод.оборудования для промышленного оборудования (кроме 18.03.2021)",
+                "rooms": [
+                    "А-11"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мирошниченко",
+                        "initials": "о",
+                        "fullName": "доц. Мирошниченко С.Т."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Международные требования к хладонам 11.0225.02 11.03. 25.03",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Международные требования к хладонам 11.02",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Теплоиспользующие холодильные машины и тепловые насосы",
+                "rooms": [
+                    "А-11"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Соколов",
+                        "initials": "в",
+                        "fullName": "доц. Соколов В.В."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование и расчет теплофизич.параметов холод.оборудования для промышленного оборудования",
+                "rooms": [
+                    "А-11"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мирошниченко",
+                        "initials": "о",
+                        "fullName": "доц. Мирошниченко С.Т."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование и расчет теплофиз.параметров ХО для пром.оборудования 12.02 26.02",
+                "rooms": [
+                    "А-11"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мирошниченко",
+                        "initials": "о",
+                        "fullName": "доц. Мирошниченко С.Т."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-17-1-о"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

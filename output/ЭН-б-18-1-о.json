@@ -1,0 +1,923 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "П И С",
+                "rooms": [
+                    "В-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Деордица",
+                        "initials": "а ",
+                        "fullName": "доц. Деордица С. В."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Программирование интеллектуальных систем",
+                "rooms": [
+                    "В-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Деордица",
+                        "initials": "а ",
+                        "fullName": "доц. Деордица С. В."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "М в Э С",
+                "rooms": [
+                    "В-404"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ломоносов",
+                        "initials": "в ",
+                        "fullName": "доц. Ломоносов С. Е."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "П И С",
+                "rooms": [
+                    "В-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Деордица",
+                        "initials": "а ",
+                        "fullName": "доц. Деордица С. В."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "М в Э С",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ломоносов",
+                        "initials": "в ",
+                        "fullName": "доц. Ломоносов С. Е."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Основы компьюперного проектирования и моделирования электронных систем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скорик",
+                        "initials": "к ",
+                        "fullName": "доц. Скорик И. В."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы компьюперного проектирования и моделирования электронных систем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скорик",
+                        "initials": "к ",
+                        "fullName": "доц. Скорик И. В."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "А П Т Т Э (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-402",
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мурзин",
+                        "initials": "н ",
+                        "fullName": "доц. Мурзин Д. Г."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Актуальные проблемы твердотельной электроники (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мурзин",
+                        "initials": "н ",
+                        "fullName": "доц. Мурзин Д. Г."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "А П Т Т Э (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мурзин",
+                        "initials": "н ",
+                        "fullName": "доц. Мурзин Д. Г."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "К и О Э П (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаров",
+                        "initials": "в ",
+                        "fullName": "доц. Макаров В. К."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Моделирование в электронных системах",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ломоносов",
+                        "initials": "в ",
+                        "fullName": "доц. Ломоносов С. Е."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Квантовые и оптоэлектронные приборы",
+                "rooms": [
+                    "В-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаров",
+                        "initials": "в ",
+                        "fullName": "доц. Макаров В. К."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Н А Н О Э Л Е К Т Р О Н И К А",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаров",
+                        "initials": "в ",
+                        "fullName": "доц. Макаров В. К."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "К и О Э П",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаров",
+                        "initials": "в ",
+                        "fullName": "доц. Макаров В. К."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "П И С",
+                "rooms": [
+                    "В-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Деордица",
+                        "initials": "а ",
+                        "fullName": "доц. Деордица С. В."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Программирование интеллектуальных систем",
+                "rooms": [
+                    "В-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Деордица",
+                        "initials": "а ",
+                        "fullName": "доц. Деордица С. В."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "П И С",
+                "rooms": [
+                    "В-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Деордица",
+                        "initials": "а ",
+                        "fullName": "доц. Деордица С. В."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "М в Э С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ломоносов",
+                        "initials": "в ",
+                        "fullName": "доц. Ломоносов С. Е."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "М в Э С",
+                "rooms": [
+                    "Г-402",
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ломоносов",
+                        "initials": "в ",
+                        "fullName": "доц. Ломоносов С. Е."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Основы компьюперного проектирования и моделирования электронных систем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скорик",
+                        "initials": "к ",
+                        "fullName": "доц. Скорик И. В."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы компьюперного проектирования и моделирования электронных систем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скорик",
+                        "initials": "к ",
+                        "fullName": "доц. Скорик И. В."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "А П Т Т Э",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мурзин",
+                        "initials": "н ",
+                        "fullName": "доц. Мурзин Д. Г."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Актуальные проблемы твердотельной электроники (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мурзин",
+                        "initials": "н ",
+                        "fullName": "доц. Мурзин Д. Г."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "А П Т Т Э (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-402",
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мурзин",
+                        "initials": "н ",
+                        "fullName": "доц. Мурзин Д. Г."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "К и О Э П",
+                "rooms": [
+                    "Г-402",
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаров",
+                        "initials": "в ",
+                        "fullName": "доц. Макаров В. К."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Моделирование в электронных системах",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ломоносов",
+                        "initials": "в ",
+                        "fullName": "доц. Ломоносов С. Е."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Квантовые и оптоэлектронные приборы",
+                "rooms": [
+                    "В-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаров",
+                        "initials": "в ",
+                        "fullName": "доц. Макаров В. К."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Наноэлектроника",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ерисов",
+                        "initials": "в ",
+                        "fullName": "доц. Ерисов А. А."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Н А Н О Э Л Е К Т Р О Н И К А",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаров",
+                        "initials": "в ",
+                        "fullName": "доц. Макаров В. К."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "К и О Э П",
+                "rooms": [
+                    "Г-402",
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаров",
+                        "initials": "в ",
+                        "fullName": "доц. Макаров В. К."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

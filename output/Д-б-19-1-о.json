@@ -1,0 +1,603 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "450"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Руденко Ж.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Павлова",
+                        "initials": "а",
+                        "fullName": "асс. Павлова Т.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Павлова",
+                        "initials": "а",
+                        "fullName": "асс. Павлова Т.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Колористика и психология цвета",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Живопись",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Теория и методология архитектурно-дизайнерского проектирования",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Овсянникова",
+                        "initials": "а",
+                        "fullName": "проф. Овсянникова Е.Б."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Композиционное моделирование",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Информационное моделирование",
+                "rooms": [
+                    "380"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дикарева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дикарева Е.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Информационное моделирование",
+                "rooms": [
+                    "382"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дикарева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дикарева Е.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (2 уровень)",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Патконен",
+                        "initials": "н",
+                        "fullName": "доц. Патконен В.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (2 уровень)",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Патконен",
+                        "initials": "н",
+                        "fullName": "доц. Патконен В.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (2 уровень)",
+                "rooms": [
+                    "303",
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Патконен",
+                        "initials": "н",
+                        "fullName": "доц. Патконен В.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "450"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Руденко Ж.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Павлова",
+                        "initials": "а",
+                        "fullName": "асс. Павлова Т.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Павлова",
+                        "initials": "а",
+                        "fullName": "асс. Павлова Т.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Колористика и психология цвета",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Живопись",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Теория и методология архитектурно-дизайнерского проектирования",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Овсянникова",
+                        "initials": "а",
+                        "fullName": "проф. Овсянникова Е.Б."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Композиционное моделирование",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Теория и методология архитектурно-дизайнерского проектирования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Овсянникова",
+                        "initials": "а",
+                        "fullName": "проф. Овсянникова Е.Б."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Информационное моделирование",
+                "rooms": [
+                    "378"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дикарева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дикарева Е.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (2 уровень)",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Патконен",
+                        "initials": "н",
+                        "fullName": "доц. Патконен В.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (2 уровень)",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Патконен",
+                        "initials": "н",
+                        "fullName": "доц. Патконен В.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (2 уровень)",
+                "rooms": [
+                    "303",
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Патконен",
+                        "initials": "н",
+                        "fullName": "доц. Патконен В.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

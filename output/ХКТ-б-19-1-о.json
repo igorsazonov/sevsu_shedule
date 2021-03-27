@@ -1,0 +1,591 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Сопротивление материалов",
+                "rooms": [
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корнеева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Корнеева Н.К."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "478"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чернявская",
+                        "initials": "я",
+                        "fullName": "доц. Чернявская С.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Механика жидкости и газа. Механика жидкости",
+                "rooms": [
+                    "А-12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Глушкова",
+                        "initials": "а",
+                        "fullName": "доц. Глушкова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "450"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Руденко Ж.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Физика в профессиональной деятельности",
+                "rooms": [
+                    "360"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матузаева",
+                        "initials": "а",
+                        "fullName": "доц. Матузаева О.В."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Копьютерное моделирование оборудования и систем холодильной техники",
+                "rooms": [
+                    "315"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Журавлев",
+                        "initials": "в",
+                        "fullName": "ст.пр. Журавлев А.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Оборудование систем кондиционирования воздуха (кроме 18.03.2021)",
+                "rooms": [
+                    "216"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Куликов",
+                        "initials": "в",
+                        "fullName": "доц. Куликов Г.К."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика (кроме 18.03.2021)",
+                "rooms": [
+                    "497"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "асс. Кузьмина М.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Электроника и микропроцессорная техника (кроме 18.03.2021)",
+                "rooms": [
+                    "383"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скидан",
+                        "initials": "н",
+                        "fullName": "доц. Скидан А.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Сопротивление материалов",
+                "rooms": [
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корнеева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Корнеева Н.К."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Математические методы моделирования физических процессов в холодильных технологиях",
+                "rooms": [
+                    "315"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Журавлев",
+                        "initials": "в",
+                        "fullName": "ст.пр. Журавлев А.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Браславская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Браславская Е.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о",
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Сопротивление материалов",
+                "rooms": [
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корнеева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Корнеева Н.К."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "478"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чернявская",
+                        "initials": "я",
+                        "fullName": "доц. Чернявская С.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Механика жидкости и газа. Механика жидкости",
+                "rooms": [
+                    "А-12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Глушкова",
+                        "initials": "а",
+                        "fullName": "доц. Глушкова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "450"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Руденко Ж.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Физика в профессиональной деятельности",
+                "rooms": [
+                    "А-38"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матузаева",
+                        "initials": "а",
+                        "fullName": "доц. Матузаева О.В."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Копьютерное моделирование оборудования и систем холодильной техники",
+                "rooms": [
+                    "315"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Журавлев",
+                        "initials": "в",
+                        "fullName": "ст.пр. Журавлев А.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Оборудование систем кондиционирования воздуха (кроме 18.03.2021)",
+                "rooms": [
+                    "216"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Куликов",
+                        "initials": "в",
+                        "fullName": "доц. Куликов Г.К."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Механика жидкости и газа. Механика жидкости",
+                "rooms": [
+                    "А-12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Глушкова",
+                        "initials": "а",
+                        "fullName": "доц. Глушкова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Электроника и микропроцессорная техника (кроме 18.03.2021)",
+                "rooms": [
+                    "383"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скидан",
+                        "initials": "н",
+                        "fullName": "доц. Скидан А.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Математические методы моделирования физических процессов в холодильных технологиях",
+                "rooms": [
+                    "315"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Журавлев",
+                        "initials": "в",
+                        "fullName": "ст.пр. Журавлев А.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Браславская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Браславская Е.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о",
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

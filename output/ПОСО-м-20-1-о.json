@@ -1,0 +1,518 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Проектирование индивидуальных траекторий обучения для обучающихся с особыми образовательными потребностями (до 5.04.21г)",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ковалева",
+                        "initials": "а",
+                        "fullName": "доц. Ковалева Н.С."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Технология и методика обучения (по гуманитарным предметам) 231",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Храброва",
+                        "initials": "а",
+                        "fullName": "доц. Храброва В.Е."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Технология и методика обучения (по естественно-научным предметам)",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Крестинина",
+                        "initials": "а",
+                        "fullName": "доц. Крестинина И.В."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Технология и методика обучения (по гуманитарным предметам) 231",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Храброва",
+                        "initials": "а",
+                        "fullName": "доц. Храброва В.Е."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Технология и методика обучения (по естественно-научным предметам)",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Крестинина",
+                        "initials": "а",
+                        "fullName": "доц. Крестинина И.В."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Методика разработки и реализация дополн. ОбрПр",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ковалева",
+                        "initials": "а",
+                        "fullName": "доц. Ковалева Н.С."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар (journal club)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кравченко",
+                        "initials": "о",
+                        "fullName": "доц. Кравченко Ю.М."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Семенкина",
+                        "initials": "а",
+                        "fullName": "доц. Семенкина И.А."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Система оценив. и мониторинг обр. результатов обуч.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Крестинина",
+                        "initials": "а",
+                        "fullName": "доц. Крестинина И.В."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Система оценив. и мониторинг обр. результатов обуч.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Крестинина",
+                        "initials": "а",
+                        "fullName": "доц. Крестинина И.В."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Проектирование индивидуальных траекторий обучения для обучающихся с особыми образовательными потребностями (до 29.05.21г)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ковалева",
+                        "initials": "а",
+                        "fullName": "доц. Ковалева Н.С."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Стратегические ориентиры современного воспитания и социализации обучающихся (до 29.05.21г)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Салпук",
+                        "initials": "к",
+                        "fullName": "доц. Салпук Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Стратегические ориентиры современного воспитания и социализации обучающихся (до 29.05.21г)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Салпук",
+                        "initials": "к",
+                        "fullName": "доц. Салпук Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Проектирование индивидуальных траекторий обучения для обучающихся с особыми образовательными потребностями (до 5.04.21г)",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ковалева",
+                        "initials": "а",
+                        "fullName": "доц. Ковалева Н.С."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Технология и методика обучения (по гуманитарным предметам) 231",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Храброва",
+                        "initials": "а",
+                        "fullName": "доц. Храброва В.Е."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Технология и методика обучения (по естественно-научным предметам)",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Крестинина",
+                        "initials": "а",
+                        "fullName": "доц. Крестинина И.В."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Технология и методика обучения (по гуманитарным предметам) 231",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Храброва",
+                        "initials": "а",
+                        "fullName": "доц. Храброва В.Е."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Технология и методика обучения (по естественно-научным предметам)",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Крестинина",
+                        "initials": "а",
+                        "fullName": "доц. Крестинина И.В."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Использование цифровых образов. ресурсов в ПрД",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Медведева",
+                        "initials": "а",
+                        "fullName": "доц. Медведева О.А."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Семенкина",
+                        "initials": "а",
+                        "fullName": "доц. Семенкина И.А."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Проектирование индивидуальных траекторий обучения для обучающихся с особыми образовательными потребностями (до 29.05.21г)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ковалева",
+                        "initials": "а",
+                        "fullName": "доц. Ковалева Н.С."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Стратегические ориентиры современного воспитания и социализации обучающихся (до 29.05.21г)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Салпук",
+                        "initials": "к",
+                        "fullName": "доц. Салпук Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Стратегические ориентиры современного воспитания и социализации обучающихся (до 29.05.21г)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Салпук",
+                        "initials": "к",
+                        "fullName": "доц. Салпук Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ПОСО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,384 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Самойленко",
+                        "initials": "о",
+                        "fullName": "проф. Самойленко Н.Б."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психодиагностика в образовании и соцмальной сфере и проектной деятельности",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кондрашихина",
+                        "initials": "а",
+                        "fullName": "доц. Кондрашихина О.А."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Арт-терапия в работе педагога-психолога",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Психологическая самоорганизация в обр.",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Ефимова",
+                        "initials": "а",
+                        "fullName": "пр. Ефимова И.В."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование и экспертиза обр. программ",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Ефимова",
+                        "initials": "а",
+                        "fullName": "пр. Ефимова И.В."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование и экспертиза обр. программ",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Ефимова",
+                        "initials": "а",
+                        "fullName": "пр. Ефимова И.В."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Этнопедагогика",
+                "rooms": [
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Адонина",
+                        "initials": "а",
+                        "fullName": "доц. Адонина Л.В."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектная деят. в псих. обуч. и разв детей с ООП",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ерина",
+                        "initials": "а",
+                        "fullName": "доц. Ерина И.А."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектная деят. в псих. обуч. и разв детей с ООП",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ерина",
+                        "initials": "а",
+                        "fullName": "доц. Ерина И.А."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Самойленко",
+                        "initials": "о",
+                        "fullName": "проф. Самойленко Н.Б."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психодиагностика в образовании и соцмальной сфере и проектной деятельности",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кондрашихина",
+                        "initials": "а",
+                        "fullName": "доц. Кондрашихина О.А."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Методология исследовательской деятельности",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Медведева",
+                        "initials": "а",
+                        "fullName": "доц. Медведева С.А."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Медведева",
+                        "initials": "а",
+                        "fullName": "доц. Медведева С.А."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Научный семинар (journal club)",
+                "rooms": [
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология воспитания",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кажарская",
+                        "initials": "я",
+                        "fullName": "доц. Кажарская О.Н."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология воспитания",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кажарская",
+                        "initials": "я",
+                        "fullName": "доц. Кажарская О.Н."
+                    }
+                ],
+                "groups": [
+                    "ППО-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,769 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Теоретические основы электротехники",
+                "rooms": [
+                    "В-308"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канов",
+                        "initials": "в ",
+                        "fullName": "доц. Канов Л. Н."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Ф И З И К А",
+                "rooms": [
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лисютин",
+                        "initials": "н ",
+                        "fullName": "доц. Лисютин  В. А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "В-309"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а ",
+                        "fullName": "ст.пр. Михайлова А. Г."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "М А Т Е М А Т И К А",
+                "rooms": [
+                    "В-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Приходько",
+                        "initials": "о ",
+                        "fullName": "доц.Приходько Р. А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Математика",
+                "rooms": [
+                    "В-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Никитин",
+                        "initials": "н ",
+                        "fullName": "пр. Никитин М. М."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Т Т Д и Т П",
+                "rooms": [
+                    "234"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Тимофеев",
+                        "initials": "в ",
+                        "fullName": "ст.пр. Тимофеев В. А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Техническая термодинамика и теплопередача",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Федоровский",
+                        "initials": "й ",
+                        "fullName": "проф. Федоровский К. Ю."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Тимофеев",
+                        "initials": "в ",
+                        "fullName": "ст.пр. Тимофеев В. А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "С О П Р О Т И В Л Е Н И Е М А Т Е Р И А Л О В",
+                "rooms": [
+                    "В-308"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Леонтьев",
+                        "initials": "в ",
+                        "fullName": "доц. Леонтьев В. В."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Физика",
+                "rooms": [
+                    "Г-404"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лисютин",
+                        "initials": "н ",
+                        "fullName": "доц. Лисютин  В. А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Лучин",
+                        "initials": "н ",
+                        "fullName": "доц. Лучин В. Л."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретические основы электротехники",
+                "rooms": [
+                    "В-308"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канов",
+                        "initials": "в ",
+                        "fullName": "доц. Канов Л. Н."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Ф И З И К А",
+                "rooms": [
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лисютин",
+                        "initials": "н ",
+                        "fullName": "доц. Лисютин  В. А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "В-309"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а ",
+                        "fullName": "ст.пр. Михайлова А. Г."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "М А Т Е М А Т И К А",
+                "rooms": [
+                    "В-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Приходько",
+                        "initials": "о ",
+                        "fullName": "доц.Приходько Р. А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Математика",
+                "rooms": [
+                    "В-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Никитин",
+                        "initials": "н ",
+                        "fullName": "пр. Никитин М. М."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Т Т Д и Т П",
+                "rooms": [
+                    "234"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Тимофеев",
+                        "initials": "в ",
+                        "fullName": "ст.пр. Тимофеев В. А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Техническая термодинамика и теплопередача",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Федоровский",
+                        "initials": "й ",
+                        "fullName": "проф. Федоровский К. Ю."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Тимофеев",
+                        "initials": "в ",
+                        "fullName": "ст.пр. Тимофеев В. А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 6 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "С М",
+                "rooms": [
+                    "В-313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Леонтьев",
+                        "initials": "в ",
+                        "fullName": "доц. Леонтьев В. В."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Т Е О Р Е Т И Ч Е С К А Я М Е Х А Н И К А",
+                "rooms": [
+                    "В-308"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Леонтьев",
+                        "initials": "в ",
+                        "fullName": "доц. Леонтьев В. В."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-19-1-о",
+                    "ЭУ-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Т О Э",
+                "rooms": [
+                    "А-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канов",
+                        "initials": "в ",
+                        "fullName": "доц. Канов Л. Н."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Т М",
+                "rooms": [
+                    "В-313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Рыжков",
+                        "initials": "в ",
+                        "fullName": "асс. Рыжков А. И."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Физика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лисютин",
+                        "initials": "н ",
+                        "fullName": "доц. Лисютин  В. А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Лучин",
+                        "initials": "н ",
+                        "fullName": "доц. Лучин В. Л."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

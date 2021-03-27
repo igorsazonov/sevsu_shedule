@@ -2,52 +2,73 @@
     "odd": {
         "monday": [
             {
-                "subject": "Методы исследования операций",
+                "subject": "ТД и ВР (ARиVR техн.) Петраков",
                 "rooms": [
-                    "remote"
+                    "Г-502"
                 ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Карлусов",
-                        "initials": "в",
-                        "fullName": "доц. Карлусов В.Ю."
-                    }
-                ],
+                "lecturers": [],
                 "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
                     "ПИ-б-18-1-о"
                 ],
-                "pair": 3,
+                "pair": 1,
                 "parity": "odd",
-                "type": "lecture",
+                "type": "lab",
                 "day": "monday",
                 "date": ""
             },
             {
-                "subject": "Управление данными",
+                "subject": "Геоинф. системы Абрамович",
                 "rooms": [
-                    "remote"
+                    "Б-503"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Проектный практикум ст.пр.",
+                "rooms": [
+                    "Б-507"
                 ],
                 "lecturers": [
                     {
-                        "state": "docent",
-                        "surname": "Шаталова",
-                        "initials": "а",
-                        "fullName": "доц. Шаталова Ю.Г."
+                        "state": "",
+                        "surname": "Петраков",
+                        "initials": "в",
+                        "fullName": "Петраков В.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Кузнецов",
+                        "initials": "в",
+                        "fullName": "Кузнецов С.А."
                     }
                 ],
                 "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
                     "ПИ-б-18-1-о"
                 ],
                 "pair": 4,
                 "parity": "odd",
-                "type": "lecture",
+                "type": "practics",
                 "day": "monday",
                 "date": ""
             }
@@ -119,28 +140,6 @@
                 "date": ""
             },
             {
-                "subject": "Геоинф.",
-                "rooms": [
-                    "Б-503"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Сырых",
-                        "initials": "х",
-                        "fullName": "Сырых О.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 5,
-                "parity": "odd",
-                "type": "lab",
-                "day": "tuesday",
-                "date": ""
-            },
-            {
                 "subject": "ВОЕННАЯ КАФЕДРА (3чел.)",
                 "rooms": [],
                 "lecturers": [],
@@ -154,28 +153,6 @@
                 "date": ""
             },
             {
-                "subject": "ИТ",
-                "rooms": [
-                    "Б-501"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Кузнецов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Кузнецов С.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 6,
-                "parity": "odd",
-                "type": "lab",
-                "day": "tuesday",
-                "date": ""
-            },
-            {
                 "subject": "ВОЕННАЯ КАФЕДРА (3чел.)",
                 "rooms": [],
                 "lecturers": [],
@@ -185,175 +162,22 @@
                 "pair": 7,
                 "parity": "odd",
                 "type": "",
-                "day": "tuesday",
-                "date": ""
-            },
-            {
-                "subject": "УД",
-                "rooms": [
-                    "Г-512"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Гончаренко",
-                        "initials": "о",
-                        "fullName": "Гончаренко Д.Г."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 7,
-                "parity": "odd",
-                "type": "lab",
                 "day": "tuesday",
                 "date": ""
             }
         ],
         "wednesday": [
             {
-                "subject": "Тестирование ПО",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Строганов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Строганов В.А."
-                    }
-                ],
-                "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 1,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "Веб-технологии",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Овчинников",
-                        "initials": "в",
-                        "fullName": "ст.пр. Овчинников А.Л."
-                    }
-                ],
-                "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "Обработка изображений - Разработка мобильных приложений",
-                "rooms": [
-                    "Г-502",
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Дымченко",
-                        "initials": "о",
-                        "fullName": "ст.пр. Дымченко И.В."
-                    },
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Шишкевич",
-                        "initials": "ч",
-                        "fullName": "ст.пр. Шишкевич В.Е."
-                    }
-                ],
-                "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 3,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "Проектная деятельность (факультатив)",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Дымченко",
-                        "initials": "о",
-                        "fullName": "ст.пр. Дымченко И.В."
-                    }
-                ],
-                "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "wednesday",
-                "date": ""
-            }
-        ],
-        "thursday": [
-            {
-                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "practics",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "Методы исследования операций",
+                "subject": "Геоинформационные системы",
                 "rooms": [
                     "Г-511"
                 ],
                 "lecturers": [
                     {
-                        "state": "docent",
-                        "surname": "Карлусов",
-                        "initials": "в",
-                        "fullName": "доц. Карлусов В.Ю."
-                    },
-                    {
                         "state": "seniorLecturer",
-                        "surname": "Заикина",
-                        "initials": "а",
-                        "fullName": "ст.пр. Заикина Е.Н."
+                        "surname": "Дымченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Дымченко И.В."
                     }
                 ],
                 "groups": [
@@ -361,59 +185,12 @@
                 ],
                 "pair": 3,
                 "parity": "odd",
-                "type": "lab",
-                "day": "thursday",
+                "type": "lecture",
+                "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "Управление данными",
-                "rooms": [
-                    "Б-507"
-                ],
-                "lecturers": [
-                    {
-                        "state": "assistant",
-                        "surname": "Куркчи",
-                        "initials": "и",
-                        "fullName": "асс. Куркчи М.В."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "practics",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "Презентации на ин.языке",
-                "rooms": [
-                    "А-003"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Миронцева",
-                        "initials": "а",
-                        "fullName": "доц. Миронцева С.С."
-                    }
-                ],
-                "groups": [
-                    "ИС-б-18-3-о",
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 5,
-                "parity": "odd",
-                "type": "practics",
-                "day": "thursday",
-                "date": ""
-            }
-        ],
-        "friday": [
-            {
-                "subject": "ПД (факультатив)",
+                "subject": "ТД и ВР (ARиVR техн.)",
                 "rooms": [
                     "Г-502"
                 ],
@@ -428,22 +205,309 @@
                 "groups": [
                     "ПИ-б-18-1-о"
                 ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "МОДЕЛИРОВАНИЕ СИСТЕМ",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Безуглая",
+                        "initials": "я",
+                        "fullName": "доц. Безуглая А.Е."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИНФОКОММ. СИСТЕМЫ И СЕТИ",
+                "rooms": [
+                    "Б-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чернега",
+                        "initials": "а",
+                        "fullName": "доц. Чернега В.С."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по переводу научной литературы",
+                "rooms": [
+                    "В-315"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранова",
+                        "initials": "а",
+                        "fullName": "доц. Баранова А.В."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Веб-дизайн (Web-design) (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-511"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Безуглая",
+                        "initials": "я",
+                        "fullName": "доц. Безуглая А.С."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Моделирование систем (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-511"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Безуглая",
+                        "initials": "я",
+                        "fullName": "доц. Безуглая А.С."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
                 "pair": 2,
                 "parity": "odd",
                 "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Геоинформационные системы (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дымченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Дымченко И.В."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Веб-техн. Забаштанский (кроме 18.03.2021)",
+                "rooms": [
+                    "Б-501"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ТД и ВР (ARиVR техн.) (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дымченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Дымченко И.В."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Геоинф. СППрУпрР (кроме 18.03.2021)",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Минкин",
+                        "initials": "н",
+                        "fullName": "доц. Минкин С.И."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Методы машинного обучения",
+                "rooms": [
+                    "Г-512"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борисов",
+                        "initials": "в",
+                        "fullName": "доц. Борисов Е.С."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
                 "day": "friday",
                 "date": ""
             },
             {
-                "subject": "Платформа Java Платформа Net",
-                "rooms": [],
+                "subject": "Геоинф. СППрУпрР",
+                "rooms": [
+                    "Г-501"
+                ],
                 "lecturers": [
                     {
-                        "state": "seniorLecturer",
-                        "surname": "Кузнецов",
+                        "state": "docent",
+                        "surname": "Минкин",
+                        "initials": "н",
+                        "fullName": "доц. Минкин С.И."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методы машинного обучения",
+                "rooms": [
+                    "Г-512"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борисов",
                         "initials": "в",
-                        "fullName": "ст.пр. Кузнецов С.А."
+                        "fullName": "доц. Борисов Е.С."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Инфокоммуникационные системы и сети",
+                "rooms": [
+                    "Б-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чернега",
+                        "initials": "а",
+                        "fullName": "доц. Чернега В.С."
                     },
+                    {
+                        "state": "docent",
+                        "surname": "Минкин",
+                        "initials": "н",
+                        "fullName": "доц. Минкин С.И."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Веб-технологии",
+                "rooms": [
+                    "Г-511"
+                ],
+                "lecturers": [
                     {
                         "state": "seniorLecturer",
                         "surname": "Забаштанский",
@@ -454,80 +518,6 @@
                 "groups": [
                     "ПИ-б-18-1-о"
                 ],
-                "pair": 3,
-                "parity": "odd",
-                "type": "lab",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "ТПО",
-                "rooms": [
-                    "Г-511"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Петраков",
-                        "initials": "в",
-                        "fullName": "Петраков В.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "practics",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "УД .Ю.",
-                "rooms": [
-                    "Г-511"
-                ],
-                "lecturers": [
-                    {
-                        "state": "assistant",
-                        "surname": "АбрамовичА",
-                        "fullName": "асс. АбрамовичА"
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 5,
-                "parity": "odd",
-                "type": "lab",
-                "day": "friday",
-                "date": ""
-            }
-        ],
-        "saturday": [
-            {
-                "subject": "ОИ - РМП",
-                "rooms": [
-                    "Г-502",
-                    "Б-503"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Сырых",
-                        "initials": "х",
-                        "fullName": "Сырых О.А."
-                    },
-                    {
-                        "state": "",
-                        "surname": "Петраков",
-                        "initials": "в",
-                        "fullName": "Петраков В.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
                 "pair": 1,
                 "parity": "odd",
                 "type": "practics",
@@ -535,72 +525,15 @@
                 "date": ""
             },
             {
-                "subject": "Веб-технологии",
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
                 "rooms": [],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Дрозин",
-                        "initials": "н",
-                        "fullName": "ст.пр. Дрозин А.Ю."
-                    },
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Овчинников",
-                        "initials": "в",
-                        "fullName": "ст.пр. Овчинников А.Л."
-                    }
-                ],
+                "lecturers": [],
                 "groups": [
                     "ПИ-б-18-1-о"
                 ],
                 "pair": 2,
                 "parity": "odd",
-                "type": "lab",
-                "day": "saturday",
-                "date": ""
-            },
-            {
-                "subject": "ИТ ПЗ",
-                "rooms": [
-                    "Г-502"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Кузнецов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Кузнецов С.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 3,
-                "parity": "odd",
-                "type": "",
-                "day": "saturday",
-                "date": ""
-            },
-            {
-                "subject": "Геоинформатика ЛЗ",
-                "rooms": [
-                    "Б-503"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Сырых",
-                        "initials": "х",
-                        "fullName": "ст.пр. Сырых О.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "",
+                "type": "practics",
                 "day": "saturday",
                 "date": ""
             }
@@ -609,108 +542,58 @@
     "even": {
         "monday": [
             {
-                "subject": "Веб-технологии",
+                "subject": "Веб-техн. Забаштанский",
                 "rooms": [
-                    "remote"
+                    "Г-512"
                 ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Овчинников",
-                        "initials": "в",
-                        "fullName": "ст.пр. Овчинников А.Л."
-                    }
-                ],
+                "lecturers": [],
                 "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 1,
-                "parity": "even",
-                "type": "lecture",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Платформа Java Платформа Net",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Кузнецов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Кузнецов С.А."
-                    },
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Забаштанский",
-                        "initials": "й",
-                        "fullName": "ст.пр. Забаштанский А.К."
-                    }
-                ],
-                "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
                     "ПИ-б-18-1-о"
                 ],
                 "pair": 2,
                 "parity": "even",
-                "type": "lecture",
+                "type": "lab",
                 "day": "monday",
                 "date": ""
             },
             {
-                "subject": "Методы исследования операций",
+                "subject": "Проектный практикум ст.пр.",
                 "rooms": [
-                    "remote"
+                    "Б-507"
                 ],
                 "lecturers": [
                     {
-                        "state": "docent",
-                        "surname": "Карлусов",
+                        "state": "",
+                        "surname": "Петраков",
                         "initials": "в",
-                        "fullName": "доц. Карлусов В.Ю."
+                        "fullName": "Петраков В.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Кузнецов",
+                        "initials": "в",
+                        "fullName": "Кузнецов С.А."
                     }
                 ],
                 "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
                     "ПИ-б-18-1-о"
                 ],
                 "pair": 3,
                 "parity": "even",
-                "type": "lecture",
+                "type": "practics",
                 "day": "monday",
                 "date": ""
             },
             {
-                "subject": "Управление данными",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Шаталова",
-                        "initials": "а",
-                        "fullName": "доц. Шаталова Ю.Г."
-                    }
-                ],
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
                 "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
                     "ПИ-б-18-1-о"
                 ],
                 "pair": 4,
                 "parity": "even",
-                "type": "lecture",
+                "type": "practics",
                 "day": "monday",
                 "date": ""
             }
@@ -769,28 +652,6 @@
                 "date": ""
             },
             {
-                "subject": "Геоинф.",
-                "rooms": [
-                    "Б-503"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Сырых",
-                        "initials": "х",
-                        "fullName": "Сырых О.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 4,
-                "parity": "even",
-                "type": "lab",
-                "day": "tuesday",
-                "date": ""
-            },
-            {
                 "subject": "ВОЕННАЯ КАФЕДРА (3чел.)",
                 "rooms": [],
                 "lecturers": [],
@@ -800,28 +661,6 @@
                 "pair": 5,
                 "parity": "even",
                 "type": "",
-                "day": "tuesday",
-                "date": ""
-            },
-            {
-                "subject": "ИТ",
-                "rooms": [
-                    "Г-501"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Кузнецов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Кузнецов С.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 5,
-                "parity": "even",
-                "type": "lab",
                 "day": "tuesday",
                 "date": ""
             },
@@ -854,194 +693,62 @@
         ],
         "wednesday": [
             {
-                "subject": "Геоинформатика",
+                "subject": "Геоинф. СППрУпрР",
                 "rooms": [
-                    "Б-503"
+                    "В-315"
                 ],
                 "lecturers": [
                     {
-                        "state": "seniorLecturer",
-                        "surname": "Сырых",
-                        "initials": "х",
-                        "fullName": "ст.пр. Сырых О.А."
+                        "state": "docent",
+                        "surname": "Минкин",
+                        "initials": "н",
+                        "fullName": "доц. Минкин С.И."
                     }
                 ],
                 "groups": [
                     "ПИ-б-18-1-о"
                 ],
-                "pair": 2,
+                "pair": 5,
                 "parity": "even",
                 "type": "lecture",
                 "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
-                "rooms": [],
-                "lecturers": [],
+                "subject": "Практикум по переводу научной литературы",
+                "rooms": [
+                    "В-315"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранова",
+                        "initials": "а",
+                        "fullName": "доц. Баранова А.В."
+                    }
+                ],
                 "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
                     "ПИ-б-18-1-о"
                 ],
-                "pair": 3,
+                "pair": 6,
                 "parity": "even",
                 "type": "practics",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "ПИ\/б-18-1-о",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 7,
-                "parity": "even",
-                "type": "",
                 "day": "wednesday",
                 "date": ""
             }
         ],
         "thursday": [
             {
-                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИС-б-18-1-о",
-                    "ИС-б-18-2-о",
-                    "ИС-б-18-3-о",
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 2,
-                "parity": "even",
-                "type": "practics",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "Методы исследования операций",
+                "subject": "Веб-дизайн (Web-design) (кроме 18.03.2021)",
                 "rooms": [
                     "Г-511"
                 ],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Карлусов",
-                        "initials": "в",
-                        "fullName": "доц. Карлусов В.Ю."
-                    },
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Заикина",
-                        "initials": "а",
-                        "fullName": "ст.пр. Заикина Е.Н."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 3,
-                "parity": "even",
-                "type": "lab",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "Презентации на ин.языке",
-                "rooms": [],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Миронцева",
-                        "initials": "а",
-                        "fullName": "доц. Миронцева С.С."
-                    }
-                ],
-                "groups": [
-                    "ИС-б-18-3-о",
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 4,
-                "parity": "even",
-                "type": "practics",
-                "day": "thursday",
-                "date": ""
-            }
-        ],
-        "friday": [
-            {
-                "subject": "Платформа Java Платформа Net",
-                "rooms": [],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Кузнецов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Кузнецов С.А."
-                    },
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Забаштанский",
-                        "initials": "й",
-                        "fullName": "ст.пр. Забаштанский А.К."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 3,
-                "parity": "even",
-                "type": "lab",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "Пр. практикум Петраков",
-                "rooms": [
-                    "Г-501",
-                    "Г-512"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Кузнецов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Кузнецов С.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 4,
-                "parity": "even",
-                "type": "practics",
-                "day": "friday",
-                "date": ""
-            }
-        ],
-        "saturday": [
-            {
-                "subject": "ОИ - РМП",
-                "rooms": [
-                    "Г-502",
-                    "Б-503"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Сырых",
-                        "initials": "х",
-                        "fullName": "Сырых О.А."
-                    },
-                    {
-                        "state": "",
-                        "surname": "Петраков",
-                        "initials": "в",
-                        "fullName": "Петраков В.А."
+                        "surname": "Безуглая",
+                        "initials": "я",
+                        "fullName": "доц. Безуглая А.С."
                     }
                 ],
                 "groups": [
@@ -1050,19 +757,317 @@
                 "pair": 1,
                 "parity": "even",
                 "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Модел.сист.",
+                "rooms": [
+                    "Б-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Безуглая",
+                        "initials": "я",
+                        "fullName": "доц. Безуглая А.С."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ТД и ВР (ARиVR техн.) Петраков",
+                "rooms": [
+                    "Г-502"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Геоинформационные системы (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дымченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Дымченко И.В."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Модел.сист.",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Безуглая",
+                        "initials": "я",
+                        "fullName": "доц. Безуглая А.С."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ТД и ВР (ARиVR техн.) (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дымченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Дымченко И.В."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Геоинф. СППрУпрР (кроме 18.03.2021)",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Минкин",
+                        "initials": "н",
+                        "fullName": "доц. Минкин С.И."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Методы машинного обучения",
+                "rooms": [
+                    "Г-512"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борисов",
+                        "initials": "в",
+                        "fullName": "доц. Борисов Е.С."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Геоинф. СППрУпрР",
+                "rooms": [
+                    "Г-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Минкин",
+                        "initials": "н",
+                        "fullName": "доц. Минкин С.И."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методы машинного обучения",
+                "rooms": [
+                    "Г-512"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борисов",
+                        "initials": "в",
+                        "fullName": "доц. Борисов Е.С."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Инфокоммуникационные системы и сети",
+                "rooms": [
+                    "Б-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чернега",
+                        "initials": "а",
+                        "fullName": "доц. Чернега В.С."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Минкин",
+                        "initials": "н",
+                        "fullName": "доц. Минкин С.И."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Геоинф. системы Абрамович",
+                "rooms": [
+                    "Б-503"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Блокчейн - технология (фак- в)",
+                "rooms": [
+                    "Б-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пелипас",
+                        "initials": "с",
+                        "fullName": "ст.пр. Пелипас В.О."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
                 "day": "saturday",
                 "date": ""
             },
             {
-                "subject": "Веб-технологии",
-                "rooms": [],
+                "subject": "БЛОКЧЕЙН -ТЕХНОЛОГИЯ (факультатив)",
+                "rooms": [
+                    "421"
+                ],
                 "lecturers": [
                     {
                         "state": "seniorLecturer",
-                        "surname": "Дрозин",
-                        "initials": "н",
-                        "fullName": "ст.пр. Дрозин А.Ю."
-                    },
+                        "surname": "Пелипас",
+                        "initials": "с",
+                        "fullName": "ст.пр. Пелипас В.О."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методы машинного обучения",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борисов",
+                        "initials": "в",
+                        "fullName": "доц. Борисов Е.С."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ВЕБ -ТЕХНОЛОГИИ",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
                     {
                         "state": "seniorLecturer",
                         "surname": "Овчинников",
@@ -1073,75 +1078,9 @@
                 "groups": [
                     "ПИ-б-18-1-о"
                 ],
-                "pair": 2,
+                "pair": 5,
                 "parity": "even",
-                "type": "lab",
-                "day": "saturday",
-                "date": ""
-            },
-            {
-                "subject": "ИТ ПЗ",
-                "rooms": [
-                    "Г-502"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Кузнецов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Кузнецов С.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 3,
-                "parity": "even",
-                "type": "",
-                "day": "saturday",
-                "date": ""
-            },
-            {
-                "subject": "ТПО",
-                "rooms": [
-                    "Б-505"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Петраков",
-                        "initials": "в",
-                        "fullName": "Петраков В.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 3,
-                "parity": "even",
-                "type": "practics",
-                "day": "saturday",
-                "date": ""
-            },
-            {
-                "subject": "Геоинформатика ЛЗ",
-                "rooms": [
-                    "Б-503"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Сырых",
-                        "initials": "х",
-                        "fullName": "ст.пр. Сырых О.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-18-1-о"
-                ],
-                "pair": 4,
-                "parity": "even",
-                "type": "",
+                "type": "lecture",
                 "day": "saturday",
                 "date": ""
             }

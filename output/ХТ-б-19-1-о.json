@@ -1,0 +1,759 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Лабораторный химический анализ доц.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Магдыч",
+                        "initials": "ч",
+                        "fullName": "Магдыч Е.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Механика",
+                "rooms": [
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пичугова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Пичугова Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Органическая химия",
+                "rooms": [
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Толстенко",
+                        "initials": "о",
+                        "fullName": "доц. Толстенко Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "497"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Бичаков",
+                        "initials": "в",
+                        "fullName": "асс. Бичаков С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Радиохимия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "доц. Черкашина Н.И."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Механика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пичугова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Пичугова Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Лабораторный химический анализ доц.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Магдыч",
+                        "initials": "ч",
+                        "fullName": "Магдыч Е.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Основы ядерной физики и дозиметрии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "доц. Черкашина Н.И."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Радиохимия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "доц. Черкашина Н.И."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Браславская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Браславская Е.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о",
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "А-35"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галяс",
+                        "initials": "с",
+                        "fullName": "доц. Галяс И.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Лабораторный химический анализ \/ф-в\/",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Ведищева",
+                        "initials": "а",
+                        "fullName": "пр. Ведищева О.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Лабораторный химический анализ доц.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Магдыч",
+                        "initials": "ч",
+                        "fullName": "Магдыч Е.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Лабораторный химический анализ доц.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Магдыч",
+                        "initials": "ч",
+                        "fullName": "Магдыч Е.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Механика",
+                "rooms": [
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пичугова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Пичугова Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Основы ядерной физики и дозиметрии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "доц. Черкашина Н.И."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Органическая химия",
+                "rooms": [
+                    "106"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Толстенко",
+                        "initials": "о",
+                        "fullName": "доц. Толстенко Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Органическая химия",
+                "rooms": [
+                    "106"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Толстенко",
+                        "initials": "о",
+                        "fullName": "доц. Толстенко Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Радиохимия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "доц. Черкашина Н.И."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Механика",
+                "rooms": [
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пичугова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Пичугова Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Лабораторный химический анализ доц.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Магдыч",
+                        "initials": "ч",
+                        "fullName": "Магдыч Е.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Основы ядерной физики и дозиметрии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "доц. Черкашина Н.И."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Радиохимия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "доц. Черкашина Н.И."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Браславская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Браславская Е.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-19-1-о",
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "А-35"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галяс",
+                        "initials": "с",
+                        "fullName": "доц. Галяс И.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Лабораторный химический анализ \/ф-в\/",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Ведищева",
+                        "initials": "а",
+                        "fullName": "пр. Ведищева О.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

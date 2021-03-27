@@ -1,0 +1,643 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асланян",
+                        "initials": "н",
+                        "fullName": "Асланян О.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПКАЯ асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Соина",
+                        "initials": "а",
+                        "fullName": "Соина А.С."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Социальное предпринимательство ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Юрченко",
+                        "initials": "о",
+                        "fullName": "Юрченко Н.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асланян",
+                        "initials": "н",
+                        "fullName": "Асланян О.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "МЭ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Байербах",
+                        "initials": "х",
+                        "fullName": "Байербах А.Г."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКАЯ асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Соина",
+                        "initials": "а",
+                        "fullName": "Соина А.С."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "История английского языка",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц.Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИЯ.ПГАЯ доц.Михайлова",
+                "rooms": [
+                    "6."
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы рос.государст. и гражданственности по 12.05.2021 асс",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асланян",
+                        "initials": "н",
+                        "fullName": "Асланян О.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПКАЯ асс.",
+                "rooms": [
+                    "4."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Соина",
+                        "initials": "а",
+                        "fullName": "Соина А.С."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Социальное предпринимательство ст.пр.",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Юрченко",
+                        "initials": "о",
+                        "fullName": "Юрченко Н.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о",
+                    "Л-б-19-2-1-о",
+                    "Л-б-19-2-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Экономическая теория ст.пр.",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Резаев",
+                        "initials": "в",
+                        "fullName": "Резаев А.А."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о",
+                    "Л-б-19-2-1-о",
+                    "Л-б-19-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы российской государственности и гражданственности по 3.04.2021 проф.",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ирхин",
+                        "initials": "н",
+                        "fullName": "Ирхин А.А."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о",
+                    "Л-б-19-2-1-о",
+                    "Л-б-19-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о",
+                    "Л-б-19-2-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асланян",
+                        "initials": "н",
+                        "fullName": "Асланян О.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПКАЯ асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Соина",
+                        "initials": "а",
+                        "fullName": "Соина А.С."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ИЯ.ПГАЯ доц.Михайлова",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асланян",
+                        "initials": "н",
+                        "fullName": "Асланян О.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИБ асс.Сагалаев А.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-19-1-2-о",
+                    "Л-б-19-2-1-о",
+                    "Л-б-19-2-2-о",
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Экономическая теория ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Резаев",
+                        "initials": "в",
+                        "fullName": "Резаев А.А."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКАЯ асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Соина",
+                        "initials": "а",
+                        "fullName": "Соина А.С."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы рос.государст. и гражданственности по 12.05.2021 асс",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асланян",
+                        "initials": "н",
+                        "fullName": "Асланян О.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПД ст.пр.",
+                "rooms": [
+                    "4."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Варлагина",
+                        "initials": "а",
+                        "fullName": "Варлагина М.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Информационная безопасность асс.",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сагалаев",
+                        "initials": "в",
+                        "fullName": "Сагалаев А.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о",
+                    "Л-б-19-2-1-о",
+                    "Л-б-19-2-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Международная экономика пр.",
+                "rooms": [
+                    "В-411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Тарабардина",
+                        "initials": "а",
+                        "fullName": "Тарабардина М.Ю."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о",
+                    "Л-б-19-2-1-о",
+                    "Л-б-19-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "История английского языка",
+                "rooms": [
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц.Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о",
+                    "Л-б-19-2-1-о",
+                    "Л-б-19-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-19-1-1-о",
+                    "Л-б-19-1-2-о",
+                    "Л-б-19-2-1-о",
+                    "Л-б-19-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

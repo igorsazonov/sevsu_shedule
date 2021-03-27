@@ -1,0 +1,1014 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Технология автоматизированного машиностроения",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Новиков",
+                        "initials": "в",
+                        "fullName": "доц.Новиков П.А."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование технологической оснастки",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Богуцкий",
+                        "initials": "й",
+                        "fullName": "доц.Богуцкий В.Б."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование технологической оснастки",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Богуцкий",
+                        "initials": "й",
+                        "fullName": "доц.Богуцкий В.Б."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Проектирование штампов и прессформ",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рощупкин",
+                        "initials": "н",
+                        "fullName": "доц.Рощупкин С.И."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование машиностроительного производ.",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Богуцкий",
+                        "initials": "й",
+                        "fullName": "доц.Богуцкий В.Б."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование машиностроительного производ.",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Богуцкий",
+                        "initials": "й",
+                        "fullName": "доц.Богуцкий В.Б."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектир.технол.оснастки .",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Колесов",
+                        "initials": "в",
+                        "fullName": "доц.Колесов А.Г."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Проектир.технол.оснастки .",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Колесов",
+                        "initials": "в",
+                        "fullName": "доц.Колесов А.Г."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Технология автоматизированного машиностроения",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Новиков",
+                        "initials": "в",
+                        "fullName": "доц.Новиков П.А."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМП доц.Богуцкий ЛЗ107",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПШПдоц.РощупкинКривцов",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование штампов и прессформ",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рощупкин",
+                        "initials": "н",
+                        "fullName": "доц.Рощупкин С.И."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Технология автоматизированного машиностроения",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Новиков",
+                        "initials": "в",
+                        "fullName": "доц.Новиков П.А."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование технологической оснастки",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Богуцкий",
+                        "initials": "й",
+                        "fullName": "доц.Богуцкий В.Б."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование технологической оснастки",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Богуцкий",
+                        "initials": "й",
+                        "fullName": "доц.Богуцкий В.Б."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "ТП-б-17-1-о",
+                    "ТП-б-17-2-о",
+                    "КТП-б-17-1-о",
+                    "ТБ-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Проектирование штампов и прессформ",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рощупкин",
+                        "initials": "н",
+                        "fullName": "доц.Рощупкин С.И."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование машиностроительного производ.",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Богуцкий",
+                        "initials": "й",
+                        "fullName": "доц.Богуцкий В.Б."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование машиностроительного производ.",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Богуцкий",
+                        "initials": "й",
+                        "fullName": "доц.Богуцкий В.Б."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектир.технол.оснастки .",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Колесов",
+                        "initials": "в",
+                        "fullName": "доц.Колесов А.Г."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-17-1-о",
+                    "ТТП-б-17-1-о",
+                    "АТП-б-17-1-о",
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Проектир.технол.оснастки .",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Колесов",
+                        "initials": "в",
+                        "fullName": "доц.Колесов А.Г."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Технология автоматизированного машиностроения",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Новиков",
+                        "initials": "в",
+                        "fullName": "доц.Новиков П.А."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПШПРощупкинКривцов ЛЗ109",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМП",
+                "rooms": [
+                    "107"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Богуцкий",
+                        "initials": "й",
+                        "fullName": "доц.Богуцкий В.Б."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование штампов и прессформ",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рощупкин",
+                        "initials": "н",
+                        "fullName": "доц.Рощупкин С.И."
+                    }
+                ],
+                "groups": [
+                    "КТП-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

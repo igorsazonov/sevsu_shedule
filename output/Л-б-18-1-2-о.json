@@ -1,0 +1,638 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Лингвостилист.анализ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кабанова",
+                        "initials": "а",
+                        "fullName": "Кабанова Н.Е."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ИЯ.ПГАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Черная",
+                        "initials": "я",
+                        "fullName": "Черная Т.Н."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОВИЯ ст.пр.",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Марченко",
+                        "initials": "о",
+                        "fullName": "Марченко Ю.М."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Лексикология доцент Абрамичева Елена Николаевна",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-18-1-1-о",
+                    "Л-б-18-1-2-о",
+                    "Л-б-18-2-1-о",
+                    "Л-б-18-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Методы лингвистических исследований",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "доц.Руденко Н.С."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-1-о",
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Лексикология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Абрамичева",
+                        "initials": "а",
+                        "fullName": "доц.Абрамичева Е.Н."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-1-о",
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по физ.культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Петрунина",
+                        "initials": "а",
+                        "fullName": "Петрунина Ю.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Наука о данных и цифровое мышление",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц.Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-1-о",
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ПКППИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скидан",
+                        "initials": "н",
+                        "fullName": "доц.Скидан О.Г."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Марченко",
+                        "initials": "о",
+                        "fullName": "Марченко Ю.М."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "География Бол.Средизем.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Селиверстова",
+                        "initials": "а",
+                        "fullName": "доц.Селиверстова М.О."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Петрунина",
+                        "initials": "а",
+                        "fullName": "Петрунина Ю.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Лингвостилист.анализ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кабанова",
+                        "initials": "а",
+                        "fullName": "Кабанова Н.Е."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы лингвистических исследований",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "доц.Руденко Н.С."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-1-о",
+                    "Л-б-18-1-2-о",
+                    "Л-б-18-2-1-о",
+                    "Л-б-18-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОВИЯ ст.пр.",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Марченко",
+                        "initials": "о",
+                        "fullName": "Марченко Ю.М."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Лексикология доцент Абрамичева Елена Николаевна",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-18-1-1-о",
+                    "Л-б-18-1-2-о",
+                    "Л-б-18-2-1-о",
+                    "Л-б-18-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Упр.проект.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чалая",
+                        "initials": "я",
+                        "fullName": "доц.Чалая Ю.П."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Лексикология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Абрамичева",
+                        "initials": "а",
+                        "fullName": "доц.Абрамичева Е.Н."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-1-о",
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по физ.культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Петрунина",
+                        "initials": "а",
+                        "fullName": "Петрунина Ю.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ПКППИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скидан",
+                        "initials": "н",
+                        "fullName": "доц.Скидан О.Г."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Марченко",
+                        "initials": "о",
+                        "fullName": "Марченко Ю.М."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "География Бол.Средизем.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Селиверстова",
+                        "initials": "а",
+                        "fullName": "доц.Селиверстова М.О."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Петрунина",
+                        "initials": "а",
+                        "fullName": "Петрунина Ю.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИЯ.ПГАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Черная",
+                        "initials": "я",
+                        "fullName": "Черная Т.Н."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-18-1-1-о",
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Межкультурная коммуникация",
+                "rooms": [
+                    "В-414"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гулевец",
+                        "initials": "ц",
+                        "fullName": "доц.Гулевец Н.А."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-1-о",
+                    "Л-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Межкультурная коммуникация",
+                "rooms": [
+                    "418",
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гулевец",
+                        "initials": "ц",
+                        "fullName": "доц.Гулевец Н.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-18-1-1-о",
+                    "ПП-с-18-1-2-о",
+                    "ПП-с-18-2-1-о",
+                    "ПП-с-18-2-2-о",
+                    "Л-б-18-1-1-о",
+                    "Л-б-18-1-2-о",
+                    "Л-б-18-2-1-о",
+                    "Л-б-18-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Наука о данных и цифровое мышление",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц.Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "Л-б-18-1-1-о",
+                    "Л-б-18-1-2-о",
+                    "Л-б-18-2-1-о",
+                    "Л-б-18-2-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

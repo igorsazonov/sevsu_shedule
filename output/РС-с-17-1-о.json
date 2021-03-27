@@ -1,0 +1,946 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Электронные и квантовые приборы сверхвысокой частоты",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьянчиков",
+                        "initials": "в ",
+                        "fullName": "доц. Лукьянчиков А. А."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": " Статистическая радиотехника",
+                "rooms": [
+                    "В-409"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дегтярев",
+                        "initials": "в ",
+                        "fullName": "доц. Дегтярев А. Н."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": " Статистическая радиотехника",
+                "rooms": [
+                    "В-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дегтярев",
+                        "initials": "в ",
+                        "fullName": "доц. Дегтярев А. Н."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": " Статистическая радиотехника 15 и 29.03.21 г",
+                "rooms": [
+                    "В-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дегтярев",
+                        "initials": "в ",
+                        "fullName": "доц. Дегтярев А. Н."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 5 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 5 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 5 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 5 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 5 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 5 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Экономика и организация производства",
+                "rooms": [
+                    "В-302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Юрченко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Юрченко Н. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика и организация производства",
+                "rooms": [
+                    "В-302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Юрченко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Юрченко Н. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Т К С",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кудрявченко",
+                        "initials": "о ",
+                        "fullName": "доц. Кудрявченко И. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "С Ц ТВ",
+                "rooms": [
+                    "Б-404"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Начаров",
+                        "initials": "в ",
+                        "fullName": "доц. Начаров Д. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Системы цифрового телевидения",
+                "rooms": [
+                    "В-414"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлюк",
+                        "initials": "к ",
+                        "fullName": "доц. Михайлюк Ю. П."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "П И К в РЭС",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скорик",
+                        "initials": "к ",
+                        "fullName": "доц.Скорик И. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Периферийные интегрированные контроллеры в радиоэлектронных системах",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скорик",
+                        "initials": "к ",
+                        "fullName": "доц. Скорик И. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Э и К П СВ Ч",
+                "rooms": [
+                    "В-408",
+                    "В-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кудрявченко",
+                        "initials": "о ",
+                        "fullName": "доц. Кудрявченко И. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Телекоммуникационные системы",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Савочкин",
+                        "initials": "н ",
+                        "fullName": "доц. Савочкин А. А."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Электронные и квантовые приборы сверхвысокой частоты",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьянчиков",
+                        "initials": "в ",
+                        "fullName": "доц. Лукьянчиков А. А."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": " Статистическая радиотехника",
+                "rooms": [
+                    "В-409"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дегтярев",
+                        "initials": "в ",
+                        "fullName": "доц. Дегтярев А. Н."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": " Статистическая радиотехника 22.03; 05 и 19.04; 17 и 31.05.21г",
+                "rooms": [
+                    "В-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дегтярев",
+                        "initials": "в ",
+                        "fullName": "доц. Дегтярев А. Н."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 5 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 5 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 5 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 5 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 5 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 5 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Экономика и организация производства",
+                "rooms": [
+                    "В-302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Юрченко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Юрченко Н. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика и организация производства",
+                "rooms": [
+                    "В-302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Юрченко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Юрченко Н. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "С Ц ТВ",
+                "rooms": [
+                    "Б-404"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Начаров",
+                        "initials": "в ",
+                        "fullName": "доц. Начаров Д. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Т К С",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кудрявченко",
+                        "initials": "о ",
+                        "fullName": "доц. Кудрявченко И. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Системы цифрового телевидения",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлюк",
+                        "initials": "к ",
+                        "fullName": "доц. Михайлюк Ю. П."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 3 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "П И К в РЭС Г-",
+                "rooms": [
+                    "401А"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скорик",
+                        "initials": "к ",
+                        "fullName": "доц.Скорик И. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Периферийные интегрированные контроллеры в радиоэлектронных системах",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скорик",
+                        "initials": "к ",
+                        "fullName": "доц. Скорик И. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Э и К П СВ Ч",
+                "rooms": [
+                    "В-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кудрявченко",
+                        "initials": "о ",
+                        "fullName": "доц. Кудрявченко И. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Охрана труда",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Буркова",
+                        "initials": "а ",
+                        "fullName": "доц. Буркова Е. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Охрана труда",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Буркова",
+                        "initials": "а ",
+                        "fullName": "доц. Буркова Е. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Шагова",
+                        "initials": "а ",
+                        "fullName": "асс. Шагова Ю. О."
+                    }
+                ],
+                "groups": [
+                    "РС-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

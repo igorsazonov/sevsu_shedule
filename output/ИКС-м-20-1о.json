@@ -1,0 +1,138 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Системы и сети телевидения",
+                "rooms": [
+                    "Б-404"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Начаров",
+                        "initials": "в ",
+                        "fullName": "доц. Начаров Д. В."
+                    }
+                ],
+                "groups": [
+                    "ИКС-м-20-1о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности на предприятии",
+                "rooms": [
+                    "Б-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ермолов",
+                        "initials": "в ",
+                        "fullName": "доц. Ермолов П. П."
+                    }
+                ],
+                "groups": [
+                    "ИКС-м-20-1о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности на предприятии",
+                "rooms": [
+                    "Б-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ермолов",
+                        "initials": "в ",
+                        "fullName": "доц. Ермолов П. П."
+                    }
+                ],
+                "groups": [
+                    "ИКС-м-20-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Инновационная и проектная деятельность на предприятии",
+                "rooms": [
+                    "В-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ломоносов",
+                        "initials": "в ",
+                        "fullName": "доц. Ломоносов  С. Е."
+                    }
+                ],
+                "groups": [
+                    "ИКС-м-20-1о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Системы и сети телевидения",
+                "rooms": [
+                    "Б-404"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлюк",
+                        "initials": "к ",
+                        "fullName": "доц. Михайлюк Ю. П."
+                    }
+                ],
+                "groups": [
+                    "ИКС-м-20-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

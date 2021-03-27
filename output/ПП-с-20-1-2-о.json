@@ -1,0 +1,652 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПКПИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тархова",
+                        "initials": "а",
+                        "fullName": "доц.Тархова Л.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ПГПИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Черная",
+                        "initials": "я",
+                        "fullName": "Черная Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПД ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Варлагина",
+                        "initials": "а",
+                        "fullName": "Варлагина М.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологические тренинги",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Шитикова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Шитикова  М.Н."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ПКПИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тархова",
+                        "initials": "а",
+                        "fullName": "доц.Тархова Л.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лобков",
+                        "initials": "в",
+                        "fullName": "доц.Лобков А.Е."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Философия проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Чемшит",
+                        "initials": "т",
+                        "fullName": "Чемшит А.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Безопасность жизнедеятельности ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лобков",
+                        "initials": "в",
+                        "fullName": "доц.Лобков А.Е."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ",
+                "rooms": [
+                    "8."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лобков",
+                        "initials": "в",
+                        "fullName": "доц.Лобков А.Е."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "История",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хапаев",
+                        "initials": "в",
+                        "fullName": "доц.Хапаев В.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о",
+                    "ПП-с-20-2-о",
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о",
+                    "Л-б-20-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Философия проф.ЧемшитА.А.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о",
+                    "ПП-с-20-2-о",
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о",
+                    "Л-б-20-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ПКПИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тархова",
+                        "initials": "а",
+                        "fullName": "доц.Тархова Л.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лобков",
+                        "initials": "в",
+                        "fullName": "доц.Лобков А.Е."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ПГПИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Черная",
+                        "initials": "я",
+                        "fullName": "Черная Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКПИЯ доц.Тархова Л.А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Самоменеджмент ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гребешкова",
+                        "initials": "а ",
+                        "fullName": "Гребешкова И. А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ПКПИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тархова",
+                        "initials": "а",
+                        "fullName": "доц.Тархова Л.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лобков",
+                        "initials": "в",
+                        "fullName": "доц.Лобков А.Е."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "БЖД ст.пр. по 8.04.2021",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Философия проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Чемшит",
+                        "initials": "т",
+                        "fullName": "Чемшит А.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Мировая литературная традиция(18-19вв) ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кабанова",
+                        "initials": "а",
+                        "fullName": "Кабанова Н.Е."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лобков",
+                        "initials": "в",
+                        "fullName": "доц.Лобков А.Е."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПГПИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Черная",
+                        "initials": "я",
+                        "fullName": "Черная Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПКПИЯ доц.Тархова Л.А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-20-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "История",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хапаев",
+                        "initials": "в",
+                        "fullName": "доц.Хапаев В.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о",
+                    "ПП-с-20-2-о",
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о",
+                    "Л-б-20-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Мировая литературная традиция(18-19вв.) ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кабанова",
+                        "initials": "а",
+                        "fullName": "Кабанова Н.Е."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о",
+                    "ПП-с-20-2-о",
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о",
+                    "Л-б-20-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности ст.пр. 13.02 27.02 13.03 27.03.2021",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о",
+                    "ПП-с-20-2-о",
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о",
+                    "Л-б-20-2-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

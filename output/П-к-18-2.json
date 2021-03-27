@@ -1,0 +1,1710 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ПМ.03 ТЕХНОЛ. РАЗРАБ. ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 СИСТЕМНОЕ ПРОГРАММИРОВАНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-1",
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 СИСТЕМНОЕ ПРОГРАММИРОВАНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-1",
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-1",
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 ПРИКЛАДНОЕ ПРОГРАММИРОВАНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 ПРИКЛАДНОЕ ПРОГРАММИРОВАНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Лебедева",
+                        "initials": "а",
+                        "fullName": "Лебедева М.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ДИСКРЕТНАЯ МАТЕМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ДИСКРЕТНАЯ МАТЕМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Зацепина",
+                        "initials": "а",
+                        "fullName": "Зацепина А.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 САЙТОСТРОЕНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 САЙТОСТРОЕНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кротова",
+                        "initials": "а",
+                        "fullName": "Кротова О.В."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Калугина",
+                        "initials": "а",
+                        "fullName": "Калугина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Корепанова",
+                        "initials": "а",
+                        "fullName": "Корепанова Н.Л."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сосимчик",
+                        "initials": "к",
+                        "fullName": "Сосимчик И.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 СИСТЕМНОЕ ПРОГРАММИРОВАНИЕ",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 СИСТЕМНОЕ ПРОГРАММИРОВАНИЕ",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ПМ.01 СИСТЕМНОЕ ПРОГР.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 ПРИКЛАДНОЕ ПРОГРАММИРОВАНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 ПРИКЛАДНОЕ ПРОГРАММИРОВАНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Лебедева",
+                        "initials": "а",
+                        "fullName": "Лебедева М.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сергейчук",
+                        "initials": "к",
+                        "fullName": "Сергейчук Я.Э."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Корепанова",
+                        "initials": "а",
+                        "fullName": "Корепанова Н.Л."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 САЙТОСТРОЕНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 САЙТОСТРОЕНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кротова",
+                        "initials": "а",
+                        "fullName": "Кротова О.В."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 ПРИКЛАДНОЕ ПРОГРАММИРОВАНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 ПРИКЛАДНОЕ ПРОГРАММИРОВАНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Лебедева",
+                        "initials": "а",
+                        "fullName": "Лебедева М.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ДИСКРЕТНАЯ МАТЕМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ДИСКРЕТНАЯ МАТЕМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Зацепина",
+                        "initials": "а",
+                        "fullName": "Зацепина А.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ПМ.02 САЙТОСТРОЕНИЕ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кротова",
+                        "initials": "а",
+                        "fullName": "Кротова О.В."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.303",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-1",
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "читальный зал",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-1",
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "читальный зал",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-1",
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Лебедева",
+                        "initials": "а",
+                        "fullName": "Лебедева М.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.303",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.303",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Зацепина",
+                        "initials": "а",
+                        "fullName": "Зацепина А.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.303",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.303",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кротова",
+                        "initials": "а",
+                        "fullName": "Кротова О.В."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.121",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.121",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Калугина",
+                        "initials": "а",
+                        "fullName": "Калугина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Корепанова",
+                        "initials": "а",
+                        "fullName": "Корепанова Н.Л."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.303",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.303",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сосимчик",
+                        "initials": "к",
+                        "fullName": "Сосимчик И.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.408",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.408",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ПМ.03 ТЕХНОЛ. РАЗР. И ЗАЩ. БД",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Корепанова",
+                        "initials": "а",
+                        "fullName": "Корепанова Н.Л."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.303",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Лебедева",
+                        "initials": "а",
+                        "fullName": "Лебедева М.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.303",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.303",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сергейчук",
+                        "initials": "к",
+                        "fullName": "Сергейчук Я.Э."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.113а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.113а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Корепанова",
+                        "initials": "а",
+                        "fullName": "Корепанова Н.Л."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кротова",
+                        "initials": "а",
+                        "fullName": "Кротова О.В."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Лебедева",
+                        "initials": "а",
+                        "fullName": "Лебедева М.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.303",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.303",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Зацепина",
+                        "initials": "а",
+                        "fullName": "Зацепина А.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.121",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.121",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

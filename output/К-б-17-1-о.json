@@ -1,0 +1,746 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "А П К 41-43",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Родькина",
+                        "initials": "а",
+                        "fullName": "доц.Родькина А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "П К и О О",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в ",
+                        "fullName": "доц.Балашов М. Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "А В Т О М А Т И З А Ц И Я П Р О Е К Т И Р О В А Н И Я К О Р А Б Л Я",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Родькина",
+                        "initials": "а ",
+                        "fullName": "доц. Родькина А. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "П Р О Е К Т И Р О В А Н И Е С У Д О В",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жибоедов",
+                        "initials": "в ",
+                        "fullName": "доц. Жибоедов В. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "П К и О О",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в",
+                        "fullName": "доц.Балашов М.Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Т Е Х Н О Л О Г И Я П О С Т Р О Й К И и Р Е М О Н Т А С У Д О В и С Р Е Д С Т В О К Е А Н О Т Е Х Н И К И",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лекарев",
+                        "initials": "в",
+                        "fullName": "доц. Лекарев Г.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Технология постройки и ремонта судов и средств океанотехники",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лекарев",
+                        "initials": "в",
+                        "fullName": "доц. Лекарев Г.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "А П К (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Родькина",
+                        "initials": "а",
+                        "fullName": "доц. Родькина А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Д О П О Л Н И Т Е Л Ь Н Ы Е В О П Р О С Ы Т Е О Р И И К О Р А Б Л Я (кроме 18.03.2021)",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бурков",
+                        "initials": "в ",
+                        "fullName": "доц. Бурков Д. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Технология постройки и ремонта судов и С О (кроме 18.03.2021)",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лекарев",
+                        "initials": "в",
+                        "fullName": "доц. Лекарев Г.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "П С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жибоедов",
+                        "initials": "в ",
+                        "fullName": "доц. Жибоедов  В. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "П Р О Е К Т И Р О В А Н И Е С У Д О В",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жибоедов",
+                        "initials": "в ",
+                        "fullName": "доц. Жибоедов В. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "П С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жибоедов",
+                        "initials": "в ",
+                        "fullName": "доц. Жибоедов   В. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Особенности проектирования и технология постройки плавучих кранов и технических средств освоения океана",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Благовидова",
+                        "initials": "а ",
+                        "fullName": "доц. Благовидова И. Л."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Прочность корабля и объектов океанотехники",
+                "rooms": [
+                    "46"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Игнатович",
+                        "initials": "ч ",
+                        "fullName": "доц. Игнатович В. С."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "П К и О О 40",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в",
+                        "fullName": "доц.Балашов М.Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "А П К",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Родькина",
+                        "initials": "а",
+                        "fullName": "доц. Родькина А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "А В Т О М А Т И З А Ц И Я П Р О Е К Т И Р О В А Н И Я К О Р А Б Л Я",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Родькина",
+                        "initials": "а ",
+                        "fullName": "доц. Родькина А. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "П Р О Е К Т И Р О В А Н И Е С У Д О В",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жибоедов",
+                        "initials": "в ",
+                        "fullName": "доц. Жибоедов В. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Прочность корабля и объектов океанотехники",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Игнатович",
+                        "initials": "ч ",
+                        "fullName": "доц. Игнатович В. С."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Прочность корабля и объектов океанотехники",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в ",
+                        "fullName": "доц. Балашов М. Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Особенности проектирования и технология постройки плавучих кранов и технических средств освоения океана",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Благовидова",
+                        "initials": "а ",
+                        "fullName": "доц. Благовидова И. Л."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "П К и О О",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в",
+                        "fullName": "доц.Балашов М.Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Т Е Х Н О Л О Г И Я П О С Т Р О Й К И и Р Е М О Н Т А С У Д О В и С Р Е Д С Т В О К Е А Н О Т Е Х Н И К И",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лекарев",
+                        "initials": "в",
+                        "fullName": "доц. Лекарев Г.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Технология постройки и ремонта судов и средств океанотехники",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лекарев",
+                        "initials": "в",
+                        "fullName": "доц. Лекарев Г.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Д О П О Л Н И Т Е Л Ь Н Ы Е В О П Р О С Ы Т К",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бурков",
+                        "initials": "в ",
+                        "fullName": "доц. Бурков Д. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "А П К 41-43",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Родькина",
+                        "initials": "а",
+                        "fullName": "доц. Родькина А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Д О П О Л Н И Т Е Л Ь Н Ы Е В О П Р О С Ы Т Е О Р И И К О Р А Б Л Я (кроме 18.03.2021)",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бурков",
+                        "initials": "в ",
+                        "fullName": "доц. Бурков Д. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "П С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жибоедов",
+                        "initials": "в ",
+                        "fullName": "доц. Жибоедов В. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "П Р О Е К Т И Р О В А Н И Е С У Д О В",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жибоедов",
+                        "initials": "в ",
+                        "fullName": "доц. Жибоедов В. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "П С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жибоедов",
+                        "initials": "в ",
+                        "fullName": "доц. Жибоедов В. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Особенности проектирования и технология постройки плавучих кранов и технических средств освоения океана",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Благовидова",
+                        "initials": "а ",
+                        "fullName": "доц. Благовидова И. Л."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Прочность корабля и объектов океанотехники",
+                "rooms": [
+                    "46"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Игнатович",
+                        "initials": "ч ",
+                        "fullName": "доц. Игнатович В. С."
+                    }
+                ],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

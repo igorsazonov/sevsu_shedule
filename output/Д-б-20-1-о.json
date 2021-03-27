@@ -1,0 +1,1222 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Рисунок\n ",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Философия\n ",
+                "rooms": [
+                    "497"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галяс",
+                        "initials": "с",
+                        "fullName": "доц. Галяс И.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Композиционное моделирование \n ",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Композиционное моделирование \n ",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Иностранный язык   \n .                      ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "А-101",
+                    "В-311",
+                    "В-316",
+                    "Г-303",
+                    "Г-002"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "асс. Алдошина Я.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "асс. Грищук А.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Малыгина К.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Маслиева Е.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "асс. Косова Е.И."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "асс. Остапенко А.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "асс. Миронова Н.Д."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Сессорова",
+                        "initials": "а",
+                        "fullName": "асс. Сессорова С.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Волкова",
+                        "initials": "а",
+                        "fullName": "асс. Волкова В.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "асс. Межова Н.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Наумова",
+                        "initials": "а",
+                        "fullName": "асс. Наумова А.И."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о",
+                    "ГМУ-б-20-1-о",
+                    "ГМУ-б-20-2-о",
+                    "ВВ-б-20-1-о",
+                    "ПГС-б-20-1-о",
+                    "Т-б-20-1-о",
+                    "Т-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "УНИВЕРСИТЕТСКАЯ 33 !!!",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "История искусств",
+                "rooms": [
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попкова",
+                        "initials": "а",
+                        "fullName": "доц. Попкова М.Д."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИНЖЕНЕРНАЯ ГЕОДЕЗИЯ И.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дарвиш",
+                        "fullName": "доц. Дарвиш"
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (1 уровень)   ",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (1 уровень)   ",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ИСТОРИЯ ИСКУССТВ",
+                "rooms": [
+                    "418",
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попкова",
+                        "initials": "а",
+                        "fullName": "доц. Попкова М.Д."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык      ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "А-101",
+                    "В-310",
+                    "В-311",
+                    "В-312",
+                    "В-316"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "асс. Алдошина Я.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "асс. Грищук А.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Малыгина К.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "асс. Остапенко А.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "асс. Миронова Н.Д."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Сессорова",
+                        "initials": "а",
+                        "fullName": "асс. Сессорова С.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Волкова",
+                        "initials": "а",
+                        "fullName": "асс. Волкова В.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "асс. Межова Н.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Наумова",
+                        "initials": "а",
+                        "fullName": "асс. Наумова А.И."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Прикладная урбанистика: Проектный семинар 303 302 305 210 208",
+                "rooms": [
+                    "301А",
+                    "301Б",
+                    "301В",
+                    "301Г",
+                    "301Д",
+                    "301Е",
+                    "А-33"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шадрина",
+                        "initials": "а",
+                        "fullName": "доц. Шадрина Е.Г."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Липка В.М."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дикарева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дикарева Е.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Заика",
+                        "initials": "а",
+                        "fullName": "асс. Заика И.А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Шихаметова",
+                        "initials": "а",
+                        "fullName": "асс. Шихаметова Э.Р."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Першин",
+                        "initials": "н",
+                        "fullName": "доц. Першин С.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Прикладная урбанистика: Проектный практикум 303 302 210 208 ",
+                "rooms": [
+                    "301А",
+                    "301Б",
+                    "301В",
+                    "301Г",
+                    "301Д",
+                    "301Е",
+                    "А-33"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шадрина",
+                        "initials": "а",
+                        "fullName": "доц. Шадрина Е.Г."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Липка В.М."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дикарева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дикарева Е.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Заика",
+                        "initials": "а",
+                        "fullName": "асс. Заика И.А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Шихаметова",
+                        "initials": "а",
+                        "fullName": "асс. Шихаметова Э.Р."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Першин",
+                        "initials": "н",
+                        "fullName": "доц. Першин С.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (1 уровень)  ",
+                "rooms": [
+                    "А-31",
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (1 уровень)  ",
+                "rooms": [
+                    "А-31",
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Рисунок\n ",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Философия\n ",
+                "rooms": [
+                    "497"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галяс",
+                        "initials": "с",
+                        "fullName": "доц. Галяс И.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Инженерная геодезия И.  ",
+                "rooms": [
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дарвиш",
+                        "fullName": "доц. Дарвиш"
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Иностранный язык   \n .                      ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "А-101",
+                    "В-311",
+                    "В-316",
+                    "Г-303",
+                    "Г-002"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "асс. Алдошина Я.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "асс. Грищук А.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Малыгина К.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Маслиева Е.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "асс. Косова Е.И."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "асс. Остапенко А.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "асс. Миронова Н.Д."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Сессорова",
+                        "initials": "а",
+                        "fullName": "асс. Сессорова С.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Волкова",
+                        "initials": "а",
+                        "fullName": "асс. Волкова В.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "асс. Межова Н.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Наумова",
+                        "initials": "а",
+                        "fullName": "асс. Наумова А.И."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о",
+                    "ГМУ-б-20-1-о",
+                    "ГМУ-б-20-2-о",
+                    "ВВ-б-20-1-о",
+                    "ПГС-б-20-1-о",
+                    "Т-б-20-1-о",
+                    "Т-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ПРИКЛАДНАЯ УРБАНИСТИКА: Умный город и будущее городов (24.02 10.03 24.03 07.04.21г)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Журавлев",
+                        "initials": "в",
+                        "fullName": "доц. Журавлев И.Г."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Ф И Л О С О Ф И Я",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галяс",
+                        "initials": "с",
+                        "fullName": "доц. Галяс И.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (1 уровень)   ",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "История искусств \n ",
+                "rooms": [
+                    "418",
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попкова",
+                        "initials": "а",
+                        "fullName": "доц. Попкова М.Д."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык      ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "А-101",
+                    "В-310",
+                    "В-311",
+                    "В-312",
+                    "В-316"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "асс. Алдошина Я.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "асс. Грищук А.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Малыгина К.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "асс. Остапенко А.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "асс. Миронова Н.Д."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Сессорова",
+                        "initials": "а",
+                        "fullName": "асс. Сессорова С.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Волкова",
+                        "initials": "а",
+                        "fullName": "асс. Волкова В.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "асс. Межова Н.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Наумова",
+                        "initials": "а",
+                        "fullName": "асс. Наумова А.И."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о",
+                    "ГМУ-б-20-1-о",
+                    "ГМУ-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "УНИВЕРСИТЕТСКАЯ 33 !!!",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ПРИКЛАДНАЯ УРБАНИСТИКА: Умный город и будущее городов 303 302 210 208",
+                "rooms": [
+                    "301А",
+                    "301Б",
+                    "301В",
+                    "301Г",
+                    "301Д",
+                    "301Е",
+                    "А-33"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шадрина",
+                        "initials": "а",
+                        "fullName": "доц. Шадрина Е.Г."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Липка В.М."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дикарева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дикарева Е.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Заика",
+                        "initials": "а",
+                        "fullName": "асс. Заика И.А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Шихаметова",
+                        "initials": "а",
+                        "fullName": "асс. Шихаметова Э.Р."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Першин",
+                        "initials": "н",
+                        "fullName": "доц. Першин С.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Прикладная урбанистика: Проектный практикум 303 302 210 208 ",
+                "rooms": [
+                    "301А",
+                    "301Б",
+                    "301В",
+                    "301Г",
+                    "301Д",
+                    "301Е",
+                    "А-33"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шадрина",
+                        "initials": "а",
+                        "fullName": "доц. Шадрина Е.Г."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Липка В.М."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дикарева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дикарева Е.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Заика",
+                        "initials": "а",
+                        "fullName": "асс. Заика И.А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Шихаметова",
+                        "initials": "а",
+                        "fullName": "асс. Шихаметова Э.Р."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Першин",
+                        "initials": "н",
+                        "fullName": "доц. Першин С.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (1 уровень)  ",
+                "rooms": [
+                    "А-31",
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Дизайнерское проектирование (1 уровень)  ",
+                "rooms": [
+                    "А-31",
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-б-20-1-о",
+                    "Д-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,784 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Управление качеством стандартизация сертифик. в судостроении",
+                "rooms": [
+                    "47"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Перепадя",
+                        "initials": "я ",
+                        "fullName": "доц. Перепадя К. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Т Е О Р И Я К О Р А Б Л Я. Сопротивление и движители",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в",
+                        "fullName": "доц. Балашов М.Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Особенности проектирования малых морских судов",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жибоедов",
+                        "initials": "в",
+                        "fullName": "доц. Жибоедов В.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Технология постройки и ремонта судов и средств океанотехники",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лекарев",
+                        "initials": "в ",
+                        "fullName": "доц. Лекарев Г. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Т П и Р С и С О 18",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Перепадя",
+                        "initials": "я ",
+                        "fullName": "доц. Перепадя К. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Т К.С и Д",
+                "rooms": [
+                    "46"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в ",
+                        "fullName": "доц. Балашов М. Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Технология постройки и ремонта судов и средств океанотехники (кроме 18.03.2021)",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лекарев",
+                        "initials": "в ",
+                        "fullName": "доц. Лекарев Г. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Основы художественного конструирования судов (кроме 18.03.2021)",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "доц. Кузьмина А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "О Х К С (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузьмина",
+                        "initials": "а ",
+                        "fullName": "доц.Кузьмина  А. К."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Профессиональный иностранный язык",
+                "rooms": [
+                    "В-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а ",
+                        "fullName": "ст.пр. Михайлова  А. Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ ( 11 недель )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "К О Н С Т Р У К Ц И Я К О Р П У С А С У Д О В",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "доц. Кузьмина А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Конструкция корпуса судов",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "доц. Кузьмина А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Особенности проектирования малых морских судов",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жибоедов",
+                        "initials": "в",
+                        "fullName": "доц. Жибоедов В.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "О Б Щ Е С У Д О В Ы Е С И С Т Е М Ы и У С Т Р О Й С Т В А",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чемакина",
+                        "initials": "а ",
+                        "fullName": "доц.Чемакина Т. Л."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Т Е О Р И Я К О Р А Б Л Я. Сопротивление и движители",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в",
+                        "fullName": "доц. Балашов М.Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Технология постройки и ремонта судов и средств океанотехники",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лекарев",
+                        "initials": "в ",
+                        "fullName": "доц. Лекарев Г. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Т К.С и Д 46",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в ",
+                        "fullName": "доц. Балашов М. Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Т П и Р С и С О",
+                "rooms": [
+                    "18"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Перепадя",
+                        "initials": "я ",
+                        "fullName": "доц. Перепадя К. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Теория корабля. Сопротивление и движители",
+                "rooms": [
+                    "46"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в ",
+                        "fullName": "доц. Балашов  М. Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Управление качеством стандартизация сертифик. в судостроении",
+                "rooms": [
+                    "47"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Перепадя",
+                        "initials": "я ",
+                        "fullName": "доц. Перепадя К. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Особенности проектирования малых морских судов",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жибоедов",
+                        "initials": "в",
+                        "fullName": "доц. Жибоедов В.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Общесудовые системы и устройства",
+                "rooms": [
+                    "42"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чемакина",
+                        "initials": "а ",
+                        "fullName": "доц. Чемакина Т. Л."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "О Х К С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузьмина",
+                        "initials": "а ",
+                        "fullName": "доц.Кузьмина  А. К."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Профессиональный иностранный язык",
+                "rooms": [
+                    "В-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а ",
+                        "fullName": "ст.пр. Михайлова  А. Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ ( 11 недель )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "К О Н С Т Р У К Ц И Я К О Р П У С А С У Д О В",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "доц. Кузьмина А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Конструкция корпуса судов",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "доц. Кузьмина А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

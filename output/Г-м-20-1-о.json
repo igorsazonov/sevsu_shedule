@@ -1,0 +1,348 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Инновационные технологии в градостроительстве",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шадрина",
+                        "initials": "а",
+                        "fullName": "доц. Шадрина Е.Г."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Инновационные технологии в градостроительстве",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шадрина",
+                        "initials": "а",
+                        "fullName": "доц. Шадрина Е.Г."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Транспорт и инновационные инфраструктуры в градостроительстве",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шадрина",
+                        "initials": "а",
+                        "fullName": "доц. Шадрина Е.Г."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Научный семинар (journal club)",
+                "rooms": [
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попкова",
+                        "initials": "а",
+                        "fullName": "доц. Попкова М.Д."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование градостроительных объектов",
+                "rooms": [
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Красильникова",
+                        "initials": "а",
+                        "fullName": "проф. Красильникова Э.Э."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц. Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "449",
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц. Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о",
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Транспорт и инновационные инфраструктуры в градостроительстве",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шадрина",
+                        "initials": "а",
+                        "fullName": "доц. Шадрина Е.Г."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Информационное обеспечение проектирования \n(Лекции: 09.02 23.03)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шадрина",
+                        "initials": "а",
+                        "fullName": "доц. Шадрина Е.Г."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектная и исследовательская деятельность в области территориального планирования и зонирования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Тонкой",
+                        "initials": "й",
+                        "fullName": "проф. Тонкой И.В."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Проектная и исследовательская деятельность в области территориального планирования и зонирования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Тонкой",
+                        "initials": "й",
+                        "fullName": "проф. Тонкой И.В."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектная и исследовательская деятельность в области территориального планирования и зонирования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Тонкой",
+                        "initials": "й",
+                        "fullName": "проф. Тонкой И.В."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование градостроительных объектов",
+                "rooms": [
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Красильникова",
+                        "initials": "а",
+                        "fullName": "проф. Красильникова Э.Э."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Правовое обеспечение градостроительной деятельности",
+                "rooms": [
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шадрина",
+                        "initials": "а",
+                        "fullName": "доц. Шадрина Е.Г."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Правовое обеспечение градостроительной деятельности",
+                "rooms": [
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шадрина",
+                        "initials": "а",
+                        "fullName": "доц. Шадрина Е.Г."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

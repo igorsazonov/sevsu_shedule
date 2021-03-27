@@ -1,0 +1,816 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Схемотехника функциональных узлов Р Э А",
+                "rooms": [
+                    "В-409"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Овчаров",
+                        "initials": "в ",
+                        "fullName": "пр. Овчаров П. П."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Схемотехника функциональных узлов РЭА",
+                "rooms": [
+                    "Б-406"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Овчаров",
+                        "initials": "в ",
+                        "fullName": "пр. Овчаров П. П."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Защита информации в информационных и телекоммуникационных системах",
+                "rooms": [
+                    "В-409"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лащенко",
+                        "initials": "о ",
+                        "fullName": "доц. Лащенко И. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "З И в И иТК С",
+                "rooms": [
+                    "В-410"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лащенко",
+                        "initials": "о ",
+                        "fullName": "доц. Лащенко И. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Устройства приема и обработки сигналов",
+                "rooms": [
+                    "Б-406"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьянчиков",
+                        "initials": "в ",
+                        "fullName": "доц. Лукьянчиков А. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Устройства приема и обработки сигналов",
+                "rooms": [
+                    "Б-406"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьянчиков",
+                        "initials": "в ",
+                        "fullName": "доц. Лукьянчиков А. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "О Т Р С и К У",
+                "rooms": [
+                    "Б-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мельников",
+                        "initials": "в ",
+                        "fullName": "доц. Мельников  А. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "У П и ОС",
+                "rooms": [
+                    "Б-406"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Овчаров",
+                        "initials": "в ",
+                        "fullName": "пр. Овчаров П. П."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "У Р Ф",
+                "rooms": [
+                    "В-412"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Головин",
+                        "initials": "н ",
+                        "fullName": "доц. Головин В. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "С Ц О С",
+                "rooms": [
+                    "Б-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Савинов",
+                        "initials": "в ",
+                        "fullName": "асс. Савинов В. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "О Т Р Н С и К",
+                "rooms": [
+                    "Б-406"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Поляков",
+                        "initials": "в ",
+                        "fullName": "доц. Поляков А. Л."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ОТ РН С и К",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Поляков",
+                        "initials": "в ",
+                        "fullName": "доц. Поляков А. Л."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Схемотехника функциональных узлов Р Э А",
+                "rooms": [
+                    "В-409"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Овчаров",
+                        "initials": "в ",
+                        "fullName": "пр. Овчаров П. П."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "У Р Ф",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Головин",
+                        "initials": "н ",
+                        "fullName": "доц. Головин В. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Защита информации в информационных и телекоммуникационных системах",
+                "rooms": [
+                    "В-409"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лащенко",
+                        "initials": "о ",
+                        "fullName": "доц. Лащенко И. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "З И в И иТК С",
+                "rooms": [
+                    "В-410",
+                    "В-410"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лащенко",
+                        "initials": "о ",
+                        "fullName": "доц. Лащенко И. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "У П и ОС",
+                "rooms": [
+                    "Б-406"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Овчаров",
+                        "initials": "в ",
+                        "fullName": "пр. Овчаров П. П."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы менеджмента и маркетинга",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Кулешова",
+                        "initials": "а ",
+                        "fullName": "ст.пр. Кулешова Т. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы менеджмента и маркетинга",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Кулешова",
+                        "initials": "а ",
+                        "fullName": "ст.пр. Кулешова Т. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы теории радиосистем и комплексов управления",
+                "rooms": [
+                    "В-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мельников",
+                        "initials": "в ",
+                        "fullName": "доц.Мельников А. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "О Т Р С и К У",
+                "rooms": [
+                    "Б-402",
+                    "Б-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мельников",
+                        "initials": "в ",
+                        "fullName": "доц. Мельников  А. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ОТ РН С и К",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Поляков",
+                        "initials": "в ",
+                        "fullName": "доц. Поляков А. Л."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы теории радионавигационных систем и комплексов",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Поляков",
+                        "initials": "в ",
+                        "fullName": "доц. Поляков А. Л."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "С Ц О С",
+                "rooms": [
+                    "Б-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Савинов",
+                        "initials": "в ",
+                        "fullName": "асс. Савинов В. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "У Р Ф",
+                "rooms": [
+                    "В-412"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Головин",
+                        "initials": "н ",
+                        "fullName": "доц. Головин В. В."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "С Ц О С",
+                "rooms": [
+                    "Б-406"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Тыщук",
+                        "initials": "к ",
+                        "fullName": "ст.пр. Тыщук Ю. Н."
+                    }
+                ],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РС-с-16-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

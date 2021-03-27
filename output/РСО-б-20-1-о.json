@@ -1,0 +1,679 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "История России",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Белоглазов",
+                        "initials": "в",
+                        "fullName": "доц.Белоглазов Р.Н."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятел. ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Проектная деятельность асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Савина",
+                        "initials": "а",
+                        "fullName": "Савина З.С."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Организация волонтерской деятельности пр.Чабаненко СВ.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Древние языки и культуры(лат.яз) ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гордиенко",
+                        "initials": "о",
+                        "fullName": "Гордиенко Т.В."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.асс. 1.4 1.5",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "Остапенко А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-20-1-о",
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Социологические исследования в рекламе",
+                "rooms": [
+                    "8."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ярмак",
+                        "initials": "к",
+                        "fullName": "доц.Ярмак О.В."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Философия асс.",
+                "rooms": [
+                    "8."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Матвеева",
+                        "initials": "а",
+                        "fullName": "Матвеева Л.В."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Мировая литерат. традиция ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кабанова",
+                        "initials": "а",
+                        "fullName": "Кабанова Н.Е."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иност.язык асс.асс. 1.5 1.",
+                "rooms": [
+                    "5А"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "Остапенко А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-20-1-о",
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Логика и технологии мышления",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц.Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "История и теории рекламы асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Шавардова",
+                        "initials": "а",
+                        "fullName": "Шавардова Е.Ю."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "История России",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Белоглазов",
+                        "initials": "в",
+                        "fullName": "доц.Белоглазов Р.Н."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-б-20-1-о",
+                    "Ж-б-20-1-о",
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Логика и технологии мышления доцент Чугунов Сергей Владимирович",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СОЦ-б-20-1-о",
+                    "Ж-б-20-1-о",
+                    "РСО-б-20-1-о",
+                    "ПОЛ-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности ст.пр. по 3.04.2021",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-б-20-1-о",
+                    "Ж-б-20-1-о",
+                    "РСО-б-20-1-о",
+                    "ПОЛ-б-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "БЖД ст.пр. по 5.04.2021",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Проектная деятельность асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Савина",
+                        "initials": "а",
+                        "fullName": "Савина З.С."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Организация волонтерской деятельности пр.Чабаненко СВ.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Древние языки и культуры(лат.яз) ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гордиенко",
+                        "initials": "о",
+                        "fullName": "Гордиенко Т.В."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.асс. 1.4 1.5",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "Остапенко А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-20-1-о",
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Соц. исследования в рекламе",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ярмак",
+                        "initials": "к",
+                        "fullName": "доц.Ярмак О.В."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Социологические исследования в рекламе",
+                "rooms": [
+                    "8."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ярмак",
+                        "initials": "к",
+                        "fullName": "доц.Ярмак О.В."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Философия асс.",
+                "rooms": [
+                    "8."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Матвеева",
+                        "initials": "а",
+                        "fullName": "Матвеева Л.В."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иност.язык асс.асс. 1.5 1.",
+                "rooms": [
+                    "5А"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "Остапенко А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-20-1-о",
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "История и теории рекламы асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Шавардова",
+                        "initials": "а",
+                        "fullName": "Шавардова Е.Ю."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "История России",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Белоглазов",
+                        "initials": "в",
+                        "fullName": "доц.Белоглазов Р.Н."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-б-20-1-о",
+                    "Ж-б-20-1-о",
+                    "РСО-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Философия проф.",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Чемшит",
+                        "initials": "т",
+                        "fullName": "Чемшит А.А."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-б-20-1-о",
+                    "Ж-б-20-1-о",
+                    "РСО-б-20-1-о",
+                    "ПОЛ-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Мировая литературная традиция старший преподаватель Кабанова Наталья Евгеньевна",
+                "rooms": [
+                    "423"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СОЦ-б-20-1-о",
+                    "Ж-б-20-1-о",
+                    "РСО-б-20-1-о",
+                    "ПОЛ-б-20-1-о",
+                    "И-б-20-1-о",
+                    "И-б-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

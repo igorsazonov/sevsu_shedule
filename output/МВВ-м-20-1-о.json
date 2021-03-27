@@ -1,0 +1,386 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Стратегический менеджмент в виноградарстве и виноделии \n(Лекции: 15.02 01.03 15.03 29.03 05.04)",
+                "rooms": [
+                    "474"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бунецкий",
+                        "initials": "й",
+                        "fullName": "доц. Бунецкий Л.Л."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Управление бизнес-процессами в виноградарстве и виноделии \n(Лекции: 15.02 01.03 15.03 29.03.)",
+                "rooms": [
+                    "474"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Кокодей",
+                        "initials": "й",
+                        "fullName": "проф. Кокодей Т.А."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Управление бизнес-процессами в виноградарстве и виноделии \n(Лекции: 15.02 01.03 15.03 29.03.)",
+                "rooms": [
+                    "474"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Кокодей",
+                        "initials": "й",
+                        "fullName": "проф. Кокодей Т.А."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Управление бизнес-процессами в виноградарстве и виноделии",
+                "rooms": [
+                    "493"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Кокодей",
+                        "initials": "й",
+                        "fullName": "проф. Кокодей Т.А."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Российское виноделие\n(Лекции: 02.03 16.03 30.03 13.04 27.04)",
+                "rooms": [
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гниломедова",
+                        "initials": "а",
+                        "fullName": "доц. Гниломедова Н.В."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Российское виноделие",
+                "rooms": [
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гниломедова",
+                        "initials": "а",
+                        "fullName": "доц. Гниломедова Н.В."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Управление качеством винограда и вина\n(Лекции: 17.02 03.03 17.03 31.03 14.04)",
+                "rooms": [
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гниломедова",
+                        "initials": "а",
+                        "fullName": "доц. Гниломедова Н.В."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление качеством винограда и вина",
+                "rooms": [
+                    "А-23"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гниломедова",
+                        "initials": "а",
+                        "fullName": "доц. Гниломедова Н.В."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц. Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "449",
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц. Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Г-м-20-1-о",
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Стратегический менеджмент в виноградарстве и виноделии",
+                "rooms": [
+                    "474"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бунецкий",
+                        "initials": "й",
+                        "fullName": "доц. Бунецкий Л.Л."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Управление проектами в виноградарстве и виноделии \n(Лекции: 08.02 22.02 22.03 05.04 19.04)",
+                "rooms": [
+                    "474"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Кокодей",
+                        "initials": "й",
+                        "fullName": "проф. Кокодей Т.А."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Управление проектами в виноградарстве и виноделии",
+                "rooms": [
+                    "474"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Кокодей",
+                        "initials": "й",
+                        "fullName": "проф. Кокодей Т.А."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Управление бизнес-процессами в виноградарстве и виноделии",
+                "rooms": [
+                    "493"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Кокодей",
+                        "initials": "й",
+                        "fullName": "проф. Кокодей Т.А."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Российское виноделие \n(Лекции: 09.03 23.03 06.04 20.04 04.05)",
+                "rooms": [
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гниломедова",
+                        "initials": "а",
+                        "fullName": "доц. Гниломедова Н.В."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Российское виноделие",
+                "rooms": [
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гниломедова",
+                        "initials": "а",
+                        "fullName": "доц. Гниломедова Н.В."
+                    }
+                ],
+                "groups": [
+                    "МВВ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

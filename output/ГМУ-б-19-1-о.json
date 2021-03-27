@@ -1,0 +1,698 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Иностранный язык асс.",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ГОГОЛЯ 14 !!!",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика города (10:10)",
+                "rooms": [
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Шалковская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Шалковская Н.А."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика город (11:50)",
+                "rooms": [
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Шалковская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Шалковская Н.А."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по модулю: Государство и общество (14:00)",
+                "rooms": [
+                    "216"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Ревуцкая",
+                        "initials": "я",
+                        "fullName": "пр. Ревуцкая М.Н."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "450"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Руденко Ж.А."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Государство и общество: Технологии формирования общественного мнения",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Журавлева",
+                        "initials": "а",
+                        "fullName": "доц. Журавлева И.В."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Гражданское право \n(09:00)",
+                "rooms": [
+                    "А-35"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скворцова",
+                        "initials": "а",
+                        "fullName": "доц. Скворцова О.Г."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Гражданское право \n(10:45)",
+                "rooms": [
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скворцова",
+                        "initials": "а",
+                        "fullName": "доц. Скворцова О.Г."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методы принятия управленческих решений \n(12:30)",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Намханова",
+                        "initials": "а",
+                        "fullName": "проф. Намханова М.В."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С (14:30)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Налоги и налогообложение",
+                "rooms": [
+                    "А-33"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Толстова",
+                        "initials": "а",
+                        "fullName": "доц. Толстова Л.П."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Налоги и налогообложение",
+                "rooms": [
+                    "А-35"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Толстова",
+                        "initials": "а",
+                        "fullName": "доц. Толстова Л.П."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Иностранный язык асс.",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Социология управления \nдоц. к.н. \n(08:30)",
+                "rooms": [
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Черепанова",
+                        "initials": "а",
+                        "fullName": "Черепанова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Социология управления\nдоц. к.н. \n(10:10)",
+                "rooms": [
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Черепанова",
+                        "initials": "а",
+                        "fullName": "Черепанова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по модулю: Государство и общество (11:50)",
+                "rooms": [
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Ревуцкая",
+                        "initials": "я",
+                        "fullName": "пр. Ревуцкая М.Н."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика города (14:00)",
+                "rooms": [
+                    "216"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кусов",
+                        "initials": "в",
+                        "fullName": "доц. Кусов И.С."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [
+                    "380"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [
+                    "482"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "450"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Руденко Ж.А."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Государство и общество: Технологии формирования общественного мнения",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Журавлева",
+                        "initials": "а",
+                        "fullName": "доц. Журавлева И.В."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Гражданское право \n(09:00)",
+                "rooms": [
+                    "А-35"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скворцова",
+                        "initials": "а",
+                        "fullName": "доц. Скворцова О.Г."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методы принятия управленческих решений \n(10:45)",
+                "rooms": [
+                    "216"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Намханова",
+                        "initials": "а",
+                        "fullName": "проф. Намханова М.В."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методы принятия управленческих решений \n(12:30)",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Намханова",
+                        "initials": "а",
+                        "fullName": "проф. Намханова М.В."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Налоги и налогообложение",
+                "rooms": [
+                    "А-35"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Толстова",
+                        "initials": "а",
+                        "fullName": "доц. Толстова Л.П."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,565 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Английский язык ( теорет. курс)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Георгиади",
+                        "initials": "и",
+                        "fullName": "доц. Георгиади  А.А."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Современное филологическое образование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "доц. Хоменко Е.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Современное филологическое образование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "доц. Хоменко Е.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Ангийский язык (практический курс) В.Г",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "fullName": "ст.пр. Корончик"
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Ангийский язык (практический курс) В.Г",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "fullName": "ст.пр. Корончик"
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Ангийский язык (практический курс) В.Г",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "fullName": "ст.пр. Корончик"
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Ангийский язык (практический курс) В.Г",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "fullName": "ст.пр. Корончик"
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Аналит. Чтен. доц 25",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Вишнякова",
+                        "initials": "а",
+                        "fullName": "Вишнякова А.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Анг. язык (ПрК) В.Г",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "fullName": "ст.пр. Корончик"
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "История русской литературы",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Миленко",
+                        "initials": "о",
+                        "fullName": "доц. Миленко В.Д."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "История русской литературы",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Миленко",
+                        "initials": "о",
+                        "fullName": "доц. Миленко В.Д."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Английский язык ( теоретический курс)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Барашева",
+                        "initials": "а",
+                        "fullName": "доц. Барашева Д.Е."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Аналитическое чтение ( английский язык)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вишнякова",
+                        "initials": "а",
+                        "fullName": "доц. Вишнякова А.П."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Современная русская литература",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Миленко",
+                        "initials": "о",
+                        "fullName": "доц. Миленко В.Д."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Современная русская литература",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Миленко",
+                        "initials": "о",
+                        "fullName": "доц. Миленко В.Д."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Современное филологическое образование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "доц. Хоменко Е.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Ангийский язык (практический курс) В.Г",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "fullName": "ст.пр. Корончик"
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Ангийский язык (практический курс) В.Г",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "fullName": "ст.пр. Корончик"
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Английский язык ( теоретический курс)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Барашева",
+                        "initials": "а",
+                        "fullName": "доц. Барашева Д.Е."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Английский язык ( теоретический курс)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Барашева",
+                        "initials": "а",
+                        "fullName": "доц. Барашева Д.Е."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Ангийский язык (практический курс) В.Г",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "fullName": "ст.пр. Корончик"
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Ангийский язык (практический курс) В.Г",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "fullName": "ст.пр. Корончик"
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Анг. язык (ПрК) 25",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "fullName": "ст.пр. Корончик"
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Аналит. чтение доц",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Вишнякова",
+                        "initials": "а",
+                        "fullName": "Вишнякова А.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "История русской литературы",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Миленко",
+                        "initials": "о",
+                        "fullName": "доц. Миленко В.Д."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "История русской литературы",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Миленко",
+                        "initials": "о",
+                        "fullName": "доц. Миленко В.Д."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Современная русская литература",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Миленко",
+                        "initials": "о",
+                        "fullName": "доц. Миленко В.Д."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-17-3-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

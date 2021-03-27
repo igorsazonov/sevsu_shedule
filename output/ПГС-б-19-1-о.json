@@ -1,0 +1,697 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Архитектурные конструкции зданий",
+                "rooms": [
+                    "А-33",
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дикарева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дикарева Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "482",
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Бичаков",
+                        "initials": "в",
+                        "fullName": "асс. Бичаков С.А."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "СТРОИТЕЛЬНАЯ МЕХАНИКА",
+                "rooms": [
+                    "482"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Липка В.М."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Архитектурные конструкции зданий",
+                "rooms": [
+                    "А-33",
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дикарева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дикарева Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Архитектурные конструкции зданий",
+                "rooms": [
+                    "210",
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дикарева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дикарева Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИНЖЕНЕРНАЯ ГЕОЛОГИЯ",
+                "rooms": [
+                    "305",
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Исаев",
+                        "initials": "в",
+                        "fullName": "доц. Исаев В.С."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Механика жидкости и газа",
+                "rooms": [
+                    "А-12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Глушкова",
+                        "initials": "а",
+                        "fullName": "доц. Глушкова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ИНЖЕНЕРНАЯ ГЕОЛОГИЯ \n(ПЗ: 18.02 04.03 18.03)",
+                "rooms": [
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Исаев",
+                        "initials": "в",
+                        "fullName": "доц. Исаев В.С."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "УНИВЕРСИТЕТСКАЯ 33 !!!",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [
+                    "Г-405",
+                    "В-207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "В-207",
+                    "В-309"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "В-207",
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Ф И Л О С О Ф И Я",
+                "rooms": [
+                    "А-35",
+                    "А-35"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галяс",
+                        "initials": "с",
+                        "fullName": "доц. Галяс И.А."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Электроснабжение",
+                "rooms": [
+                    "454",
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Лавренчук",
+                        "initials": "к",
+                        "fullName": "ст.пр. Лавренчук А.А."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "BIM-технологии в строительстве",
+                "rooms": [
+                    "305",
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рапацкий",
+                        "initials": "й",
+                        "fullName": "доц. Рапацкий Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "СТРОИТЕЛЬНАЯ МЕХАНИКА",
+                "rooms": [
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Липка В.М."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Архитектурные конструкции зданий",
+                "rooms": [
+                    "482"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дикарева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дикарева Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "482"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Бичаков",
+                        "initials": "в",
+                        "fullName": "асс. Бичаков С.А."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "BIM-технологии в строительстве",
+                "rooms": [
+                    "305",
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Липка В.М."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "BIM-технологии в строительстве",
+                "rooms": [
+                    "305",
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Липка В.М."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "СТРОИТЕЛЬНАЯ МЕХАНИКА",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Липка В.М."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "СТРОИТЕЛЬНАЯ МЕХАНИКА",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Липка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Липка В.М."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Механика жидкости и газа",
+                "rooms": [
+                    "А-12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Глушкова",
+                        "initials": "а",
+                        "fullName": "доц. Глушкова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [
+                    "В-314",
+                    "В-207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "В-207",
+                    "В-309"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "В-207",
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Электроснабжение",
+                "rooms": [
+                    "454",
+                    "499"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Сперанский",
+                        "initials": "й",
+                        "fullName": "пр. Сперанский М.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Электроснабжение \n(ЛЗ: 13.02 27.02 13.03)",
+                "rooms": [
+                    "454",
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Сперанский",
+                        "initials": "й",
+                        "fullName": "пр. Сперанский М.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПГС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

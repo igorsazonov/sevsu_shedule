@@ -1,0 +1,402 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Химия и технология воды",
+                "rooms": [
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Э.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретические основы технической эксплуатации оборудования энергетической области",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Акимов",
+                        "initials": "в",
+                        "fullName": "проф. Акимов А.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Современные проблемы химической технологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Ведищева",
+                        "initials": "а",
+                        "fullName": "пр. Ведищева О.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Теорет.основы технической эксплуатации оборудования энерг.области",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Акимов",
+                        "initials": "в",
+                        "fullName": "проф. Акимов А.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Химия и технология воды",
+                "rooms": [
+                    "104"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Э.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Практические основы организации научно-исследовательской работы",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Физико-химические процессы водоподготовки",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Прокопова",
+                        "initials": "а",
+                        "fullName": "доц. Прокопова С.Д."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Физико-химические методы экспертизы технологических сред \/ф-в\/",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Практические основы организации научно-исследовательской работы",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Химия и технология воды",
+                "rooms": [
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Э.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретические основы технической эксплуатации оборудования энергетической области",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Акимов",
+                        "initials": "в",
+                        "fullName": "проф. Акимов А.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Методика преподавания в высшей школе",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Современные проблемы химической технологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Ведищева",
+                        "initials": "а",
+                        "fullName": "пр. Ведищева О.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Химия и технология воды",
+                "rooms": [
+                    "104"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Э.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Практические основы организации научно-исследовательской работы",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Физико-химические процессы водоподготовки",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Прокопова",
+                        "initials": "а",
+                        "fullName": "доц. Прокопова С.Д."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Физико-химические методы экспертизы технологических сред \/ф-в\/",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методика преподавания в высшей школе",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

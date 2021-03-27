@@ -1,0 +1,358 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Сорокина",
+                        "initials": "а",
+                        "fullName": "доц. Сорокина Е.И."
+                    }
+                ],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие техническим разведкам и основы радиоэлектронной борьбы ВАК.",
+                "rooms": [
+                    "414"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Основы национальной безопасности",
+                "rooms": [
+                    "401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Костюков",
+                        "initials": "в",
+                        "fullName": "доц. Костюков А.Д."
+                    }
+                ],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление информационной безопасностью",
+                "rooms": [
+                    "401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Костюков",
+                        "initials": "в",
+                        "fullName": "доц. Костюков А.Д."
+                    }
+                ],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Технологии обеспечения информационной безопасности (кроме 18.03.2021)",
+                "rooms": [
+                    "401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лихолоб",
+                        "initials": "б",
+                        "fullName": "доц. Лихолоб П.Г."
+                    }
+                ],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Организация и профессиональная подготовка сотрудников службы информационной безопасности (кроме 18.03.2021)",
+                "rooms": [
+                    "401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ожиганова",
+                        "initials": "а",
+                        "fullName": "доц. Ожиганова М.И."
+                    }
+                ],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Защищенные информационные системы (кроме 18.03.2021)",
+                "rooms": [
+                    "401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Девицына",
+                        "initials": "а",
+                        "fullName": "доц. Девицына С.Н."
+                    }
+                ],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Методология исследовательской деятельности в информационной безопасности ВАК. Л - 19.02 5.03 19.03",
+                "rooms": [
+                    "402"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Интеллектуальные средства обеспечения информационной безопасности ВАК.",
+                "rooms": [
+                    "402"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Сорокина",
+                        "initials": "а",
+                        "fullName": "доц. Сорокина Е.И."
+                    }
+                ],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие техническим разведкам и основы радиоэлектронной борьбы ВАК. .02 22.02 22.03 5.04 19.04",
+                "rooms": [
+                    "Л-8",
+                    "414"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Основы национальной безопасности",
+                "rooms": [
+                    "401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Костюков",
+                        "initials": "в",
+                        "fullName": "доц. Костюков А.Д."
+                    }
+                ],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Актуальные вопросы противодействия информационным угрозам",
+                "rooms": [
+                    "401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Костюков",
+                        "initials": "в",
+                        "fullName": "доц. Костюков А.Д."
+                    }
+                ],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Научный семинар \/journal club\/",
+                "rooms": [
+                    "401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Гончаренко",
+                        "initials": "о",
+                        "fullName": "проф. Гончаренко Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Технологии обеспечения информационной безопасности (кроме 18.03.2021)",
+                "rooms": [
+                    "401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лихолоб",
+                        "initials": "б",
+                        "fullName": "доц. Лихолоб П.Г."
+                    }
+                ],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Защищенные информационные системы",
+                "rooms": [
+                    "401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Девицына",
+                        "initials": "а",
+                        "fullName": "доц. Девицына С.Н."
+                    }
+                ],
+                "groups": [
+                    "ИБ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

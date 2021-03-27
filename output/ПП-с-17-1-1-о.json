@@ -1,0 +1,506 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ПКРОВИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нечипорук",
+                        "initials": "к",
+                        "fullName": "Нечипорук Т.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОВИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нечипорук",
+                        "initials": "к",
+                        "fullName": "Нечипорук Т.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Спец.перевод ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Большакова",
+                        "initials": "а",
+                        "fullName": "Большакова М.Г."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКППИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скидан",
+                        "initials": "н",
+                        "fullName": "доц.Скидан О.Г."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОПИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Деревянко",
+                        "initials": "о",
+                        "fullName": "Деревянко А.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Устный перевод англ.яз.",
+                "rooms": [
+                    "8."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Камышникова",
+                        "initials": "а",
+                        "fullName": "доц.Камышникова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОПИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Деревянко",
+                        "initials": "о",
+                        "fullName": "Деревянко А.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Публист.перевод англ.яз",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Москаленко",
+                        "initials": "о",
+                        "fullName": "доц.Москаленко О.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ПКРОВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нечипорук",
+                        "initials": "к",
+                        "fullName": "Нечипорук Т.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Практический курс третьего иностранного языка старший преподаватель доцент старший преподаватель 6. 7. 1.4.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Марченко",
+                        "initials": "о",
+                        "fullName": "Марченко Ю.М."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Гулевец",
+                        "initials": "ц",
+                        "fullName": "Гулевец Н.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Беспамятная",
+                        "initials": "я",
+                        "fullName": "Беспамятная Л.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о",
+                    "ПП-с-17-1-2-о",
+                    "ПП-с-17-2-1-о",
+                    "ПП-с-17-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Теория перевода доцент",
+                "rooms": [
+                    "8."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бармина",
+                        "initials": "а",
+                        "fullName": "Бармина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о",
+                    "ПП-с-17-1-2-о",
+                    "ПП-с-17-2-1-о",
+                    "ПП-с-17-2-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Омедиагр.проф.Комуцци",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПКПВИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лобков",
+                        "initials": "в",
+                        "fullName": "доц.Лобков А.Е."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Спец.перевод ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Большакова",
+                        "initials": "а",
+                        "fullName": "Большакова М.Г."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКППИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скидан",
+                        "initials": "н",
+                        "fullName": "доц.Скидан О.Г."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОПИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Деревянко",
+                        "initials": "о",
+                        "fullName": "Деревянко А.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "ПКРОВИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нечипорук",
+                        "initials": "к",
+                        "fullName": "Нечипорук Т.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Устный перевод англ.яз.",
+                "rooms": [
+                    "8."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Камышникова",
+                        "initials": "а",
+                        "fullName": "доц.Камышникова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПКРОПИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Деревянко",
+                        "initials": "о",
+                        "fullName": "Деревянко А.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Публист.перевод англ.яз",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Москаленко",
+                        "initials": "о",
+                        "fullName": "доц.Москаленко О.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ПКРОВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нечипорук",
+                        "initials": "к",
+                        "fullName": "Нечипорук Т.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Практический курс третьего иностранного языка старший преподаватель доцент старший преподаватель 6. 7. 1.4.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Марченко",
+                        "initials": "о",
+                        "fullName": "Марченко Ю.М."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Гулевец",
+                        "initials": "ц",
+                        "fullName": "Гулевец Н.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Беспамятная",
+                        "initials": "я",
+                        "fullName": "Беспамятная Л.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-17-1-1-о",
+                    "ПП-с-17-1-2-о",
+                    "ПП-с-17-2-1-о",
+                    "ПП-с-17-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

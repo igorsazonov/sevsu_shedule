@@ -1,0 +1,554 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Сертификационные испытания и их метрологическое обеспечение Л- 15.02 1.03 15.03 29.03.",
+                "rooms": [
+                    "480"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Белая",
+                        "initials": "я",
+                        "fullName": "доц. Белая М.Н."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Метрологическое обепечение производства",
+                "rooms": [
+                    "480"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Системы менеджмента безопасности пищевой продукции",
+                "rooms": [
+                    "472"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Белая",
+                        "initials": "я",
+                        "fullName": "доц. Белая М.Н."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Статистические методы оценки результатов измерений испытаний и контроля",
+                "rooms": [
+                    "480"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кравцова",
+                        "initials": "а",
+                        "fullName": "доц. Кравцова  С.Е."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Отраслевые системы менеджмента качества",
+                "rooms": [
+                    "480"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Методология исследовательской деят-ти в сфере метрологии и стандартизации Л - 10.02 24.02 10.03 24.03 7.04 21.04.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Греков",
+                        "initials": "в",
+                        "fullName": "проф. Греков Н.А."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дельвиг",
+                        "initials": "г",
+                        "fullName": "доц. Дельвиг Н.А."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Научный семинар",
+                "rooms": [
+                    "487"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жмерев",
+                        "initials": "в",
+                        "fullName": "доц. Жмерев В.С."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Аудит систем менеджмента",
+                "rooms": [
+                    "487"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Сертификационные испытания и их метрологическое обеспечение",
+                "rooms": [
+                    "480"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Белая",
+                        "initials": "я",
+                        "fullName": "доц. Белая М.Н."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Метрологическое обепечение производства",
+                "rooms": [
+                    "480"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Системы менеджмента безопасности пищевой продукции",
+                "rooms": [
+                    "472"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Белая",
+                        "initials": "я",
+                        "fullName": "доц. Белая М.Н."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Статистические методы оценки результатов измерений испытаний и контроля",
+                "rooms": [
+                    "480"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кравцова",
+                        "initials": "а",
+                        "fullName": "доц. Кравцова  С.Е."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Отраслевые системы менеджмента качества",
+                "rooms": [
+                    "480"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Методология исследовательской деят-ти в сфере метрологии и стандартизации Л - 10.02 24.02 10.03 24.03 7.04 21.04.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Греков",
+                        "initials": "в",
+                        "fullName": "проф. Греков Н.А."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дельвиг",
+                        "initials": "г",
+                        "fullName": "доц. Дельвиг Н.А."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Статистические методы оценки результатов измерений испытаний и контроля",
+                "rooms": [
+                    "487"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кравцова",
+                        "initials": "а",
+                        "fullName": "доц. Кравцова  С.Е."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Аудит систем менеджмента",
+                "rooms": [
+                    "487"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

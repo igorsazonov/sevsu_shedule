@@ -1,0 +1,786 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Сопротивление материалов",
+                "rooms": [
+                    "Б-004"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Рыжков",
+                        "initials": "в ",
+                        "fullName": "асс. Рыжков А. И."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Д Е Т А Л И М А Ш И Н и О С Н О В Ы К О Н С Т Р У И Р О В А Н И Я",
+                "rooms": [
+                    "В-302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Неменко",
+                        "initials": "о ",
+                        "fullName": "доц. Неменко А. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "С О П Р О Т И В Л Е Н И Е М А Т Е Р И А Л О В",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Бохонский",
+                        "initials": "й",
+                        "fullName": "проф. Бохонский А.И."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Детали машин и основы конструирования",
+                "rooms": [
+                    "В-313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Неменко",
+                        "initials": "о ",
+                        "fullName": "доц. Неменко А. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "В-302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н ",
+                        "fullName": "ст.пр. Ковтун И. Н."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Сопротивление материалов . И.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Бохонский",
+                        "fullName": "проф. Бохонский"
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "РыжковА",
+                        "fullName": "асс. РыжковА"
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Иностранный язык : К. А",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Черницова",
+                        "initials": "а ",
+                        "fullName": "асс. Черницова Ю. П."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Секрет",
+                        "fullName": "асс. Секрет"
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык : К. А",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Черницова",
+                        "initials": "а ",
+                        "fullName": "асс. Черницова Ю. П."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Секрет",
+                        "fullName": "асс. Секрет"
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Технические средства освоения океана (кроме 18.03.2021)",
+                "rooms": [
+                    "46"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Игнатович",
+                        "initials": "ч ",
+                        "fullName": "доц. Игнатович В. С."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Технические средства освоения океана (кроме 18.03.2021)",
+                "rooms": [
+                    "46"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Игнатович",
+                        "initials": "ч ",
+                        "fullName": "доц. Игнатович В. С."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "( П Е Р Е Е З Д на ул. У Н И В Е Р С И Т Е Т С К У Ю )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф К и С 18.02.21 г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Конструкция корпуса судов 19.02.21г",
+                "rooms": [
+                    "48"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузьмина",
+                        "fullName": "доц. Кузьмина"
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Конструкция корпуса судов",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "доц. Кузьмина А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Теория корабля. Плавучесть",
+                "rooms": [
+                    "46"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в ",
+                        "fullName": "доц. Балашов М. Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Технические средства освоения океана 19.02.21",
+                "rooms": [
+                    "46"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Игнатович",
+                        "initials": "ч ",
+                        "fullName": "доц. Игнатович В. С."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Сопротивление материалов",
+                "rooms": [
+                    "Б-004"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Рыжков",
+                        "initials": "в ",
+                        "fullName": "асс. Рыжков А. И."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Д Е Т А Л И М А Ш И Н и О С Н О В Ы К О Н С Т Р У И Р О В А Н И Я",
+                "rooms": [
+                    "В-302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Неменко",
+                        "initials": "о ",
+                        "fullName": "доц. Неменко А. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "С О П Р О Т И В Л Е Н И Е М А Т Е Р И А Л О В",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Бохонский",
+                        "initials": "й",
+                        "fullName": "проф. Бохонский А.И."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Д М и О К",
+                "rooms": [
+                    "В-313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Неменко",
+                        "initials": "о",
+                        "fullName": "доц. Неменко А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Э и Э",
+                "rooms": [
+                    "Б-003"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Нагирняк",
+                        "initials": "к ",
+                        "fullName": "ст.пр. Нагирняк А. А."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "В-302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н ",
+                        "fullName": "ст.пр. Ковтун И. Н."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Э и Э",
+                "rooms": [
+                    "Б-003"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Нагирняк",
+                        "initials": "к ",
+                        "fullName": "ст.пр. Нагирняк А. А."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Д М и О К",
+                "rooms": [
+                    "В-313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Неменко",
+                        "initials": "о",
+                        "fullName": "доц. Неменко А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Иностранный язык : К. А",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Черницова",
+                        "initials": "а ",
+                        "fullName": "асс. Черницова Ю. П."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Секрет",
+                        "fullName": "асс. Секрет"
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык : К. А",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Черницова",
+                        "initials": "а ",
+                        "fullName": "асс. Черницова Ю. П."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Секрет",
+                        "fullName": "асс. Секрет"
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": ". Технические средства освоения океана В. С 26.02.21",
+                "rooms": [
+                    "46"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Игнатович",
+                        "fullName": "доц. Игнатович"
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Конструкция корпуса судов",
+                "rooms": [
+                    "42"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "доц. Кузьмина А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Теория корабля. Плавучесть",
+                "rooms": [
+                    "46"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в ",
+                        "fullName": "доц. Балашов М. Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Конструкция корпуса судов",
+                "rooms": [
+                    "40"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "доц. Кузьмина А.В."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т Р О Т Е Х Н И К А и Э Л Е К Т Р О Н И К А",
+                "rooms": [
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матвеев",
+                        "initials": "в ",
+                        "fullName": "доц. Матвеев Ю. В."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Т Е О Р И Я К О Р А Б Л Я. П Л А В У Ч Е С Т Ь",
+                "rooms": [
+                    "В-411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в ",
+                        "fullName": "доц. Балашов М. Г."
+                    }
+                ],
+                "groups": [
+                    "К-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

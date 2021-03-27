@@ -1,0 +1,814 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "История ( история России всеобщая история )",
+                "rooms": [
+                    "В-315"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вакулова",
+                        "initials": "а ",
+                        "fullName": "доц. Вакулова Т. В."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык : асс.Секрет К А. асс. : ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к ",
+                        "fullName": "асс. Грищук А. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Волкова",
+                        "initials": "а ",
+                        "fullName": "асс. Волкова В. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а ",
+                        "fullName": "асс. Еремина Ю. Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Севастьянова",
+                        "initials": "а ",
+                        "fullName": "асс. Севастьянова И. В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Черницова",
+                        "initials": "а ",
+                        "fullName": "Черницова  Ю. П."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В Ы С Ш А Я М А Т Е М А Т И К А",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гхашим",
+                        "initials": "м ",
+                        "fullName": "доц. Гхашим М. М."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Ф И З И К А. Электромагнетизм и оптика",
+                "rooms": [
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Головченко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Головченко И. В."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В В Е Д Е Н И Е в С П Е Ц И А Л Ь Н О С Т Ь",
+                "rooms": [
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в ",
+                        "fullName": "доц. Балашов  М. Г."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "В-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маленко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Маленко Ж. В."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык : асс.Секрет К А. асс. : ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к ",
+                        "fullName": "асс. Грищук А. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Волкова",
+                        "initials": "а ",
+                        "fullName": "асс. Волкова В. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а ",
+                        "fullName": "асс. Еремина Ю. Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Севастьянова",
+                        "initials": "а ",
+                        "fullName": "асс. Севастьянова И. В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Черницова",
+                        "initials": "а ",
+                        "fullName": "Черницова  Ю. П."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Физика. Электромагнетизм и оптика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Головченко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Головченко И. В."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "И Н Ф О Р М А Т И К А",
+                "rooms": [
+                    "А-38"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Михайлова О.С."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "И Н Ж Е Н Е Р Н А Я Г Р А Ф И К А",
+                "rooms": [
+                    "А-23"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Стреляная",
+                        "initials": "я",
+                        "fullName": "доц. Стреляная Ю.О."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Инженерная графика",
+                "rooms": [
+                    "432"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Стреляная",
+                        "initials": "я ",
+                        "fullName": "доц. Стреляная Ю. О."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "История ( история России всеобщая история )",
+                "rooms": [
+                    "В-315"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вакулова",
+                        "initials": "а ",
+                        "fullName": "доц. Вакулова Т. В."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык : асс.Секрет К А. асс. : ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к ",
+                        "fullName": "асс. Грищук А. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Волкова",
+                        "initials": "а ",
+                        "fullName": "асс. Волкова В. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а ",
+                        "fullName": "асс. Еремина Ю. Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Севастьянова",
+                        "initials": "а ",
+                        "fullName": "асс. Севастьянова И. В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Черницова",
+                        "initials": "а ",
+                        "fullName": "Черницова  Ю. П."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В Ы С Ш А Я М А Т Е М А Т И К А",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гхашим",
+                        "initials": "м ",
+                        "fullName": "доц. Гхашим М. М."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Ф И З И К А. Электромагнетизм и оптика",
+                "rooms": [
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Головченко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Головченко И. В."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "В-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маленко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Маленко Ж. В."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык : асс.Секрет К А. асс. : ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к ",
+                        "fullName": "асс. Грищук А. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Волкова",
+                        "initials": "а ",
+                        "fullName": "асс. Волкова В. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а ",
+                        "fullName": "асс. Еремина Ю. Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Севастьянова",
+                        "initials": "а ",
+                        "fullName": "асс. Севастьянова И. В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Черницова",
+                        "initials": "а ",
+                        "fullName": "Черницова  Ю. П."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Физика. Электромагнетизм и оптика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Головченко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Головченко И. В."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Яхтинг и малые суда",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в ",
+                        "fullName": "доц. Балашов  М. Г."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Введение в специальность",
+                "rooms": [
+                    "46"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в ",
+                        "fullName": "доц. Балашов  М. Г."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности",
+                "rooms": [
+                    "316"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гутник",
+                        "initials": "к ",
+                        "fullName": "доц. Гутник С. А."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности 11 25.02; 11 25.03.21 г",
+                "rooms": [
+                    "316"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гутник",
+                        "initials": "к ",
+                        "fullName": "доц. Гутник С. А."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Информатика",
+                "rooms": [
+                    "378"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а ",
+                        "fullName": "ст.пр. Михайлова О. С."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Инженерная графика",
+                "rooms": [
+                    "432"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Стреляная",
+                        "initials": "я ",
+                        "fullName": "доц. Стреляная Ю. О."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Информатика",
+                "rooms": [
+                    "378"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а ",
+                        "fullName": "ст.пр. Михайлова О. С."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Б Е З О П А С Н О С Т Ь Ж И З Н Е Д Е Я Т Е Л Ь Н О С Т И 13 27.02; 13 27.03.21 г",
+                "rooms": [
+                    "Г-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гутник",
+                        "initials": "к ",
+                        "fullName": "доц. Гутник С. А."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "И С Т О Р И Я ( история России всеобщая история )",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вакулова",
+                        "initials": "а ",
+                        "fullName": "доц. Вакулова Т. В."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Я Х Т И Н Г и М А Л Ы Е С У Д А",
+                "rooms": [
+                    "В-411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Балашов",
+                        "initials": "в ",
+                        "fullName": "доц. Балашов  М. Г."
+                    }
+                ],
+                "groups": [
+                    "ПК-с-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

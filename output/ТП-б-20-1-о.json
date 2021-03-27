@@ -1,0 +1,770 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "В-310"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Строкина",
+                        "initials": "а",
+                        "fullName": "доц.Строкина С.П."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.асс.",
+                "rooms": [
+                    "А-001",
+                    "А-002"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Еремина",
+                        "initials": "а",
+                        "fullName": "Еремина Ю.Ю."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Мжачева",
+                        "initials": "а",
+                        "fullName": "Мжачева М.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Информатика ст.пр.",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Владимирова",
+                        "initials": "а",
+                        "fullName": "Владимирова Е.С."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Информатика",
+                "rooms": [
+                    "А-101"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Владимирова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Владимирова Е.С."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Общая и неорганич.химия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Львов",
+                        "initials": "в",
+                        "fullName": "доц.Львов А.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Общая и неорганич.химия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Львов",
+                        "initials": "в",
+                        "fullName": "доц.Львов А.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Информатика",
+                "rooms": [
+                    "А-101"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Владимирова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Владимирова Е.С."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.асс.",
+                "rooms": [
+                    "А-001",
+                    "А-002"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Еремина",
+                        "initials": "а",
+                        "fullName": "Еремина Ю.Ю."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Мжачева",
+                        "initials": "а",
+                        "fullName": "Мжачева М.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика предприятия ст.пр.",
+                "rooms": [
+                    "Г-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "Поляков А.П."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Организация хранения и контроль запасов и сырья в общественном питании",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Владецкая",
+                        "initials": "я",
+                        "fullName": "доц.Владецкая Е.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Технол.пригот.полуфабрикатов для слож.кулинар.продукции ст.пр.",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нестеренко",
+                        "initials": "о",
+                        "fullName": "Нестеренко О.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ТППСКП Еременко В230",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ТППСКП ст.пр.",
+                "rooms": [
+                    "04."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нестеренко",
+                        "initials": "о",
+                        "fullName": "Нестеренко О.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "История( Ист.Рос.ВИ)",
+                "rooms": [
+                    "В-303",
+                    "В-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вакулова",
+                        "initials": "а",
+                        "fullName": "доц.Вакулова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-20-1-о",
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "В-310"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Строкина",
+                        "initials": "а",
+                        "fullName": "доц.Строкина С.П."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.асс.",
+                "rooms": [
+                    "А-001",
+                    "А-002"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Еремина",
+                        "initials": "а",
+                        "fullName": "Еремина Ю.Ю."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Мжачева",
+                        "initials": "а",
+                        "fullName": "Мжачева М.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Информатика",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Владимирова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Владимирова Е.С."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Общая и неорганическая химия доц.Львов А.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Общая и неорганич.химия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Львов",
+                        "initials": "в",
+                        "fullName": "доц.Львов А.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Общая и неорганич.химия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Львов",
+                        "initials": "в",
+                        "fullName": "доц.Львов А.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Информатика",
+                "rooms": [
+                    "А-101"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Владимирова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Владимирова Е.С."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.асс.",
+                "rooms": [
+                    "А-001",
+                    "А-002"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Еремина",
+                        "initials": "а",
+                        "fullName": "Еремина Ю.Ю."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Мжачева",
+                        "initials": "а",
+                        "fullName": "Мжачева М.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика предприятия ст.пр.",
+                "rooms": [
+                    "Г-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "Поляков А.П."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "История ( история Россиивсеобщая история)",
+                "rooms": [
+                    "В-309"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вакулова",
+                        "initials": "а",
+                        "fullName": "доц.Вакулова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "История ( история Россиивсеобщая история)",
+                "rooms": [
+                    "В-309"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вакулова",
+                        "initials": "а",
+                        "fullName": "доц.Вакулова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ТППСКП",
+                "rooms": [
+                    "230"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Еременко",
+                        "initials": "о",
+                        "fullName": "Еременко В.Г."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Организация хранения и контроль запасов и сырья в общественном питании",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Владецкая",
+                        "initials": "я",
+                        "fullName": "доц.Владецкая Е.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ТППСКП ст.пр. ПЗ 04.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нестеренко",
+                        "initials": "о",
+                        "fullName": "Нестеренко  О.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ТППСКП Еременко В230",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ТППСКП Еременко В230",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Безопасность жизнедеятельности асс. Л по27.03.21",
+                "rooms": [
+                    "316"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одинцов",
+                        "initials": "в",
+                        "fullName": "доц.Одинцов А.Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Шагова",
+                        "initials": "а",
+                        "fullName": "Шагова Ю.О."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности асс.",
+                "rooms": [
+                    "316"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Шагова",
+                        "initials": "а",
+                        "fullName": "Шагова Ю.О."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

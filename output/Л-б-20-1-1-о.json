@@ -1,0 +1,702 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ПКАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сокол",
+                        "initials": "л",
+                        "fullName": "Сокол А.А."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ИЯ.ПГАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Черная",
+                        "initials": "я",
+                        "fullName": "Черная Т.Н."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ДЯК ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гордиенко",
+                        "initials": "о",
+                        "fullName": "Гордиенко Т.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "История",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хапаев",
+                        "initials": "в",
+                        "fullName": "доц.Хапаев В.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ ст.пр.Нечипорук",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Философия асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Матвеева",
+                        "initials": "а",
+                        "fullName": "Матвеева Я.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Безопасность жизнедеятельности по 12.05.2021 ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нечипорук",
+                        "initials": "к",
+                        "fullName": "Нечипорук Т.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПИКСВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нечипорук",
+                        "initials": "к",
+                        "fullName": "Нечипорук Т.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ПКАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сокол",
+                        "initials": "л",
+                        "fullName": "Сокол А.А."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Самоменедж.ПТ ст.пр.Гребешкова И. Аст.пр..",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Шитикова",
+                        "initials": "а",
+                        "fullName": "Шитикова М.Н."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Самоменедж.ПТ ст.пр.Гребешкова И. Аст.пр..",
+                "rooms": [
+                    "8."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Шитикова",
+                        "initials": "а",
+                        "fullName": "Шитикова М.Н."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ДЯК ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гордиенко",
+                        "initials": "о",
+                        "fullName": "Гордиенко Т.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПКАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сокол",
+                        "initials": "л",
+                        "fullName": "Сокол А.А."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Мировая литературная традиция(18-19вв) ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кабанова",
+                        "initials": "а",
+                        "fullName": "Кабанова Н.Е."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "История",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хапаев",
+                        "initials": "в",
+                        "fullName": "доц.Хапаев В.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о",
+                    "ПП-с-20-2-о",
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о",
+                    "Л-б-20-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Философия проф.ЧемшитА.А.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о",
+                    "ПП-с-20-2-о",
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о",
+                    "Л-б-20-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ПКАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сокол",
+                        "initials": "л",
+                        "fullName": "Сокол А.А."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ИЯ.ПГАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Черная",
+                        "initials": "я",
+                        "fullName": "Черная Т.Н."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПД ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Варлагина",
+                        "initials": "а",
+                        "fullName": "Варлагина М.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Философия асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Матвеева",
+                        "initials": "а",
+                        "fullName": "Матвеева Я.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Безопасность жизнедеятельности по 12.05.2021 ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нечипорук",
+                        "initials": "к",
+                        "fullName": "Нечипорук Т.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПИКСВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нечипорук",
+                        "initials": "к",
+                        "fullName": "Нечипорук Т.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ПКАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сокол",
+                        "initials": "л",
+                        "fullName": "Сокол А.А."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о",
+                    "Л-б-20-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ДЯК ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гордиенко",
+                        "initials": "о",
+                        "fullName": "Гордиенко Т.В."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПКАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сокол",
+                        "initials": "л",
+                        "fullName": "Сокол А.А."
+                    }
+                ],
+                "groups": [
+                    "Л-б-20-1-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "История",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хапаев",
+                        "initials": "в",
+                        "fullName": "доц.Хапаев В.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о",
+                    "ПП-с-20-2-о",
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о",
+                    "Л-б-20-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Мировая литературная традиция(18-19вв.) ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кабанова",
+                        "initials": "а",
+                        "fullName": "Кабанова Н.Е."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о",
+                    "ПП-с-20-2-о",
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о",
+                    "Л-б-20-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности ст.пр. 13.02 27.02 13.03 27.03.2021",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-20-1-1-о",
+                    "ПП-с-20-1-2-о",
+                    "ПП-с-20-2-о",
+                    "Л-б-20-1-1-о",
+                    "Л-б-20-1-2-о",
+                    "Л-б-20-2-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,922 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Психология волонтерской деятельности (фак-в)",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц. Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психофиология",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности ( до 31.05.21г)",
+                "rooms": [
+                    "304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осадчая",
+                        "initials": "я",
+                        "fullName": "доц. Осадчая Л.И."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Иностранный язык А. ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "Б-003",
+                    "Г-310"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "асс. Алдошина Я.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Наумова",
+                        "initials": "а",
+                        "fullName": "асс. Наумова А.И."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Маслиева Е.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Волкова",
+                        "initials": "а",
+                        "fullName": "асс. Волкова В.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "асс. Межова Н.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Сессорова",
+                        "initials": "а",
+                        "fullName": "асс. Сессорова С.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "асс. Косова Е.И."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "fullName": "асс. Грищук"
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ОБЩАЯ ПСИХОЛОГИЯ",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моисеев",
+                        "initials": "в",
+                        "fullName": "доц. Моисеев В.Г."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Ф И Л О С О Ф И Я",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц. Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИСТОРИЯ ПСИХОЛОГИИ",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кондрашихина",
+                        "initials": "а",
+                        "fullName": "доц. Кондрашихина  О.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык А. ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "А-101",
+                    "Г-001"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "асс. Алдошина Я.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Наумова",
+                        "initials": "а",
+                        "fullName": "асс. Наумова А.И."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Маслиева Е.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Волкова",
+                        "initials": "а",
+                        "fullName": "асс. Волкова В.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "асс. Межова Н.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Сессорова",
+                        "initials": "а",
+                        "fullName": "асс. Сессорова С.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "асс. Косова Е.И."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "fullName": "асс. Грищук"
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ОУП: Лидерство и командообр.",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Митина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Митина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр.",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Митина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Митина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Психология волонтерской деятельности (фак-в)",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц. Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психофиология",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности ( до 31.05.21г)",
+                "rooms": [
+                    "304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осадчая",
+                        "initials": "я",
+                        "fullName": "доц. Осадчая Л.И."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Ц И Ф Р О В Ы Е Т Е Х Н О Л О Г И И",
+                "rooms": [
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Владимирова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Владимирова Е.С."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык А. ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "Б-003",
+                    "Г-310"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "асс. Алдошина Я.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Наумова",
+                        "initials": "а",
+                        "fullName": "асс. Наумова А.И."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Маслиева Е.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Волкова",
+                        "initials": "а",
+                        "fullName": "асс. Волкова В.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "асс. Межова Н.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Сессорова",
+                        "initials": "а",
+                        "fullName": "асс. Сессорова С.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "асс. Косова Е.И."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "fullName": "асс. Грищук"
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ОБЩАЯ ПСИХОЛОГИЯ",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моисеев",
+                        "initials": "в",
+                        "fullName": "доц. Моисеев В.Г."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПСИХОФИЗИОЛОГИЯ",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "СОДЕРЖАНИЕ И МЕТОДИКА СОЦИАЛЬНОЙ РАБОТЫ",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "История психологии",
+                "rooms": [
+                    "В-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кондрашихина",
+                        "initials": "а",
+                        "fullName": "доц. Кондрашихина О.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Цифровые технологии",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Владимирова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Владимирова Е.С."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык А. ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "А-101",
+                    "Г-001"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "асс. Алдошина Я.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Наумова",
+                        "initials": "а",
+                        "fullName": "асс. Наумова А.И."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Маслиева Е.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Волкова",
+                        "initials": "а",
+                        "fullName": "асс. Волкова В.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "асс. Межова Н.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Сессорова",
+                        "initials": "а",
+                        "fullName": "асс. Сессорова С.А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "асс. Косова Е.И."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "fullName": "асс. Грищук"
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Общий психологич. практикум",
+                "rooms": [
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Косцова",
+                        "initials": "а",
+                        "fullName": "доц. Косцова М.В."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Содер. и мет. соц. работы",
+                "rooms": [
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Общая психология",
+                "rooms": [
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моисеев",
+                        "initials": "в",
+                        "fullName": "доц. Моисеев В.Г."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Педагогика (до 9.04.2021г)",
+                "rooms": [
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Нифатова",
+                        "initials": "а",
+                        "fullName": "пр. Нифатова О.Ю."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "П Е Д А Г О Г И К А (1327.02.2021г; 1327.03.2021г;)",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Нифатова",
+                        "initials": "а",
+                        "fullName": "пр. Нифатова О.Ю."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "БЕЗОПАСНОСТЬ ЖИЗНЕДЕЯТЕЛЬНОСТИ (1327.02.2021г; 1327.03.2021г;)",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одинцов",
+                        "initials": "в",
+                        "fullName": "доц. Одинцов А.Н."
+                    }
+                ],
+                "groups": [
+                    "П-б-20-1о",
+                    "П-б-20-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

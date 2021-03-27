@@ -1,0 +1,446 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Упр. персоналом в работе с молодежью",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Русина",
+                        "initials": "а",
+                        "fullName": "доц. Русина Н.А."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Упр. персоналом в работе с молодежью",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Русина",
+                        "initials": "а",
+                        "fullName": "доц. Русина Н.А."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Научный семинар (journal club) доц Косцова М.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Общегос. осн. и регион. специф. МП в РФ доц Косцова М.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Научный семинар (journal club) доц Косцова М.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общегос. осн. и регион. специф. МП в РФ доц Косцова М.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

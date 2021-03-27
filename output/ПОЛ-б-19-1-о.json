@@ -1,0 +1,647 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "ИБ асс.Сагалаев А.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектная деятельность ст.пр.КовалевскийА.А.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Полит.конфликтология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гарас",
+                        "initials": "с",
+                        "fullName": "доц.Гарас Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ПСГБС",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Максимова",
+                        "fullName": "проф. Максимова"
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "САПМОВП",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Нелина",
+                        "initials": "а",
+                        "fullName": "доц.Нелина Л.П."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Полит.социология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гарас",
+                        "initials": "с",
+                        "fullName": "доц.Гарас Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Полит.соц.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гарас",
+                        "initials": "с",
+                        "fullName": "доц.Гарас Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Соц.предпринимат.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шуневыч",
+                        "initials": "ч",
+                        "fullName": "доц.Шуневыч О.Б."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр. асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Потовская",
+                        "initials": "я",
+                        "fullName": "Потовская К.С."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр. асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Потовская",
+                        "initials": "я",
+                        "fullName": "Потовская К.С."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Полит. конфликтология асс.",
+                "rooms": [
+                    "8."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПСГБС",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Максимова",
+                        "fullName": "проф. Максимова"
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Полит.менеджмент проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Максимова",
+                        "initials": "а",
+                        "fullName": "Максимова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ОРГГ асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "САПМОВП асс.Демешко",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "САПМОВП асс.Демешко",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Проектная деятельность ст.пр.КовалевскийА.А.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Полит.конфликтология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гарас",
+                        "initials": "с",
+                        "fullName": "доц.Гарас Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "САПМОВП",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Нелина",
+                        "initials": "а",
+                        "fullName": "доц.Нелина Л.П."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Полит.социология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гарас",
+                        "initials": "с",
+                        "fullName": "доц.Гарас Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ОРГГ Демешко по 7.04.21",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Соц.предпринимат.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шуневыч",
+                        "initials": "ч",
+                        "fullName": "доц.Шуневыч О.Б."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр. асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Потовская",
+                        "initials": "я",
+                        "fullName": "Потовская К.С."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Полит. конфликтология асс.",
+                "rooms": [
+                    "8."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Максимова",
+                        "initials": "а",
+                        "fullName": "Максимова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Полит.менеджмент проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Максимова",
+                        "initials": "а",
+                        "fullName": "Максимова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Информационная безопасность асс.",
+                "rooms": [
+                    "В-308"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сагалаев",
+                        "initials": "в",
+                        "fullName": "Сагалаев А.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о",
+                    "РСО-б-19-1-о",
+                    "СОЦ-б-19-1-о",
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы российской государственности и гражданственности по 27.03.2021 проф.",
+                "rooms": [
+                    "В-308"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ирхин",
+                        "initials": "н",
+                        "fullName": "Ирхин А.А."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о",
+                    "РСО-б-19-1-о",
+                    "СОЦ-б-19-1-о",
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ИЯ асс.",
+                "rooms": [
+                    "В-309",
+                    "В-309"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Потовская",
+                        "initials": "я",
+                        "fullName": "Потовская К.С."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о",
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

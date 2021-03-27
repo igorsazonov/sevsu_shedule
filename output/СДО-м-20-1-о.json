@@ -1,0 +1,1770 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Планирование и проведение профильного психолого-педагогического исследования",
+                "rooms": [
+                    "316",
+                    "316",
+                    "316",
+                    "316",
+                    "316",
+                    "316",
+                    "316"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мурованная",
+                        "initials": "я",
+                        "fullName": "доц. Мурованная Н.Н."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный подход в коррекции нарушений письменной речи",
+                "rooms": [
+                    "307",
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курбангалиева",
+                        "initials": "а",
+                        "fullName": "доц. Курбангалиева Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный подход в коррекции нарушений письменной речи",
+                "rooms": [
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курбангалиева",
+                        "initials": "а",
+                        "fullName": "доц. Курбангалиева Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный подход в коррекции нарушений письменной речи",
+                "rooms": [
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курбангалиева",
+                        "initials": "а",
+                        "fullName": "доц. Курбангалиева Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный подход в коррекции нарушений письменной речи",
+                "rooms": [
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курбангалиева",
+                        "initials": "а",
+                        "fullName": "доц. Курбангалиева Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный подход в коррекции нарушений письменной речи",
+                "rooms": [
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курбангалиева",
+                        "initials": "а",
+                        "fullName": "доц. Курбангалиева Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный подход в коррекции нарушений письменной речи",
+                "rooms": [
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курбангалиева",
+                        "initials": "а",
+                        "fullName": "доц. Курбангалиева Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум: обработка данных психолого-педагогических исследований",
+                "rooms": [
+                    "207",
+                    "207",
+                    "207",
+                    "207",
+                    "207",
+                    "207",
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Козлова",
+                        "initials": "а",
+                        "fullName": "доц. Козлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Проектированиеиндивидуальных образовательных маршрутов для детей с ограниченными возможностями здоровья",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тишина",
+                        "initials": "а",
+                        "fullName": "доц. Тишина Л.А."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектированиеиндивидуальных образовательных маршрутов для детей с ограниченными возможностями здоровья",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тишина",
+                        "initials": "а",
+                        "fullName": "доц. Тишина Л.А."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектированиеиндивидуальных образовательных маршрутов для детей с ограниченными возможностями здоровья",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тишина",
+                        "initials": "а",
+                        "fullName": "доц. Тишина Л.А."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Проектированиеиндивидуальных образовательных маршрутов для детей с ограниченными возможностями здоровья",
+                "rooms": [
+                    "311",
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тишина",
+                        "initials": "а",
+                        "fullName": "доц. Тишина Л.А."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектированиеиндивидуальных образовательных маршрутов для детей с ограниченными возможностями здоровья",
+                "rooms": [
+                    "311",
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тишина",
+                        "initials": "а",
+                        "fullName": "доц. Тишина Л.А."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектированиеиндивидуальных образовательных маршрутов для детей с ограниченными возможностями здоровья",
+                "rooms": [
+                    "311",
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тишина",
+                        "initials": "а",
+                        "fullName": "доц. Тишина Л.А."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Проектирование и реализация психолого-педагогических технологий в коррекционно-реабилитационной работе",
+                "rooms": [
+                    "311",
+                    "311",
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Артемова",
+                        "initials": "а",
+                        "fullName": "доц. Артемова Е.С."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование и реализация психолого-педагогических технологий в коррекционно-реабилитационной работе",
+                "rooms": [
+                    "311",
+                    "311",
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Артемова",
+                        "initials": "а",
+                        "fullName": "доц. Артемова Е.С."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование и реализация психолого-педагогических технологий в коррекционно-реабилитационной работе",
+                "rooms": [
+                    "311",
+                    "311",
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Артемова",
+                        "initials": "а",
+                        "fullName": "доц. Артемова Е.С."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Планирование и проведение профильного психолого-педагогического исследования",
+                "rooms": [
+                    "316",
+                    "316",
+                    "316",
+                    "316",
+                    "316",
+                    "316",
+                    "316"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мурованная",
+                        "initials": "я",
+                        "fullName": "доц. Мурованная Н.Н."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Планирование и проведение профильного психолого-педагогического исследования",
+                "rooms": [
+                    "316",
+                    "316",
+                    "316",
+                    "316",
+                    "316",
+                    "316",
+                    "316"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мурованная",
+                        "initials": "я",
+                        "fullName": "доц. Мурованная Н.Н."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный подход в коррекции нарушений письменной речи",
+                "rooms": [
+                    "307",
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курбангалиева",
+                        "initials": "а",
+                        "fullName": "доц. Курбангалиева Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный подход в коррекции нарушений письменной речи",
+                "rooms": [
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курбангалиева",
+                        "initials": "а",
+                        "fullName": "доц. Курбангалиева Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный подход в коррекции нарушений письменной речи",
+                "rooms": [
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курбангалиева",
+                        "initials": "а",
+                        "fullName": "доц. Курбангалиева Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный подход в коррекции нарушений письменной речи",
+                "rooms": [
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курбангалиева",
+                        "initials": "а",
+                        "fullName": "доц. Курбангалиева Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный подход в коррекции нарушений письменной речи",
+                "rooms": [
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курбангалиева",
+                        "initials": "а",
+                        "fullName": "доц. Курбангалиева Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный подход в коррекции нарушений письменной речи",
+                "rooms": [
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курбангалиева",
+                        "initials": "а",
+                        "fullName": "доц. Курбангалиева Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Проектированиеиндивидуальных образовательных маршрутов для детей с ограниченными возможностями здоровья",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тишина",
+                        "initials": "а",
+                        "fullName": "доц. Тишина Л.А."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектированиеиндивидуальных образовательных маршрутов для детей с ограниченными возможностями здоровья",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тишина",
+                        "initials": "а",
+                        "fullName": "доц. Тишина Л.А."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектированиеиндивидуальных образовательных маршрутов для детей с ограниченными возможностями здоровья",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тишина",
+                        "initials": "а",
+                        "fullName": "доц. Тишина Л.А."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Проектированиеиндивидуальных образовательных маршрутов для детей с ограниченными возможностями здоровья",
+                "rooms": [
+                    "311",
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тишина",
+                        "initials": "а",
+                        "fullName": "доц. Тишина Л.А."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектированиеиндивидуальных образовательных маршрутов для детей с ограниченными возможностями здоровья",
+                "rooms": [
+                    "311",
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тишина",
+                        "initials": "а",
+                        "fullName": "доц. Тишина Л.А."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектированиеиндивидуальных образовательных маршрутов для детей с ограниченными возможностями здоровья",
+                "rooms": [
+                    "311",
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тишина",
+                        "initials": "а",
+                        "fullName": "доц. Тишина Л.А."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Научные методы технологии и мониторинговые исследования в специальном образовании",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Борякова",
+                        "initials": "а",
+                        "fullName": "доц. Борякова Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Проектирование и реализация психолого-педагогических технологий в коррекционно-реабилитационной работе",
+                "rooms": [
+                    "311",
+                    "311",
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Артемова",
+                        "initials": "а",
+                        "fullName": "доц. Артемова Е.С."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование и реализация психолого-педагогических технологий в коррекционно-реабилитационной работе",
+                "rooms": [
+                    "311",
+                    "311",
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Артемова",
+                        "initials": "а",
+                        "fullName": "доц. Артемова Е.С."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование и реализация психолого-педагогических технологий в коррекционно-реабилитационной работе",
+                "rooms": [
+                    "311",
+                    "311",
+                    "311",
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Артемова",
+                        "initials": "а",
+                        "fullName": "доц. Артемова Е.С."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование образовательного пространства",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Евтушенко",
+                        "initials": "о",
+                        "fullName": "проф. Евтушенко И.В."
+                    }
+                ],
+                "groups": [
+                    "СДО-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

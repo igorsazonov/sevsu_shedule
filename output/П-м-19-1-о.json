@@ -1,0 +1,573 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Современные направления психотерапевтической практики",
+                "rooms": [
+                    "207",
+                    "207",
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Современные направления психотерапевтической практики",
+                "rooms": [
+                    "47",
+                    "310",
+                    "316"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Лайф-коучинг",
+                "rooms": [
+                    "47",
+                    "206",
+                    "310"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Митина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Митина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Лайф-коучинг",
+                "rooms": [
+                    "261",
+                    "261",
+                    "261"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Митина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Митина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Психол. техн. П и Оц П в Орг.",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "НС: Фундаментальные и прикладные исследования современной психологии",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "НС: Фундаментальные и прикладные исследования современной психологии",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Психологические технологии подбора и оценки персонала в организации",
+                "rooms": [
+                    "304",
+                    "211",
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психологические технологии подбора и оценки персонала в организации",
+                "rooms": [
+                    "304",
+                    "206",
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Техники реабилитационных и коррекционной практик",
+                "rooms": [
+                    "304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Современные направления психотерапевтической практики",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Техники реабилитационных и коррекционной практик (до 20.02.21г)",
+                "rooms": [
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Современные направления психотерапевтической практики",
+                "rooms": [
+                    "207",
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Современные направления психотерапевтической практики",
+                "rooms": [
+                    "47",
+                    "16"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Лайф-коучинг",
+                "rooms": [
+                    "47",
+                    "316"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Митина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Митина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Лайф-коучинг",
+                "rooms": [
+                    "261",
+                    "261"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Митина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Митина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "НС: Фундаментальные и прикладные исследования современной психологии",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "НС: Фундаментальные и прикладные исследования современной психологии",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Психологические технологии подбора и оценки персонала в организации",
+                "rooms": [
+                    "206",
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психологические технологии подбора и оценки персонала в организации",
+                "rooms": [
+                    "206",
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Техники реабилитационных и коррекционной практик",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Современные направления психотерапевтической практики",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Техники реабилитационных и коррекционной практик (до 20.02.21г)",
+                "rooms": [
+                    "211"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

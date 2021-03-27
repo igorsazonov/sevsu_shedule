@@ -1,0 +1,949 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. язык",
+                "rooms": [
+                    "В-304",
+                    "Г-304",
+                    "В-204",
+                    "В-205",
+                    "Г-403",
+                    "А-003",
+                    "А-004"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "Алдошина Я.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "Малыгина К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "Остапенко А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "В-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Песчанский",
+                        "initials": "й",
+                        "fullName": "проф. Песчанский А.И."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Макроэкономика",
+                "rooms": [
+                    "В-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Малов",
+                        "initials": "в",
+                        "fullName": "асс. Малов А.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности (до 14.05)",
+                "rooms": [
+                    "В-310"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "ст.пр. Гутник В.С."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "421",
+                    "421",
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Миронов",
+                        "initials": "в",
+                        "fullName": "проф. Миронов А.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "423",
+                    "423",
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Песчанский",
+                        "initials": "й",
+                        "fullName": "проф. Песчанский А.И."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы математики (фак-в)",
+                "rooms": [
+                    "423",
+                    "423",
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Песчанский",
+                        "initials": "й",
+                        "fullName": "проф. Песчанский А.И."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. язык",
+                "rooms": [
+                    "В-304",
+                    "Г-303",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "В-213",
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "Алдошина Я.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "Малыгина К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "Остапенко А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "В-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Бичаков",
+                        "initials": "в",
+                        "fullName": "асс. Бичаков С.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Макроэкономика (кроме 18.03.2021)",
+                "rooms": [
+                    "361",
+                    "361",
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дребот",
+                        "initials": "т",
+                        "fullName": "ст.пр. Дребот А.М."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Микроэкономика (кроме 18.03.2021)",
+                "rooms": [
+                    "361",
+                    "361",
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Батракова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Батракова О.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "История экономических учений (кроме 18.03.2021)",
+                "rooms": [
+                    "357",
+                    "357",
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Байербах",
+                        "initials": "х",
+                        "fullName": "ст.пр. Байербах А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности (18.02 04.03 01.04 15.04)",
+                "rooms": [
+                    "357",
+                    "357",
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "ст.пр. Гутник В.С."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Микроэкономика",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Батракова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Батракова О.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы математики (фак-в)",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Песчанский",
+                        "initials": "й",
+                        "fullName": "проф. Песчанский А.И."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Ин. язык",
+                "rooms": [
+                    "В-304",
+                    "Г-304",
+                    "В-204",
+                    "В-205",
+                    "Г-403",
+                    "А-003",
+                    "А-004"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "Алдошина Я.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "Малыгина К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "Остапенко А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "В-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Песчанский",
+                        "initials": "й",
+                        "fullName": "проф. Песчанский А.И."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Макроэкономика",
+                "rooms": [
+                    "В-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Малов",
+                        "initials": "в",
+                        "fullName": "асс. Малов А.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Микроэкономика",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Батракова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Батракова О.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "История экономических учений",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Байербах",
+                        "initials": "х",
+                        "fullName": "ст.пр. Байербах А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы математики (фак-в)",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Песчанский",
+                        "initials": "й",
+                        "fullName": "проф. Песчанский А.И."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности (до 18.05)",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "ст.пр. Гутник В.С."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. язык",
+                "rooms": [
+                    "В-304",
+                    "Г-303",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "В-213",
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "Алдошина Я.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "Малыгина К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "Остапенко А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "В-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Бичаков",
+                        "initials": "в",
+                        "fullName": "асс. Бичаков С.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Макроэкономика (кроме 18.03.2021)",
+                "rooms": [
+                    "361",
+                    "361",
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дребот",
+                        "initials": "т",
+                        "fullName": "ст.пр. Дребот А.М."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Микроэкономика (кроме 18.03.2021)",
+                "rooms": [
+                    "361",
+                    "361",
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Батракова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Батракова О.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "История экономических учений (кроме 18.03.2021)",
+                "rooms": [
+                    "357",
+                    "357",
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Байербах",
+                        "initials": "х",
+                        "fullName": "ст.пр. Байербах А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ОУП: Основы налогообложения в РФ",
+                "rooms": [
+                    "155"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Зима",
+                        "initials": "а",
+                        "fullName": "ст.пр. Зима Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Основы налогообложения в РФ",
+                "rooms": [
+                    "358"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Зима",
+                        "initials": "а",
+                        "fullName": "ст.пр. Зима Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

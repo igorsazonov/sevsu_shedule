@@ -1,0 +1,806 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Т Е Х Н И Ч Е С К И Е С Р Е Д С Т В А С У Д О В О Ж Д Е Н И Я",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Подпорин",
+                        "initials": "н ",
+                        "fullName": "доц. Подпорин С. А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1-о",
+                    "С-с-18-2-о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "И Н Ф О Р М А Ц И О Н Н Ы Е Т Е Х Н О Л О Г И И в С У Д О В О Ж Д Е Н И И",
+                "rooms": [
+                    "24"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бугаев",
+                        "initials": "в ",
+                        "fullName": "доц. Бугаев П. А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1-о",
+                    "С-с-18-2-о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Н А В И Г А Ц И Я и Л О Ц И Я",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Аркин",
+                        "initials": "н",
+                        "fullName": "доц. Аркин Л.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1-о",
+                    "С-с-18-2-о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Г М О С 56",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Потапенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Потапенко С.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "И Т в С преп.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Опара",
+                        "initials": "а",
+                        "fullName": "Опара С.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Н и Л",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Аркин",
+                        "initials": "н",
+                        "fullName": "доц. Аркин Л.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Загородний",
+                        "initials": "й",
+                        "fullName": "доц. Загородний А.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Т СС",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Подпорин",
+                        "initials": "н ",
+                        "fullName": "доц. Подпорин С. А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Ивах",
+                        "initials": "х",
+                        "fullName": "доц. Ивах И.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Иваницкий",
+                        "initials": "й",
+                        "fullName": "доц.Иваницкий П.Г."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": "57\/37\/35"
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "И Т в С 57\/37\/35",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бугаев",
+                        "initials": "в",
+                        "fullName": "доц. Бугаев П.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Г М О С",
+                "rooms": [
+                    "56"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Потапенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Потапенко С.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Т СС",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Подпорин",
+                        "initials": "н ",
+                        "fullName": "доц. Подпорин С. А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Ивах",
+                        "initials": "х",
+                        "fullName": "доц. Ивах И.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Иваницкий",
+                        "initials": "й",
+                        "fullName": "доц.Иваницкий П.Г."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": "57\/37\/35"
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Иностранный язык (кроме 18.03.2021)",
+                "rooms": [
+                    "56"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а ",
+                        "fullName": "ст.пр. Никитина Е. В."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "О К в МЭМС (кроме 18.03.2021)",
+                "rooms": [
+                    "58"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Загородний",
+                        "initials": "й",
+                        "fullName": "доц. Загородний А.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Г И Д Р О М Е Т Е О Р О Л О Г И Ч Е С К О Е О Б Е С П Е Ч Е Н И Е С У Д О В О Ж Д Е Н И Я",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Потапенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Потапенко С.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Т Е Х Н И Ч Е С К И Е С Р Е Д С Т В А С У Д О В О Ж Д Е Н И Я",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Подпорин",
+                        "initials": "н ",
+                        "fullName": "доц. Подпорин С. А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "( П Е Р Е Е З Д на ул. У Н И В Е Р С И Т Е Т С К У Ю )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": "57\/37\/35"
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Т Р Е Н А Ж Е Р Н А Я П О Д Г О Т О В К А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Т Р Е Н А Ж Е Р Н А Я П О Д Г О Т О В К А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": "57\/37\/35"
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Т Е Х Н И Ч Е С К И Е С Р Е Д С Т В А С У Д О В О Ж Д Е Н И Я",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Подпорин",
+                        "initials": "н ",
+                        "fullName": "доц. Подпорин С. А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1-о",
+                    "С-с-18-2-о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "О С Н О В Ы К О М М У Н И К А Ц И И в М Н О Г О Н А Ц И О Н А Л Ь Н Ы Х Э К И П А Ж А Х М С",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Загородний",
+                        "initials": "й ",
+                        "fullName": "доц. Загородний А. А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1-о",
+                    "С-с-18-2-о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Г М О С 56",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Потапенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Потапенко С.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "И Т в С преп.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Опара",
+                        "initials": "а",
+                        "fullName": "Опара С.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Н и Л",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Аркин",
+                        "initials": "н",
+                        "fullName": "доц. Аркин Л.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Загородний",
+                        "initials": "й",
+                        "fullName": "доц. Загородний А.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Т СС",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Подпорин",
+                        "initials": "н ",
+                        "fullName": "доц. Подпорин С. А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Ивах",
+                        "initials": "х",
+                        "fullName": "доц. Ивах И.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Иваницкий",
+                        "initials": "й",
+                        "fullName": "доц.Иваницкий П.Г."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": "57\/37\/35"
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "И Т в С 57\/37\/35",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бугаев",
+                        "initials": "в",
+                        "fullName": "доц. Бугаев П.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Г М О С",
+                "rooms": [
+                    "56"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Потапенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Потапенко С.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Т СС",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Подпорин",
+                        "initials": "н ",
+                        "fullName": "доц. Подпорин С. А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Ивах",
+                        "initials": "х",
+                        "fullName": "доц. Ивах И.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Иваницкий",
+                        "initials": "й",
+                        "fullName": "доц.Иваницкий П.Г."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": "57\/37\/35"
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Иностранный язык (кроме 18.03.2021)",
+                "rooms": [
+                    "56"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а ",
+                        "fullName": "ст.пр. Никитина Е. В."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Ин. яз. ст.пр.",
+                "rooms": [
+                    "56"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитина",
+                        "initials": "а ",
+                        "fullName": "Никитина Е. В."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Г И Д Р О М Е Т Е О Р О Л О Г И Ч Е С К О Е О Б Е С П Е Ч Е Н И Е С У Д О В О Ж Д Е Н И Я",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Потапенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Потапенко С.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Т Е Х Н И Ч Е С К И Е С Р Е Д С Т В А С У Д О В О Ж Д Е Н И Я",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Подпорин",
+                        "initials": "н ",
+                        "fullName": "доц. Подпорин С. А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "( П Е Р Е Е З Д на ул. У Н И В Е Р С И Т Е Т С К У Ю )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": "57\/37\/35"
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Т Р Е Н А Ж Е Р Н А Я П О Д Г О Т О В К А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Т Р Е Н А Ж Е Р Н А Я П О Д Г О Т О В К А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": "57\/37\/35"
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

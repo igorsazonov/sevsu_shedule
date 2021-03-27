@@ -1,0 +1,685 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "О и У службой ЗИ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ожиганова",
+                        "initials": "а",
+                        "fullName": "доц. Ожиганова М.И."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "410",
+                "rooms": [
+                    "410"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "О и У службой ЗИ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ожиганова",
+                        "initials": "а",
+                        "fullName": "доц. Ожиганова М.И."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "410",
+                "rooms": [
+                    "410"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Основы управления информационной безопасностью",
+                "rooms": [
+                    "411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Егорова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Егорова А.О."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Методы и средства защиты программного обеспечения",
+                "rooms": [
+                    "411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лихолоб",
+                        "initials": "б",
+                        "fullName": "доц. Лихолоб П.Г."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Организация и управление службой защиты информации",
+                "rooms": [
+                    "411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ожиганова",
+                        "initials": "а",
+                        "fullName": "доц. Ожиганова М.И."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Методы и средства защиты программного обеспечения",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лихолоб",
+                        "initials": "б",
+                        "fullName": "доц. Лихолоб П.Г."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "435",
+                "rooms": [
+                    "435"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методы и средства защиты программного обеспечения",
+                "rooms": [
+                    "435"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лихолоб",
+                        "initials": "б",
+                        "fullName": "доц. Лихолоб П.Г."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "О и У службой ЗИ",
+                "rooms": [
+                    "410"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ожиганова",
+                        "initials": "а",
+                        "fullName": "доц. Ожиганова М.И."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "О и У службой ЗИ",
+                "rooms": [
+                    "410"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ожиганова",
+                        "initials": "а",
+                        "fullName": "доц. Ожиганова М.И."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Основы управления ИБ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Егорова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Егорова А.О."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "433",
+                "rooms": [
+                    "433"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы управления информационной безопасностью",
+                "rooms": [
+                    "405"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Рыжкин",
+                        "initials": "н",
+                        "fullName": "асс. Рыжкин А.С."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "О и У службой ЗИ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ожиганова",
+                        "initials": "а",
+                        "fullName": "доц. Ожиганова М.И."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "410",
+                "rooms": [
+                    "410"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы управления ИБ",
+                "rooms": [
+                    "435"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Егорова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Егорова А.О."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "О и У службой ЗИ",
+                "rooms": [
+                    "410"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ожиганова",
+                        "initials": "а",
+                        "fullName": "доц. Ожиганова М.И."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-1-о",
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Методы и средства защиты программного обеспечения",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лихолоб",
+                        "initials": "б",
+                        "fullName": "доц. Лихолоб П.Г."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "435",
+                "rooms": [
+                    "435"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методы и средства защиты программного обеспечения",
+                "rooms": [
+                    "435"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лихолоб",
+                        "initials": "б",
+                        "fullName": "доц. Лихолоб П.Г."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

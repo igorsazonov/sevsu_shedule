@@ -1,0 +1,498 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Теоретическая механика. Механика сплошных сред (кроме 18.03.2021)",
+                "rooms": [
+                    "В-414"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Завьялова",
+                        "initials": "а ",
+                        "fullName": "доц. Завьялова О. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретическая механика. Механика сплошных сред (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-405"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Завьялова",
+                        "initials": "а ",
+                        "fullName": "доц. Завьялова О. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Иностранный язык асс. ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-205",
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранова",
+                        "initials": "а ",
+                        "fullName": "доц. Баранова А. В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а ",
+                        "fullName": "доц. Кабанкова Е. Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сабельникова",
+                        "initials": "а ",
+                        "fullName": "Сабельникова А. А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а ",
+                        "fullName": "асс. Еремина Ю. Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Мжачева",
+                        "initials": "а ",
+                        "fullName": "асс. Мжачева М. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Потовская",
+                        "initials": "я ",
+                        "fullName": "асс. Потовская К. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс. ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-205",
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранова",
+                        "initials": "а ",
+                        "fullName": "доц. Баранова А. В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а ",
+                        "fullName": "доц. Кабанкова Е. Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сабельникова",
+                        "initials": "а ",
+                        "fullName": "Сабельникова А. А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а ",
+                        "fullName": "асс. Еремина Ю. Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Мжачева",
+                        "initials": "а ",
+                        "fullName": "асс. Мжачева М. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Потовская",
+                        "initials": "я ",
+                        "fullName": "асс. Потовская К. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "В-411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Строкина",
+                        "initials": "а ",
+                        "fullName": "доц. Строкина С. П."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Физическая химия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Корж",
+                        "initials": "ж ",
+                        "fullName": "доц. Корж Е. Н."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Физическая химия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Корж",
+                        "initials": "ж ",
+                        "fullName": "доц. Корж Е. Н."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Теоретическая механика. Механика сплошных сред (кроме 18.03.2021)",
+                "rooms": [
+                    "В-414"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Завьялова",
+                        "initials": "а ",
+                        "fullName": "доц. Завьялова О. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретическая механика. Механика сплошных сред (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-405"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Завьялова",
+                        "initials": "а ",
+                        "fullName": "доц. Завьялова О. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Иностранный язык асс. ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-205",
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранова",
+                        "initials": "а ",
+                        "fullName": "доц. Баранова А. В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а ",
+                        "fullName": "доц. Кабанкова Е. Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сабельникова",
+                        "initials": "а ",
+                        "fullName": "Сабельникова А. А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а ",
+                        "fullName": "асс. Еремина Ю. Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Мжачева",
+                        "initials": "а ",
+                        "fullName": "асс. Мжачева М. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Потовская",
+                        "initials": "я ",
+                        "fullName": "асс. Потовская К. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс. ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-205",
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранова",
+                        "initials": "а ",
+                        "fullName": "доц. Баранова А. В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а ",
+                        "fullName": "доц. Кабанкова Е. Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сабельникова",
+                        "initials": "а ",
+                        "fullName": "Сабельникова А. А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а ",
+                        "fullName": "асс. Еремина Ю. Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Мжачева",
+                        "initials": "а ",
+                        "fullName": "асс. Мжачева М. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Потовская",
+                        "initials": "я ",
+                        "fullName": "асс. Потовская К. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "В-411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Строкина",
+                        "initials": "а ",
+                        "fullName": "доц. Строкина С. П."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Физическая химия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Корж",
+                        "initials": "ж ",
+                        "fullName": "доц. Корж Е. Н."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Физическая химия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Корж",
+                        "initials": "ж ",
+                        "fullName": "доц. Корж Е. Н."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

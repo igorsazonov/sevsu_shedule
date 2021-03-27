@@ -1,0 +1,791 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Проблемы теории государства и права",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Стаценко",
+                        "initials": "о",
+                        "fullName": "доц. Стаценко О.С."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-2-о",
+                    "Ю-б-17-3-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Договорное право",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Богданов",
+                        "initials": "в",
+                        "fullName": "проф. Богданов Д.Е."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-2-о",
+                    "Ю-б-17-3-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Право социального обеспечения",
+                "rooms": [
+                    "421",
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Малахова",
+                        "initials": "а",
+                        "fullName": "доц. Малахова С.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-2-о",
+                    "Ю-б-17-3-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Актуальные проблемы гражданского права",
+                "rooms": [
+                    "421",
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кондратюк",
+                        "initials": "к",
+                        "fullName": "доц. Кондратюк Д.Л."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-2-о",
+                    "Ю-б-17-3-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Криминалистика (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попова",
+                        "initials": "а",
+                        "fullName": "доц. Попова Л.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проблемы теории государства и права (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Стаценко",
+                        "initials": "о",
+                        "fullName": "доц. Стаценко О.С."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Договорное право (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Путренко",
+                        "initials": "о",
+                        "fullName": "доц. Путренко А.Н."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Актуальные проблемы гражданского права",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кондратюк",
+                        "initials": "к",
+                        "fullName": "доц. Кондратюк Д.Л."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Договорное право",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Путренко",
+                        "initials": "о",
+                        "fullName": "доц. Путренко А.Н."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Право интеллектуальной собственности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Думитрашко",
+                        "initials": "о",
+                        "fullName": "доц. Думитрашко Е.И."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Право интеллектуальной собственности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Думитрашко",
+                        "initials": "о",
+                        "fullName": "доц. Думитрашко Е.И."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Право социального обеспечения",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Малахова",
+                        "initials": "а",
+                        "fullName": "доц. Малахова С.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Проблемы теории государства и права",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Стаценко",
+                        "initials": "о",
+                        "fullName": "доц. Стаценко О.С."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-2-о",
+                    "Ю-б-17-3-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Договорное право",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Богданов",
+                        "initials": "в",
+                        "fullName": "проф. Богданов Д.Е."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-2-о",
+                    "Ю-б-17-3-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Криминалистика",
+                "rooms": [
+                    "421",
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попова",
+                        "initials": "а",
+                        "fullName": "доц. Попова Л.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-2-о",
+                    "Ю-б-17-3-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Право интеллектуальной собственности",
+                "rooms": [
+                    "421",
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Думитрашко",
+                        "initials": "о",
+                        "fullName": "доц. Думитрашко Е.И."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-1-о",
+                    "Ю-б-17-2-о",
+                    "Ю-б-17-3-о",
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Криминалистика (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попова",
+                        "initials": "а",
+                        "fullName": "доц. Попова Л.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Проблемы теории государства и права (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Стаценко",
+                        "initials": "о",
+                        "fullName": "доц. Стаценко О.С."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Актуальные проблемы гражданского права",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кондратюк",
+                        "initials": "к",
+                        "fullName": "доц. Кондратюк Д.Л."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Криминалистика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попова",
+                        "initials": "а",
+                        "fullName": "доц. Попова Л.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проблемы теории государства и права",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Стаценко",
+                        "initials": "о",
+                        "fullName": "доц. Стаценко О.С."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Договорное право",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Путренко",
+                        "initials": "о",
+                        "fullName": "доц. Путренко А.Н."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Криминалистика ЛЗ",
+                "rooms": [
+                    "Б 301"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попова",
+                        "fullName": "доц. Попова"
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Право интеллектуальной собственности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Думитрашко",
+                        "initials": "о",
+                        "fullName": "доц. Думитрашко Е.И."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Право социального обеспечения",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Малахова",
+                        "initials": "а",
+                        "fullName": "доц. Малахова С.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Актуальные проблемы гражданского права",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кондратюк",
+                        "initials": "к",
+                        "fullName": "доц. Кондратюк Д.Л."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-17-4-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

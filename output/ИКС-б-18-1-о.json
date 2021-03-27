@@ -1,0 +1,825 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Надежность в инфокоммуникационных системах",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Слезкин",
+                        "initials": "н",
+                        "fullName": "доц.Слезкин В.Г."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы приема и обработки сигналов",
+                "rooms": [
+                    "Б-406"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Неведров",
+                        "initials": "в ",
+                        "fullName": "асс. Неведров М. Г."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Системы мобильной радиосвязи (Mobile radio communication systems)",
+                "rooms": [
+                    "В-412"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Неведров",
+                        "initials": "в ",
+                        "fullName": "асс. Неведров М. Г."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Основы приёма и обработки сигналов",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьянчиков",
+                        "initials": "в ",
+                        "fullName": "доц. Лукьянчиков   А. В."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы телевидения и видеотехники",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Начаров",
+                        "initials": "в",
+                        "fullName": "доц. Начаров Д.В."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Системы мобильной радиосвязи (Mobile radio communication systems)",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Сердюк",
+                        "initials": "к",
+                        "fullName": "доц.Сердюк И.В."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Основы построения инфокоммуникационных систем и сетей (кроме 18.03.2021)",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Савочкин",
+                        "initials": "н",
+                        "fullName": "доц. Савочкин А.А."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Основы компьютерного проектирования и моделирования Р Э А ст.пр. (кроме 18.03.2021)",
+                "rooms": [
+                    "В-404"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Табакаев",
+                        "initials": "в ",
+                        "fullName": "Табакаев  Д. И."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "О П И К С и С (кроме 18.03.2021)",
+                "rooms": [
+                    "В-412"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Кузьменко",
+                        "initials": "о ",
+                        "fullName": "асс. Кузьменко В. А."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Технологиии ЗИ в ИК асс.",
+                "rooms": [
+                    "В-410"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Савинов",
+                        "initials": "в",
+                        "fullName": "Савинов В.В."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы телевидения и видеотехники",
+                "rooms": [
+                    "Б-404"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Начаров",
+                        "initials": "в ",
+                        "fullName": "доц. Начаров Д. В."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы телевидения и видеотехники",
+                "rooms": [
+                    "Б-404"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Начаров",
+                        "initials": "в ",
+                        "fullName": "доц. Начаров Д. В."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "О П И К С и С",
+                "rooms": [
+                    "В-412"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Кузьменко",
+                        "initials": "о ",
+                        "fullName": "асс. Кузьменко В. А."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Надежность в инфокоммуникационных системах",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Слезкин",
+                        "initials": "н",
+                        "fullName": "доц.Слезкин В.Г."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы приема и обработки сигналов",
+                "rooms": [
+                    "Б-406"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Неведров",
+                        "initials": "в ",
+                        "fullName": "асс. Неведров М. Г."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Системы мобильной радиосвязи (Mobile radio communication systems)",
+                "rooms": [
+                    "В-412"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Неведров",
+                        "initials": "в ",
+                        "fullName": "асс. Неведров М. Г."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "О П И К С и С",
+                "rooms": [
+                    "В-412"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Кузьменко",
+                        "initials": "о ",
+                        "fullName": "асс. Кузьменко В. А."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "О П И К С и С",
+                "rooms": [
+                    "В-412"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Кузьменко",
+                        "initials": "о ",
+                        "fullName": "асс. Кузьменко В. А."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Основы приёма и обработки сигналов",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьянчиков",
+                        "initials": "в ",
+                        "fullName": "доц. Лукьянчиков   А. В."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы компьютерного проектирования и моделирования Р Э А",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Сердюк",
+                        "initials": "к ",
+                        "fullName": "доц. Сердюк И. В."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Основы компьютерного проектирования и моделирования Р Э А ст.пр.",
+                "rooms": [
+                    "В-404"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Табакаев",
+                        "initials": "в ",
+                        "fullName": "Табакаев  Д. И."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Надежность в инфокоммуникационных системах",
+                "rooms": [
+                    "В-412"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Неведров",
+                        "initials": "в ",
+                        "fullName": "асс. Неведров М. Г."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Надежность в инфокоммуникационных системах",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Афонин",
+                        "initials": "н ",
+                        "fullName": "проф. Афонин И. Л."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Основы приёма и обработки сигналов",
+                "rooms": [
+                    "Б-406"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьянчиков",
+                        "initials": "в ",
+                        "fullName": "доц. Лукьянчиков   А. В."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Технологиии защиты информации в инфокоммуникациях",
+                "rooms": [
+                    "В-410"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лащенко",
+                        "initials": "о",
+                        "fullName": "доц. Лащенко И.В."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы построения инфокоммуникационных систем и сетей",
+                "rooms": [
+                    "Б-401"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Савочкин",
+                        "initials": "н ",
+                        "fullName": "доц. Савочкин А. А."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Технологиии ЗИ в ИК",
+                "rooms": [
+                    "В-410"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лащенко",
+                        "initials": "о",
+                        "fullName": "доц. Лащенко И.В."
+                    }
+                ],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИКС-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

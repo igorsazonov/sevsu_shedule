@@ -1,0 +1,670 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "История Древнего мира ( Древний Восток Древняя Греция Древний Рим ) проф.",
+                "rooms": [
+                    "В-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хлевов",
+                        "initials": "в",
+                        "fullName": "Хлевов А.А."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о",
+                    "И-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "История Древнего мира (ДВДГДР)проф.Хлевов",
+                "rooms": [
+                    "В-314"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.асс.асс. 1.4 1.5 3.14.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сабельникова",
+                        "initials": "а",
+                        "fullName": "Сабельникова А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Секрет",
+                        "initials": "т",
+                        "fullName": "Секрет К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Мжачева",
+                        "initials": "а",
+                        "fullName": "Мжачева М.В."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-20-1-о",
+                    "И-б-20-1-о",
+                    "И-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ДЯКст.пр.Гордиенко Т.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Логика и технологии мышления",
+                "rooms": [
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц.Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о",
+                    "И-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "История России ( до 20 века) проф.",
+                "rooms": [
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Козлов",
+                        "initials": "в",
+                        "fullName": "Козлов М.Н."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о",
+                    "И-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности ст.пр. По 31.03.2021",
+                "rooms": [
+                    "Г-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о",
+                    "И-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ДЯКст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гордиенко",
+                        "initials": "о",
+                        "fullName": "Гордиенко Т.В."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "История России ( до 20 века) проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Козлов",
+                        "initials": "в",
+                        "fullName": "Козлов М.Н."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.асс.асс. 4 6 3.8.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сабельникова",
+                        "initials": "а",
+                        "fullName": "Сабельникова А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Секрет",
+                        "initials": "т",
+                        "fullName": "Секрет К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Мжачева",
+                        "initials": "а",
+                        "fullName": "Мжачева М.В."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-20-1-о",
+                    "И-б-20-1-о",
+                    "И-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ДЯК ПЗ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гордиенко",
+                        "initials": "о",
+                        "fullName": "Гордиенко Т.В."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Философия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галяс",
+                        "initials": "с",
+                        "fullName": "доц.Галяс И.А."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галяс",
+                        "initials": "с",
+                        "fullName": "доц.Галяс И.А."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о",
+                    "И-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Логика и технол.мышления",
+                "rooms": [
+                    "4."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц.Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеят.",
+                "rooms": [
+                    "4."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одинцов",
+                        "initials": "в",
+                        "fullName": "доц.Одинцов А.Н."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.асс.асс. 1.4 1.5 3.14.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сабельникова",
+                        "initials": "а",
+                        "fullName": "Сабельникова А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Секрет",
+                        "initials": "т",
+                        "fullName": "Секрет К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Мжачева",
+                        "initials": "а",
+                        "fullName": "Мжачева М.В."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-20-1-о",
+                    "И-б-20-1-о",
+                    "И-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ДЯКст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гордиенко",
+                        "initials": "о",
+                        "fullName": "Гордиенко Т.В."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "ДЯКст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гордиенко",
+                        "initials": "о",
+                        "fullName": "Гордиенко Т.В."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "История России ( до 20 века) проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Козлов",
+                        "initials": "в",
+                        "fullName": "Козлов М.Н."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Мировая литерат. традиция ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кабанова",
+                        "initials": "а",
+                        "fullName": "Кабанова Н.Е."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.асс.асс. 4 6 3.8.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сабельникова",
+                        "initials": "а",
+                        "fullName": "Сабельникова А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Секрет",
+                        "initials": "т",
+                        "fullName": "Секрет К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Мжачева",
+                        "initials": "а",
+                        "fullName": "Мжачева М.В."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-20-1-о",
+                    "И-б-20-1-о",
+                    "И-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ДЯК ПЗ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гордиенко",
+                        "initials": "о",
+                        "fullName": "Гордиенко Т.В."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Археология пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Матросов",
+                        "initials": "в",
+                        "fullName": "Матросов М.А."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Археология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бочаров",
+                        "initials": "в",
+                        "fullName": "доц.Бочаров С.Г."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о",
+                    "И-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галяс",
+                        "initials": "с",
+                        "fullName": "доц.Галяс И.А."
+                    }
+                ],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "ЭКФКС по 10.04.2021",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "БЖД доц.Одинцов по10.04.2021ЭКФКС с 24.04",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Мировая литературная традиция старший преподаватель Кабанова Наталья Евгеньевна",
+                "rooms": [
+                    "423"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СОЦ-б-20-1-о",
+                    "Ж-б-20-1-о",
+                    "РСО-б-20-1-о",
+                    "ПОЛ-б-20-1-о",
+                    "И-б-20-1-о",
+                    "И-б-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,348 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Логистика на предприятиях ОП доц.Бояркина Л по 8.03ПЗ с 15.03",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "304",
+                    "304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Семенкина",
+                        "initials": "а",
+                        "fullName": "доц.Семенкина И.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о",
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Инновац.менеджмент и маркетинг ст.пр.Юрченко Л по 8.03ПЗ с 15.03",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Концепции современ.диетологии ст.пр.Светличная О.В",
+                "rooms": [
+                    "312"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ГЭКП доц.Прокопенко И.А",
+                "rooms": [
+                    "312"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Соврем.проб.науки в пищ.промыш. доц.Прокопенко И.А",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Конц.совр.диетст.пр.Светличная О.В",
+                "rooms": [
+                    "04."
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Метод.иссл.деят.в пищ.производ доц.Веляев Л по18.03ПЗ с 25.03.21",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Совр.мет.исслед.сырья и продук. доц.Веляев Л по11.03ПЗ с18.03.21",
+                "rooms": [
+                    "04."
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Инновац.технолог.в общ.питании доц.Веляев Л по 4.03ПЗ с11.03.21",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ГЭКП доц.Прокопенко Л по 22.03.21",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Логистика на предприятиях ОП доц.Бояркина Л по 8.03ПЗ с 15.03",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "304",
+                    "304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Семенкина",
+                        "initials": "а",
+                        "fullName": "доц.Семенкина И.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о",
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Инновац.менеджмент и маркетинг ст.пр.Юрченко Л по 8.03ПЗ с 15.03",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Концепции современ.диетологии ст.пр.Светличная О.В",
+                "rooms": [
+                    "312"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семин.доц.Прокопенко И.А",
+                "rooms": [
+                    "312"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Соврем.проб.науки в пищ.промыш. доц.Прокопенко И.А",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Метод.иссл.деят.в пищ.производ доц.Веляев Л по18.03ПЗ с 25.03.21",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Совр.мет.исслед.сырья и продук. доц.Веляев Л по11.03ПЗ с18.03.21",
+                "rooms": [
+                    "04."
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Инновац.технолог.в общ.питании доц.Веляев Л по 4.03ПЗ с11.03.21",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

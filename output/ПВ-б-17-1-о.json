@@ -1,0 +1,709 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Промышленная экология \/ф-в\/ Без 8.03",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гавриш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Гавриш О.П."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Расчет и проектирование очистных сооружений",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Расчет и проектирование очист.сооружений",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "initials": "к",
+                        "fullName": "доц. Кучерик Г.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Технология очистки промышленных сбросов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "initials": "к",
+                        "fullName": "доц. Кучерик Г.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Технология очистки промышленных сбросов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "initials": "к",
+                        "fullName": "доц. Кучерик Г.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Специальное природопользование (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Промышленная экология \/ф-в\/ Без 11.03 (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гавриш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Гавриш О.П."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Расчет и проектирование очистных сооружений (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "initials": "к",
+                        "fullName": "доц. Кучерик Г.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Экологический мониторинг",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дербасова",
+                        "initials": "а",
+                        "fullName": "доц. Дербасова Н.М."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Экологический мониторинг",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дербасова",
+                        "initials": "а",
+                        "fullName": "доц. Дербасова Н.М."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Управление водохозяйственными системами",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Специальное природопользование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Управление водохозяйственными системами",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Управление водохозяйственными системами",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Промышленная экология \/ф-в\/ Без 8.03",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гавриш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Гавриш О.П."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Расчет и проектирование очистных сооружений",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Технология очистки промышленных сбросов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "initials": "к",
+                        "fullName": "доц. Кучерик Г.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Технология очистки промышленных сбросов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "initials": "к",
+                        "fullName": "доц. Кучерик Г.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Специальное природопользование (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Промышленная экология \/ф-в\/ Без 11.03 (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гавриш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Гавриш О.П."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Расчет и проектирование очистных сооружений (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "initials": "к",
+                        "fullName": "доц. Кучерик Г.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Экологический мониторинг",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дербасова",
+                        "initials": "а",
+                        "fullName": "доц. Дербасова Н.М."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Экологический мониторинг",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дербасова",
+                        "initials": "а",
+                        "fullName": "доц. Дербасова Н.М."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Управление водохозяйственными системами",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Специальное природопользование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

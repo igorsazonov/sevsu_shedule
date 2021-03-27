@@ -1,0 +1,522 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Английская литература по языке оригинала\/ Englsh Authentic Literature",
+                "rooms": [
+                    "110"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Халезова",
+                        "initials": "а",
+                        "fullName": "доц. Халезова Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Английская литература по языке оригинала\/ Englsh Authentic Literature",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Халезова",
+                        "initials": "а",
+                        "fullName": "доц. Халезова Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Практикумпо профессиональной межкультурной коммуникации (основной иностранный язык)",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ермоленко",
+                        "initials": "о",
+                        "fullName": "доц. Ермоленко А.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Халезова",
+                        "initials": "а",
+                        "fullName": "доц. Халезова Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "МК на Евр.Яз (нем.яз.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бутева",
+                        "initials": "а",
+                        "fullName": "доц. Бутева В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "18",
+                "rooms": [
+                    "18",
+                    "47",
+                    "261"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Теория ВИЯ (нем.яз.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бутева",
+                        "initials": "а",
+                        "fullName": "доц. Бутева В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "18",
+                "rooms": [
+                    "18",
+                    "47",
+                    "261"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Самойленко",
+                        "initials": "о",
+                        "fullName": "проф. Самойленко Н.Б."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Тяллева",
+                        "initials": "а",
+                        "fullName": "доц. Тяллева И.А."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Аналитическое чтение",
+                "rooms": [
+                    "312"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вишнякова",
+                        "initials": "а",
+                        "fullName": "доц. Вишнякова А.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Актуальные вопросы когнитивной лингвистити",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Барашева",
+                        "initials": "а",
+                        "fullName": "доц. Барашева Д.Е."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Актуальные вопросы когнитивной лингвистити",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Барашева",
+                        "initials": "а",
+                        "fullName": "доц. Барашева Д.Е."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Научный семинар (journal club)",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ермоленко",
+                        "initials": "о",
+                        "fullName": "доц. Ермоленко А.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Халезова",
+                        "initials": "а",
+                        "fullName": "доц. Халезова Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Практикумпо профессиональной межкультурной коммуникации (основной иностранный язык)",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ермоленко",
+                        "initials": "о",
+                        "fullName": "доц. Ермоленко А.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Халезова",
+                        "initials": "а",
+                        "fullName": "доц. Халезова Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "МК на Евр.Яз (нем.яз.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бутева",
+                        "initials": "а",
+                        "fullName": "доц. Бутева В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "18",
+                "rooms": [
+                    "18",
+                    "47",
+                    "261"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Теория ВИЯ (нем.яз.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бутева",
+                        "initials": "а",
+                        "fullName": "доц. Бутева В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "18",
+                "rooms": [
+                    "18",
+                    "47",
+                    "261"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Самойленко",
+                        "initials": "о",
+                        "fullName": "проф. Самойленко Н.Б."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Тяллева",
+                        "initials": "а",
+                        "fullName": "доц. Тяллева И.А."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Методология научного исследования",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузема",
+                        "initials": "а",
+                        "fullName": "доц. Кузема Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Методология научного исследования",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кузема",
+                        "initials": "а",
+                        "fullName": "доц. Кузема Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

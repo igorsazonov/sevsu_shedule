@@ -1,0 +1,1223 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Теория информации для защиты информационных процессов",
+                "rooms": [
+                    "А-44"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Гончаренко",
+                        "initials": "о",
+                        "fullName": "проф. Гончаренко Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Сигналы и процессы в инфокоммуникациях",
+                "rooms": [
+                    "А-44"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Афонин",
+                        "initials": "н",
+                        "fullName": "проф. Афонин И.Л."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Документальное обеспечение информационной безопасности",
+                "rooms": [
+                    "А-44"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лихолоб",
+                        "initials": "б",
+                        "fullName": "доц. Лихолоб П.Г."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Руденко Ж.А."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы ИБ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Девицына",
+                        "initials": "а",
+                        "fullName": "доц. Девицына С.Н."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "Г 403"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Физич.основы ЗИ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пелись",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пелись В.В."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Сигналы и процессы в ТК",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Овчаров",
+                        "initials": "в",
+                        "fullName": "пр. Овчаров П.П."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЛЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "В 409"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "463"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Теория информации для защиты информационных процессов",
+                "rooms": [
+                    "410"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Гончаренко",
+                        "initials": "о",
+                        "fullName": "проф. Гончаренко Ю.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Докум.обеспечение ИБ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Смычков",
+                        "initials": "в",
+                        "fullName": "ст.пр. Смычков Е.Е."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "403",
+                "rooms": [
+                    "403"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ММИ операций в ИБ",
+                "rooms": [
+                    "435"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маслова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Маслова М.А."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ТИ для защиты ИП",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Голиков",
+                        "initials": "в",
+                        "fullName": "доц. Голиков С.Б."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ЛЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "В 214"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Докум.обеспечение ИБ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Смычков",
+                        "initials": "в",
+                        "fullName": "асс. Смычков А.Е."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Сигналы и процессы в инфокоммуникациях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Бойко",
+                        "initials": "о",
+                        "fullName": "пр. Бойко А.И."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Математические методы исследования операций в информационной безопасности",
+                "rooms": [
+                    "А-44"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маслова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Маслова М.А."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы информационной безопасности",
+                "rooms": [
+                    "А-44"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Девицына",
+                        "initials": "а",
+                        "fullName": "доц. Девицына С.Н."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Сигналы и процессы в инфокоммуникациях",
+                "rooms": [
+                    "А-44"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Афонин",
+                        "initials": "н",
+                        "fullName": "проф. Афонин И.Л."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Электроника и схемотехника",
+                "rooms": [
+                    "А-44"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Быковский",
+                        "initials": "й",
+                        "fullName": "доц. Быковский Ю.М."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Руденко Ж.А."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "СК",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы ИБ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Девицына",
+                        "initials": "а",
+                        "fullName": "доц. Девицына С.Н."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Сигналы и процессы в ТК",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Овчаров",
+                        "initials": "в",
+                        "fullName": "пр. Овчаров П.П."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-1-о",
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "463"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Электроника и схемотехника",
+                "rooms": [
+                    "385"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Быковский",
+                        "initials": "й",
+                        "fullName": "доц. Быковский Ю.М."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ММИ операций в ИБ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Маслова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Маслова М.А."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ЛЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "435",
+                "rooms": [
+                    "435"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Докум.обеспечение ИБ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Смычков",
+                        "initials": "в",
+                        "fullName": "ст.пр. Смычков Е.Е."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "Б 505"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Докум.обеспечение ИБ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Смычков",
+                        "initials": "в",
+                        "fullName": "асс. Смычков А.Е."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Физич.основы ЗИ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пелись",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пелись В.В."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ЛЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "Б 404"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ТИ для защиты ИП",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Голиков",
+                        "initials": "в",
+                        "fullName": "доц. Голиков С.Б."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ИБ-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

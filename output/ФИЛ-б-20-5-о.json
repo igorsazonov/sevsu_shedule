@@ -1,0 +1,686 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык. Практическая грамматика практическая фонетика практикум по оригинальной литературе",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "initials": "к",
+                        "fullName": "ст.пр. Корончик В.Г."
+                    },
+                    {
+                        "state": "lecturer",
+                        "surname": "Руснакова",
+                        "initials": "а",
+                        "fullName": "пр. Руснакова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Практический курс английского языка",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "initials": "к",
+                        "fullName": "ст.пр. Корончик В.Г."
+                    },
+                    {
+                        "state": "lecturer",
+                        "surname": "Руснакова",
+                        "initials": "а",
+                        "fullName": "пр. Руснакова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Практикум по орфографии и пунктуации русского языка",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дашко",
+                        "initials": "о",
+                        "fullName": "доц. Дашко Е.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Лексика и фразеология современного русского языка",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Цицкун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Цицкун В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по культуре речи русского языка",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Цицкун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Цицкун В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности ( с 10.03.2021г. )",
+                "rooms": [
+                    "313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Шагова",
+                        "initials": "а",
+                        "fullName": "асс. Шагова Ю.О."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Практический курс английского языка",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "initials": "к",
+                        "fullName": "ст.пр. Корончик В.Г."
+                    },
+                    {
+                        "state": "lecturer",
+                        "surname": "Руснакова",
+                        "initials": "а",
+                        "fullName": "пр. Руснакова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "110"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц. Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по орфографии и пунктуации русского языка",
+                "rooms": [
+                    "110"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дашко",
+                        "initials": "о",
+                        "fullName": "доц. Дашко Е.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык. Практическая грамматика практическая фонетика практикум по оригинальной литературе",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "initials": "к",
+                        "fullName": "ст.пр. Корончик В.Г."
+                    },
+                    {
+                        "state": "lecturer",
+                        "surname": "Руснакова",
+                        "initials": "а",
+                        "fullName": "пр. Руснакова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИМЛ ЭпСр. И В",
+                "rooms": [
+                    "110"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаренко",
+                        "initials": "о",
+                        "fullName": "доц. Макаренко Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "ОБЩИЙ УНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык. Практическая грамматика практическая фонетика практикум по оригинальной литературе",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "initials": "к",
+                        "fullName": "ст.пр. Корончик В.Г."
+                    },
+                    {
+                        "state": "lecturer",
+                        "surname": "Руснакова",
+                        "initials": "а",
+                        "fullName": "пр. Руснакова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Практический курс английского языка",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "initials": "к",
+                        "fullName": "ст.пр. Корончик В.Г."
+                    },
+                    {
+                        "state": "lecturer",
+                        "surname": "Руснакова",
+                        "initials": "а",
+                        "fullName": "пр. Руснакова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Практикум по орфографии и пунктуации русского языка",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дашко",
+                        "initials": "о",
+                        "fullName": "доц. Дашко Е.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Лексика и фразеология современного русского языка",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Цицкун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Цицкун В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по культуре речи русского языка",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Цицкун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Цицкун В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности ( с 10.03.2021г. )",
+                "rooms": [
+                    "313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Шагова",
+                        "initials": "а",
+                        "fullName": "асс. Шагова Ю.О."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "БЕЗОПАСНОСТЬ ЖИЗНЕДЕЯТЕЛЬНОСТИ (11 25.02.2021г; 11 25.03.2021г)",
+                "rooms": [
+                    "235"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одинцов",
+                        "initials": "в",
+                        "fullName": "доц. Одинцов А.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Ф И Л О С О Ф И Я",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц. Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ИСТОРИЯ МИРОВОЙ ЛИТЕРАТУРЫ ЭПОХИ СРЕДНЕВЕКОВЬЯ И ВОЗРОЖДЕНИЯ",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаренко",
+                        "initials": "о",
+                        "fullName": "доц. Макаренко Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЛЕКСИКА И ФРАЗЕОЛОГИЯ СОВРЕМЕННОГО РУССКОГО ЯЗЫКА",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Цицкун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Цицкун В.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "110"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц. Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по орфографии и пунктуации русского языка",
+                "rooms": [
+                    "110"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дашко",
+                        "initials": "о",
+                        "fullName": "доц. Дашко Е.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык. Практическая грамматика практическая фонетика практикум по оригинальной литературе",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Корончик",
+                        "initials": "к",
+                        "fullName": "ст.пр. Корончик В.Г."
+                    },
+                    {
+                        "state": "lecturer",
+                        "surname": "Руснакова",
+                        "initials": "а",
+                        "fullName": "пр. Руснакова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "ОБЩИЙ УНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-20-3-о",
+                    "ФИЛ-б-20-5-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

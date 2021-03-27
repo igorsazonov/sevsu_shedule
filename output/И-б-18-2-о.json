@@ -1,0 +1,713 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Управление проектами",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осиповский",
+                        "initials": "й",
+                        "fullName": "доц.Осиповский С.Н."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ИЯБС(араб.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канах",
+                        "initials": "х",
+                        "fullName": "доц.Канах А.М."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Количественные методы в социогуманитарных исследов.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц.Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Новая и новейшая история",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бойцова",
+                        "initials": "а",
+                        "fullName": "доц.Бойцова Е.Е."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "История южных и западных славян",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шахин",
+                        "initials": "н",
+                        "fullName": "доц.Шахин Ю.В."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Специальные исторические дисциплины",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осиповский",
+                        "initials": "й",
+                        "fullName": "доц.Осиповский С.Н."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Специальные исторические дисциплины",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осиповский",
+                        "initials": "й",
+                        "fullName": "доц.Осиповский С.Н."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Политическая география Большого Средиземноморья асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бичаков",
+                        "initials": "в",
+                        "fullName": "Бичаков С.А."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-18-2-2-о",
+                    "Л-б-18-1-1-о",
+                    "РСО-б-18-1-о",
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РСО-б-18-1-о",
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РСО-б-18-1-о",
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-18-2-2-о",
+                    "Л-б-18-1-1-о",
+                    "РСО-б-18-1-о",
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Ин.язык Бол.Средизем.(араб.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канах",
+                        "initials": "х",
+                        "fullName": "доц.Канах А.М."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Политическая география Большого Средиземноморья",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гарас",
+                        "initials": "с",
+                        "fullName": "доц.Гарас Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о",
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Развитие гос.институт в Российской империи доц.Дмитриев В.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ЦТПД",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Владимирова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Владимирова Е.С."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Цифровые технологии в профес.деят.ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Владимирова",
+                        "initials": "а",
+                        "fullName": "Владимирова Е.С."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Количественные методы в социогуманитарных исследов.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц.Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Новая и новейшая история",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бойцова",
+                        "initials": "а",
+                        "fullName": "доц.Бойцова Е.Е."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "История южных и западных славян",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шахин",
+                        "initials": "н",
+                        "fullName": "доц.Шахин Ю.В."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "История южных и западных славян",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шахин",
+                        "initials": "н",
+                        "fullName": "доц.Шахин Ю.В."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Специальные исторические дисциплины",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осиповский",
+                        "initials": "й",
+                        "fullName": "доц.Осиповский С.Н."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Политическая география Большого Средиземноморья асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бичаков",
+                        "initials": "в",
+                        "fullName": "Бичаков С.А."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-18-2-2-о",
+                    "Л-б-18-1-1-о",
+                    "РСО-б-18-1-о",
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "РСО-б-18-1-о",
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-18-2-2-о",
+                    "Л-б-18-1-1-о",
+                    "РСО-б-18-1-о",
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Ин.язык Бол.Средизем.(араб.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канах",
+                        "initials": "х",
+                        "fullName": "доц.Канах А.М."
+                    }
+                ],
+                "groups": [
+                    "И-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Политическая география Большого Средиземноморья",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гарас",
+                        "initials": "с",
+                        "fullName": "доц.Гарас Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о",
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Развитие гос.институт в Российской империи доц.Дмитриев В.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

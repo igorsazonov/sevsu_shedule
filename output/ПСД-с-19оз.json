@@ -1,0 +1,2148 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Псих. основы профор. и профотб.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Псих. основы профор. и профотб.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Клиническая психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Клиническая психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Клиническая психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Никитина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Клиническая психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Никитина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Никитина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Никитина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Никитина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология разв. возр. психол. доц",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кадышева",
+                        "initials": "а",
+                        "fullName": "Кадышева Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология разв. возр. психол. доц",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кадышева",
+                        "initials": "а",
+                        "fullName": "Кадышева Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дифференциальная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дифференциальная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология разв. возр. психол. доц",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кадышева",
+                        "initials": "а",
+                        "fullName": "Кадышева Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дифференциальная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология разв. возр. психол. доц",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кадышева",
+                        "initials": "а",
+                        "fullName": "Кадышева Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дифференциальная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дифференциальная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дифференциальная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Никитина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Псих. основы профор. и профотб.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Псих. основы профор. и профотб.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Клиническая психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Клиническая психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Клиническая психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Никитина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Клиническая психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Никитина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Никитина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Никитина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Никитина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология разв. возр. психол. доц",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кадышева",
+                        "initials": "а",
+                        "fullName": "Кадышева Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология разв. возр. психол. доц",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кадышева",
+                        "initials": "а",
+                        "fullName": "Кадышева Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "30нед. 22.03 - 28.03.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "31нед. 29.03 - 4.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "32нед. 5.04 - 11.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "33нед. 12.04 - 18.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "34нед. 19.04 - 25.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "35нед. 26.04 - 2.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дифференциальная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык ДО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковтун",
+                        "initials": "н",
+                        "fullName": "ст.пр. Ковтун И.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психофизиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Корепанов",
+                        "initials": "в",
+                        "fullName": "проф. Корепанов А.Л."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дифференциальная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология разв. возр. психол. доц",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кадышева",
+                        "initials": "а",
+                        "fullName": "Кадышева Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дифференциальная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология разв. возр. психол. доц",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кадышева",
+                        "initials": "а",
+                        "fullName": "Кадышева Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дифференциальная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "36нед. 3.05 - 9.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "37нед. 10.05 - 16.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "38нед. 17.05 - 23.05.21",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "39нед. 24.05 - 30.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "40нед. 31.05 - 6.06.21",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "41нед. 7.06 - 13.06.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дифференциальная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дифференциальная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Никитина Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП: Лидерство и командообр. .А.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "МитинаЕ",
+                        "fullName": "ст.пр. МитинаЕ"
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-19оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

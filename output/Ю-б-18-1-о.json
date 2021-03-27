@@ -1,0 +1,884 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Гражданский процесс",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пошивайлова",
+                        "initials": "а",
+                        "fullName": "Пошивайлова А.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Корпоративное право",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волконская",
+                        "initials": "я",
+                        "fullName": "доц. Волконская С.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Гражданское право",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галустян",
+                        "initials": "н",
+                        "fullName": "доц. Галустян Н.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о",
+                    "Ю-б-18-4-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Корпоративное право",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волконская",
+                        "initials": "я",
+                        "fullName": "доц. Волконская С.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о",
+                    "Ю-б-18-4-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Криминология",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ефаров",
+                        "initials": "в",
+                        "fullName": "доц. Ефаров М.Х."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о",
+                    "Ю-б-18-4-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Обязательственное право",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волконская",
+                        "initials": "я",
+                        "fullName": "доц. Волконская С.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о",
+                    "Ю-б-18-4-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Земельное право",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "доц. Котельникова  Т.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о",
+                    "Ю-б-18-4-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Обязательственное право",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волконская",
+                        "initials": "я",
+                        "fullName": "доц. Волконская С.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Гражданско-правовая ответственность",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "доц. Никитина А.П."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Земельное право",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "доц. Котельникова  Т.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Гражданский процесс",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пошивайлова",
+                        "initials": "а",
+                        "fullName": "доц. Пошивайлова А.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Гражданское право",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галустян",
+                        "initials": "н",
+                        "fullName": "доц. Галустян Н.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Экологическое право",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Утрендеева",
+                        "initials": "а",
+                        "fullName": "доц. Утрендеева Х.Н."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Корпоративное право",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волконская",
+                        "initials": "я",
+                        "fullName": "доц. Волконская С.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Криминология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ефаров",
+                        "initials": "в",
+                        "fullName": "доц. Ефаров М.Х."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Экологическое право",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Утрендеева",
+                        "initials": "а",
+                        "fullName": "доц. Утрендеева Х.Н."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о",
+                    "Ю-б-18-4-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Гражданский процесс",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пошивайлова",
+                        "initials": "а",
+                        "fullName": "доц. Пошивайлова А.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Земельное право",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "доц. Котельникова  Т.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о",
+                    "Ю-б-18-4-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о",
+                    "Ю-б-18-4-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Экологическое право",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Утрендеева",
+                        "initials": "а",
+                        "fullName": "доц. Утрендеева Х.Н."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о",
+                    "Ю-б-18-4-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Криминология",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ефаров",
+                        "initials": "в",
+                        "fullName": "доц. Ефаров М.Х."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о",
+                    "Ю-б-18-4-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Обязательственное право",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волконская",
+                        "initials": "я",
+                        "fullName": "доц. Волконская С.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Гражданско-правовая ответственность",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Никитина",
+                        "initials": "а",
+                        "fullName": "доц. Никитина А.П."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Земельное право",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "доц. Котельникова  Т.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Гражданский процесс",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пошивайлова",
+                        "initials": "а",
+                        "fullName": "доц. Пошивайлова А.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Гражданское право",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галустян",
+                        "initials": "н",
+                        "fullName": "доц. Галустян Н.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Экологическое право",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Утрендеева",
+                        "initials": "а",
+                        "fullName": "доц. Утрендеева Х.Н."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С 12.02 26.02",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-18-1-о",
+                    "Ю-б-18-2-о",
+                    "Ю-б-18-3-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

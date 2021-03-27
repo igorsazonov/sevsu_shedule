@@ -1,0 +1,695 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Физика",
+                "rooms": [
+                    "360"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Довгаленко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Довгаленко В.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Материаловедение",
+                "rooms": [
+                    "116"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Колесов",
+                        "initials": "в",
+                        "fullName": "доц. Колесов А.Г."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "453"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Общая и неорганическая химия",
+                "rooms": [
+                    "А-21"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Э.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы права",
+                "rooms": [
+                    "474"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Асейкин",
+                        "initials": "н",
+                        "fullName": "доц. Асейкин Р.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Материаловедение ЛЗ",
+                "rooms": [
+                    "116Б"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Колесов",
+                        "initials": "в",
+                        "fullName": "Колесов А.Г."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Физика",
+                "rooms": [
+                    "А-37"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Довгаленко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Довгаленко В.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "А-23"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гхашим",
+                        "initials": "м",
+                        "fullName": "доц. Гхашим М.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика \/ф-в\/",
+                "rooms": [
+                    "493"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гхашим",
+                        "initials": "м",
+                        "fullName": "доц. Гхашим М.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Информатика О.С (кроме 18.03.2021)",
+                "rooms": [
+                    "374"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "fullName": "ст.пр. Михайлова"
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Экономическая теория (кроме 18.03.2021)",
+                "rooms": [
+                    "493"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Тарабардина",
+                        "initials": "а",
+                        "fullName": "пр. Тарабардина М.Ю."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика (кроме 18.03.2021)",
+                "rooms": [
+                    "474"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гхашим",
+                        "initials": "м",
+                        "fullName": "доц. Гхашим М.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Общая и неорганическая химия",
+                "rooms": [
+                    "104"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Э.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Безопасность жизнедеятельности",
+                "rooms": [
+                    "А-22",
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "доц. Гутник С.А."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-20-1-о",
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы права",
+                "rooms": [
+                    "А-22",
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Асейкин",
+                        "initials": "н",
+                        "fullName": "доц. Асейкин Р.В."
+                    }
+                ],
+                "groups": [
+                    "ХКТ-б-20-1-о",
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Физика",
+                "rooms": [
+                    "360"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Довгаленко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Довгаленко В.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Материаловедение",
+                "rooms": [
+                    "А-21"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Колесов",
+                        "initials": "в",
+                        "fullName": "доц. Колесов А.Г."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-20-1-о",
+                    "ЭП-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "453"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Общая и неорганическая химия",
+                "rooms": [
+                    "А-21"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Э.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Материаловедение",
+                "rooms": [
+                    "114"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Колесов",
+                        "initials": "в",
+                        "fullName": "доц.Колесов А.Г."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Физика",
+                "rooms": [
+                    "А-37"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Довгаленко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Довгаленко В.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "А-23"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гхашим",
+                        "initials": "м",
+                        "fullName": "доц. Гхашим М.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Информатика О.С (кроме 18.03.2021)",
+                "rooms": [
+                    "374"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "fullName": "ст.пр. Михайлова"
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика \/ф-в\/",
+                "rooms": [
+                    "497"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гхашим",
+                        "initials": "м",
+                        "fullName": "доц. Гхашим М.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика (кроме 18.03.2021)",
+                "rooms": [
+                    "474"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гхашим",
+                        "initials": "м",
+                        "fullName": "доц. Гхашим М.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Безопасность жизнедеятельности",
+                "rooms": [
+                    "497"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лей",
+                        "initials": "й",
+                        "fullName": "доц. Лей В.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Экономическая теория",
+                "rooms": [
+                    "А-38"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Филинков",
+                        "initials": "в",
+                        "fullName": "доц. Филинков А.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Информатика О.С",
+                "rooms": [
+                    "383"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "fullName": "ст.пр. Михайлова"
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

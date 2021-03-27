@@ -1,0 +1,2114 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Винокур",
+                        "initials": "р",
+                        "fullName": "Винокур Т.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ИНСТРУМ. СРЕДСТВА РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ИНСТРУМ. СРЕДСТВА РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Смоленский",
+                        "initials": "й",
+                        "fullName": "Смоленский А.В."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Винокур",
+                        "initials": "р",
+                        "fullName": "Винокур Т.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИНСТРУМ. СРЕДСТВА АВТОМ. ПРОЕКТИР.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИНСТРУМ. СРЕДСТВА АВТОМ. ПРОЕКТИР.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Дульский",
+                        "initials": "й",
+                        "fullName": "Дульский А.Л."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Винокур",
+                        "initials": "р",
+                        "fullName": "Винокур Т.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Баша",
+                        "initials": "а",
+                        "fullName": "Баша Л.Г."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сергейчук",
+                        "initials": "к",
+                        "fullName": "Сергейчук Я.Э."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ИНСТРУМ. СРЕДСТВА РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ИНСТРУМ. СРЕДСТВА РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Винокур",
+                        "initials": "р",
+                        "fullName": "Винокур Т.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ИНСТРУМ. СРЕДСТВА РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ИНСТРУМ. СРЕДСТВА РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ДОКУМЕНТИРОВАНИЕ И СЕРТИФИКАЦИЯ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ДОКУМЕНТИРОВАНИЕ И СЕРТИФИКАЦИЯ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Батыргареева",
+                        "initials": "а",
+                        "fullName": "Батыргареева С.Ф."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ПМ.03 ИНСТРУМ. СРЕДСТВА РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ИНСТРУМ. СРЕДСТВА РАЗРАБОТКИ ПО",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИНСТРУМ. СРЕДСТВА АВТОМ. ПРОЕКТИР.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИНСТРУМ. СРЕДСТВА АВТОМ. ПРОЕКТИР.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Дульский",
+                        "initials": "й",
+                        "fullName": "Дульский А.Л."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ИНСТРУМ. СРЕДСТВА РАЗРАБОТКИ ПО",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ИНСТРУМ. СРЕДСТВА РАЗРАБОТКИ ПО",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ\n(2 подгруппа)",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ТЕХНОЛОГИЯ РАЗРАБОТКИ И ЗАЩИТЫ БАЗ ДАННЫХ\n(2 подгруппа)",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Винокур",
+                        "initials": "р",
+                        "fullName": "Винокур Т.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗР. ПО\n(2 подгруппа)",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗР. ПО\n(2 подгруппа)",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗР. ПО\n(2 подгруппа)",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 ТЕХНОЛОГИЯ РАЗР. ПО\n(2 подгруппа)",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Винокур",
+                        "initials": "р",
+                        "fullName": "Винокур Т.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Смоленский",
+                        "initials": "й",
+                        "fullName": "Смоленский А.В."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Винокур",
+                        "initials": "р",
+                        "fullName": "Винокур Т.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [
+                    "316а",
+                    "316а"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [
+                    "316а",
+                    "316а"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Дульский",
+                        "initials": "й",
+                        "fullName": "Дульский А.Л."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Винокур",
+                        "initials": "р",
+                        "fullName": "Винокур Т.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Баша",
+                        "initials": "а",
+                        "fullName": "Баша Л.Г."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сергейчук",
+                        "initials": "к",
+                        "fullName": "Сергейчук Я.Э."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.113а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.113б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.113а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.113б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Винокур",
+                        "initials": "р",
+                        "fullName": "Винокур Т.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Батыргареева",
+                        "initials": "а",
+                        "fullName": "Батыргареева С.Ф."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.212",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.212",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Дульский",
+                        "initials": "й",
+                        "fullName": "Дульский А.Л."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сушкова",
+                        "initials": "а",
+                        "fullName": "Сушкова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301б",
+                "rooms": [
+                    "5"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Винокур",
+                        "initials": "р",
+                        "fullName": "Винокур Т.С."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.301а",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "П-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

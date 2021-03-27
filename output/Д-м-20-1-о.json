@@ -1,0 +1,453 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Проектирование в дизайне среды \nc 07.03.2021",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Патконен",
+                        "initials": "н",
+                        "fullName": "доц. Патконен В.А."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование в дизайне среды \nc 07.03.2021",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Патконен",
+                        "initials": "н",
+                        "fullName": "доц. Патконен В.А."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектная графика и современные требования к презентации \n(Лекция: 16.03)",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Экологическая безопасность городской среды \nc 07.03.2021",
+                "rooms": [
+                    "306"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шержуков",
+                        "initials": "в",
+                        "fullName": "доц. Шержуков Ю.А."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Научный семинар (journal club)\nc 07.03.2021",
+                "rooms": [
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попкова",
+                        "initials": "а",
+                        "fullName": "доц. Попкова М.Д."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Компьютерное моделирование объектов в дизайне среды \nc 07.03.2021",
+                "rooms": [
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ашбель",
+                        "initials": "ь",
+                        "fullName": "доц. Ашбель Е.В."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в дизайне \n(Лекции: 17.03 31.03.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Тонкой",
+                        "initials": "й",
+                        "fullName": "проф. Тонкой И.В."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Академическй иностранный язык \nc 07.03.2021",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц. Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Академическй иностранный язык \nc 07.03.2021",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц. Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Экологическая безопасность городской среды \nc 07.03.2021",
+                "rooms": [
+                    "306"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шержуков",
+                        "initials": "в",
+                        "fullName": "доц. Шержуков Ю.А."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Экологическая безопасность городской среды \nc 07.03.2021",
+                "rooms": [
+                    "306"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шержуков",
+                        "initials": "в",
+                        "fullName": "доц. Шержуков Ю.А."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Занятия c 07.03.2021",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Проектирование в дизайне среды \nc 07.03.2021",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Патконен",
+                        "initials": "н",
+                        "fullName": "доц. Патконен В.А."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование в дизайне среды \nc 07.03.2021",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Патконен",
+                        "initials": "н",
+                        "fullName": "доц. Патконен В.А."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектная графика и современные требования к презентации \n(Лекция: 16.03)",
+                "rooms": [
+                    "А-31"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чиликин",
+                        "initials": "н",
+                        "fullName": "доц. Чиликин Д.В."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Научный семинар (journal club)\nc 07.03.2021",
+                "rooms": [
+                    "306"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попкова",
+                        "initials": "а",
+                        "fullName": "доц. Попкова М.Д."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Компьютерное моделирование объектов в дизайне среды \nc 07.03.2021",
+                "rooms": [
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ашбель",
+                        "initials": "ь",
+                        "fullName": "доц. Ашбель Е.В."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в дизайне \nc 07.03.2021",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Тонкой",
+                        "initials": "й",
+                        "fullName": "проф. Тонкой И.В."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Академическй иностранный язык \nc 07.03.2021",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц. Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Академическй иностранный язык \nc 07.03.2021",
+                "rooms": [
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц. Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Д-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

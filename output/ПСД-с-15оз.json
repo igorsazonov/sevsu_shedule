@@ -1,0 +1,1472 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Основы психиатрии и психопатологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психиатрии и психопатологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психиатрии и психопатологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психиатрии и психопатологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Основы экстренной психологической помощи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экстренной психологической помощи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Психологические аспекты антитеррористической деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моисеев",
+                        "initials": "в",
+                        "fullName": "доц. Моисеев В.Г."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Психологические аспекты антитеррористической деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моисеев",
+                        "initials": "в",
+                        "fullName": "доц. Моисеев В.Г."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Основы патопсихологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Курзова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Курзова К.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы патопсихологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Курзова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Курзова К.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экстренной психологической помощи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экстренной психологической помощи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экстренной психологической помощи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экстренной психологической помощи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Основы психиатрии и психопатологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психиатрии и психопатологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психиатрии и психопатологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психиатрии и психопатологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Основы экстренной психологической помощи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экстренной психологической помощи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Психологические аспекты антитеррористической деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моисеев",
+                        "initials": "в",
+                        "fullName": "доц. Моисеев В.Г."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Психологические аспекты антитеррористической деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моисеев",
+                        "initials": "в",
+                        "fullName": "доц. Моисеев В.Г."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая экспертиза",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Основы патопсихологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Курзова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Курзова К.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы патопсихологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Курзова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Курзова К.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экстренной психологической помощи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экстренной психологической помощи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "30нед. 22.03 - 28.03.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "31нед. 29.03 - 4.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "32нед. 5.04 - 11.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "33нед. 12.04 - 18.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "34нед. 19.04 - 25.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "35нед. 26.04 - 2.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экстренной психологической помощи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экстренной психологической помощи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология субъективной семантики и психосемантики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дьяков",
+                        "initials": "в",
+                        "fullName": "доц. Дьяков С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "36нед. 3.05 - 9.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "37нед. 10.05 - 16.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "38нед. 17.05 - 23.05.21",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "39нед. 24.05 - 30.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "40нед. 31.05 - 6.06.21",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "41нед. 7.06 - 13.06.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-15оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

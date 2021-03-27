@@ -1,0 +1,409 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [
+                    "А-35"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление качеством туристских услуг и обслуживания",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление качеством туристских услуг и обслуживания",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар (Journal club)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шабалина",
+                        "initials": "а",
+                        "fullName": "доц. Шабалина Н.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Бренд-менеджмент в событийном и деловом туризме",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Журавлева",
+                        "initials": "а",
+                        "fullName": "доц. Журавлева И.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ГЧП в сфере туризма (предпринимательская карьера)",
+                "rooms": [
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Бренд-менеджмент в событийном и деловом туризме",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Журавлева",
+                        "initials": "а",
+                        "fullName": "доц. Журавлева И.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Академический иностранный язык (второй) (14:00)",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык (второй) (15:40)",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление качеством туристских услуг и обслуживания",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление качеством туристских услуг и обслуживания",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Бренд-менеджмент в событийном и деловом туризме",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Журавлева",
+                        "initials": "а",
+                        "fullName": "доц. Журавлева И.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ГЧП в сфере туризма (предпринимательская карьера)",
+                "rooms": [
+                    "208"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Бренд-менеджмент в событийном и деловом туризме",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Журавлева",
+                        "initials": "а",
+                        "fullName": "доц. Журавлева И.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "УНИВЕРСИТЕТСКАЯ 33 !!!",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык (второй) (14:00)",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык (второй) (15:40)",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

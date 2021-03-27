@@ -1,0 +1,653 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Декоративное садоводство",
+                "rooms": [
+                    "306"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лямина",
+                        "initials": "а",
+                        "fullName": "доц. Лямина Н.В."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Декоративное садоводство",
+                "rooms": [
+                    "306"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лямина",
+                        "initials": "а",
+                        "fullName": "доц. Лямина Н.В."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Физическая и коллоидная химия",
+                "rooms": [
+                    "А-21"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Э.В."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Механизация в садоводстве",
+                "rooms": [
+                    "482"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Обливанцов",
+                        "initials": "в",
+                        "fullName": "доц. Обливанцов В.В."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Виноградарство \nё",
+                "rooms": [
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "нова",
+                        "initials": "а",
+                        "fullName": "нова Е.Ф."
+                    },
+                    {
+                        "state": "professor",
+                        "surname": "Сем",
+                        "fullName": "проф. Сем"
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Виноградарство \nё",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "нова",
+                        "initials": "а",
+                        "fullName": "нова Е.Ф."
+                    },
+                    {
+                        "state": "professor",
+                        "surname": "Сем",
+                        "fullName": "проф. Сем"
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Информационные технологии",
+                "rooms": [
+                    "374"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Михайлова О.С."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Информационные технологии",
+                "rooms": [
+                    "374"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Михайлова О.С."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Правоведение \nЛекции - 11.02 25.02 11.03 25.03.",
+                "rooms": [
+                    "499"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Голикова",
+                        "initials": "а",
+                        "fullName": "доц. Голикова С.В."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФК и С (12:30)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Физическая и коллоидная химия \nпреп. \n(14:30)",
+                "rooms": [
+                    "102"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ведищева",
+                        "initials": "а",
+                        "fullName": "Ведищева О.В."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "асс. Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о",
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "асс. Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о",
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Декоративное садоводство",
+                "rooms": [
+                    "306",
+                    "482"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лямина",
+                        "initials": "а",
+                        "fullName": "доц. Лямина Н.В."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Декоративное садоводство",
+                "rooms": [
+                    "306",
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лямина",
+                        "initials": "а",
+                        "fullName": "доц. Лямина Н.В."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Физическая и коллоидная химия",
+                "rooms": [
+                    "А-21"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Э.В."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Механизация в садоводстве",
+                "rooms": [
+                    "482"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Обливанцов",
+                        "initials": "в",
+                        "fullName": "доц. Обливанцов В.В."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Виноградарство \nё",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "нова",
+                        "initials": "а",
+                        "fullName": "нова Е.Ф."
+                    },
+                    {
+                        "state": "professor",
+                        "surname": "Сем",
+                        "fullName": "проф. Сем"
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Виноградарство \nё",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "нова",
+                        "initials": "а",
+                        "fullName": "нова Е.Ф."
+                    },
+                    {
+                        "state": "professor",
+                        "surname": "Сем",
+                        "fullName": "проф. Сем"
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Информационные технологии",
+                "rooms": [
+                    "374"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Михайлова О.С."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Информационные технологии",
+                "rooms": [
+                    "374"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Михайлова О.С."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Правоведение \nЛекции - 11.02 25.02 11.03 25.03.",
+                "rooms": [
+                    "499"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Голикова",
+                        "initials": "а",
+                        "fullName": "доц. Голикова С.В."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФК и С (12:30)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Физическая и коллоидная химия \nпреп. \n(14:30)",
+                "rooms": [
+                    "102"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ведищева",
+                        "initials": "а",
+                        "fullName": "Ведищева О.В."
+                    }
+                ],
+                "groups": [
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "асс. Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о",
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "асс. Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о",
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Т-б-19-1-о",
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

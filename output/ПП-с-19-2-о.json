@@ -1,0 +1,1174 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ПКПИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Осадчая",
+                        "initials": "я",
+                        "fullName": "Осадчая И.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асланян",
+                        "initials": "н",
+                        "fullName": "Асланян О.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ИБ асс.Сагалаев А.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПГПИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц.Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асланян",
+                        "initials": "н",
+                        "fullName": "Асланян О.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВвЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гулевец",
+                        "initials": "ц",
+                        "fullName": "доц.Гулевец Н.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ПКПИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Осадчая",
+                        "initials": "я",
+                        "fullName": "Осадчая И.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Метод.линг.исследов.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "доц.Руденко Н.С."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПКПИЯ ст.пр.Осадчая И.Ю",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Осн.Рос.госуд.и граждан. асс.по 07.05",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Экономическая теория ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Резаев",
+                        "initials": "в",
+                        "fullName": "Резаев А.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы российской государственности и гражданственности по 3.04.2021 проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ирхин",
+                        "initials": "н",
+                        "fullName": "Ирхин А.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ПКПИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Осадчая",
+                        "initials": "я",
+                        "fullName": "Осадчая И.Ю."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асланян",
+                        "initials": "н",
+                        "fullName": "Асланян О.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ПГПИЯ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц.Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асланян",
+                        "initials": "н",
+                        "fullName": "Асланян О.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Экон.теория ст.пр.Резаев",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ПКВИЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асланян",
+                        "initials": "н",
+                        "fullName": "Асланян О.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИПИЯВС Михайлова Е.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Метод.линг.исследов.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "доц.Руденко Н.С."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ПКПИЯ ст.пр.Осадчая И.Ю",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПД ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Варлагина",
+                        "initials": "а",
+                        "fullName": "Варлагина М.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Осн.Рос.госуд.и граждан. асс.по 07.05",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методология лингвистических исследований",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "доц.Руденко Н.С."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Информационная безопасность асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сагалаев",
+                        "initials": "в",
+                        "fullName": "Сагалаев А.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Введение в языкознание",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гулевец",
+                        "initials": "ц",
+                        "fullName": "доц.Гулевец Н.А."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "В-303"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "История первого ин.языка и введение в спецфилологию",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "доц.Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПП-с-19-1-1-о",
+                    "ПП-с-19-1-2-о",
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "423"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ПП-с-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

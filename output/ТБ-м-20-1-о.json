@@ -1,0 +1,432 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ММИДТБ Л по 12.04.21",
+                "rooms": [
+                    "312"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Сигора",
+                        "initials": "а",
+                        "fullName": "доц.Сигора Г.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "304",
+                    "304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Семенкина",
+                        "initials": "а",
+                        "fullName": "доц.Семенкина И.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о",
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ТУОПМО ст.пр.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "РПСОБ",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Азаренко",
+                        "initials": "о",
+                        "fullName": "доц.Азаренко Е.И."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Методы биоинд.и биотест.сост.техн. проф. Л по 11.03.21",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Солдатов",
+                        "initials": "в",
+                        "fullName": "Солдатов А.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Специальная оценка условий труда",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "доц.Гутник С.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Мониторинг безопасности",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Азаренко",
+                        "initials": "о",
+                        "fullName": "доц.Азаренко Е.И."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Расчет и проект.систем обес.безоп.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Азаренко",
+                        "initials": "о",
+                        "fullName": "доц.Азаренко Е.И."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ТУОПМО",
+                "rooms": [
+                    "304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осадчая",
+                        "initials": "я",
+                        "fullName": "доц.Осадчая Л.И."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ММИДТБ",
+                "rooms": [
+                    "312"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Сигора",
+                        "initials": "а",
+                        "fullName": "доц.Сигора Г.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "304",
+                    "304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Семенкина",
+                        "initials": "а",
+                        "fullName": "доц.Семенкина И.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о",
+                    "ТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Буркова",
+                        "initials": "а",
+                        "fullName": "доц.Буркова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ТУОПМО ст.пр.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Мониторинг безоп.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Азаренко",
+                        "initials": "о",
+                        "fullName": "доц.Азаренко Е.И."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Методы биоинд.и биотест.сост.техн. проф. Л по 11.03.21",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Солдатов",
+                        "initials": "в",
+                        "fullName": "Солдатов А.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Специальная оценка условий труда",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "доц.Гутник С.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Мониторинг безопасности",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Азаренко",
+                        "initials": "о",
+                        "fullName": "доц.Азаренко Е.И."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Расчет и проект.систем обес.безоп.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Азаренко",
+                        "initials": "о",
+                        "fullName": "доц.Азаренко Е.И."
+                    }
+                ],
+                "groups": [
+                    "ТБ-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

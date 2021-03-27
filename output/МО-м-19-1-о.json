@@ -1,0 +1,460 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Политический консалтинг проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Максимова",
+                        "initials": "а",
+                        "fullName": "Максимова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Полит. консалтинг проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Максимова",
+                        "initials": "а",
+                        "fullName": "Максимова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Дипломатический протокол и этикет",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц.Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Ин.язык Бол.Сред. (араб.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канах",
+                        "initials": "х",
+                        "fullName": "доц.Канах А.И."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Нелина",
+                        "initials": "а",
+                        "fullName": "доц.Нелина Л.П."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проблемы современ.международ.права",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скворцова",
+                        "initials": "а",
+                        "fullName": "доц.Скворцова О.Г."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Акт.проб.безоп.и сотруд.в Средиз.-Черном. проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ирхин",
+                        "initials": "н",
+                        "fullName": "Ирхин А.А."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Акт.проб.безоп.и сотруд.в Средиз.-Черном. проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ирхин",
+                        "initials": "н",
+                        "fullName": "Ирхин А.А."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц.Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие коррупции доц.Бабков Д.И",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Мех.принятия внешнеполит.решений в Рос",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мохов",
+                        "initials": "в",
+                        "fullName": "доц.Мохов А.В."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Политический консалтинг проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Максимова",
+                        "initials": "а",
+                        "fullName": "Максимова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Дипломат.протокол и этикет",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц.Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Дипломатический протокол и этикет",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц.Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Ин.язык Бол.Сред. (араб.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канах",
+                        "initials": "х",
+                        "fullName": "доц.Канах А.И."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проб.совр.междунар.права доц.Скворцова",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проблемы современ.международ.права",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Скворцова",
+                        "initials": "а",
+                        "fullName": "доц.Скворцова О.Г."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Акт.проб.безоп.и сотруд.в Средиз.-Черном. проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ирхин",
+                        "initials": "н",
+                        "fullName": "Ирхин А.А."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Акт.проб.безоп.и сотруд.в Средиз.-Черном. проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ирхин",
+                        "initials": "н",
+                        "fullName": "Ирхин А.А."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц.Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МПВРР",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мохов",
+                        "initials": "в",
+                        "fullName": "доц.Мохов А.В."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Мех.принятия внешнеполит.решений в Рос",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мохов",
+                        "initials": "в",
+                        "fullName": "доц.Мохов А.В."
+                    }
+                ],
+                "groups": [
+                    "МО-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

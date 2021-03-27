@@ -1,0 +1,584 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Меж.журнал.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шкайдерова",
+                        "initials": "а",
+                        "fullName": "доц.Шкайдерова Т.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Ин.язык региона Бол.Сред.(ар)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канах",
+                        "initials": "х",
+                        "fullName": "доц.Канах А.М."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ИЯРБС(исп.) ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Свистунов",
+                        "initials": "в",
+                        "fullName": "Свистунов А.С."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Ин.язык рег.Бол.Сред. (исп.) ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Свистунов",
+                        "initials": "в",
+                        "fullName": "Свистунов А.С."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Медиаменед.и медиаэконом.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Страшко",
+                        "initials": "о",
+                        "fullName": "доц.Страшко Е.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Медиаменед.и медиаэконом.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Страшко",
+                        "initials": "о",
+                        "fullName": "доц.Страшко Е.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Упр.медиапр.асс.Барыбина В.С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физ. культуре и спорту с 4.03.21",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Кол.методы в социогуманитарных исследованиях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц.Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о",
+                    "РСО-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "КМСИ доц.Воронин Д.Ю",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о",
+                    "РСО-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Мастерство лит.редакт.и ст ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Цицкун",
+                        "initials": "н",
+                        "fullName": "Цицкун В.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Мастерство лит.редакт.и стил ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Цицкун",
+                        "initials": "н",
+                        "fullName": "Цицкун В.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Политическая география",
+                "rooms": [
+                    "Б-004"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гарас",
+                        "initials": "с",
+                        "fullName": "доц.Гарас Л.Н."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о",
+                    "РСО-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физ.культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Меж.журнал.доц.Шкайдерова Т.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Меж.коммун.доц.Гулевец Н.А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Ин.язык региона Бол.Сред.(ар)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канах",
+                        "initials": "х",
+                        "fullName": "доц.Канах А.М."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Ин.язык рег.Бол.Сред. (исп.) ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Свистунов",
+                        "initials": "в",
+                        "fullName": "Свистунов А.С."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Медиаменед.и медиаэконом.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Страшко",
+                        "initials": "о",
+                        "fullName": "доц.Страшко Е.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Медиаменед.и медиаэконом.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Страшко",
+                        "initials": "о",
+                        "fullName": "доц.Страшко Е.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "ИЯРБС(араб.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канах",
+                        "initials": "х",
+                        "fullName": "доц.Канах А.М."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физ. культуре и спорту с 4.03.21",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "НДЦМ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц.Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Наука о данных и цифровое мышление доц .Воронин Дмитрий Юрьевич",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о",
+                    "РСО-б-18-1-о",
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Мастерство лит.редакт.и ст ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Цицкун",
+                        "initials": "н",
+                        "fullName": "Цицкун В.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Мастерство лит.редакт.и стил ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Цицкун",
+                        "initials": "н",
+                        "fullName": "Цицкун В.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Политическая география",
+                "rooms": [
+                    "Г-407"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гарас",
+                        "initials": "с",
+                        "fullName": "доц.Гарас Л.Н."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-18-1-о",
+                    "РСО-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физ.культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Меж.коммун.доц.Гулевец Н.А",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

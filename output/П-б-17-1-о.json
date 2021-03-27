@@ -1,0 +1,653 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Организационная психология",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Организационная психология",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психология управления персоналом",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сиволобов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сиволобов В.С."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Психологическая реабилитация и реадаптация",
+                "rooms": [
+                    "47"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая реабилитация и реадаптация",
+                "rooms": [
+                    "47"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Юридическая психология",
+                "rooms": [
+                    "216"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Митина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Митина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Юридическая психология",
+                "rooms": [
+                    "216"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Митина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Митина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Психология влияния",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология трудных жизненных и экстремальных ситуаций",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология трудных жизненных и экстремальных ситуаций",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Психология влияния",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология влияния",
+                "rooms": [
+                    "09"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Организационная психология",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психология упр. персоналом",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сиволобов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сиволобов В.С."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психология управления персоналом",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сиволобов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сиволобов В.С."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Психологическая реабилитация и реадаптация",
+                "rooms": [
+                    "47"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая реабилитация и реадаптация",
+                "rooms": [
+                    "47"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Юридическая психология",
+                "rooms": [
+                    "216"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Митина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Митина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Юридическая психология",
+                "rooms": [
+                    "216"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Митина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Митина Е.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Психология трудных жизненных и экстремальных ситуаций",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология трудных жизненных и экстремальных ситуаций",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароль",
+                        "initials": "ь",
+                        "fullName": "ст.пр. Пароль Д.А."
+                    }
+                ],
+                "groups": [
+                    "П-б-17-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

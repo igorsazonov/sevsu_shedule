@@ -1,0 +1,374 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ТААО",
+                "rooms": [
+                    "107"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рощупкин",
+                        "initials": "н",
+                        "fullName": "доц.Рощупкин С.И."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Технол.абразивно-алмазной обраб.",
+                "rooms": [
+                    "109Б"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рощупкин",
+                        "initials": "н",
+                        "fullName": "доц.Рощупкин С.И."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "МИДМ Л по 17.03ПЗ с 24.03 проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Харченко",
+                        "initials": "о",
+                        "fullName": "Харченко А.О."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иност.язык",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дельвиг",
+                        "initials": "г",
+                        "fullName": "доц.Дельвиг Н.А."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "КТОГАП",
+                "rooms": [
+                    "109Б"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Новиков",
+                        "initials": "в",
+                        "fullName": "доц.Новиков П.А."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Научный семинар",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Левченко",
+                        "initials": "о",
+                        "fullName": "доц.Левченко Е.А."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Сборочные процессы в соврем.маш.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тараховский",
+                        "initials": "й",
+                        "fullName": "доц.Тараховский А.Ю."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ТААО проф.",
+                "rooms": [
+                    "109"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Братан",
+                        "initials": "н",
+                        "fullName": "Братан С.М."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Технол.абразивно-алмазной обраб.",
+                "rooms": [
+                    "109Б"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рощупкин",
+                        "initials": "н",
+                        "fullName": "доц.Рощупкин С.И."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Научный фандрайзинг",
+                "rooms": [
+                    "104"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рощупкин",
+                        "initials": "н",
+                        "fullName": "доц.Рощупкин С.И."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "МИДМ Л по 17.03ПЗ с 24.03 проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Харченко",
+                        "initials": "о",
+                        "fullName": "Харченко А.О."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иност.язык",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дельвиг",
+                        "initials": "г",
+                        "fullName": "доц.Дельвиг Н.А."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "КТОГАП",
+                "rooms": [
+                    "109Б"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Новиков",
+                        "initials": "в",
+                        "fullName": "доц.Новиков П.А."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "САМСМОЛИ",
+                "rooms": [
+                    "107"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Колесов",
+                        "initials": "в",
+                        "fullName": "доц.Колесов А.Г."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МСАТИ",
+                "rooms": [
+                    "107"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Сидоров",
+                        "initials": "в",
+                        "fullName": "доц.Сидоров Д.Е."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Сборочные процессы в соврем.маш.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тараховский",
+                        "initials": "й",
+                        "fullName": "доц.Тараховский А.Ю."
+                    }
+                ],
+                "groups": [
+                    "КТП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

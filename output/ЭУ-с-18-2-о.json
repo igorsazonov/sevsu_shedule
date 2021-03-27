@@ -1,0 +1,904 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Техническое обеспечение безопасности судов",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Латышев",
+                        "initials": "в",
+                        "fullName": "доц. Латышев В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Судовые котельные и паропроизводящие установки",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Очеретяный",
+                        "initials": "й",
+                        "fullName": "доц. Очеретяный В.А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "( П Е Р Е Е З Д на ул. У Н И В Е Р С И Т Е Т С К У Ю )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "СК и ППУ Очерет.136",
+                "rooms": [
+                    "136"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "СВМСиУ Очерет.136",
+                "rooms": [
+                    "136"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "( П Е Р Е Е З Д )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Э К по Ф К и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Ин. яз.",
+                "rooms": [
+                    "135"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Никитина",
+                        "initials": "а ",
+                        "fullName": "ст.пр. Никитина Е. В."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Т О Б С",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Латышев",
+                        "initials": "в",
+                        "fullName": "доц. Латышев В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИС в ЭС Токарев 26",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "СВМСиУ Очеретяный",
+                "rooms": [
+                    "136"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ИС в ЭС Токарев 26",
+                "rooms": [
+                    "26"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "( П Е Р Е Е З Д )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Э О С Нагирняк",
+                "rooms": [
+                    "Б-003"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Э О С Нагирняк",
+                "rooms": [
+                    "Б-003"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "( П Е Р Е Е З Д )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элетрооборудование судов",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Конева",
+                        "initials": "а ",
+                        "fullName": "доц. Конева С. А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Судовые котельные и паропроизводящие установки",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Очеретяный",
+                        "initials": "й",
+                        "fullName": "доц. Очеретяный В.А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Судовые вспомогательные механизмы системы и устройства",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Очеретяный",
+                        "initials": "й",
+                        "fullName": "доц.Очеретяный В.А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Техническое обеспечение безопасности судов",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Латышев",
+                        "initials": "в",
+                        "fullName": "доц. Латышев В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Судовые котельные и паропроизводящие установки",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Очеретяный",
+                        "initials": "й",
+                        "fullName": "доц. Очеретяный В.А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "( П Е Р Е Е З Д на ул. У Н И В Е Р С И Т Е Т С К У Ю )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "СК и ППУ Очеретяный",
+                "rooms": [
+                    "136"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "СВМСиУ Очеретяный",
+                "rooms": [
+                    "136"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "( П Е Р Е Е З Д )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Э К по Ф К и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Т О Б С",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Латышев",
+                        "initials": "в",
+                        "fullName": "доц. Латышев В.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "СВМСиУ Очерет.136",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИС в ЭС доц.Токарев",
+                "rooms": [
+                    "26"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 4 ч. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ИС в ЭС доц.Токарев",
+                "rooms": [
+                    "26"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "( П Е Р Е Е З Д )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Э О С Нагирняк",
+                "rooms": [
+                    "Б-003"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Э О С Нагирняк",
+                "rooms": [
+                    "Б-003"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Ин. яз. ст.пр.",
+                "rooms": [
+                    "135"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитина",
+                        "initials": "а ",
+                        "fullName": "Никитина Е. В."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элетрооборудование судов",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Конева",
+                        "initials": "а ",
+                        "fullName": "доц. Конева С. А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Информационные системы в эксплуатации судов",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Токарев",
+                        "initials": "в",
+                        "fullName": "доц. Токарев Д.А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Судовые вспомогательные механизмы системы и устройства",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Очеретяный",
+                        "initials": "й",
+                        "fullName": "доц.Очеретяный В.А."
+                    }
+                ],
+                "groups": [
+                    "ЭУ-с-18-1-о",
+                    "ЭУ-с-18-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

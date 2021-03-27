@@ -1,0 +1,385 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Проектирование событий в туризме",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Журавлева",
+                        "initials": "а",
+                        "fullName": "доц. Журавлева И.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Протокол и этикет в организации мероприятий",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Червякова",
+                        "initials": "а",
+                        "fullName": "доц. Червякова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Технология и организация деловых туров",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одарюк",
+                        "initials": "к",
+                        "fullName": "доц. Одарюк Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар (Journal club)",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шабалина",
+                        "initials": "а",
+                        "fullName": "доц. Шабалина Н.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Туристский маркетинг",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Журавлева",
+                        "initials": "а",
+                        "fullName": "доц. Журавлева И.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Формирование бизнес-пространства в деловом туризме (предпринимательская карьера)",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Червякова",
+                        "initials": "а",
+                        "fullName": "доц. Червякова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Теория и методология исследовательской деятельности в туризме \n(лекции: 19.02 05.03 19.03)",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Тимиргалеева",
+                        "initials": "а",
+                        "fullName": "проф. Тимиргалеева Р.Р."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Академический иностранный язык \nдоц.",
+                "rooms": [
+                    "449",
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-20-1-о",
+                    "Т-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык \nдоц.",
+                "rooms": [
+                    "449",
+                    "449"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-20-1-о",
+                    "Т-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Проектирование событий в туризме",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Журавлева",
+                        "initials": "а",
+                        "fullName": "доц. Журавлева И.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Протокол и этикет в организации мероприятий",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Червякова",
+                        "initials": "а",
+                        "fullName": "доц. Червякова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Технология и организация деловых туров",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одарюк",
+                        "initials": "к",
+                        "fullName": "доц. Одарюк Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Туристский маркетинг",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Журавлева",
+                        "initials": "а",
+                        "fullName": "доц. Журавлева И.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Туристский маркетинг",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Журавлева",
+                        "initials": "а",
+                        "fullName": "доц. Журавлева И.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Формирование бизнес-пространства в деловом туризме (предпринимательская карьера)",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Червякова",
+                        "initials": "а",
+                        "fullName": "доц. Червякова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Теория и методология исследовательской деятельности в туризме",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Тимиргалеева",
+                        "initials": "а",
+                        "fullName": "проф. Тимиргалеева Р.Р."
+                    }
+                ],
+                "groups": [
+                    "Т-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

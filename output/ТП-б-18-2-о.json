@@ -1,0 +1,828 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ТПОП БайбаЛЗ230",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ТПОП БайбаЛЗ230",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ТПОП доц.Байба Т.",
+                "rooms": [
+                    "230"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКОТДПОП ПЗ 311",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бояркина",
+                        "initials": "а",
+                        "fullName": "доц.Бояркина М.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ТПОП доц.Байба Т.",
+                "rooms": [
+                    "230"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Технология пищевых производств ст.пр.",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Чуб",
+                        "initials": "б",
+                        "fullName": "Чуб О.П."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКОТДПОП",
+                "rooms": [
+                    "107"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бояркина",
+                        "initials": "а",
+                        "fullName": "доц.Бояркина М.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Основы автомат.проект. пред.ОП ст.пр.",
+                "rooms": [
+                    "14"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Чуб",
+                        "initials": "б",
+                        "fullName": "Чуб О.П."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Процессы и аппараты пищевых производств ст.пр.",
+                "rooms": [
+                    "312"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Графова",
+                        "initials": "а",
+                        "fullName": "Графова А.Е."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ТПОП ПЗ311",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бояркина",
+                        "initials": "а",
+                        "fullName": "доц.Бояркина М.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "МИССПП",
+                "rooms": [
+                    "04."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Веляев",
+                        "initials": "в",
+                        "fullName": "доц.Веляев Ю.О."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы автомат.проект. пред.ОП ст.пр. ПЗ107",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Чуб",
+                        "initials": "б",
+                        "fullName": "Чуб О.П."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Барное дело ст.пр.Светличная ПЗ230",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Барное дело ст.пр.",
+                "rooms": [
+                    "230"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Светличная",
+                        "initials": "я",
+                        "fullName": "Светличная О.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Барное дело ст.пр.Светличная ПЗ230",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Барное дело ст.пр.",
+                "rooms": [
+                    "230"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Светличная",
+                        "initials": "я",
+                        "fullName": "Светличная О.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Процессы и аппараты пищевых производств проф.",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Покинтелица",
+                        "initials": "а",
+                        "fullName": "Покинтелица Н.И."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-1-о",
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Технология продукции общественного питания ст.пр.",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нестеренко",
+                        "initials": "о",
+                        "fullName": "Нестеренко О.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-1-о",
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Интерьер предприятий общ.питания ст.пр.",
+                "rooms": [
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нестеренко",
+                        "initials": "о",
+                        "fullName": "Нестеренко О.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-1-о",
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ТПОП БайбаЛЗ230",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ТПОП БайбаЛЗ230",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ТПОП доц.Байба Т.",
+                "rooms": [
+                    "230"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКОТДПОП ПЗ 311",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бояркина",
+                        "initials": "а",
+                        "fullName": "доц.Бояркина М.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ТПОП доц.Байба Т.",
+                "rooms": [
+                    "230"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Технология пищевых производств ст.пр.",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Чуб",
+                        "initials": "б",
+                        "fullName": "Чуб О.П."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПКОТДПОП",
+                "rooms": [
+                    "107"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бояркина",
+                        "initials": "а",
+                        "fullName": "доц.Бояркина М.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Основы автомат.проект. пред.ОП ст.пр.",
+                "rooms": [
+                    "14"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Чуб",
+                        "initials": "б",
+                        "fullName": "Чуб О.П."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Орг.производства и обс.на предприятиях общ.питания",
+                "rooms": [
+                    "312"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бояркина",
+                        "initials": "а",
+                        "fullName": "доц.Бояркина М.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "МИССПП ЛЗ04.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Веляев",
+                        "initials": "в",
+                        "fullName": "доц.Веляев Ю.О."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Технол.прод.ОП",
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бояркина",
+                        "initials": "а",
+                        "fullName": "доц.Бояркина М.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы автомат.проект. пред.ОП ст.пр. ПЗ107",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Чуб",
+                        "initials": "б",
+                        "fullName": "Чуб О.П."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Интерьер предприятий общественного питания ст.пр.",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нестеренко",
+                        "initials": "о",
+                        "fullName": "Нестеренко О.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Технология пищевых производств",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Еременко",
+                        "initials": "о",
+                        "fullName": "доц.Еременко Д.О."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-1-о",
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы автоматизированного проектирования предприятий общественного питания",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Еременко",
+                        "initials": "о",
+                        "fullName": "доц.Еременко Д.О."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-1-о",
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Организация производства и обслуживания на предприятиях общественного питания",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бояркина",
+                        "initials": "а",
+                        "fullName": "доц.Бояркина М.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-1-о",
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Процессы и аппараты пищевых производств проф.",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Покинтелица",
+                        "initials": "а",
+                        "fullName": "Покинтелица Н.И."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-1-о",
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Технология продукции общественного питания ст.пр.",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Нестеренко",
+                        "initials": "о",
+                        "fullName": "Нестеренко О.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-1-о",
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методы исследования свойств сырья и продуктов питания",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Веляев",
+                        "initials": "в",
+                        "fullName": "доц.Веляев Ю.О."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-18-1-о",
+                    "ТП-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

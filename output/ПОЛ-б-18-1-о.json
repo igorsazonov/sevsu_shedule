@@ -1,0 +1,595 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Элективные курсы по физ.культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Геополитика проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ирхин",
+                        "initials": "н",
+                        "fullName": "Ирхин А.А."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Геополитика асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "КМСИ асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Регионалистика ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Цыганов",
+                        "initials": "в",
+                        "fullName": "Цыганов А.С."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Регионалистика ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Цыганов",
+                        "initials": "в",
+                        "fullName": "Цыганов А.С."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Упр.пр.ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковалевский",
+                        "initials": "й",
+                        "fullName": "Ковалевский А.А."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Полит.географ.Бол.Средизем. асс.",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бичаков",
+                        "initials": "в",
+                        "fullName": "Бичаков С.А."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ИЯБС(исп)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Топоркова",
+                        "initials": "а",
+                        "fullName": "доц.Топоркова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Ин.яз.региона Бол.Сред.(исп.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Топоркова",
+                        "initials": "а",
+                        "fullName": "доц.Топоркова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Межкультурная коммуникация асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-18-1-о",
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Межкультурная коммуникация",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Галяс",
+                        "initials": "с",
+                        "fullName": "доц.Галяс И.А."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-18-1-о",
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Политическая география Большого Средиземноморья",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гарас",
+                        "initials": "с",
+                        "fullName": "доц.Гарас Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о",
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физ.культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Элективные курсы по физ.культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Геополитика проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ирхин",
+                        "initials": "н",
+                        "fullName": "Ирхин А.А."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Геополитика асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Регионалистика ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Цыганов",
+                        "initials": "в",
+                        "fullName": "Цыганов А.С."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Регионалистика ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Цыганов",
+                        "initials": "в",
+                        "fullName": "Цыганов А.С."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Срав.политол.асс.",
+                "rooms": [
+                    "6."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бичаков",
+                        "initials": "в",
+                        "fullName": "Бичаков С.А."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "КМСИ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Нелина",
+                        "initials": "а",
+                        "fullName": "доц.Нелина Л.П."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Полит.географ.Бол.Средизем. асс.",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бичаков",
+                        "initials": "в",
+                        "fullName": "Бичаков С.А."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Срав.пол.проф.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Максимова",
+                        "initials": "а",
+                        "fullName": "Максимова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Ин.яз.региона Бол.Сред.(исп.)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Топоркова",
+                        "initials": "а",
+                        "fullName": "доц.Топоркова Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Наука о данных и цифровое мышление доц .Воронин Дмитрий Юрьевич",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-18-1-о",
+                    "РСО-б-18-1-о",
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Наука о данных и цифровое мышление",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц.Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "РСО-б-18-1-о",
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Политическая география Большого Средиземноморья",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гарас",
+                        "initials": "с",
+                        "fullName": "доц.Гарас Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ПОЛ-б-18-1-о",
+                    "И-б-18-1-о",
+                    "И-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физ.культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПОЛ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

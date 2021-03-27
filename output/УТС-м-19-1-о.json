@@ -1,55 +1,10 @@
 {
     "odd": {
-        "monday": [
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [
             {
-                "subject": "Методы и алгоритмы ИОД",
-                "rooms": [
-                    "В-509"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Токарев",
-                        "initials": "в",
-                        "fullName": "доц. Токарев Д.А."
-                    }
-                ],
-                "groups": [
-                    "УТС-м-19-1-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "lab",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Академический ин.язык",
-                "rooms": [
-                    "В-213"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Мороз",
-                        "initials": "з",
-                        "fullName": "доц. Мороз Ю.А."
-                    }
-                ],
-                "groups": [
-                    "УТС-м-19-1-о",
-                    "МИР-м-19-1-о"
-                ],
-                "pair": 5,
-                "parity": "odd",
-                "type": "practics",
-                "day": "monday",
-                "date": ""
-            }
-        ],
-        "tuesday": [
-            {
-                "subject": "Робастные системы \/ Адаптивные системы",
+                "subject": "Проектирование прогнозирующих экспертных систем и построение баз знаний",
                 "rooms": [
                     "В-505"
                 ],
@@ -64,175 +19,62 @@
                 "groups": [
                     "УТС-м-19-1-о"
                 ],
-                "pair": 6,
-                "parity": "odd",
-                "type": "practics",
-                "day": "tuesday",
-                "date": ""
-            },
-            {
-                "subject": "РС \/ АС",
-                "rooms": [
-                    "В-505"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Шушляпин",
-                        "initials": "н",
-                        "fullName": "проф. Шушляпин Е.А."
-                    }
-                ],
-                "groups": [
-                    "УТС-м-19-1-о"
-                ],
-                "pair": 7,
+                "pair": 3,
                 "parity": "odd",
                 "type": "lecture",
-                "day": "tuesday",
-                "date": ""
-            }
-        ],
-        "wednesday": [],
-        "thursday": [],
-        "friday": [
-            {
-                "subject": "Разработка IoT ПС СВ Осадченко Л-до16.10.ПЗ-с 30.10",
-                "rooms": [
-                    "В-509"
-                ],
-                "lecturers": [],
-                "groups": [
-                    "УТС-м-19-1-о"
-                ],
-                "pair": 5,
-                "parity": "odd",
-                "type": "",
-                "day": "friday",
+                "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "Разработка IoT приложений сервисов СВ.",
+                "subject": "Проектирование прогнозирующих экспертных систем и построение баз знаний",
                 "rooms": [
-                    "В-509"
+                    "В-505"
                 ],
                 "lecturers": [
                     {
-                        "state": "docent",
-                        "surname": "Осадченко",
-                        "initials": "о",
-                        "fullName": "доц. Осадченко А.Е."
-                    }
-                ],
-                "groups": [
-                    "УТС-м-19-1-о"
-                ],
-                "pair": 6,
-                "parity": "odd",
-                "type": "lab",
-                "day": "friday",
-                "date": ""
-            }
-        ],
-        "saturday": []
-    },
-    "even": {
-        "monday": [
-            {
-                "subject": "Методы и алгоритмы ИОД",
-                "rooms": [
-                    "В-509"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Токарев",
-                        "initials": "в",
-                        "fullName": "доц. Токарев Д.А."
+                        "state": "professor",
+                        "surname": "Шушляпин",
+                        "initials": "н",
+                        "fullName": "проф. Шушляпин Е.А."
                     }
                 ],
                 "groups": [
                     "УТС-м-19-1-о"
                 ],
                 "pair": 4,
-                "parity": "even",
-                "type": "lab",
-                "day": "monday",
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "Академический ин.язык",
+                "subject": "Проектирование прогнозирующих экспертных систем и построение баз знаний",
                 "rooms": [
-                    "В-213"
+                    "В-504"
                 ],
                 "lecturers": [
                     {
-                        "state": "docent",
-                        "surname": "Мороз",
-                        "initials": "з",
-                        "fullName": "доц. Мороз Ю.А."
+                        "state": "professor",
+                        "surname": "Шушляпин",
+                        "initials": "н",
+                        "fullName": "проф. Шушляпин Е.А."
                     }
                 ],
                 "groups": [
-                    "УТС-м-19-1-о",
-                    "МИР-м-19-1-о"
+                    "УТС-м-19-1-о"
                 ],
                 "pair": 5,
-                "parity": "even",
-                "type": "practics",
-                "day": "monday",
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
                 "date": ""
             }
         ],
-        "tuesday": [
+        "thursday": [
             {
-                "subject": "РС \/ АС",
+                "subject": "Научный семинар (кроме 18.03.2021)",
                 "rooms": [
-                    "В-505"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Шушляпин",
-                        "initials": "н",
-                        "fullName": "проф. Шушляпин Е.А."
-                    }
-                ],
-                "groups": [
-                    "УТС-м-19-1-о"
-                ],
-                "pair": 5,
-                "parity": "even",
-                "type": "practics",
-                "day": "tuesday",
-                "date": ""
-            },
-            {
-                "subject": "Робастные системы \/ Адаптивные системы",
-                "rooms": [
-                    "В-505"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Шушляпин",
-                        "initials": "н",
-                        "fullName": "проф. Шушляпин Е.А."
-                    }
-                ],
-                "groups": [
-                    "УТС-м-19-1-о"
-                ],
-                "pair": 6,
-                "parity": "even",
-                "type": "practics",
-                "day": "tuesday",
-                "date": ""
-            },
-            {
-                "subject": "Научный семинар",
-                "rooms": [
-                    "Г-504"
+                    "Г-503"
                 ],
                 "lecturers": [
                     {
@@ -245,36 +87,158 @@
                 "groups": [
                     "УТС-м-19-1-о"
                 ],
-                "pair": 7,
-                "parity": "even",
+                "pair": 3,
+                "parity": "odd",
                 "type": "practics",
-                "day": "tuesday",
+                "day": "thursday",
                 "date": ""
-            }
-        ],
-        "wednesday": [
+            },
             {
-                "subject": "УТС\/м-19-1-о",
+                "subject": "Облачные технологии\/ Методы и системы ОБД (кроме 18.03.2021)",
                 "rooms": [
-                    "9"
+                    "Г-504"
                 ],
-                "lecturers": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Токарев",
+                        "initials": "в",
+                        "fullName": "доц. Токарев Д.А."
+                    }
+                ],
                 "groups": [
                     "УТС-м-19-1-о"
                 ],
-                "pair": 7,
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Облачные технологии\/ Методы и системы ОБД (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Токарев",
+                        "initials": "в",
+                        "fullName": "доц. Токарев Д.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Облачные технологии\/ Методы и системы ОБД (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Токарев",
+                        "initials": "в",
+                        "fullName": "доц. Токарев Д.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Проектирование прогнозирующих экспертных систем и построение баз знаний",
+                "rooms": [
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Шушляпин",
+                        "initials": "н",
+                        "fullName": "проф. Шушляпин Е.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-19-1-о"
+                ],
+                "pair": 3,
                 "parity": "even",
-                "type": "",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование прогнозирующих экспертных систем и построение баз знаний",
+                "rooms": [
+                    "В-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Шушляпин",
+                        "initials": "н",
+                        "fullName": "проф. Шушляпин Е.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проектирование прогнозирующих экспертных систем и построение баз знаний",
+                "rooms": [
+                    "В-504"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Шушляпин",
+                        "initials": "н",
+                        "fullName": "проф. Шушляпин Е.А."
+                    }
+                ],
+                "groups": [
+                    "УТС-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
                 "day": "wednesday",
                 "date": ""
             }
         ],
-        "thursday": [],
-        "friday": [
+        "thursday": [
             {
-                "subject": "Методы и ААИОД",
+                "subject": "Облачные технологии\/ Методы и системы ОБД (кроме 18.03.2021)",
                 "rooms": [
-                    "В-509"
+                    "Г-504"
                 ],
                 "lecturers": [
                     {
@@ -290,13 +254,13 @@
                 "pair": 4,
                 "parity": "even",
                 "type": "lecture",
-                "day": "friday",
+                "day": "thursday",
                 "date": ""
             },
             {
-                "subject": "Методы и ААИОД",
+                "subject": "Облачные технологии\/ Методы и системы ОБД (кроме 18.03.2021)",
                 "rooms": [
-                    "В-509"
+                    "Г-504"
                 ],
                 "lecturers": [
                     {
@@ -312,20 +276,20 @@
                 "pair": 5,
                 "parity": "even",
                 "type": "practics",
-                "day": "friday",
+                "day": "thursday",
                 "date": ""
             },
             {
-                "subject": "Разработка IoT приложений сервисов СВ.",
+                "subject": "Облачные технологии\/ Методы и системы ОБД (кроме 18.03.2021)",
                 "rooms": [
-                    "В-509"
+                    "Г-504"
                 ],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Осадченко",
-                        "initials": "о",
-                        "fullName": "доц. Осадченко А.Е."
+                        "surname": "Токарев",
+                        "initials": "в",
+                        "fullName": "доц. Токарев Д.А."
                     }
                 ],
                 "groups": [
@@ -334,10 +298,11 @@
                 "pair": 6,
                 "parity": "even",
                 "type": "lab",
-                "day": "friday",
+                "day": "thursday",
                 "date": ""
             }
         ],
+        "friday": [],
         "saturday": []
     },
     "none": {

@@ -1,0 +1,451 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Противодействие финансированию терроризма и экстремизма",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чуйков",
+                        "initials": "в",
+                        "fullName": "доц. Чуйков А.С."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие финансированию терроризма и экстремизма",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чуйков",
+                        "initials": "в",
+                        "fullName": "доц. Чуйков А.С."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "358"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дельвик",
+                        "initials": "к",
+                        "fullName": "доц. Дельвик Н.А."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Международная система ПОД\/ФТ",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тарасенко",
+                        "initials": "о",
+                        "fullName": "доц. Тарасенко С.В."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Международная система ПОД\/ФТ",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тарасенко",
+                        "initials": "о",
+                        "fullName": "доц. Тарасенко С.В."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Методология исследовательской деятельности Л (19.02 05.03 19.03 02.04 16.04 30.04)",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Пискун",
+                        "initials": "н",
+                        "fullName": "проф. Пискун Е.И."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Информационное-аналитическое обеспечение ПОД\/ФТ",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Международные стандарты ПОД\/ФТ",
+                "rooms": [
+                    "358"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Балаклеева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Балаклеева А.М."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Противодействие коррупкции (фак-в)",
+                "rooms": [
+                    "359"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие коррупкции (фак-в)",
+                "rooms": [
+                    "359"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "358"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дельвик",
+                        "initials": "к",
+                        "fullName": "доц. Дельвик Н.А."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы финансового расследования",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тарасенко",
+                        "initials": "о",
+                        "fullName": "доц.Тарасенко С.В."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы финансового расследования",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тарасенко",
+                        "initials": "о",
+                        "fullName": "доц.Тарасенко С.В."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Современные концепции валютного менеджмента",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Посная",
+                        "initials": "я",
+                        "fullName": "доц. Посная Е.А."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ФиД-КМРЭ",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черемисинова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Черемисинова Д.В."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ФиД-КМРЭ",
+                "rooms": [
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черемисинова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Черемисинова Д.В."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Методология исследовательской деятельности (12.02 12.03 26.03)",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Пискун",
+                        "initials": "н",
+                        "fullName": "проф. Пискун Е.И."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности Л (19.02 05.03 19.03 02.04 16.04 30.04)",
+                "rooms": [
+                    "358"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Пискун",
+                        "initials": "н",
+                        "fullName": "проф. Пискун Е.И."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Информационное-аналитическое обеспечение ПОД\/ФТ",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ФК-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

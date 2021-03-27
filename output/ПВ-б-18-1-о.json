@@ -1,0 +1,885 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Гидротехнические сооружения",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Дегтерев",
+                        "initials": "в",
+                        "fullName": "проф. Дегтерев А.Х."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Организация и технология работ по природообустройству и водопользованию",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Контроль в области охраны окружающей среды",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Оценка воздействия на окружающую среду",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Системы водоснабжения и водоотведения",
+                "rooms": [
+                    "216"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Глушкова",
+                        "initials": "а",
+                        "fullName": "доц. Глушкова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Телефонные переговоры на иностранном языке",
+                "rooms": [
+                    "447"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Браславская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Браславская Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Экологическое законодательство \/ф-в\/",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Физико-химические методы анализа водных объектов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Омельчук",
+                        "initials": "к",
+                        "fullName": "доц. Омельчук Ю.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Хренова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Хренова Т.К."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Организация и технология работ по прирообустр. и водопользов. ст.пр. Ленивенко доц. Кучерик",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Основы инженерных экологических изысканий",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Оценка воздействия на окружающую среду",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Оценка воздействия на окружающую среду",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Контроль в области охраны окружающей среды",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Гидротехнические сооружения",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Дегтерев",
+                        "initials": "в",
+                        "fullName": "проф. Дегтерев А.Х."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Гидротехнические сооружения",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Дегтерев",
+                        "initials": "в",
+                        "fullName": "проф. Дегтерев А.Х."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Организация и технология работ по природообустройству и водопользованию",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Контроль в области охраны окружающей среды",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Системы водоснабжения и водоотведения",
+                "rooms": [
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Глушкова",
+                        "initials": "а",
+                        "fullName": "доц. Глушкова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Телефонные переговоры на иностранном языке",
+                "rooms": [
+                    "447"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Браславская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Браславская Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Экологическое законодательство \/ф-в\/",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Физико-химические методы анализа водных объектов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Омельчук",
+                        "initials": "к",
+                        "fullName": "доц. Омельчук Ю.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Хренова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Хренова Т.К."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Физико-химические методы анализа водных объектов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Омельчук",
+                        "initials": "к",
+                        "fullName": "доц. Омельчук Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С 12.02 26.02 12.03 26.03",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Основы инженерных экологических изысканий",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Организация и технология работ по ПО и ВП",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "fullName": "ст.пр. Ленивенко"
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "fullName": "доц. Кучерик"
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Организация и технология работ по ПО и ВП",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "fullName": "ст.пр. Ленивенко"
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "fullName": "доц. Кучерик"
+                    }
+                ],
+                "groups": [
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

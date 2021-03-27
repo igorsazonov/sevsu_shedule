@@ -1,0 +1,458 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Оценка и управление стоимостью предприятия (организации)",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Байербах",
+                        "initials": "х",
+                        "fullName": "ст.пр. Байербах А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Инвестиционное проектирование и моделирование 2",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Тарабардина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Тарабардина М.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика морской отрасли ст.пр.",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Тарабардина",
+                        "initials": "а",
+                        "fullName": "Тарабардина М.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Инвестиционное проектирование и моделирование 2",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Митус",
+                        "initials": "с",
+                        "fullName": "доц. Митус А.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-5-о",
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Оценка и управление стоимостью предприятия (организации)",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Аблаев",
+                        "initials": "в",
+                        "fullName": "доц. Аблаев Р.Р."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-5-о",
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "ИПИ 151",
+                "rooms": [
+                    "М 2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Тарабардина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Тарабардина М.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ОиУСП(О) ст.пр.",
+                "rooms": [
+                    "155",
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Байербах",
+                        "initials": "х",
+                        "fullName": "Байербах А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Организация инновационной деятельности предприятия (организации)",
+                "rooms": [
+                    "354"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канаш",
+                        "initials": "ш",
+                        "fullName": "доц. Канаш Э.Ш."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Организация инновационной деятельности предприятия (организации)",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канаш",
+                        "initials": "ш",
+                        "fullName": "доц. Канаш Э.Ш."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-5-о",
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика морской отрасли",
+                "rooms": [
+                    "354"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ковалева",
+                        "initials": "а",
+                        "fullName": "доц. Ковалева Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-5-о",
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Оценка и управление стоимостью предприятия (организации)",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Байербах",
+                        "initials": "х",
+                        "fullName": "ст.пр. Байербах А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Инвестиционное проектирование и моделирование 2",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Тарабардина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Тарабардина М.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Организация инновационной деятельности предприятия (организации)",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канаш",
+                        "initials": "ш",
+                        "fullName": "доц. Канаш Э.Ш."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Организация инновационной деятельности предприятия (организации)",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канаш",
+                        "initials": "ш",
+                        "fullName": "доц. Канаш Э.Ш."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-5-о",
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Инвестиционное проектирование и моделирование 2",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Митус",
+                        "initials": "с",
+                        "fullName": "доц. Митус А.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-5-о",
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Оценка и управление стоимостью предприятия (организации)",
+                "rooms": [
+                    "12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Аблаев",
+                        "initials": "в",
+                        "fullName": "доц. Аблаев Р.Р."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-5-о",
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "ОиУСП(О) ст.пр. 155",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Байербах",
+                        "initials": "х",
+                        "fullName": "Байербах А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИПИ",
+                "rooms": [
+                    "М 2",
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Тарабардина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Тарабардина М.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Организация инновационной деятельности предприятия (организации)",
+                "rooms": [
+                    "354"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Канаш",
+                        "initials": "ш",
+                        "fullName": "доц. Канаш Э.Ш."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-17-6-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

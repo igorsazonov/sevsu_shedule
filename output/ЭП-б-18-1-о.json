@@ -1,0 +1,640 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Телефонные переговоры на иностранном языке",
+                "rooms": [
+                    "447"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Браславская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Браславская Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Радиоэкологические основы радиационной безопасности М.А",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чекмарева",
+                        "initials": "а",
+                        "fullName": "доц. Чекмарева Т.М."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Фролова",
+                        "fullName": "ст.пр. Фролова"
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Экономика природопользования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "ст.пр. Поляков А.П."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ГИС в экологии и природопользовании",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сырых",
+                        "initials": "х",
+                        "fullName": "ст.пр. Сырых О.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ГИС в экологии и природопользовании",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сырых",
+                        "initials": "х",
+                        "fullName": "ст.пр. Сырых О.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Радиоэкология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Фролова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Фролова М.А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Омельчук",
+                        "initials": "к",
+                        "fullName": "доц. Омельчук Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Контроль в области охраны окружающей среды",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Контроль в области охраны окружающей среды",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Оценка воздействия на окружающую среду",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Радиационная токсикология (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукина",
+                        "initials": "а",
+                        "fullName": "доц. Лукина Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Утилизация и рекуперация отходов (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "initials": "к",
+                        "fullName": "доц. Кучерик Г.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФК и С 19.02 5.03 19.03",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Оценка воздействия на окружающую среду",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Телефонные переговоры на иностранном языке",
+                "rooms": [
+                    "447"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Браславская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Браславская Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Радиоэкологические основы радиационной безопасности М.А",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чекмарева",
+                        "initials": "а",
+                        "fullName": "доц. Чекмарева Т.М."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Фролова",
+                        "fullName": "ст.пр. Фролова"
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Радиоэкология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Фролова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Фролова М.А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Омельчук",
+                        "initials": "к",
+                        "fullName": "доц. Омельчук Ю.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Экономика природопользования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "ст.пр. Поляков А.П."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ГИС в экологии и природопользовании",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сырых",
+                        "initials": "х",
+                        "fullName": "ст.пр. Сырых О.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Радиоэкология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Фролова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Фролова М.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Контроль в области охраны окружающей среды",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Контроль в области охраны окружающей среды",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Заблоцкая",
+                        "initials": "я",
+                        "fullName": "ст.пр. Заблоцкая Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Оценка воздействия на окружающую среду",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Радиационная токсикология (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукина",
+                        "initials": "а",
+                        "fullName": "доц. Лукина Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Утилизация и рекуперация отходов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "initials": "к",
+                        "fullName": "доц. Кучерик Г.В."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Радиационная токсикология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукина",
+                        "initials": "а",
+                        "fullName": "доц. Лукина Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Управление и обращение с отходами \/ф-в\/",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Онищенко",
+                        "initials": "о",
+                        "fullName": "доц. Онищенко П.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Радиоэкологические основы радиационной без-ти М.А",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Фролова",
+                        "fullName": "ст.пр. Фролова"
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

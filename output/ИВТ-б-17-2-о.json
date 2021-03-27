@@ -2,308 +2,7 @@
     "odd": {
         "monday": [
             {
-                "subject": "Вычислительные системы",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Конюхов",
-                        "initials": "в",
-                        "fullName": "доц. Конюхов А.Ю."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-1-о",
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Сети и телекоммуникации",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Чернега",
-                        "initials": "а",
-                        "fullName": "доц. Чернега В.С."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-1-о",
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 3,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Основы теории ЭС",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Мащенко",
-                        "initials": "о",
-                        "fullName": "доц. Мащенко Е.Н."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-1-о",
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "monday",
-                "date": ""
-            }
-        ],
-        "tuesday": [],
-        "wednesday": [
-            {
-                "subject": "Проектирование встраеваемых систем",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Моисеев",
-                        "initials": "в",
-                        "fullName": "проф. Моисеев Д.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-1-о",
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 5,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "Основы системотехнических решений",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Виноградов",
-                        "initials": "в",
-                        "fullName": "Виноградов Е.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-1-о",
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 6,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "ИВТ\/б-17-2-о",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 7,
-                "parity": "odd",
-                "type": "",
-                "day": "wednesday",
-                "date": ""
-            }
-        ],
-        "thursday": [
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 1,
-                "parity": "odd",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 3,
-                "parity": "odd",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 5,
-                "parity": "odd",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 6,
-                "parity": "odd",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 7,
-                "parity": "odd",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            }
-        ],
-        "friday": [
-            {
-                "subject": "Вычислительные системы",
-                "rooms": [
-                    "В-514"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Конюхов",
-                        "initials": "в",
-                        "fullName": "доц. Конюхов А.Ю."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "practics",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "Основы СР",
-                "rooms": [
-                    "А-505"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Кудашев",
-                        "initials": "в",
-                        "fullName": "Кудашев В.С."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 5,
-                "parity": "odd",
-                "type": "practics",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "ОСР",
-                "rooms": [
-                    "А-505",
-                    "А-101"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Кудашев",
-                        "initials": "в",
-                        "fullName": "Кудашев В.С."
-                    },
-                    {
-                        "state": "",
-                        "surname": "Виноградов",
-                        "initials": "в",
-                        "fullName": "Виноградов Е.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 6,
-                "parity": "odd",
-                "type": "lab",
-                "day": "friday",
-                "date": ""
-            }
-        ],
-        "saturday": [
-            {
-                "subject": "АМ",
+                "subject": "Периферийные устройства",
                 "rooms": [
                     "В-213"
                 ],
@@ -318,94 +17,40 @@
                 "groups": [
                     "ИВТ-б-17-2-о"
                 ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "lab",
-                "day": "saturday",
-                "date": ""
-            },
-            {
-                "subject": "ПВС",
-                "rooms": [
-                    "В-514",
-                    "А-501"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Шокин",
-                        "initials": "н",
-                        "fullName": "доц. Шокин А.Г."
-                    },
-                    {
-                        "state": "assistant",
-                        "surname": "Пахомова",
-                        "initials": "а",
-                        "fullName": "асс. Пахомова А.А."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 3,
-                "parity": "odd",
-                "type": "lab",
-                "day": "saturday",
-                "date": ""
-            },
-            {
-                "subject": "Сети и телекоммуникации",
-                "rooms": [
-                    "А-501"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Шокин",
-                        "initials": "н",
-                        "fullName": "доц. Шокин А.Г."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
                 "pair": 4,
                 "parity": "odd",
                 "type": "lab",
-                "day": "saturday",
-                "date": ""
-            }
-        ]
-    },
-    "even": {
-        "monday": [
-            {
-                "subject": "Агентное моделирование",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Заморенов",
-                        "initials": "в",
-                        "fullName": "доц. Заморенов М.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-1-о",
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 1,
-                "parity": "even",
-                "type": "lecture",
                 "day": "monday",
                 "date": ""
             },
             {
-                "subject": "Проектирование встраеваемых систем",
+                "subject": "Основы СР",
                 "rooms": [
-                    "remote"
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Чернышенко",
+                        "initials": "о",
+                        "fullName": "проф. Чернышенко С.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Проектирование ВС",
+                "rooms": [
+                    "419"
                 ],
                 "lecturers": [
                     {
@@ -419,203 +64,61 @@
                     "ИВТ-б-17-1-о",
                     "ИВТ-б-17-2-о"
                 ],
-                "pair": 2,
-                "parity": "even",
+                "pair": 4,
+                "parity": "odd",
                 "type": "lecture",
-                "day": "monday",
+                "day": "tuesday",
                 "date": ""
             },
             {
-                "subject": "Сети и телекоммуникации",
+                "subject": "Основы облачных и GRID-технологий",
                 "rooms": [
-                    "remote"
+                    "419"
                 ],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Чернега",
-                        "initials": "а",
-                        "fullName": "доц. Чернега В.С."
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
                     }
                 ],
                 "groups": [
                     "ИВТ-б-17-1-о",
                     "ИВТ-б-17-2-о"
                 ],
-                "pair": 3,
-                "parity": "even",
+                "pair": 5,
+                "parity": "odd",
                 "type": "lecture",
-                "day": "monday",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Защита информации",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Лебедева",
+                        "fullName": "ст.пр. Лебедева"
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
                 "date": ""
             }
         ],
-        "tuesday": [],
         "wednesday": [
             {
-                "subject": "Проектирование встраеваемых систем",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Моисеев",
-                        "initials": "в",
-                        "fullName": "проф. Моисеев Д.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-1-о",
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 5,
-                "parity": "even",
-                "type": "lecture",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "Основы системотехнических решений",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Виноградов",
-                        "initials": "в",
-                        "fullName": "Виноградов Е.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-1-о",
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 6,
-                "parity": "even",
-                "type": "lecture",
-                "day": "wednesday",
-                "date": ""
-            }
-        ],
-        "thursday": [
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 1,
-                "parity": "even",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 2,
-                "parity": "even",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 3,
-                "parity": "even",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 4,
-                "parity": "even",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 5,
-                "parity": "even",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 6,
-                "parity": "even",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (1чел.)",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 7,
-                "parity": "even",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            }
-        ],
-        "friday": [
-            {
-                "subject": "Вычислительные системы",
-                "rooms": [
-                    "А-505"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Конюхов",
-                        "initials": "в",
-                        "fullName": "доц. Конюхов А.Ю."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 4,
-                "parity": "even",
-                "type": "lab",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "Основы теории ЭС",
+                "subject": "Основы облачных и GRID-технологий",
                 "rooms": [
                     "А-505"
                 ],
@@ -630,54 +133,549 @@
                 "groups": [
                     "ИВТ-б-17-2-о"
                 ],
-                "pair": 5,
-                "parity": "even",
+                "pair": 2,
+                "parity": "odd",
                 "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Защита информации",
+                "rooms": [
+                    "В-513"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Лебедева",
+                        "fullName": "ст.пр. Лебедева"
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Основы облачных и GRID-технологий",
+                "rooms": [
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
                 "day": "friday",
                 "date": ""
             },
             {
-                "subject": "Моделирование ВП и С",
+                "subject": "Периферийные устройства",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Заморенов",
+                        "initials": "в",
+                        "fullName": "доц. Заморенов М.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Защита информации",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Лебедева",
+                        "fullName": "ст.пр. Лебедева"
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ПВС",
+                "rooms": [
+                    "А-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Моисеев",
+                        "initials": "в",
+                        "fullName": "проф. Моисеев Д.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Периферийные устройства",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Заморенов",
+                        "initials": "в",
+                        "fullName": "доц. Заморенов М.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Проектирование ВС",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Моисеев",
+                        "initials": "в",
+                        "fullName": "проф. Моисеев Д.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы системотехнических решений",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Чернышенко",
+                        "initials": "о",
+                        "fullName": "проф. Чернышенко С.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Технологии защиты данных (факультатив)",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Лебедева",
+                        "fullName": "ст.пр. Лебедева"
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Основы облачных и GRID-технологий",
                 "rooms": [
                     "А-505"
                 ],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Шевченко",
+                        "surname": "Мащенко",
                         "initials": "о",
-                        "fullName": "доц. Шевченко В.И."
+                        "fullName": "доц. Мащенко Е.Н."
                     }
                 ],
                 "groups": [
                     "ИВТ-б-17-2-о"
                 ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Защита информации",
+                "rooms": [
+                    "В-513"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Лебедева",
+                        "fullName": "ст.пр. Лебедева"
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
                 "pair": 6,
                 "parity": "even",
-                "type": "practics",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Основы облачных и GRID-технологий",
+                "rooms": [
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Периферийные устройства",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Заморенов",
+                        "initials": "в",
+                        "fullName": "доц. Заморенов М.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Защита информации",
+                "rooms": [
+                    "419"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Лебедева",
+                        "fullName": "ст.пр. Лебедева"
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-17-1-о",
+                    "ИВТ-б-17-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
                 "day": "friday",
                 "date": ""
             }
         ],
         "saturday": [
             {
-                "subject": "ПВС",
+                "subject": "Технологии ЗД (ф-в)",
                 "rooms": [
-                    "В-514",
-                    "А-501"
+                    "В-214"
                 ],
                 "lecturers": [
                     {
-                        "state": "docent",
-                        "surname": "Шокин",
-                        "initials": "н",
-                        "fullName": "доц. Шокин А.Г."
-                    },
-                    {
-                        "state": "assistant",
-                        "surname": "Пахомова",
-                        "initials": "а",
-                        "fullName": "асс. Пахомова А.А."
+                        "state": "seniorLecturer",
+                        "surname": "Лебедева",
+                        "fullName": "ст.пр. Лебедева"
                     }
                 ],
                 "groups": [
@@ -692,15 +690,15 @@
             {
                 "subject": "ПВС",
                 "rooms": [
-                    "В-514",
-                    "В-205"
+                    "А-501",
+                    "В-514"
                 ],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Шокин",
-                        "initials": "н",
-                        "fullName": "доц. Шокин А.Г."
+                        "surname": "Моисеев",
+                        "initials": "в",
+                        "fullName": "доц. Моисеев Д.В."
                     },
                     {
                         "state": "assistant",
@@ -713,28 +711,6 @@
                     "ИВТ-б-17-2-о"
                 ],
                 "pair": 3,
-                "parity": "even",
-                "type": "lab",
-                "day": "saturday",
-                "date": ""
-            },
-            {
-                "subject": "Сети и телекоммуникации",
-                "rooms": [
-                    "А-501"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Шокин",
-                        "initials": "н",
-                        "fullName": "доц. Шокин А.Г."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-17-2-о"
-                ],
-                "pair": 4,
                 "parity": "even",
                 "type": "lab",
                 "day": "saturday",

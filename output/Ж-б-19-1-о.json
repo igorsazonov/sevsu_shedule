@@ -1,0 +1,583 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "ЖЖ.ДВКЖ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шкайдерова",
+                        "initials": "а",
+                        "fullName": "доц. Шкайдерова Т.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЖЖ.ДВКЖ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шкайдерова",
+                        "initials": "а",
+                        "fullName": "доц. Шкайдерова Т.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Социолингвистика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шкайдерова",
+                        "initials": "а",
+                        "fullName": "доц. Шкайдерова Т.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Осн.Рос.государ. и гражд. асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ЖЖ.ДВКЖ Шкайдерова",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Медиарасп.и сет.коммун.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шкайдерова",
+                        "initials": "а",
+                        "fullName": "доц. Шкайдерова Т.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр. асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Потовская",
+                        "initials": "я",
+                        "fullName": "Потовская К.С."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр. асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Потовская",
+                        "initials": "я",
+                        "fullName": "Потовская К.С."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Социолингв. Шкайдерова",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Соц.пред.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Литвинова",
+                        "initials": "а",
+                        "fullName": "Литвинова Р.Н."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Проект.деят.асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Савина",
+                        "initials": "а",
+                        "fullName": "Савина З.С."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Л-б-19-1-2-о",
+                    "Л-б-19-2-1-о",
+                    "Л-б-19-2-2-о",
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИБ асс.Сагалаев А.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ЖЖ.ДВКЖ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шкайдерова",
+                        "initials": "а",
+                        "fullName": "доц. Шкайдерова Т.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЖЖ.ДВКЖ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шкайдерова",
+                        "initials": "а",
+                        "fullName": "доц. Шкайдерова Т.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Социолингвистика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шкайдерова",
+                        "initials": "а",
+                        "fullName": "доц. Шкайдерова Т.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Осн.Рос.государ. и гражд. асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демешко",
+                        "initials": "о",
+                        "fullName": "Демешко Н.Э."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "МРСК",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шкайдерова",
+                        "initials": "а",
+                        "fullName": "доц.Шкайдерова Т.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Медиарасп.и сет.коммун.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шкайдерова",
+                        "initials": "а",
+                        "fullName": "доц. Шкайдерова Т.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр. асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Потовская",
+                        "initials": "я",
+                        "fullName": "Потовская К.С."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "МЭ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Батракова",
+                        "initials": "а",
+                        "fullName": "Батракова О.А."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Соц.пред.ст.пр.Гребешкова",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ж-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Международная экономика ст.пр.",
+                "rooms": [
+                    "В-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Батракова",
+                        "initials": "а",
+                        "fullName": "Батракова О.А."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о",
+                    "РСО-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Информационная безопасность асс.",
+                "rooms": [
+                    "В-308"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сагалаев",
+                        "initials": "в",
+                        "fullName": "Сагалаев А.В."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о",
+                    "РСО-б-19-1-о",
+                    "СОЦ-б-19-1-о",
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы российской государственности и гражданственности по 27.03.2021 проф.",
+                "rooms": [
+                    "В-308"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ирхин",
+                        "initials": "н",
+                        "fullName": "Ирхин А.А."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о",
+                    "РСО-б-19-1-о",
+                    "СОЦ-б-19-1-о",
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ИЯ асс.",
+                "rooms": [
+                    "В-309",
+                    "В-309"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Потовская",
+                        "initials": "я",
+                        "fullName": "Потовская К.С."
+                    }
+                ],
+                "groups": [
+                    "Ж-б-19-1-о",
+                    "ПОЛ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

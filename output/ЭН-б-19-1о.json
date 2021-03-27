@@ -1,0 +1,596 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Иностранный язык : асс. ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-205",
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранова",
+                        "initials": "а ",
+                        "fullName": "доц. Баранова А. В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а ",
+                        "fullName": "доц. Кабанкова Е. Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сабельникова",
+                        "initials": "а ",
+                        "fullName": "Сабельникова А. А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а ",
+                        "fullName": "асс. Еремина Ю. Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Мжачева",
+                        "initials": "а ",
+                        "fullName": "асс. Мжачева М. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Потовская",
+                        "initials": "я ",
+                        "fullName": "асс. Потовская К. С."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык : асс. ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-205",
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранова",
+                        "initials": "а ",
+                        "fullName": "доц. Баранова А. В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а ",
+                        "fullName": "доц. Кабанкова Е. Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сабельникова",
+                        "initials": "а ",
+                        "fullName": "Сабельникова А. А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а ",
+                        "fullName": "асс. Еремина Ю. Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Мжачева",
+                        "initials": "а ",
+                        "fullName": "асс. Мжачева М. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Потовская",
+                        "initials": "я ",
+                        "fullName": "асс. Потовская К. С."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Квантовая механика и основы статической физики",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ломоносов",
+                        "initials": "в ",
+                        "fullName": "доц. Ломоносов С. Е."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Физические основы электроники",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ломоносов",
+                        "initials": "в ",
+                        "fullName": "доц. Ломоносов С. Е."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Химия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Корж",
+                        "initials": "ж ",
+                        "fullName": "доц. Корж Е. Н."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Химия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Корж",
+                        "initials": "ж ",
+                        "fullName": "доц. Корж Е. Н."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О- У Ч Е Б Н Ы Й Ц Е Н Т Р ( 1 )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Иностранный язык : асс. ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-205",
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранова",
+                        "initials": "а ",
+                        "fullName": "доц. Баранова А. В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а ",
+                        "fullName": "доц. Кабанкова Е. Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сабельникова",
+                        "initials": "а ",
+                        "fullName": "Сабельникова А. А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а ",
+                        "fullName": "асс. Еремина Ю. Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Мжачева",
+                        "initials": "а ",
+                        "fullName": "асс. Мжачева М. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Потовская",
+                        "initials": "я ",
+                        "fullName": "асс. Потовская К. С."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык : асс. ПЗ",
+                "rooms": [
+                    "А-001",
+                    "А-002",
+                    "А-003",
+                    "А-004",
+                    "В-205",
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Баранова",
+                        "initials": "а ",
+                        "fullName": "доц. Баранова А. В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а ",
+                        "fullName": "доц. Кабанкова Е. Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Сабельникова",
+                        "initials": "а ",
+                        "fullName": "Сабельникова А. А."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а ",
+                        "fullName": "асс. Еремина Ю. Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Мжачева",
+                        "initials": "а ",
+                        "fullName": "асс. Мжачева М. В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Потовская",
+                        "initials": "я ",
+                        "fullName": "асс. Потовская К. С."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Аналоговая схемотехника",
+                "rooms": [
+                    "Г-402"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Широков",
+                        "initials": "в ",
+                        "fullName": "проф. Широков И. Б."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Аналоговая схемотехника проф.Широков И.Б",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "Г-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Цицкун",
+                        "initials": "н ",
+                        "fullName": "ст.пр. Цицкун В. В."
+                    }
+                ],
+                "groups": [
+                    "ЭН-б-19-1о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

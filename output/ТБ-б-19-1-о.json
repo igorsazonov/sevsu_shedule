@@ -1,0 +1,1059 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр.",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр.",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Физические факторы техносферы",
+                "rooms": [
+                    "313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "доц.Гутник С.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Морозова",
+                        "initials": "а",
+                        "fullName": "доц.Морозова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Производ.санитария и гигиена труда",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ничкова",
+                        "initials": "а",
+                        "fullName": "доц.Ничкова Л.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность труда",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одинцов",
+                        "initials": "в",
+                        "fullName": "доц.Одинцов А.Н."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Медико-биол.основы безопасности проф.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Солдатов",
+                        "initials": "в",
+                        "fullName": "Солдатов А.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Медико-биол.основы безопасности проф.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Солдатов",
+                        "initials": "в",
+                        "fullName": "Солдатов А.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "ФХПТ",
+                "rooms": [
+                    "313",
+                    "В-204"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ФФТ Гутник ЛЗ313",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ФХПТ",
+                "rooms": [
+                    "310"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность труда ст.пр.",
+                "rooms": [
+                    "313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "Гутник В.С."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Физ.факторы техносф.ст.пр.Гутник В.С",
+                "rooms": [
+                    "313"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЩЕУНИВЕРСИТЕТСКИЙ ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр.",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр.",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Физические факторы техносферы",
+                "rooms": [
+                    "313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "доц.Гутник С.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Морозова",
+                        "initials": "а",
+                        "fullName": "доц.Морозова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Производ.санитария и гигиена труда",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ничкова",
+                        "initials": "а",
+                        "fullName": "доц.Ничкова Л.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность труда",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одинцов",
+                        "initials": "в",
+                        "fullName": "доц.Одинцов А.Н."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [
+                    "223"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [
+                    "257"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Медико-биол.основы безопасности проф.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Солдатов",
+                        "initials": "в",
+                        "fullName": "Солдатов А.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Медико-биол.основы безопасности проф.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Солдатов",
+                        "initials": "в",
+                        "fullName": "Солдатов А.А."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Физ.-хим.проц.в технос.доц.Сигора Г",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "ФХПТ",
+                "rooms": [
+                    "313",
+                    "В-204"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хоменко",
+                        "initials": "о",
+                        "fullName": "Хоменко Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ФХПТ ХоменкоЛЗ310",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ФФТ ст.пр.Гутник В",
+                "rooms": [
+                    "313"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность труда ст.пр.",
+                "rooms": [
+                    "313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "Гутник В.С."
+                    }
+                ],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТБ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

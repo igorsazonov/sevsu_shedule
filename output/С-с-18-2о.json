@@ -1,0 +1,404 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 13 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-2о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 13 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-2о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 13 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-2о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 13 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-2о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 13 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-2о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 13 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-2о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Г И Д Р О М Е Т Е О Р О Л О Г И Ч Е С К О Е О Б Е С П Е Ч Е Н И Е С У Д О В О Ж Д Е Н И Я",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Потапенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Потапенко С.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Т Е Х Н И Ч Е С К И Е С Р Е Д С Т В А С У Д О В О Ж Д Е Н И Я",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Подпорин",
+                        "initials": "н ",
+                        "fullName": "доц. Подпорин С. А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "( П Е Р Е Е З Д на ул. У Н И В Е Р С И Т Е Т С К У Ю )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": "57\/37\/35"
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Т Р Е Н А Ж Е Р Н А Я П О Д Г О Т О В К А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Т Р Е Н А Ж Е Р Н А Я П О Д Г О Т О В К А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": "57\/37\/35"
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 13 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-2о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 13 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-2о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 13 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-2о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 13 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-2о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 13 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-2о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 13 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-2о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": "57\/37\/35"
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Г И Д Р О М Е Т Е О Р О Л О Г И Ч Е С К О Е О Б Е С П Е Ч Е Н И Е С У Д О В О Ж Д Е Н И Я",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Потапенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Потапенко С.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Т Е Х Н И Ч Е С К И Е С Р Е Д С Т В А С У Д О В О Ж Д Е Н И Я",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Подпорин",
+                        "initials": "н ",
+                        "fullName": "доц. Подпорин С. А."
+                    }
+                ],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "( П Е Р Е Е З Д на ул. У Н И В Е Р С И Т Е Т С К У Ю )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Э Л Е К Т И В Н Ы Е К У Р С Ы по Ф И З И Ч Е С К О Й К У Л Ь Т У Р Е и С П О Р Т У",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": "57\/37\/35"
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Т Р Е Н А Ж Е Р Н А Я П О Д Г О Т О В К А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": "57\/37\/35"
+            },
+            {
+                "subject": "Т Р Е Н А Ж Е Р Н А Я П О Д Г О Т О В К А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-18-1о",
+                    "С-с-18-2о",
+                    "С-с-18-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": "57\/37\/35"
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

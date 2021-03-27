@@ -38,7 +38,7 @@ class FormatDetector
             ];
         }
 
-        if ($day = static::isDayOfWeek($string)) {
+        if ($day = static::isDayOfWeek(mb_strtolower($string))) {
             return $day;
         }
 
@@ -46,7 +46,7 @@ class FormatDetector
             return $pair;
         }
 
-        if ($parity = static::isParity($string)) {
+        if ($parity = static::isParity(mb_strtolower($string))) {
             return $parity;
         }
 
@@ -80,19 +80,31 @@ class FormatDetector
             'четверг' => 'thursday',
             'пятница' => 'friday',
             'суббота' => 'saturday',
+            'понед.' => 'monday',
         ];
-        if (in_array(trim($string), [
+
+        $patterns = [
             'понедельник',
             'вторник',
             'среда',
             'четверг',
             'пятница',
             'суббота',
-        ])) {
+            'понед.',
+        ];
+
+        $string = str_replace(' ', '', $string);
+
+        foreach ($patterns as $pattern) {
+            if (mb_strpos($string, $pattern) === false) {
+                continue;
+            }
+
             return [
                 'type' => static::FORMAT_DAY,
-                'value' => $transDays[trim($string)],
+                'value' => $transDays[$pattern],
             ];
+
         }
 
         return false;
@@ -112,19 +124,35 @@ class FormatDetector
 
     public static function isParity($string)
     {
-        if (in_array(trim($string), [
-            'чет.',
-            'нечет.',
-            'чет',
-            'нечет',
-            'четн',
-            'четн.',
-        ])) {
+        $str = trim($string);
+        if (mb_strpos($str, 'нечет') === 0) {
             return [
                 'type' => static::FORMAT_PARITY,
-                'value' => mb_strpos($string, 'нечет') !== false? 'odd' : 'even',
+                'value' => 'odd',
             ];
         }
+
+        if (mb_strpos($str, 'чет') === 0) {
+            return [
+                'type' => static::FORMAT_PARITY,
+                'value' => 'even',
+            ];
+        }
+
+        return false;
+        // if (in_array(trim($string), [
+        //     'чет.',
+        //     'нечет.',
+        //     'чет',
+        //     'нечет',
+        //     'четн',
+        //     'четн.',
+        // ])) {
+        //     return [
+        //         'type' => static::FORMAT_PARITY,
+        //         'value' => mb_strpos($string, 'нечет') !== false? 'odd' : 'even',
+        //     ];
+        // }
     }
 
     public static function isType($string)
@@ -326,6 +354,9 @@ class Parser
     public $file;
     public $institutionName;
 
+    public $allowDistantGroups = false;
+    public $writeSheetFile = false;
+
     public function init($file)
     {
         $this->file = $file;
@@ -341,15 +372,21 @@ class Parser
             $cellIterator = $row->getCellIterator();
             // $cellIterator->setIterateOnlyExistingCells(true); // This loops through all cells,
             $cells = [];
-            foreach ($cellIterator as $cell) {
+            foreach ($cellIterator as $cell) {    
+                $value = null;            
                 if ($cell->isInMergeRange() && !$cell->isMergeRangeValueCell()) {
                     $range = explode(':', $cell->getMergeRange());
-                    $mainCellValue = (string)$this->spreadsheet->getActiveSheet()->getCell($range[0])->getValue();
-                    $cells[] = $mainCellValue;
+                    $value = (string)$this->spreadsheet->getActiveSheet()->getCell($range[0])->getValue();
+                    $cells[] = $value;
                 } else {
-                    $cells[] = (string)$cell->getValue();
+                    $value = (string)$cell->getValue();
+                    $cells[] = $value;
                 }
-            }
+
+                if ($value && mb_strpos(mb_strtolower($value), 'экзамен') !== false) {
+                    die('Not a schedule. Should not be processed!' . PHP_EOL);
+                }
+            }            
             $rows[] = $cells;
         }
         echo PHP_EOL;
@@ -374,13 +411,14 @@ class Parser
             $currentSubjectEntity = null;
             $currentSubject = '';
 
-            $subjects = [];
+            $subjects = [];            
 
             foreach ($rows as $row) {
                 foreach ($row as $index => $cell) {
                     $format = FormatDetector::detect($cell);
                         
-                    if ($cell && count($groups) && in_array($index, array_keys($groups))) {
+                    if ($cell && count($groups) && in_array($index, array_keys($groups)) 
+                        && !FormatDetector::isGroup(trim($cell))) {
                         if (!$currentSubjectEntity) {
                             $currentSubjectEntity = FormatDetector::parseSubject($cell);
                             $currentSubject = $cell;
@@ -408,7 +446,14 @@ class Parser
                     }
 
                     if ($format['type'] == FormatDetector::FORMAT_GROUP) {
-                        $groups[$index] = $format['value'];
+                        if (mb_strpos($format['value'], ',') !== false) {
+                            $arr = explode(',', $format['value']);
+                            foreach ($arr as $i => $groupItem) {
+                                $groups[$index + (($i > 0 && $row[$index + $i] == $cell) ? $i : 0)] = $groupItem;
+                            }
+                        } else {
+                            $groups[$index] = $format['value'];    
+                        }                        
                     }
 
                     if ($format['type'] == FormatDetector::FORMAT_DAY) {
@@ -453,6 +498,10 @@ class Parser
                     continue;
                 }
 
+                if (!$this->allowDistantGroups && mb_substr($group, -2, 2) == '-з') {
+                    continue;
+                }
+
                 $groupJson = [
                     'odd' => [
                         'monday' => [],
@@ -493,6 +542,10 @@ class Parser
                         throw new Exception('day not found.' . print_r($subject));
                     }
 
+                    if ($subject['parity'] == 'none') {
+                        echo "Warning! Parity not detected!" . PHP_EOL;
+                    }
+
                     $groupJson[$subject['parity']][$subject['day']][] = $subject;
                 }
                 if (!in_array($group, $institutionData['groups'])) {
@@ -512,18 +565,20 @@ class Parser
                 'name' => $this->institutionName,
                 'groups' => array_merge(
                     (isset($indexFile[$this->institutionName]) ? $indexFile[$this->institutionName]['groups'] : []),
-                    $institutionData['groups'],
+                    $institutionData['groups']
                 ),
             ];
 
             file_put_contents('./output/index.json', json_encode($indexFile, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
             
-            $dir = 'output/' . basename($this->file);
-            if (!file_exists($dir)) {
-                mkdir($dir);
-            }
+            if ($this->writeSheetFile) {
+                $dir = 'output/' . basename($this->file);
+                if (!file_exists($dir)) {
+                    mkdir($dir);
+                }
 
-            file_put_contents("$dir/$name.json", json_encode($subjects, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+                file_put_contents("$dir/$name.json", json_encode($subjects, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+            }
         }
     }
 }

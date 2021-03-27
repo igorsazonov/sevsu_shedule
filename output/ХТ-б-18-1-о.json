@@ -1,0 +1,747 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Оборудование и технология эксплуатации энергетических установок",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Акимов",
+                        "initials": "в",
+                        "fullName": "проф. Акимов А.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Процессы и аппараты химической технологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С Без 10.05. 24.05",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Техно-химические расчеты \/ф-в\/",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Обращение с радиоактивными отходами",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шумар",
+                        "initials": "р",
+                        "fullName": "доц. Шумар И.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Маркетинговые исследования в химической технологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "доц. Черкашина Н.И."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Оборудование и технология эксплуатации энергетических установок",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Акимов",
+                        "initials": "в",
+                        "fullName": "проф. Акимов А.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Элективные курсы по ФК и С (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Общая химическая технология (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Маркетинговые исследования в химической технологии (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "доц. Черкашина Н.И."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Химические реакторы",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Обрашение с радиоактивными отходами",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шумар",
+                        "initials": "р",
+                        "fullName": "доц. Шумар И.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Физическая химия",
+                "rooms": [
+                    "А-21"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Э.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Процессы и аппараты химической технологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Химические реакторы",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Оборудование и технология эксплуатации энергетических установок",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Акимов",
+                        "initials": "в",
+                        "fullName": "проф. Акимов А.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Процессы и аппараты химической технологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Химические реакторы",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХКТ-б-18-1-о",
+                    "ХТ-б-18-1-о",
+                    "ПВ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Техно-химические расчеты \/ф-в\/",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Обращение с радиоактивными отходами",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шумар",
+                        "initials": "р",
+                        "fullName": "доц. Шумар И.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Маркетинговые исследования в химической технологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "доц. Черкашина Н.И."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Оборудование и технология эксплуатации энергетических установок",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Акимов",
+                        "initials": "в",
+                        "fullName": "проф. Акимов А.М."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Элективные курсы по ФК и С (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Общая химическая технология (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Маркетинговые исследования в химической технологии (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "доц. Черкашина Н.И."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Общая химическая технология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Физическая химия",
+                "rooms": [
+                    "104"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Э.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Физическая химия",
+                "rooms": [
+                    "А-21"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Э.В."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Маркетинговые исследования в ХТ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "доц. Черкашина Н.И."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,1758 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ЭКОНОМИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКОНОМИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Петрова",
+                        "initials": "а",
+                        "fullName": "Петрова М.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЖ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЖ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демьяненко",
+                        "initials": "о",
+                        "fullName": "Демьяненко В.Г."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "АСТРОНОМИЯ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "АСТРОНОМИЯ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бажан",
+                        "initials": "н",
+                        "fullName": "Бажан П.И."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ИНФОРМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ИНФОРМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ЛИТЕРАТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ЛИТЕРАТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковальчук",
+                        "initials": "к",
+                        "fullName": "Ковальчук Е.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сергейчук",
+                        "initials": "к",
+                        "fullName": "Сергейчук Я.Э."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Лавров",
+                        "initials": "в",
+                        "fullName": "Лавров М.О."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "МАТЕМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "МАТЕМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Николайчук",
+                        "initials": "к",
+                        "fullName": "Николайчук Л.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИСТОРИЯ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ИСТОРИЯ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Давыдова",
+                        "initials": "а",
+                        "fullName": "Давыдова В.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "МАТЕМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "МАТЕМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Николайчук",
+                        "initials": "к",
+                        "fullName": "Николайчук Л.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЛИТЕРАТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЛИТЕРАТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковальчук",
+                        "initials": "к",
+                        "fullName": "Ковальчук Е.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сакевич",
+                        "initials": "ч",
+                        "fullName": "Сакевич А.Л."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКОНОМИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКОНОМИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Петрова",
+                        "initials": "а",
+                        "fullName": "Петрова М.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ЛИТЕРАТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЛИТЕРАТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковальчук",
+                        "initials": "к",
+                        "fullName": "Ковальчук Е.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ИСТОРИЯ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ИСТОРИЯ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Давыдова",
+                        "initials": "а",
+                        "fullName": "Давыдова В.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ОСНОВЫ ПРОЕКТНОЙ ДЕЯТЕЛЬНОСТИ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ОСНОВЫ ПРОЕКТНОЙ ДЕЯТЕЛЬНОСТИ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Колесник",
+                        "initials": "к",
+                        "fullName": "Колесник Е.А."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "МАТЕМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МАТЕМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Николайчук",
+                        "initials": "к",
+                        "fullName": "Николайчук Л.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ЛИТЕРАТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковальчук",
+                        "initials": "к",
+                        "fullName": "Ковальчук Е.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.310",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИСТОРИЯ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИСТОРИЯ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Давыдова",
+                        "initials": "а",
+                        "fullName": "Давыдова В.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Петрова",
+                        "initials": "а",
+                        "fullName": "Петрова М.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд. 406",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд. 406",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Демьяненко",
+                        "initials": "о",
+                        "fullName": "Демьяненко В.Г."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.015",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.015",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бажан",
+                        "initials": "н",
+                        "fullName": "Бажан П.И."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.409",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.409",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковальчук",
+                        "initials": "к",
+                        "fullName": "Ковальчук Е.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.310",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.310",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сергейчук",
+                        "initials": "к",
+                        "fullName": "Сергейчук Я.Э."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Лавров",
+                        "initials": "в",
+                        "fullName": "Лавров М.О."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.113а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.400",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.113а",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.400",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Николайчук",
+                        "initials": "к",
+                        "fullName": "Николайчук Л.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.309",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.309",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Давыдова",
+                        "initials": "а",
+                        "fullName": "Давыдова В.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.306",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.306",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Николайчук",
+                        "initials": "к",
+                        "fullName": "Николайчук Л.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.309",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.309",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковальчук",
+                        "initials": "к",
+                        "fullName": "Ковальчук Е.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.310",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.310",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сакевич",
+                        "initials": "ч",
+                        "fullName": "Сакевич А.Л."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Петрова",
+                        "initials": "а",
+                        "fullName": "Петрова М.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд. 406",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд. 406",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковальчук",
+                        "initials": "к",
+                        "fullName": "Ковальчук Е.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.310",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.310",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Давыдова",
+                        "initials": "а",
+                        "fullName": "Давыдова В.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.306",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.306",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Колесник",
+                        "initials": "к",
+                        "fullName": "Колесник Е.А."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.223",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.223",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Николайчук",
+                        "initials": "к",
+                        "fullName": "Николайчук Л.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.309",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.309",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИНФОРМАТИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Буяльский",
+                        "initials": "й",
+                        "fullName": "Буяльский В.И."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.101",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Давыдова",
+                        "initials": "а",
+                        "fullName": "Давыдова В.Р."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.306",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.306",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-20-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

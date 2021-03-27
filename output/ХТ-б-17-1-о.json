@@ -1,0 +1,567 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Технология основных химических производств",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Моделирование химико-технолог.процессов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Техногенные системы и экологический риск",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Моделирование химико-технолог.процессов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Техногенные системы и экологический риск",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Техногенные системы и экологический риск",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Технология водоподготовки и спец.водоочистки на атомных станциях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Замыслова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Замыслова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методы аналитического контроля современной энергетики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Прокопова",
+                        "initials": "а",
+                        "fullName": "доц. Прокопова С.Д."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Технология водоподготовки и спец.водоочистки на атомных станциях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Замыслова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Замыслова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методы аналитического контроля современной энергетики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Прокопова",
+                        "initials": "а",
+                        "fullName": "доц. Прокопова С.Д."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Технология основных химических производств",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Техногенные системы и экологический риск",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Техногенные системы и экологический риск",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Моделирование химико-технолог.процессов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Федорова",
+                        "initials": "а",
+                        "fullName": "доц. Федорова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Технология основных химических производств",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Технология водоподготовки и спец.водоочистки на атомных станциях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Замыслова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Замыслова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Технология водоподготовки и спец.водоочистки на атомных станциях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Замыслова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Замыслова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методы аналитического контроля современной энергетики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Прокопова",
+                        "initials": "а",
+                        "fullName": "доц. Прокопова С.Д."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Технология водоподготовки и спец.водоочистки на атомных станциях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Замыслова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Замыслова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методы аналитического контроля современной энергетики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Прокопова",
+                        "initials": "а",
+                        "fullName": "доц. Прокопова С.Д."
+                    }
+                ],
+                "groups": [
+                    "ХТ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

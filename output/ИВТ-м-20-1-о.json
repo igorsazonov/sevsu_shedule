@@ -1,8 +1,76 @@
 {
     "odd": {
-        "monday": [
+        "monday": [],
+        "tuesday": [
             {
-                "subject": "ИВТ\/м-20-1-о",
+                "subject": "Мет. иссл. и модел. инф. пр. и техн. М.В",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Заморенов",
+                        "fullName": "доц. Заморенов"
+                    }
+                ],
+                "groups": [
+                    "ИВТ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Аналитика больших данных",
+                "rooms": [
+                    "А-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Аналитика больших данных",
+                "rooms": [
+                    "А-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "",
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
@@ -11,134 +79,20 @@
                 "pair": 1,
                 "parity": "odd",
                 "type": "",
-                "day": "monday",
+                "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "Технологии интеллектуальной ЗИ",
+                "subject": "Визуальное программирование",
                 "rooms": [
-                    "А-501"
+                    "В-214"
                 ],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Брюховецкий",
-                        "initials": "й",
-                        "fullName": "доц. Брюховецкий А.А."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-м-20-1-о"
-                ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Технологии интеллектуальной ЗИ",
-                "rooms": [
-                    "В-513"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Брюховецкий",
-                        "initials": "й",
-                        "fullName": "доц. Брюховецкий А.А."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-м-20-1-о"
-                ],
-                "pair": 3,
-                "parity": "odd",
-                "type": "lab",
-                "day": "monday",
-                "date": ""
-            }
-        ],
-        "tuesday": [
-            {
-                "subject": "МИД в ОИТ 15 29.09.2020",
-                "rooms": [
-                    "В-514"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Моисеев",
+                        "surname": "Заморенов",
                         "initials": "в",
-                        "fullName": "проф. Моисеев Д.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-м-20-1-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "practics",
-                "day": "tuesday",
-                "date": ""
-            },
-            {
-                "subject": "Управление IT-проектами",
-                "rooms": [
-                    "В-513"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Чернышенко",
-                        "initials": "о",
-                        "fullName": "проф. Чернышенко С.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-м-20-1-о"
-                ],
-                "pair": 5,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "tuesday",
-                "date": ""
-            },
-            {
-                "subject": "Ин. язык для спец.целей",
-                "rooms": [
-                    "В-213"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Кабанкова",
-                        "initials": "а",
-                        "fullName": "доц. Кабанкова Е.Н."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-м-20-1-о"
-                ],
-                "pair": 6,
-                "parity": "odd",
-                "type": "practics",
-                "day": "tuesday",
-                "date": ""
-            }
-        ],
-        "wednesday": [
-            {
-                "subject": "Прикладной системный анализ",
-                "rooms": [
-                    "В-513"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Скатков",
-                        "initials": "в",
-                        "fullName": "проф. Скатков Л.В."
+                        "fullName": "доц. Заморенов М.В."
                     }
                 ],
                 "groups": [
@@ -151,22 +105,43 @@
                 "date": ""
             },
             {
-                "subject": "Прикладной системный анализ",
+                "subject": "Визуальное программирование",
                 "rooms": [
-                    "В-205"
+                    "В-214"
                 ],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Балакирева",
-                        "initials": "а",
-                        "fullName": "доц. Балакирева И.А."
+                        "surname": "Заморенов",
+                        "initials": "в",
+                        "fullName": "доц. Заморенов М.В."
                     }
                 ],
                 "groups": [
                     "ИВТ-м-20-1-о"
                 ],
                 "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Методы исследования и модел. инф. процессов и технологий М.В",
+                "rooms": [
+                    "А-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Заморенов",
+                        "fullName": "доц. Заморенов"
+                    }
+                ],
+                "groups": [
+                    "ИВТ-м-20-1-о"
+                ],
+                "pair": 6,
                 "parity": "odd",
                 "type": "lab",
                 "day": "wednesday",
@@ -175,13 +150,44 @@
         ],
         "thursday": [
             {
-                "subject": "ИВТ\/м-20-1-о",
-                "rooms": [],
-                "lecturers": [],
+                "subject": "Академический иностранный язык (кроме 18.03.2021)",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Семенкина",
+                        "initials": "а",
+                        "fullName": "доц. Семенкина И.А."
+                    }
+                ],
                 "groups": [
                     "ИВТ-м-20-1-о"
                 ],
-                "pair": 1,
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Методология иссл. деят. в области информационных технологий (кроме 18.03.2021)",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Моисеев",
+                        "initials": "в",
+                        "fullName": "проф. Моисеев  Д.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-м-20-1-о"
+                ],
+                "pair": 6,
                 "parity": "odd",
                 "type": "",
                 "day": "thursday",
@@ -192,101 +198,12 @@
         "saturday": []
     },
     "even": {
-        "monday": [
-            {
-                "subject": "Им.моделирование СС",
-                "rooms": [
-                    "В-513"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Доронина",
-                        "initials": "а",
-                        "fullName": "проф. Доронина Ю.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-м-20-1-о"
-                ],
-                "pair": 1,
-                "parity": "even",
-                "type": "lecture",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Им.моделирование СС",
-                "rooms": [
-                    "В-513"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Доронина",
-                        "initials": "а",
-                        "fullName": "проф. Доронина Ю.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-м-20-1-о"
-                ],
-                "pair": 2,
-                "parity": "even",
-                "type": "lab",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Технологии интеллектуальной ЗИ",
-                "rooms": [
-                    "В-513"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Брюховецкий",
-                        "initials": "й",
-                        "fullName": "доц. Брюховецкий А.А."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-м-20-1-о"
-                ],
-                "pair": 3,
-                "parity": "even",
-                "type": "lab",
-                "day": "monday",
-                "date": ""
-            }
-        ],
+        "monday": [],
         "tuesday": [
             {
-                "subject": "Управление IT-проектами",
+                "subject": "Научный семинар (journal club)",
                 "rooms": [
-                    "В-513"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Чернышенко",
-                        "initials": "о",
-                        "fullName": "проф. Чернышенко С.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-м-20-1-о"
-                ],
-                "pair": 4,
-                "parity": "even",
-                "type": "lab",
-                "day": "tuesday",
-                "date": ""
-            },
-            {
-                "subject": "Научный семинар ( journal club)",
-                "rooms": [
-                    "В-513"
+                    "В-214"
                 ],
                 "lecturers": [
                     {
@@ -306,16 +223,16 @@
                 "date": ""
             },
             {
-                "subject": "Ин. язык для спец.целей",
+                "subject": "Аналитика больших данных",
                 "rooms": [
-                    "В-213"
+                    "А-505"
                 ],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Кабанкова",
-                        "initials": "а",
-                        "fullName": "доц. Кабанкова Е.Н."
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
                     }
                 ],
                 "groups": [
@@ -323,23 +240,45 @@
                 ],
                 "pair": 6,
                 "parity": "even",
-                "type": "practics",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Аналитика больших данных",
+                "rooms": [
+                    "А-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-м-20-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lab",
                 "day": "tuesday",
                 "date": ""
             }
         ],
         "wednesday": [
             {
-                "subject": "Прикладной системный анализ",
+                "subject": "Планирование научного экспер.",
                 "rooms": [
-                    "В-513"
+                    "В-214"
                 ],
                 "lecturers": [
                     {
-                        "state": "professor",
-                        "surname": "Скатков",
-                        "initials": "в",
-                        "fullName": "проф. Скатков Л.В."
+                        "state": "docent",
+                        "surname": "Балакирева",
+                        "initials": "а",
+                        "fullName": "доц. Балакирева И.А."
                     }
                 ],
                 "groups": [
@@ -352,9 +291,9 @@
                 "date": ""
             },
             {
-                "subject": "Прикладной системный анализ",
+                "subject": "Планирование научного экспер.",
                 "rooms": [
-                    "В-205"
+                    "В-214"
                 ],
                 "lecturers": [
                     {
@@ -372,21 +311,17 @@
                 "type": "lab",
                 "day": "wednesday",
                 "date": ""
-            }
-        ],
-        "thursday": [],
-        "friday": [
+            },
             {
-                "subject": "МИД в ОИТ Л- до 20.11. ПЗ-с 4.12",
+                "subject": "Методы исследования и модел. инф. процессов и технологий М.В",
                 "rooms": [
-                    "В-513"
+                    "А-501"
                 ],
                 "lecturers": [
                     {
-                        "state": "professor",
-                        "surname": "Моисеев",
-                        "initials": "в",
-                        "fullName": "проф. Моисеев Д.В."
+                        "state": "docent",
+                        "surname": "Заморенов",
+                        "fullName": "доц. Заморенов"
                     }
                 ],
                 "groups": [
@@ -394,35 +329,59 @@
                 ],
                 "pair": 6,
                 "parity": "even",
-                "type": "",
-                "day": "friday",
+                "type": "lab",
+                "day": "wednesday",
                 "date": ""
             }
         ],
-        "saturday": [
+        "thursday": [
             {
-                "subject": "МИД в ОИТ",
+                "subject": "Академический иностранный язык (кроме 18.03.2021)",
                 "rooms": [
-                    "В-513"
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Семенкина",
+                        "initials": "а",
+                        "fullName": "доц. Семенкина И.А."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Методология иссл. деят. в области информационных технологий (кроме 18.03.2021)",
+                "rooms": [
+                    "В-214"
                 ],
                 "lecturers": [
                     {
                         "state": "professor",
                         "surname": "Моисеев",
                         "initials": "в",
-                        "fullName": "проф. Моисеев Д.В."
+                        "fullName": "проф. Моисеев  Д.В."
                     }
                 ],
                 "groups": [
                     "ИВТ-м-20-1-о"
                 ],
-                "pair": 7,
+                "pair": 6,
                 "parity": "even",
                 "type": "practics",
-                "day": "saturday",
+                "day": "thursday",
                 "date": ""
             }
-        ]
+        ],
+        "friday": [],
+        "saturday": []
     },
     "none": {
         "monday": [],

@@ -1,0 +1,1312 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чалая",
+                        "initials": "я",
+                        "fullName": "доц. Чалая Ю.П."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чалая",
+                        "initials": "я",
+                        "fullName": "доц. Чалая Ю.П."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чалая",
+                        "initials": "я",
+                        "fullName": "доц. Чалая Ю.П."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чалая",
+                        "initials": "я",
+                        "fullName": "доц. Чалая Ю.П."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Молекулярно-генетические основы биоразнообразия гидробионтов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пузаков",
+                        "initials": "в",
+                        "fullName": "Пузаков М.В."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Научный семинар",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в теории климата",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Твердохлеб",
+                        "initials": "б",
+                        "fullName": "доц. Твердохлеб Н.М."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в теории климата",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Твердохлеб",
+                        "initials": "б",
+                        "fullName": "доц. Твердохлеб Н.М."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Молекулярно-генетические основы биоразнообразия гидробионтов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пузаков",
+                        "initials": "в",
+                        "fullName": "Пузаков М.В."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в теории климата",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Твердохлеб",
+                        "initials": "б",
+                        "fullName": "доц. Твердохлеб Н.М."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общая гидробиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в теории климата",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Твердохлеб",
+                        "initials": "б",
+                        "fullName": "доц. Твердохлеб Н.М."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общая гидробиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Молекулярно-генетические основы биоразнообразия гидробионтов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пузаков",
+                        "initials": "в",
+                        "fullName": "Пузаков М.В."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общая гидробиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общая гидробиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Молекулярно-генетические основы биоразнообразия гидробионтов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пузаков",
+                        "initials": "в",
+                        "fullName": "Пузаков М.В."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Методы оценки и прогнозирования состояния экосистем",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скуратовская",
+                        "initials": "я",
+                        "fullName": "Скуратовская Е.Н."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чалая",
+                        "initials": "я",
+                        "fullName": "доц. Чалая Ю.П."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чалая",
+                        "initials": "я",
+                        "fullName": "доц. Чалая Ю.П."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чалая",
+                        "initials": "я",
+                        "fullName": "доц. Чалая Ю.П."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чалая",
+                        "initials": "я",
+                        "fullName": "доц. Чалая Ю.П."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Молекулярно-генетические основы биоразнообразия гидробионтов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пузаков",
+                        "initials": "в",
+                        "fullName": "Пузаков М.В."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Научный семинар",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в теории климата",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Твердохлеб",
+                        "initials": "б",
+                        "fullName": "доц. Твердохлеб Н.М."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в теории климата",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Твердохлеб",
+                        "initials": "б",
+                        "fullName": "доц. Твердохлеб Н.М."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Молекулярно-генетические основы биоразнообразия гидробионтов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пузаков",
+                        "initials": "в",
+                        "fullName": "Пузаков М.В."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "7нед. 22-28.03.21г.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "8нед. 29.03-04.04.21г.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "9нед. 5-11.04.21г.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "10нед. 12-18.04.21г.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "11нед. 19-25.04.21г.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "12нед. 26.04-02.05.21г.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в теории климата",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Твердохлеб",
+                        "initials": "б",
+                        "fullName": "доц. Твердохлеб Н.М."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общая гидробиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в теории климата",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Твердохлеб",
+                        "initials": "б",
+                        "fullName": "доц. Твердохлеб Н.М."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общая гидробиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Молекулярно-генетические основы биоразнообразия гидробионтов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пузаков",
+                        "initials": "в",
+                        "fullName": "Пузаков М.В."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "13нед. 3-9.05.21г.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "14нед. 10-16.05.21г.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "15нед. 17-23.05.21г.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "16нед. 24-30.05.21г.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "17нед. 31.05-06.06.21г.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "18нед. 7-13.06.21г.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общая гидробиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общая гидробиология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков А.С."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Молекулярно-генетические основы биоразнообразия гидробионтов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пузаков",
+                        "initials": "в",
+                        "fullName": "Пузаков М.В."
+                    }
+                ],
+                "groups": [
+                    "БГ-м-20-1-озфо"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

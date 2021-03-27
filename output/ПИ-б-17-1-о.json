@@ -2,108 +2,24 @@
     "odd": {
         "monday": [
             {
-                "subject": "М и СИИ",
+                "subject": "Проектный практ. Сырых",
                 "rooms": [
-                    "Б-502",
                     "Г-512"
                 ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Сметанина",
-                        "fullName": "ст.пр. Сметанина"
-                    },
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Забаштанский",
-                        "fullName": "ст.пр. Забаштанский"
-                    }
-                ],
+                "lecturers": [],
                 "groups": [
                     "ПИ-б-17-1-о"
                 ],
-                "pair": 3,
+                "pair": 2,
                 "parity": "odd",
-                "type": "lab",
+                "type": "practics",
                 "day": "monday",
                 "date": ""
             },
             {
-                "subject": "ПО для СиОПД",
+                "subject": "Веб-ГИС технологии ТУ",
                 "rooms": [
                     "Б-503"
-                ],
-                "lecturers": [
-                    {
-                        "state": "assistant",
-                        "surname": "Абрамович",
-                        "initials": "ч",
-                        "fullName": "асс. Абрамович А.Ю."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-17-1-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Платформа 1 С \/ ИТУО",
-                "rooms": [
-                    "Г-512"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Кудашев",
-                        "initials": "в",
-                        "fullName": "Кудашев В.С."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-17-1-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "lab",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Методы и СП ИС",
-                "rooms": [],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Гончаренко",
-                        "initials": "о",
-                        "fullName": "Гончаренко Д.Г."
-                    },
-                    {
-                        "state": "docent",
-                        "surname": "Карлусов",
-                        "initials": "в",
-                        "fullName": "доц. Карлусов В.Ю."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-17-1-о"
-                ],
-                "pair": 5,
-                "parity": "odd",
-                "type": "lab",
-                "day": "monday",
-                "date": ""
-            }
-        ],
-        "tuesday": [
-            {
-                "subject": "ПО для СиОПД",
-                "rooms": [
-                    "Г-502"
                 ],
                 "lecturers": [
                     {
@@ -111,6 +27,28 @@
                         "surname": "Дымченко",
                         "initials": "о",
                         "fullName": "ст.пр. Дымченко И.В."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Информационный менеджмент",
+                "rooms": [
+                    "В-313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хохлов",
+                        "initials": "в",
+                        "fullName": "доц. Хохлов В.В."
                     }
                 ],
                 "groups": [
@@ -119,26 +57,48 @@
                 "pair": 4,
                 "parity": "odd",
                 "type": "lecture",
-                "day": "tuesday",
+                "day": "monday",
                 "date": ""
-            },
+            }
+        ],
+        "tuesday": [
             {
-                "subject": "Методы и СОДДЗ",
+                "subject": "Управление IT-проектами",
                 "rooms": [
-                    "Г-502"
+                    "Г-501"
                 ],
                 "lecturers": [
                     {
                         "state": "seniorLecturer",
-                        "surname": "Дымченко",
-                        "initials": "о",
-                        "fullName": "ст.пр. Дымченко И.В."
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Смирнова Н.Б."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Методы и системы искусственного интеллекта",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сметанина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Сметанина Т.И."
                     },
                     {
-                        "state": "assistant",
-                        "surname": "Абрамович",
-                        "initials": "ч",
-                        "fullName": "асс. Абрамович А.Ю."
+                        "state": "seniorLecturer",
+                        "surname": "Забаштанский",
+                        "initials": "й",
+                        "fullName": "ст.пр. Забаштанский А.К."
                     }
                 ],
                 "groups": [
@@ -151,11 +111,18 @@
                 "date": ""
             },
             {
-                "subject": "ИБ и ЗИ Гончаренко",
+                "subject": "Кроссплатформенное программирование",
                 "rooms": [
                     "Б-505"
                 ],
-                "lecturers": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Строганов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Строганов В.А."
+                    }
+                ],
                 "groups": [
                     "ПИ-б-17-1-о"
                 ],
@@ -168,31 +135,14 @@
         ],
         "wednesday": [
             {
-                "subject": "ПОдСОПД Абрамович",
-                "rooms": [
-                    "Г-502"
-                ],
-                "lecturers": [],
-                "groups": [
-                    "ПИ-б-17-1-о"
-                ],
-                "pair": 3,
-                "parity": "odd",
-                "type": "lab",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "ИС и сети",
-                "rooms": [
-                    "Г-501"
-                ],
+                "subject": "Проектный практикум",
+                "rooms": [],
                 "lecturers": [
                     {
                         "state": "assistant",
-                        "surname": "Бернацкий",
-                        "initials": "й",
-                        "fullName": "асс. Бернацкий А.Д."
+                        "surname": "Куркчи",
+                        "initials": "и",
+                        "fullName": "асс. Куркчи А.Э."
                     }
                 ],
                 "groups": [
@@ -205,16 +155,20 @@
                 "date": ""
             },
             {
-                "subject": "Методы и СОДДЗ",
-                "rooms": [
-                    "Г-502"
-                ],
+                "subject": "Веб-ГИС технологии ТУ асс",
+                "rooms": [],
                 "lecturers": [
                     {
                         "state": "seniorLecturer",
                         "surname": "Дымченко",
                         "initials": "о",
                         "fullName": "ст.пр. Дымченко И.В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Бернацкий",
+                        "initials": "й",
+                        "fullName": "Бернацкий А.Д."
                     }
                 ],
                 "groups": [
@@ -222,21 +176,21 @@
                 ],
                 "pair": 5,
                 "parity": "odd",
-                "type": "lecture",
+                "type": "lab",
                 "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "Платформа 1 С \/ ИТУО",
+                "subject": "Информационный менеджмент",
                 "rooms": [
-                    "Г-512"
+                    "Б-505"
                 ],
                 "lecturers": [
                     {
-                        "state": "",
-                        "surname": "Кудашев",
+                        "state": "docent",
+                        "surname": "Хохлов",
                         "initials": "в",
-                        "fullName": "Кудашев В.С."
+                        "fullName": "доц. Хохлов В.В."
                     }
                 ],
                 "groups": [
@@ -249,16 +203,16 @@
                 "date": ""
             },
             {
-                "subject": "Ис и С",
+                "subject": "Кросспл.программирование",
                 "rooms": [
-                    "Г-511"
+                    "Б-505"
                 ],
                 "lecturers": [
                     {
-                        "state": "",
-                        "surname": "Кротов",
+                        "state": "seniorLecturer",
+                        "surname": "Строганов",
                         "initials": "в",
-                        "fullName": "Кротов К.В."
+                        "fullName": "ст.пр. Строганов В.А."
                     }
                 ],
                 "groups": [
@@ -364,54 +318,120 @@
                 "date": ""
             }
         ],
-        "friday": [],
-        "saturday": [
+        "friday": [
             {
-                "subject": "Инфокоммуникационные системы и сети",
+                "subject": "Методы и системы искусственного интеллекта",
                 "rooms": [
-                    "remote"
+                    "419"
                 ],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Чернега",
-                        "initials": "а",
-                        "fullName": "доц. Чернега В.С."
-                    }
-                ],
-                "groups": [
-                    "ИС-б-17-1-о",
-                    "ИС-б-17-2-о",
-                    "ПИ-б-17-1-о"
-                ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "saturday",
-                "date": ""
-            },
-            {
-                "subject": "Платформа (по выбору ст.)\/ ИТУО",
-                "rooms": [
-                    "1С",
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Виноградов",
+                        "surname": "Бондарев",
                         "initials": "в",
-                        "fullName": "Виноградов Е.В."
+                        "fullName": "доц. Бондарев В.Н."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сметанина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Сметанина Т.И."
                     }
                 ],
                 "groups": [
-                    "ИС-б-17-1-о",
-                    "ИС-б-17-2-о",
                     "ПИ-б-17-1-о"
                 ],
                 "pair": 3,
                 "parity": "odd",
                 "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Кроссплатформенное программирование 417",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Строганов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Строганов В.А."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Управление IT-проектами",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Смирнова Н.Б."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Веб-ГИС технологии ТУ асс",
+                "rooms": [
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бернацкий",
+                        "initials": "й",
+                        "fullName": "Бернацкий А.Д."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Управление IT-проектами",
+                "rooms": [
+                    "Б-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Смирнова Н.Б."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
                 "day": "saturday",
                 "date": ""
             }
@@ -420,124 +440,60 @@
     "even": {
         "monday": [
             {
-                "subject": "ПО для СиОПД",
-                "rooms": [
-                    "Б-503"
-                ],
-                "lecturers": [
-                    {
-                        "state": "assistant",
-                        "surname": "Абрамович",
-                        "initials": "ч",
-                        "fullName": "асс. Абрамович А.Ю."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-17-1-о"
-                ],
-                "pair": 4,
-                "parity": "even",
-                "type": "",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Платформа 1 С \/ ИТУО",
-                "rooms": [
-                    "Г-512"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Кудашев",
-                        "initials": "в",
-                        "fullName": "Кудашев В.С."
-                    }
-                ],
-                "groups": [
-                    "ПИ-б-17-1-о"
-                ],
-                "pair": 4,
-                "parity": "even",
-                "type": "lab",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Методы и СП ИС",
+                "subject": "Веб-ГИС технологии ТУ",
                 "rooms": [],
                 "lecturers": [
                     {
-                        "state": "",
-                        "surname": "Гончаренко",
+                        "state": "seniorLecturer",
+                        "surname": "Дымченко",
                         "initials": "о",
-                        "fullName": "Гончаренко Д.Г."
-                    },
-                    {
-                        "state": "docent",
-                        "surname": "Карлусов",
-                        "initials": "в",
-                        "fullName": "доц. Карлусов В.Ю."
+                        "fullName": "ст.пр. Дымченко И.В."
                     }
                 ],
                 "groups": [
                     "ПИ-б-17-1-о"
                 ],
-                "pair": 5,
+                "pair": 3,
                 "parity": "even",
-                "type": "lab",
+                "type": "lecture",
                 "day": "monday",
                 "date": ""
             },
             {
-                "subject": "ПОдСОПД Абрамович",
+                "subject": "Информационный менеджмент",
                 "rooms": [
-                    "Г-512"
+                    "Б-505"
                 ],
-                "lecturers": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хохлов",
+                        "initials": "в",
+                        "fullName": "доц. Хохлов В.В."
+                    }
+                ],
                 "groups": [
                     "ПИ-б-17-1-о"
                 ],
-                "pair": 6,
+                "pair": 4,
                 "parity": "even",
-                "type": "lab",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "ИБ и ЗИ Гончаренко",
-                "rooms": [
-                    "Б-503"
-                ],
-                "lecturers": [],
-                "groups": [
-                    "ПИ-б-17-1-о"
-                ],
-                "pair": 7,
-                "parity": "even",
-                "type": "lab",
+                "type": "lecture",
                 "day": "monday",
                 "date": ""
             }
         ],
         "tuesday": [
             {
-                "subject": "Пр.деятельность (ф-в)",
+                "subject": "Управление IT-проектами",
                 "rooms": [
-                    "Г-511"
+                    "Г-501"
                 ],
                 "lecturers": [
                     {
-                        "state": "",
-                        "surname": "Куркчи",
-                        "initials": "и",
-                        "fullName": "Куркчи М.В."
-                    },
-                    {
-                        "state": "",
-                        "surname": "Куркчи",
-                        "initials": "и",
-                        "fullName": "Куркчи А.Э."
+                        "state": "seniorLecturer",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Смирнова Н.Б."
                     }
                 ],
                 "groups": [
@@ -550,28 +506,48 @@
                 "date": ""
             },
             {
-                "subject": "Методы и СОДДЗ",
-                "rooms": [
-                    "Г-502"
-                ],
+                "subject": "Методы и системы искусственного интеллекта",
+                "rooms": [],
                 "lecturers": [
                     {
                         "state": "seniorLecturer",
-                        "surname": "Дымченко",
-                        "initials": "о",
-                        "fullName": "ст.пр. Дымченко И.В."
+                        "surname": "Сметанина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Сметанина Т.И."
                     },
                     {
-                        "state": "assistant",
-                        "surname": "Абрамович",
-                        "initials": "ч",
-                        "fullName": "асс. Абрамович А.Ю."
+                        "state": "seniorLecturer",
+                        "surname": "Забаштанский",
+                        "initials": "й",
+                        "fullName": "ст.пр. Забаштанский А.К."
                     }
                 ],
                 "groups": [
                     "ПИ-б-17-1-о"
                 ],
                 "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Кроссплатформенное программирование",
+                "rooms": [
+                    "Б-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Строганов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Строганов В.А."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-17-1-о"
+                ],
+                "pair": 6,
                 "parity": "even",
                 "type": "lab",
                 "day": "tuesday",
@@ -580,31 +556,40 @@
         ],
         "wednesday": [
             {
-                "subject": "ИС и С Бернацкий",
-                "rooms": [
-                    "Г-501"
+                "subject": "Проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Куркчи",
+                        "initials": "и",
+                        "fullName": "асс. Куркчи А.Э."
+                    }
                 ],
-                "lecturers": [],
                 "groups": [
                     "ПИ-б-17-1-о"
                 ],
                 "pair": 4,
                 "parity": "even",
-                "type": "lab",
+                "type": "practics",
                 "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "ИБ и ЗИ",
-                "rooms": [
-                    "Б-503"
-                ],
+                "subject": "Веб-ГИС технологии ТУ асс",
+                "rooms": [],
                 "lecturers": [
                     {
-                        "state": "docent",
-                        "surname": "Шумейко",
+                        "state": "seniorLecturer",
+                        "surname": "Дымченко",
                         "initials": "о",
-                        "fullName": "доц. Шумейко И.П."
+                        "fullName": "ст.пр. Дымченко И.В."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Бернацкий",
+                        "initials": "й",
+                        "fullName": "Бернацкий А.Д."
                     }
                 ],
                 "groups": [
@@ -612,21 +597,21 @@
                 ],
                 "pair": 5,
                 "parity": "even",
-                "type": "lecture",
+                "type": "lab",
                 "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "Платформа 1 С \/ ИТУО",
+                "subject": "Информационный менеджмент",
                 "rooms": [
-                    "Г-512"
+                    "Б-505"
                 ],
                 "lecturers": [
                     {
-                        "state": "",
-                        "surname": "Кудашев",
+                        "state": "docent",
+                        "surname": "Хохлов",
                         "initials": "в",
-                        "fullName": "Кудашев В.С."
+                        "fullName": "доц. Хохлов В.В."
                     }
                 ],
                 "groups": [
@@ -635,19 +620,6 @@
                 "pair": 6,
                 "parity": "even",
                 "type": "lab",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "ПИ\/б-17-1-о",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ПИ-б-17-1-о"
-                ],
-                "pair": 7,
-                "parity": "even",
-                "type": "",
                 "day": "wednesday",
                 "date": ""
             }
@@ -747,83 +719,24 @@
         ],
         "friday": [
             {
-                "subject": "Проектная деятельность (факультатив)",
+                "subject": "Проектный практ. Сырых",
                 "rooms": [
-                    "remote"
+                    "Б-503"
                 ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Дымченко",
-                        "initials": "о",
-                        "fullName": "ст.пр. Дымченко И.В."
-                    }
-                ],
+                "lecturers": [],
                 "groups": [
-                    "ИС-б-17-1-о",
-                    "ИС-б-17-2-о",
                     "ПИ-б-17-1-о"
                 ],
                 "pair": 2,
                 "parity": "even",
-                "type": "lecture",
+                "type": "practics",
                 "day": "friday",
                 "date": ""
             },
             {
-                "subject": "Методы и средства проектирования ИС",
+                "subject": "Методы и системы искусственного интеллекта",
                 "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Карлусов",
-                        "initials": "в",
-                        "fullName": "доц. Карлусов В.Ю."
-                    }
-                ],
-                "groups": [
-                    "ИС-б-17-1-о",
-                    "ИС-б-17-2-о",
-                    "ПИ-б-17-1-о"
-                ],
-                "pair": 3,
-                "parity": "even",
-                "type": "lecture",
-                "day": "friday",
-                "date": ""
-            }
-        ],
-        "saturday": [
-            {
-                "subject": "Инфокоммуникационные системы и сети",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Чернега",
-                        "initials": "а",
-                        "fullName": "доц. Чернега В.С."
-                    }
-                ],
-                "groups": [
-                    "ИС-б-17-1-о",
-                    "ИС-б-17-2-о",
-                    "ПИ-б-17-1-о"
-                ],
-                "pair": 2,
-                "parity": "even",
-                "type": "lecture",
-                "day": "saturday",
-                "date": ""
-            },
-            {
-                "subject": "Методы и системы искусственного интелекта",
-                "rooms": [
-                    "remote"
+                    "419"
                 ],
                 "lecturers": [
                     {
@@ -840,36 +753,61 @@
                     }
                 ],
                 "groups": [
-                    "ИС-б-17-1-о",
-                    "ИС-б-17-2-о",
                     "ПИ-б-17-1-о"
                 ],
                 "pair": 3,
                 "parity": "even",
                 "type": "lecture",
-                "day": "saturday",
+                "day": "friday",
                 "date": ""
-            }
-        ]
-    },
-    "none": {
-        "monday": [
+            },
             {
-                "subject": "ПИ\/б-17-1-о",
-                "rooms": [
-                    "19"
+                "subject": "Кроссплатформенное программирование 417",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Строганов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Строганов В.А."
+                    }
                 ],
-                "lecturers": [],
                 "groups": [
                     "ПИ-б-17-1-о"
                 ],
-                "pair": "",
-                "parity": "none",
+                "pair": 4,
+                "parity": "even",
                 "type": "",
-                "day": "monday",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Управление IT-проектами",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Смирнова Н.Б."
+                    }
+                ],
+                "groups": [
+                    "ПИ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
                 "date": ""
             }
         ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
         "tuesday": [],
         "wednesday": [],
         "thursday": [],

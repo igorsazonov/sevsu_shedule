@@ -1,0 +1,596 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Управление качеством",
+                "rooms": [
+                    "487"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Осташ",
+                        "initials": "ш",
+                        "fullName": "асс. Осташ Д.А."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы и средства оптических и оптико-физических измерений",
+                "rooms": [
+                    "466"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Никишин",
+                        "initials": "н",
+                        "fullName": "доц. Никишин В.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Методы и средства оптических и оптико-физических измерений",
+                "rooms": [
+                    "487"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жмерев",
+                        "initials": "в",
+                        "fullName": "доц. Жмерев В.С."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экспертных систем",
+                "rooms": [
+                    "487"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жмерев",
+                        "initials": "в",
+                        "fullName": "доц. Жмерев В.С."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Планирование и организация эксперимента",
+                "rooms": [
+                    "466"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Планирование и организация эксперимента",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Греков",
+                        "initials": "в",
+                        "fullName": "проф. Греков Н.А."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Менеджмент",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Юрченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Юрченко Н.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Менеджмент",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Юрченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Юрченко Н.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Основы экспертных систем",
+                "rooms": [
+                    "466"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Управление качеством",
+                "rooms": [
+                    "466"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Управление качеством",
+                "rooms": [
+                    "487"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Осташ",
+                        "initials": "ш",
+                        "fullName": "асс. Осташ Д.А."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методы и средства оптических и оптико-физических измерений",
+                "rooms": [
+                    "466"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Никишин",
+                        "initials": "н",
+                        "fullName": "доц. Никишин В.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экспертных систем",
+                "rooms": [
+                    "466"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Методы и средства оптических и оптико-физических измерений",
+                "rooms": [
+                    "487"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жмерев",
+                        "initials": "в",
+                        "fullName": "доц. Жмерев В.С."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы экспертных систем",
+                "rooms": [
+                    "487"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Жмерев",
+                        "initials": "в",
+                        "fullName": "доц. Жмерев В.С."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Планирование и организация эксперимента",
+                "rooms": [
+                    "466"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Планирование и организация эксперимента",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Греков",
+                        "initials": "в",
+                        "fullName": "проф. Греков Н.А."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Менеджмент",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Юрченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Юрченко Н.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Основы экспертных систем",
+                "rooms": [
+                    "466"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Управление качеством",
+                "rooms": [
+                    "466"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лапа",
+                        "initials": "а",
+                        "fullName": "доц. Лапа М.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

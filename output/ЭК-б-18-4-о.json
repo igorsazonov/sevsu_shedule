@@ -1,0 +1,824 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Бухгалтерская финансовая отчетность",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Батищева",
+                        "initials": "а",
+                        "fullName": "доц. Батищева Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Налоговый учет и отчетность",
+                "rooms": [
+                    "358"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Коцуба",
+                        "initials": "а",
+                        "fullName": "асс. Коцуба А.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-4-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Бухгалтерский финансовый учет",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шурмина",
+                        "initials": "а",
+                        "fullName": "доц. Шурмина А.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Бухгалтерский финансовый учет",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шурмина",
+                        "initials": "а",
+                        "fullName": "доц. Шурмина А.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный анализ хозяйственной деятельности",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матушевская",
+                        "initials": "я",
+                        "fullName": "доц. Матушевская Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Комплексный анализ хозяйственной деятельности",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матушевская",
+                        "initials": "я",
+                        "fullName": "доц. Матушевская Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Налоговый учет и отчетность",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Вохмянина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Вохмянина И.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Бухгалтерская финансовая отчетность",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Батищева",
+                        "initials": "а",
+                        "fullName": "доц. Батищева Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Лабораторный практикум по бухгалтерскому учету",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рура",
+                        "initials": "а",
+                        "fullName": "доц. Рура О.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Лабораторный практикум по бухгалтерскому учету",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рура",
+                        "initials": "а",
+                        "fullName": "доц. Рура О.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Международные стандарты финансовой отчетности (Internacional financial reportting standarts) (кроме 18.03.2021)",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черемисинова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Черемисинова Д.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Бухгалтерская финансовая отчетность (кроме 18.03.2021)",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Батищева",
+                        "initials": "а",
+                        "fullName": "доц. Батищева Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "СТПАБУиА (кроме 18.03.2021)",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шипилов",
+                        "initials": "в",
+                        "fullName": "доц. Шипилов Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "СТПАБУиА (кроме 18.03.2021)",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шипилов",
+                        "initials": "в",
+                        "fullName": "доц. Шипилов Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Лабораторный практикум по бухгалтерскому учету",
+                "rooms": [
+                    "155"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рура",
+                        "initials": "а",
+                        "fullName": "доц. Рура О.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный анализ хозяйственной деятельности",
+                "rooms": [
+                    "358"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матушевская",
+                        "initials": "я",
+                        "fullName": "доц. Матушевская Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Национальная система ПОД\/ФТ (факультатив)",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Посная",
+                        "initials": "я",
+                        "fullName": "доц. Посная Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "СТПАБУиА",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шипилов",
+                        "initials": "в",
+                        "fullName": "доц. Шипилов Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "СТПАБУиА",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шипилов",
+                        "initials": "в",
+                        "fullName": "доц. Шипилов Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Бухгалтерская финансовая отчетность",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Батищева",
+                        "initials": "а",
+                        "fullName": "доц. Батищева Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Налоговый учет и отчетность",
+                "rooms": [
+                    "358"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Коцуба",
+                        "initials": "а",
+                        "fullName": "асс. Коцуба А.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Бухгалтерский финансовый учет",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шурмина",
+                        "initials": "а",
+                        "fullName": "доц. Шурмина А.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Бухгалтерский финансовый учет",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шурмина",
+                        "initials": "а",
+                        "fullName": "доц. Шурмина А.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный анализ хозяйственной деятельности",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матушевская",
+                        "initials": "я",
+                        "fullName": "доц. Матушевская Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Лабораторный практикум по бухгалтерскому учету",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рура",
+                        "initials": "а",
+                        "fullName": "доц. Рура О.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Лабораторный практикум по бухгалтерскому учету",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рура",
+                        "initials": "а",
+                        "fullName": "доц. Рура О.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный анализ хозяйственной деятельности",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матушевская",
+                        "initials": "я",
+                        "fullName": "доц. Матушевская Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Бухгалтерская финансовая отчетность (кроме 18.03.2021)",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Батищева",
+                        "initials": "а",
+                        "fullName": "доц. Батищева Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Международные стандарты финансовой отчетности (Internacional financial reportting standarts)",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черемисинова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Черемисинова Д.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "СТПАБУиА (кроме 18.03.2021)",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шипилов",
+                        "initials": "в",
+                        "fullName": "доц. Шипилов Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Лабораторный практикум по бухгалтерскому учету",
+                "rooms": [
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рура",
+                        "initials": "а",
+                        "fullName": "доц. Рура О.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Комплексный анализ хозяйственной деятельности",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матушевская",
+                        "initials": "я",
+                        "fullName": "доц. Матушевская Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Национальная система ПОД\/ФТ (факультатив)",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Посная",
+                        "initials": "я",
+                        "fullName": "доц. Посная Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "СТПАБУиА",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шипилов",
+                        "initials": "в",
+                        "fullName": "доц. Шипилов Н.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-4-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

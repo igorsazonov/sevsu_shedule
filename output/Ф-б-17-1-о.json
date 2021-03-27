@@ -1,0 +1,490 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Квантовая химия и строение молекул проф",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Костюков",
+                        "initials": "в ",
+                        "fullName": "Костюков В. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Термодинамика. Статистическая физика. Физическая кинетика",
+                "rooms": [
+                    "В-414"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бучельников",
+                        "initials": "в ",
+                        "fullName": "доц. Бучельников А. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Термодинамика. Статистическая физика. Физическая кинетика",
+                "rooms": [
+                    "В-414"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бучельников",
+                        "initials": "в ",
+                        "fullName": "доц. Бучельников А. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Физика биополимеров",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рыбакова",
+                        "initials": "а ",
+                        "fullName": "доц. Рыбакова К. А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Головченко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Головченко И. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Молекулярное моделирование",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Костюков",
+                        "initials": "в ",
+                        "fullName": "проф. Костюков В. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Молекулярное моделирование",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Костюков",
+                        "initials": "в ",
+                        "fullName": "проф. Костюков В. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Биокинетика",
+                "rooms": [
+                    "В-414"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ворнин",
+                        "initials": "н ",
+                        "fullName": "ст.пр. Ворнин Д. П."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Физика биополимеров",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рыбакова",
+                        "initials": "а ",
+                        "fullName": "доц. Рыбакова К. А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Головченко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Головченко И. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Термодинамика. Статистическая физика. Физическая кинетика (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бучельников",
+                        "initials": "в ",
+                        "fullName": "доц. Бучельников А. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Термодинамика. Статистическая физика. Физическая кинетика (кроме 18.03.2021)",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бучельников",
+                        "initials": "в ",
+                        "fullName": "доц. Бучельников А. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Квантовая химия и строение молекул проф",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Костюков",
+                        "initials": "в ",
+                        "fullName": "Костюков В. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Термодинамика. Статистическая физика. Физическая кинетика",
+                "rooms": [
+                    "В-414"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бучельников",
+                        "initials": "в ",
+                        "fullName": "доц. Бучельников А. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Термодинамика. Статистическая физика. Физическая кинетика",
+                "rooms": [
+                    "В-414"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бучельников",
+                        "initials": "в ",
+                        "fullName": "доц. Бучельников А. С."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Физика биополимеров",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рыбакова",
+                        "initials": "а ",
+                        "fullName": "доц. Рыбакова К. А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Головченко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Головченко И. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Молекулярное моделирование",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Костюков",
+                        "initials": "в ",
+                        "fullName": "проф. Костюков В. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Молекулярное моделирование",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Костюков",
+                        "initials": "в ",
+                        "fullName": "проф. Костюков В. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Биокинетика",
+                "rooms": [
+                    "В-414"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ворнин",
+                        "initials": "н ",
+                        "fullName": "ст.пр. Ворнин Д. П."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Физика биополимеров",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рыбакова",
+                        "initials": "а ",
+                        "fullName": "доц. Рыбакова К. А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Головченко",
+                        "initials": "о ",
+                        "fullName": "ст.пр. Головченко И. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Физико- химические основы нанобиотехнологий",
+                "rooms": [
+                    "Г-405"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лантушенко",
+                        "initials": "о ",
+                        "fullName": "доц. Лантушенко А. О."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Физико- химические основы нанобиотехнологий",
+                "rooms": [
+                    "Г-405"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лантушенко",
+                        "initials": "о ",
+                        "fullName": "доц. Лантушенко А. О."
+                    }
+                ],
+                "groups": [
+                    "Ф-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

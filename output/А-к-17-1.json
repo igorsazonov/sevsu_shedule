@@ -1,0 +1,1758 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Теоретические основы машиностроения",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретические основы машиностроения",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Производственно-техническая инфраструктура автотранспортных предприятий",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Производственно-техническая инфраструктура автотранспортных предприятий",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковбасюк",
+                        "initials": "к",
+                        "fullName": "Ковбасюк О.Н."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 (Ремонт автомобилей)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 (Ремонт автомобилей)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 (Организация и планирование производства)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 (Организация и планирование производства)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Организация автомобильных перевозок",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Организация автомобильных перевозок",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковбасюк",
+                        "initials": "к",
+                        "fullName": "Ковбасюк О.Н."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Ремонт автомобилей",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Ремонт автомобилей",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 САПР автомобилей",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 САПР автомобилей",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковбасюк",
+                        "initials": "к",
+                        "fullName": "Ковбасюк О.Н."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ПМ.02 Охрана труда на автотранспорте",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 Охрана труда на автотранспорте",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Производственно-техническая инфраструктура автотранспортных предприятий",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Производственно-техническая инфраструктура автотранспортных предприятий",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковбасюк",
+                        "initials": "к",
+                        "fullName": "Ковбасюк О.Н."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Соломонова",
+                        "initials": "а",
+                        "fullName": "Соломонова О.В."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Лавров",
+                        "initials": "в",
+                        "fullName": "Лавров М.О."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сакевич",
+                        "initials": "ч",
+                        "fullName": "Сакевич А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 Организация и планирование производства",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 Организация и планирование производства",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Ремонт автомобилей",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Ремонт автомобилей",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретические основы машиностроения",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретические основы машиностроения",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ПМ.02 САПР автомобилей",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 САПР автомобилей",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковбасюк",
+                        "initials": "к",
+                        "fullName": "Ковбасюк О.Н."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Специализированный подвижной состав автотранспорта и погрузочно-разгрузочные устройства",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Специализированный подвижной состав автотранспорта и погрузочно-разгрузочные устройства",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Специализированный подвижной состав автотранспорта и погрузочно-разгрузочные устройства",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Производственно-техническая инфраструктура автотранспортных предприятий",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Производственно-техническая инфраструктура автотранспортных предприятий",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Производственно-техническая инфраструктура автотранспортных предприятий",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПРАВОВЫЕ ОСНОВЫ ПРОФ. ДЕЯТЕЛЬНОСТИ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПРАВОВЫЕ ОСНОВЫ ПРОФ. ДЕЯТЕЛЬНОСТИ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Колесник",
+                        "initials": "к",
+                        "fullName": "Колесник Е.А."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковбасюк",
+                        "initials": "к",
+                        "fullName": "Ковбасюк О.Н."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.402",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.402",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ПРАВОВЫЕ ОСНОВЫ ПД",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Колесник",
+                        "initials": "к",
+                        "fullName": "Колесник Е.А."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.223",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковбасюк",
+                        "initials": "к",
+                        "fullName": "Ковбасюк О.Н."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.402",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.402",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковбасюк",
+                        "initials": "к",
+                        "fullName": "Ковбасюк О.Н."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.402",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.402",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковбасюк",
+                        "initials": "к",
+                        "fullName": "Ковбасюк О.Н."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.402",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.402",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Соломонова",
+                        "initials": "а",
+                        "fullName": "Соломонова О.В."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Лавров",
+                        "initials": "в",
+                        "fullName": "Лавров М.О."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.109",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.404",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.109",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.404",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сакевич",
+                        "initials": "ч",
+                        "fullName": "Сакевич А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковбасюк",
+                        "initials": "к",
+                        "fullName": "Ковбасюк О.Н."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.402",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.402",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Специализированный подвижной состав автотранспорта и погрузочно-разгрузочные устройства",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.123",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бузько",
+                        "initials": "о",
+                        "fullName": "Бузько А.Л."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Производственно-техническая инфраструктура автотранспортных предприятий",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.402",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковбасюк",
+                        "initials": "к",
+                        "fullName": "Ковбасюк О.Н."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.402",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ковбасюк",
+                        "initials": "к",
+                        "fullName": "Ковбасюк О.Н."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Колесник",
+                        "initials": "к",
+                        "fullName": "Колесник Е.А."
+                    }
+                ],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.223",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.223",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "А-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

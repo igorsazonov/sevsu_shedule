@@ -1,0 +1,770 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Ландшафтоведение с основами картографии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Хренова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Хренова Т.К."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "450"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Руденко Ж.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Биология. Основы цитологии и генетики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Хренова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Хренова Т.К."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по ФК и с",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретические основы химических процессов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Омельчук",
+                        "initials": "к",
+                        "fullName": "доц. Омельчук Ю.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Почвоведение",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Хренова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Хренова Т.К."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Иностранный язык (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Химические методы анализа водных объектов (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Омельчук",
+                        "initials": "к",
+                        "fullName": "доц. Омельчук Ю.А."
+                    },
+                    {
+                        "state": "lecturer",
+                        "surname": "Ведищева",
+                        "initials": "а",
+                        "fullName": "пр. Ведищева О.В."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Химические методы анализа водных объектов (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Омельчук",
+                        "initials": "к",
+                        "fullName": "доц. Омельчук Ю.А."
+                    },
+                    {
+                        "state": "lecturer",
+                        "surname": "Ведищева",
+                        "initials": "а",
+                        "fullName": "пр. Ведищева О.В."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Почвоведение (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Хренова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Хренова Т.К."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Экологическая токсикология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукина",
+                        "initials": "а",
+                        "fullName": "доц. Лукина Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Радиоэкология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Фролова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Фролова М.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С 19.02 5.03 19.03",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Ландшафтоведение с основами картографии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Хренова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Хренова Т.К."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "450"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Руденко Ж.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Биология. Основы цитологии и генетики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Хренова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Хренова Т.К."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по ФК и с",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретические основы химических процессов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Омельчук",
+                        "initials": "к",
+                        "fullName": "доц. Омельчук Ю.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретические основы химических процессов",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Омельчук",
+                        "initials": "к",
+                        "fullName": "доц. Омельчук Ю.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Котельникова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Котельникова С.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Ландшафтоведение с основами картографии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Хренова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Хренова Т.К."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Иностранный язык (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о",
+                    "ПВ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Химические методы анализа водных объектов (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Омельчук",
+                        "initials": "к",
+                        "fullName": "доц. Омельчук Ю.А."
+                    },
+                    {
+                        "state": "lecturer",
+                        "surname": "Ведищева",
+                        "initials": "а",
+                        "fullName": "пр. Ведищева О.В."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Экологическая токсикология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукина",
+                        "initials": "а",
+                        "fullName": "доц. Лукина Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Радиоэкология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Фролова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Фролова М.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,582 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Стратегия управления",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кантаева",
+                        "initials": "а",
+                        "fullName": "доц. Кантаева О.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о",
+                    "М-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Автоматизированные системы управления предприятием",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ярухин",
+                        "initials": "н",
+                        "fullName": "доц. Ярухин С.Ю."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о",
+                    "М-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "АСУП ст.пр.",
+                "rooms": [
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хлебникова",
+                        "initials": "а",
+                        "fullName": "Хлебникова В.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Менеджмент малого бизнеса",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Потанина",
+                        "initials": "а",
+                        "fullName": "доц. Потанина М.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "УЭБиЭК",
+                "rooms": [
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тракова",
+                        "initials": "а",
+                        "fullName": "доц. Тракова Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "УЭБиЭК (кроме 18.03.2021)",
+                "rooms": [
+                    "155"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тракова",
+                        "initials": "а",
+                        "fullName": "доц. Тракова Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Антикризисный менеджмент (кроме 18.03.2021)",
+                "rooms": [
+                    "354"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тракова",
+                        "initials": "а",
+                        "fullName": "доц. Тракова Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о",
+                    "М-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Менеджмент малого бизнеса (кроме 18.03.2021)",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Потанина",
+                        "initials": "а",
+                        "fullName": "доц. Потанина М.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о",
+                    "М-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Основы управления проектами (кроме 18.03.2021)",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шуневыч",
+                        "initials": "ч",
+                        "fullName": "доц. Шуневыч О.Б."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о",
+                    "М-б-17-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Стратегия управления",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кантаева",
+                        "initials": "а",
+                        "fullName": "доц. Кантаева О.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о",
+                    "М-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Корпоративная социальная отвественность (с 01.03 )",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Калюжная",
+                        "initials": "я",
+                        "fullName": "доц. Калюжная Т.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Писарюк",
+                        "initials": "к",
+                        "fullName": "доц. Писарюк С.Н."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о",
+                    "М-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Автоматизированные системы управления предприятием",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хлебникова",
+                        "initials": "а",
+                        "fullName": "доц. Хлебникова В.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "АСУП ст.пр. 155",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хлебникова",
+                        "initials": "а",
+                        "fullName": "Хлебникова В.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП",
+                "rooms": [
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шуневыч",
+                        "initials": "ч",
+                        "fullName": "доц. Шуневыч О.Б."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Стратегия управления",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кантаева",
+                        "initials": "а",
+                        "fullName": "доц. Кантаева О.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Менеджмент малого бизнеса",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Потанина",
+                        "initials": "а",
+                        "fullName": "доц. Потанина М.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "УЭБиЭК",
+                "rooms": [
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тракова",
+                        "initials": "а",
+                        "fullName": "доц. Тракова Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Антикризисный менеджмент",
+                "rooms": [
+                    "354"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тракова",
+                        "initials": "а",
+                        "fullName": "доц. Тракова Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Антикризисный менеджмент (кроме 18.03.2021)",
+                "rooms": [
+                    "354"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тракова",
+                        "initials": "а",
+                        "fullName": "доц. Тракова Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о",
+                    "М-б-17-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Управление электронным бизнесом и электронной коммерцией",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Потанина",
+                        "initials": "а",
+                        "fullName": "доц. Потанина М.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о",
+                    "М-б-17-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "УЭБиЭК",
+                "rooms": [
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тракова",
+                        "initials": "а",
+                        "fullName": "доц. Тракова Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ОУП 156",
+                "rooms": [
+                    "156",
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шуневыч",
+                        "initials": "ч",
+                        "fullName": "доц. Шуневыч О.Б."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Копоративная социальная отвественность (с 01.03 )",
+                "rooms": [
+                    "365",
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Калюжная",
+                        "initials": "я",
+                        "fullName": "доц. Калюжная Т.В."
+                    },
+                    {
+                        "state": "lecturer",
+                        "surname": "Голдаева",
+                        "initials": "а",
+                        "fullName": "пр. Голдаева Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ОУП",
+                "rooms": [
+                    "359"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шуневыч",
+                        "initials": "ч",
+                        "fullName": "доц. Шуневыч О.Б."
+                    }
+                ],
+                "groups": [
+                    "М-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

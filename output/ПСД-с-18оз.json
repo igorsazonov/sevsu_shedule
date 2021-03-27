@@ -1,0 +1,1604 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Психолого-лингвистические основы коммуникаций в научной среде",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Луговая",
+                        "initials": "я",
+                        "fullName": "асс. Луговая С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология массовых коммуникаций",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психолого-лингвистические основы коммуникаций в научной среде",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Луговая",
+                        "initials": "я",
+                        "fullName": "асс. Луговая С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология массовых коммуникаций",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология массовых коммуникаций",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология массовых коммуникаций",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология массовых коммуникаций",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология массовых коммуникаций",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Психологическое консультирование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическое консультирование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Психологическое консультирование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическое консультирование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Психология труда и инженерная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сиволобов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сиволобов В.С."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология труда и инженерная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сиволобов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сиволобов В.С."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология труда и инженерная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сиволобов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сиволобов В.С."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психосоматики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология труда и инженерная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сиволобов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сиволобов В.С."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психосоматики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психосоматики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психосоматики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Этнопсихология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моторная",
+                        "initials": "я",
+                        "fullName": "доц. Моторная С.Е."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Этнопсихология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моторная",
+                        "initials": "я",
+                        "fullName": "доц. Моторная С.Е."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психолого-педагогическое сопровождение лиц согр. возм. здоровья",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психолого-педагогическое сопровождение лиц согр. возм. здоровья",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Этнопсихология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моторная",
+                        "initials": "я",
+                        "fullName": "доц. Моторная С.Е."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Этнопсихология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моторная",
+                        "initials": "я",
+                        "fullName": "доц. Моторная С.Е."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Психолого-лингвистические основы коммуникаций в научной среде",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Луговая",
+                        "initials": "я",
+                        "fullName": "асс. Луговая С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология массовых коммуникаций",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психолого-лингвистические основы коммуникаций в научной среде",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Луговая",
+                        "initials": "я",
+                        "fullName": "асс. Луговая С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология массовых коммуникаций",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология массовых коммуникаций",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология массовых коммуникаций",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология массовых коммуникаций",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология массовых коммуникаций",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология личности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Рошка",
+                        "initials": "а",
+                        "fullName": "ст.пр. Рошка Е.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Психологическое консультирование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическое консультирование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Психологическое консультирование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическое консультирование",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Психология труда и инженерная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сиволобов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сиволобов В.С."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология труда и инженерная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сиволобов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сиволобов В.С."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология труда и инженерная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сиволобов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сиволобов В.С."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психосоматики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Психология труда и инженерная психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сиволобов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сиволобов В.С."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психосоматики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психосоматики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психосоматики",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Этнопсихология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моторная",
+                        "initials": "я",
+                        "fullName": "доц. Моторная С.Е."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Этнопсихология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моторная",
+                        "initials": "я",
+                        "fullName": "доц. Моторная С.Е."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психолого-педагогическое сопровождение лиц согр. возм. здоровья",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психолого-педагогическое сопровождение лиц согр. возм. здоровья",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "30нед. 22.03 - 28.03.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "31нед. 29.03 - 4.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "32нед. 5.04 - 11.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "33нед. 12.04 - 18.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "34нед. 19.04 - 25.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "35нед. 26.04 - 2.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Этнопсихология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моторная",
+                        "initials": "я",
+                        "fullName": "доц. Моторная С.Е."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Этнопсихология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моторная",
+                        "initials": "я",
+                        "fullName": "доц. Моторная С.Е."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "36нед. 3.05 - 9.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "37нед. 10.05 - 16.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "38нед. 17.05 - 23.05.21",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "39нед. 24.05 - 30.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "40нед. 31.05 - 6.06.21",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "41нед. 7.06 - 13.06.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

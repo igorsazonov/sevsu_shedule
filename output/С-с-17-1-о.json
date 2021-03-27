@@ -1,0 +1,774 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Б Ж Д ( морская )",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курочкин",
+                        "initials": "н",
+                        "fullName": "доц. Курочкин Л.Е."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ЛиОУЭ",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Загородний",
+                        "initials": "й",
+                        "fullName": "доц. Загородний А.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "МАНЕВРИРОВАНИЕ И УПРАВЛЕНИЕ СУДНОМ",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлов",
+                        "initials": "в",
+                        "fullName": "доц. Михайлов В.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о",
+                    "С-с-17-2-о",
+                    "С-с-17-3-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В-У Ц ( 9 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "П С С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Палаев",
+                        "initials": "в",
+                        "fullName": "Палаев С.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В-У Ц ( 9 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "П С С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Палаев",
+                        "initials": "в",
+                        "fullName": "Палаев С.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В-У Ц ( 9 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В-У Ц ( 9 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В-У Ц ( 9 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В-У Ц ( 9 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Т и ОМПГ",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Коберник",
+                        "initials": "к",
+                        "fullName": "доц. Коберник И.Н."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Райгородский",
+                        "fullName": "доц. Райгородский"
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "П С С доц.Палаев 29",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ОСнаС Аркин Л.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "М А Я доц.Иванцова 30",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "М А Я ст.пр.",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитина",
+                        "initials": "а ",
+                        "fullName": "Никитина Е. В."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ПРЕДОТВРАЩЕНИЕ СТОЛКНОВЕНИЙ СУДОВ (кроме 18.03.2021)",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Палаев",
+                        "initials": "в",
+                        "fullName": "доц. Палаев С.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о",
+                    "С-с-17-2-о",
+                    "С-с-17-3-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ОРГАНИЗАЦИЯ СЛУЖБЫ на СУДАХ Л.В (кроме 18.03.2021)",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Закурдаев",
+                        "initials": "в",
+                        "fullName": "доц. Закурдаев Г.А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Аркин",
+                        "fullName": "доц. Аркин"
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о",
+                    "С-с-17-2-о",
+                    "С-с-17-3-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЛИДЕРСТВО и ОСНОВЫ УПРАВЛЕНИЯ ЭКИПАЖЕМ (кроме 18.03.2021)",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Загородний",
+                        "initials": "й",
+                        "fullName": "доц. Загородний А.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о",
+                    "С-с-17-2-о",
+                    "С-с-17-3-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "М иУ С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлов",
+                        "fullName": "доц. Михайлов"
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "М иУ С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлов",
+                        "fullName": "доц. Михайлов"
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Б Е З О П А С Н О С Т Ь ЖИ З Н Е Д Е Я Т Е Л Ь Н О С Т И ( м о р с к а я )",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Курочкин",
+                        "initials": "н",
+                        "fullName": "доц. Курочкин Л.Е."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о",
+                    "С-с-17-2-о",
+                    "С-с-17-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "МАНЕВРИРОВАНИЕ И УПРАВЛЕНИЕ СУДНОМ",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Михайлов",
+                        "initials": "в",
+                        "fullName": "доц. Михайлов В.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о",
+                    "С-с-17-2-о",
+                    "С-с-17-3-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В-У Ц ( 9 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В-У Ц ( 9 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В-У Ц ( 9 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В-У Ц ( 9 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В-У Ц ( 9 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В-У Ц ( 9 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ОСнаС",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Закурдаев",
+                        "initials": "в",
+                        "fullName": "Закурдаев Г.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "П С С",
+                "rooms": [
+                    "29"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Палаев",
+                        "initials": "в",
+                        "fullName": "доц.Палаев С.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "М А Я доц.Иванцова 30",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "М А Я ст.пр.",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитина",
+                        "initials": "а ",
+                        "fullName": "Никитина Е. В."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ТЕХНОЛОГИЯ и ОРГАНИЗАЦИЯ МОРСКОЙ ПЕРЕВОЗКИ ГРУЗОВ и ПАССАЖИРОВ",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Коберник",
+                        "initials": "к",
+                        "fullName": "доц. Коберник  П.Н."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о",
+                    "С-с-17-2-о",
+                    "С-с-17-3-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ОРГАНИЗАЦИЯ СЛУЖБЫ на СУДАХ Л.В (кроме 18.03.2021)",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Закурдаев",
+                        "initials": "в",
+                        "fullName": "доц. Закурдаев Г.А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Аркин",
+                        "fullName": "доц. Аркин"
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о",
+                    "С-с-17-2-о",
+                    "С-с-17-3-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЛИДЕРСТВО и ОСНОВЫ УПРАВЛЕНИЯ ЭКИПАЖЕМ (кроме 18.03.2021)",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Загородний",
+                        "initials": "й",
+                        "fullName": "доц. Загородний А.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о",
+                    "С-с-17-2-о",
+                    "С-с-17-3-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "П С С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Палаев",
+                        "initials": "в",
+                        "fullName": "Палаев С.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "П С С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Палаев",
+                        "initials": "в",
+                        "fullName": "Палаев С.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "М иУ С доц.Захаров",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "М иУ С",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Захаров",
+                        "fullName": "доц. Захаров"
+                    }
+                ],
+                "groups": [
+                    "С-с-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

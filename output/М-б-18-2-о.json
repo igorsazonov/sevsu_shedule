@@ -1,0 +1,709 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Оптимизация бизнес-процессов",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Цуканов",
+                        "initials": "в",
+                        "fullName": "проф. Цуканов А.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-1-о",
+                    "М-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чугунов",
+                        "initials": "в",
+                        "fullName": "доц. Чугунов С.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-1-о",
+                    "М-б-18-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Автоматизированные процессы управления предприятием (с 01.03 )",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Калюжная",
+                        "initials": "я",
+                        "fullName": "доц. Калюжная  Т.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Абдрахманова",
+                        "initials": "а",
+                        "fullName": "доц. Абдрахманова А.А."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-1-о",
+                    "М-б-18-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Телефонные переговоры на иностранном языке",
+                "rooms": [
+                    "359"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Лысенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Лысенко В.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Операционный менеджмент (кроме 18.03.2021)",
+                "rooms": [
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Писарюк",
+                        "initials": "к",
+                        "fullName": "доц. Писарюк С.Н."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Операционный менеджмент (кроме 18.03.2021)",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Писарюк",
+                        "initials": "к",
+                        "fullName": "доц. Писарюк С.Н."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФКиС (05.02 19.02 05.03 19.03 02.04)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Оптимизация бизнес-процессов 359",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хлебникова",
+                        "initials": "а",
+                        "fullName": "доц. Хлебникова В.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Операционный менеджмент",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Писарюк",
+                        "initials": "к",
+                        "fullName": "доц. Писарюк С.Н."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Операционный менеджмент 213",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Писарюк",
+                        "initials": "к",
+                        "fullName": "доц. Писарюк С.Н."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Оптимизация бизнес-процессов",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хлебникова",
+                        "initials": "а",
+                        "fullName": "доц. Хлебникова В.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "АПУП доц. 151",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Калюжная",
+                        "initials": "я",
+                        "fullName": "Калюжная Т.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "АПУП",
+                "rooms": [
+                    "155"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Русина",
+                        "initials": "а",
+                        "fullName": "доц. Русина Н.А."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Управление карьерой",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "асс. Черкашина Е.Ю."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Управление мотивацией и развитие приверженности",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Голдаева",
+                        "initials": "а",
+                        "fullName": "пр. Голдаева Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Матвеева",
+                        "initials": "а",
+                        "fullName": "асс. Матвеева Я.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Операционный менеджмент 155",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Писарюк",
+                        "initials": "к",
+                        "fullName": "доц. Писарюк С.Н."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Оптимизация бизнес-процессов",
+                "rooms": [
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хлебникова",
+                        "initials": "а",
+                        "fullName": "доц. Хлебникова В.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Оптимизация бизнес-процессов 156",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Хлебникова",
+                        "initials": "а",
+                        "fullName": "доц. Хлебникова В.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Операционный менеджмент",
+                "rooms": [
+                    "155"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Писарюк",
+                        "initials": "к",
+                        "fullName": "доц. Писарюк С.Н."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Телефонные переговоры на иностранном языке",
+                "rooms": [
+                    "09"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Лысенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Лысенко В.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Управление мотивацией и развитие приверженности",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гребешкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Гребешкова И.А."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Управление карьерой",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гребешкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Гребешкова И.А."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Оптимизация бизнес-процессов",
+                "rooms": [
+                    "358"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Цуканов",
+                        "initials": "в",
+                        "fullName": "проф. Цуканов А.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "АПУП",
+                "rooms": [
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Русина",
+                        "initials": "а",
+                        "fullName": "доц. Русина Н.А."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Управление карьерой",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "асс. Черкашина Е.Ю."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Управление мотивацией и развитие приверженности",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Голдаева",
+                        "initials": "а",
+                        "fullName": "пр. Голдаева Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Матвеева",
+                        "initials": "а",
+                        "fullName": "асс. Матвеева Я.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "АПУП доц. (с 01.03 )",
+                "rooms": [
+                    "156"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Калюжная",
+                        "initials": "я",
+                        "fullName": "Калюжная Т.В."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Абдрахманова",
+                        "initials": "а",
+                        "fullName": "доц.Абдрахманова А.А."
+                    }
+                ],
+                "groups": [
+                    "М-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

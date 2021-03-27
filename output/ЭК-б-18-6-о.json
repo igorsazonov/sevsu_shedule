@@ -1,0 +1,819 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-4-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "АИДФ-ХДПр (орг.)",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Никулина",
+                        "initials": "а",
+                        "fullName": "асс. Никулина А.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Международные стандарты финансовой отчетности (Internacional financial reportting standarts)",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черемисинова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Черемисинова Д.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Институциональная экономика",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дребот",
+                        "initials": "т",
+                        "fullName": "ст.пр. Дребот А.М."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Институциональная экономика",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дребот",
+                        "initials": "т",
+                        "fullName": "ст.пр. Дребот А.М."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-5-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Производственный менеджмент",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осипов",
+                        "initials": "в",
+                        "fullName": "доц. Осипов К.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-5-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Анализ и диагностика финансово-хозяйственной деятельности предприятий (организаций)",
+                "rooms": [
+                    "358"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Федорченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Федорченко Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-5-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Обоснование хозяйственных решений и оценивание рисков",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кулинич",
+                        "initials": "ч",
+                        "fullName": "доц. Кулинич И.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-5-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-1-о",
+                    "ЭК-б-18-2-о",
+                    "ЭК-б-18-7-о",
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-1-о",
+                    "ЭК-б-18-2-о",
+                    "ЭК-б-18-7-о",
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Производственный менеджмент",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осипов",
+                        "initials": "в",
+                        "fullName": "доц. Осипов К.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "АиДФ-ХДПр (орг.)",
+                "rooms": [
+                    "359"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Малов",
+                        "initials": "в",
+                        "fullName": "асс. Малов А.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Основы научных исследований",
+                "rooms": [
+                    "354"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Белышева",
+                        "initials": "а",
+                        "fullName": "асс. Белышева Г.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Производственный менеджмент",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осипов",
+                        "initials": "в",
+                        "fullName": "доц. Осипов К.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Международные стандарты финансовой отчетности (Internacional financial reportting standarts)",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черемисинова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Черемисинова Д.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Внешнеэкономическая деятельность предприятия",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "ст.пр. Поляков А.П."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Производственный менеджмент",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осипов",
+                        "initials": "в",
+                        "fullName": "доц. Осипов К.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-5-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Внешнеэкономическая деятельность предприятия",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "ст.пр. Поляков А.П."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-5-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Основы научных исследований",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Аблаев",
+                        "initials": "в",
+                        "fullName": "доц. Аблаев Р.Р."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-5-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Анализ и диагностика финансово-хозяйственной деятельности предприятий (организаций)",
+                "rooms": [
+                    "358"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Федорченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Федорченко Е.А."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-5-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Обоснование хозяйственных решений и оценивание рисков",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кулинич",
+                        "initials": "ч",
+                        "fullName": "доц. Кулинич И.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-5-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-1-о",
+                    "ЭК-б-18-2-о",
+                    "ЭК-б-18-7-о",
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-1-о",
+                    "ЭК-б-18-2-о",
+                    "ЭК-б-18-7-о",
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-1-о",
+                    "ЭК-б-18-2-о",
+                    "ЭК-б-18-7-о",
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-6-о",
+                    "М-б-18-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Институциональная экономика",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дребот",
+                        "initials": "т",
+                        "fullName": "ст.пр. Дребот А.М."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-5-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика туризма",
+                "rooms": [
+                    "354"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Абрамова",
+                        "initials": "а",
+                        "fullName": "доц. Абрамова Л.С."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-5-о",
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "АиДФ-ХДПр (орг.)",
+                "rooms": [
+                    "359"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Малов",
+                        "initials": "в",
+                        "fullName": "асс. Малов А.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Обоснование хозяйственных решений и оценивание рисков",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кулинич",
+                        "initials": "ч",
+                        "fullName": "доц. Кулинич И.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика туризма",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Никулина",
+                        "initials": "а",
+                        "fullName": "асс. Никулина А.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФКиС (13.02 27.02)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-18-6-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,455 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методология и техн. проектной деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Кокодей",
+                        "initials": "й",
+                        "fullName": "проф. Кокодей Т.А."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Социальные проблемы молодежи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Косцова",
+                        "initials": "а",
+                        "fullName": "доц. Косцова М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Моделирование соц. процессов в молодежной среде",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Косцова",
+                        "initials": "а",
+                        "fullName": "доц. Косцова М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар (journal club) доц Косцова М.В",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Семенкина",
+                        "initials": "а",
+                        "fullName": "доц. Семенкина И.А."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Философия и методолгия исследовательсктй деятельности",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Миронов",
+                        "initials": "в",
+                        "fullName": "проф. Миронов А.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Психология иннов. деятельности молодежи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Косцова",
+                        "initials": "а",
+                        "fullName": "доц. Косцова М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Эфф. аналит. работа с зарубежными инф. источниками",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Косцова",
+                        "initials": "а",
+                        "fullName": "доц. Косцова М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Научно-исследовательский и проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский и проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский и проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Научно-исследовательский проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Орг. добр. (волонт.) деят. и вз. с соц. ориент. НКО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Косцова",
+                        "initials": "а",
+                        "fullName": "доц. Косцова М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Карьерные стратегии молодежи",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Косцова",
+                        "initials": "а",
+                        "fullName": "доц. Косцова М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Семенкина",
+                        "initials": "а",
+                        "fullName": "доц. Семенкина И.А."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Философия и методолгия исследовательсктй деятельности",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Миронов",
+                        "initials": "в",
+                        "fullName": "проф. Миронов А.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Научно-исследовательский и проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский и проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательский и проектный практикум",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Никитаева",
+                        "initials": "а",
+                        "fullName": "Никитаева М.В."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие коррупции (факультатив)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "ОРМ-м-20-2-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,788 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Основы безопасной эксплуатации танкеров",
+                "rooms": [
+                    "51"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Аблаев",
+                        "initials": "в ",
+                        "fullName": "доц. Аблаев А. Р."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-1-о",
+                    "С-с-16-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Теория и устройство судна Е.В",
+                "rooms": [
+                    "51"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Никитин",
+                        "fullName": "проф. Никитин"
+                    }
+                ],
+                "groups": [
+                    "С-с-16-1-о",
+                    "С-с-16-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 2 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 2 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 2 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 2 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 2 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 2 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н О - \nУ Ч Е Б Н Ы Й\nЦ Е Н Т Р ( 5 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - \nУ Ч Е Б Н Ы Й\nЦ Е Н Т Р ( 5 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - \nУ Ч Е Б Н Ы Й\nЦ Е Н Т Р ( 5 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - \nУ Ч Е Б Н Ы Й\nЦ Е Н Т Р ( 5 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - \nУ Ч Е Б Н Ы Й\nЦ Е Н Т Р ( 5 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - \nУ Ч Е Б Н Ы Й\nЦ Е Н Т Р ( 5 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Т У С",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Никитин",
+                        "initials": "н",
+                        "fullName": "проф. Никитин Е.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "М А Я ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Иванцова",
+                        "initials": "а ",
+                        "fullName": "доц. Иванцова Ю. А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Никитина",
+                        "initials": "а ",
+                        "fullName": "Никитина Е. В."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ГМОС ст. преп.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Потапенко",
+                        "initials": "о",
+                        "fullName": "Потапенко С.А."
+                    },
+                    {
+                        "state": "professor",
+                        "surname": "Холопцев",
+                        "initials": "в",
+                        "fullName": "проф. Холопцев А.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Гидрометеорологическое обеспечение судовождения",
+                "rooms": [
+                    "51"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Потапенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Потапенко С.А."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-1-о",
+                    "С-с-16-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы научных исследований А.В",
+                "rooms": [
+                    "51"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Холопцев",
+                        "fullName": "проф. Холопцев"
+                    }
+                ],
+                "groups": [
+                    "С-с-16-1-о",
+                    "С-с-16-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Электронные картографические навигационные информационные системы",
+                "rooms": [
+                    "52"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Коберник",
+                        "initials": "к",
+                        "fullName": "доц. Коберник И.Н."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-1-о",
+                    "С-с-16-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 2 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 2 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 2 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 2 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 2 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - У Ч Е Б Н Ы Й Ц Е Н Т Р ( 2 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ОБЭТ Аблаев",
+                "rooms": [
+                    "38"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКНИС Коберник Райгородский",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКНИС Коберник Райгородский",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ОБЭТ Аблаев",
+                "rooms": [
+                    "38"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ЭКНИС Райгородский 3 ПГ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - \nУ Ч Е Б Н Ы Й\nЦ Е Н Т Р ( 5 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКНИС Райгородский 3 ПГ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - \nУ Ч Е Б Н Ы Й\nЦ Е Н Т Р ( 5 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - \nУ Ч Е Б Н Ы Й\nЦ Е Н Т Р ( 5 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - \nУ Ч Е Б Н Ы Й\nЦ Е Н Т Р ( 5 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - \nУ Ч Е Б Н Ы Й\nЦ Е Н Т Р ( 5 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н О - \nУ Ч Е Б Н Ы Й\nЦ Е Н Т Р ( 5 чел. )",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "О Н И",
+                "rooms": [
+                    "57"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Холопцев",
+                        "initials": "в",
+                        "fullName": "проф. Холопцев А.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "М А Я ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Иванцова",
+                        "initials": "а ",
+                        "fullName": "доц. Иванцова Ю. А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Никитина",
+                        "initials": "а ",
+                        "fullName": "Никитина Е. В."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ГМОС ст. преп.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Потапенко",
+                        "initials": "о",
+                        "fullName": "Потапенко С.А."
+                    },
+                    {
+                        "state": "professor",
+                        "surname": "Холопцев",
+                        "initials": "в",
+                        "fullName": "проф. Холопцев А.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "М А Я ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Иванцова",
+                        "initials": "а ",
+                        "fullName": "доц. Иванцова Ю. А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Никитина",
+                        "initials": "а ",
+                        "fullName": "Никитина Е. В."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "МАЯ ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Иванцова",
+                        "initials": "а ",
+                        "fullName": "доц. Иванцова Ю. А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Никитина",
+                        "initials": "а ",
+                        "fullName": "Никитина Е. В."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Оценка риска в мореплавании",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ивах",
+                        "initials": "х",
+                        "fullName": "доц. Ивах И.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-1-о",
+                    "С-с-16-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "О Р в М",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ивах",
+                        "initials": "х",
+                        "fullName": "доц. Ивах И.В."
+                    }
+                ],
+                "groups": [
+                    "С-с-16-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

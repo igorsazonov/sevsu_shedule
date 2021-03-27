@@ -1,0 +1,757 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Туристский и гостиничный маркетинг",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Червякова",
+                        "initials": "а",
+                        "fullName": "доц. Червякова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Марк. исслед. в сфере туризма и гостепр.",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Червякова",
+                        "initials": "а",
+                        "fullName": "доц. Червякова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "М.:\"Ц.пр.в Т\" ЦП.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Каширина",
+                        "initials": "а",
+                        "fullName": "доц. Каширина Е.С."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "М.:\"Ц.пр.в Т\" ЦП.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Каширина",
+                        "initials": "а",
+                        "fullName": "доц. Каширина Е.С."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Деловые коммуникации в туризме",
+                "rooms": [
+                    "А-33"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Поспелова",
+                        "initials": "а",
+                        "fullName": "доц. Поспелова С.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Деловые коммуникации в туризме",
+                "rooms": [
+                    "А-33"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Поспелова",
+                        "initials": "а",
+                        "fullName": "доц. Поспелова С.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "География международного туризма",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Каширина",
+                        "initials": "а",
+                        "fullName": "доц. Каширина Е.С."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "450"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Руденко Ж.А."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Модуль:\"ПвТ\" Креат.мастерская",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Червякова",
+                        "initials": "а",
+                        "fullName": "доц. Червякова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ФТД Компетенции \"World skills\"",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Ин.яз. (ВТОРОЙ)",
+                "rooms": [
+                    "А-101"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "асс. Грищук А.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Ин.яз. (ВТОРОЙ)",
+                "rooms": [
+                    "421",
+                    "Г-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "асс. Грищук А.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "УНИВЕРСИТЕТСКАЯ 33 !!!!!",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "асс. Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о",
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "асс. Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о",
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Туристский и гостиничный маркетинг",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Червякова",
+                        "initials": "а",
+                        "fullName": "доц.Червякова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Туристский и гостиничный маркетинг",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Червякова",
+                        "initials": "а",
+                        "fullName": "доц. Червякова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Марк. исслед. в сфере туризма и гостепр.",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Червякова",
+                        "initials": "а",
+                        "fullName": "доц. Червякова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "М.:\"Ц.пр.в Т\" ЦП.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Каширина",
+                        "initials": "а",
+                        "fullName": "доц. Каширина Е.С."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "М.:\"Ц.пр.в Т\" ЦП.",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Каширина",
+                        "initials": "а",
+                        "fullName": "доц. Каширина Е.С."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Модуль:\"Пр.в тур\" ПЭ и ТП.",
+                "rooms": [
+                    "А-33"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одарюк",
+                        "initials": "к",
+                        "fullName": "доц. Одарюк Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Модуль:\"Пр.в тур\" ПЭ и ТП.",
+                "rooms": [
+                    "А-33"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Одарюк",
+                        "initials": "к",
+                        "fullName": "доц. Одарюк Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "География международного туризма",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Каширина",
+                        "initials": "а",
+                        "fullName": "доц. Каширина Е.С."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Русский язык делового общения",
+                "rooms": [
+                    "450"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Руденко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Руденко Ж.А."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Модуль:\"ПвТ\" Креат.мастерская",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    },
+                    {
+                        "state": "docent",
+                        "surname": "Червякова",
+                        "initials": "а",
+                        "fullName": "доц. Червякова Е.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ФТД Компетенции \"World skills\"",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукьяненко",
+                        "initials": "о",
+                        "fullName": "доц. Лукьяненко Е.А."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Ин.яз. (ВТОРОЙ)",
+                "rooms": [
+                    "А-101"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "асс. Грищук А.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Ин.яз. (ВТОРОЙ)",
+                "rooms": [
+                    "Г-404",
+                    "Г-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "асс. Грищук А.В."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "асс. Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о",
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Черныш",
+                        "initials": "ш",
+                        "fullName": "ст.пр. Черныш И.Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Байко",
+                        "initials": "о",
+                        "fullName": "асс. Байко В.А."
+                    }
+                ],
+                "groups": [
+                    "Т-б-19-1-о",
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Т-б-19-1-о",
+                    "ВВ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

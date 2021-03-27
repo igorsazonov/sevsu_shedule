@@ -1,0 +1,138 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Методология исследовательской деятельности",
+                "rooms": [
+                    "213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Пискун",
+                        "initials": "н",
+                        "fullName": "проф. Пискун Е.И."
+                    }
+                ],
+                "groups": [
+                    "ЭВМ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика морской отрасли (факультатив)",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ковалева",
+                        "initials": "а",
+                        "fullName": "доц. Ковалева Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭВМ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Таможенное дело",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Алесина",
+                        "initials": "а",
+                        "fullName": "доц. Алесина Н.В."
+                    }
+                ],
+                "groups": [
+                    "ЭВМ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности",
+                "rooms": [
+                    "354"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Пискун",
+                        "initials": "н",
+                        "fullName": "проф. Пискун Е.И."
+                    }
+                ],
+                "groups": [
+                    "ЭВМ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика морской отрасли (факультатив)",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ковалева",
+                        "initials": "а",
+                        "fullName": "доц. Ковалева Т.Ю."
+                    }
+                ],
+                "groups": [
+                    "ЭВМ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

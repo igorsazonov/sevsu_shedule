@@ -1,0 +1,695 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Физика доц",
+                "rooms": [
+                    "А-38"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Матузаева",
+                        "initials": "а",
+                        "fullName": "Матузаева О.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "А-39",
+                    "А-38",
+                    "А-38"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чернявская",
+                        "initials": "я",
+                        "fullName": "доц. Чернявская С.А."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Материаловедение",
+                "rooms": [
+                    "А-22",
+                    "А-38",
+                    "А-38"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гордеева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Гордеева Э.С."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Информатика",
+                "rooms": [
+                    "375",
+                    "454",
+                    "268",
+                    "493"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Михайлова О.С."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "493",
+                    "154"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "асс. Кузьмина М.А."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Материаловедение",
+                "rooms": [
+                    "114",
+                    "А-42",
+                    "А-42"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шрон",
+                        "initials": "н",
+                        "fullName": "доц. Шрон Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Физическая культура и спорт",
+                "rooms": [
+                    "А-42",
+                    "А-42"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Спец.разделы высшей математики \/ф-в\/",
+                "rooms": [
+                    "482"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "асс. Кузьмина М.А."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Иностранный язык (кроме 18.03.2021)",
+                "rooms": [
+                    "463",
+                    "475",
+                    "360",
+                    "460"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности (кроме 18.03.2021)",
+                "rooms": [
+                    "499",
+                    "493",
+                    "462"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лей",
+                        "initials": "й",
+                        "fullName": "доц. Лей В.А."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык (кроме 18.03.2021)",
+                "rooms": [
+                    "453"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [
+                    "354"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Физика",
+                "rooms": [
+                    "360",
+                    "454",
+                    "460",
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матузаева",
+                        "initials": "а",
+                        "fullName": "доц. Матузаева О.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Экология",
+                "rooms": [
+                    "454",
+                    "493"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Физика доц",
+                "rooms": [
+                    "А-38"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Матузаева",
+                        "initials": "а",
+                        "fullName": "Матузаева О.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "А-39",
+                    "А-38",
+                    "А-38"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чернявская",
+                        "initials": "я",
+                        "fullName": "доц. Чернявская С.А."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности",
+                "rooms": [
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лей",
+                        "initials": "й",
+                        "fullName": "доц. Лей В.А."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [
+                    "382"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Информатика",
+                "rooms": [
+                    "375",
+                    "382",
+                    "493",
+                    "154"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Михайлова О.С."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "493",
+                    "475",
+                    "382"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "асс. Кузьмина М.А."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "453",
+                    "А-42",
+                    "А-42"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Физическая культура и спорт",
+                "rooms": [
+                    "А-42",
+                    "А-42"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Спец.разделы высшей математики \/ф-в\/",
+                "rooms": [
+                    "482",
+                    "456",
+                    "378",
+                    "378"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "асс. Кузьмина М.А."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Материаловедение",
+                "rooms": [
+                    "114",
+                    "460",
+                    "462",
+                    "454"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гордеева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Гордеева Э.С."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык (кроме 18.03.2021)",
+                "rooms": [
+                    "463",
+                    "493",
+                    "360",
+                    "460"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [
+                    "354"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Физика",
+                "rooms": [
+                    "360",
+                    "493",
+                    "460",
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матузаева",
+                        "initials": "а",
+                        "fullName": "доц. Матузаева О.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Информатика",
+                "rooms": [
+                    "383"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Михайлова О.С."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Экология",
+                "rooms": [
+                    "А-22"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

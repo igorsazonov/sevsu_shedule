@@ -1,0 +1,698 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Судовые автоматизированные электроэнергетические системы",
+                "rooms": [
+                    "А-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Конева",
+                        "initials": "а ",
+                        "fullName": "доц. Конева С. А."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Судовые электрические сети и освещения",
+                "rooms": [
+                    "В-207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Олейниченко",
+                        "initials": "о ",
+                        "fullName": "доц. Олейниченко Н. Н."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Судовые электрические сети и освещения",
+                "rooms": [
+                    "В-207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Олейниченко",
+                        "initials": "о ",
+                        "fullName": "доц. Олейниченко Н. Н."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Устройства внутри- судовой связи и сигнализ.",
+                "rooms": [
+                    "А-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матвеев",
+                        "initials": "в ",
+                        "fullName": "доц. Матвеев Ю. В."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Специальные Э М и преобразователи ст.пр.",
+                "rooms": [
+                    "Г-007"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пронина",
+                        "initials": "а",
+                        "fullName": "Пронина А.К."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Гребные электрические установки",
+                "rooms": [
+                    "Г-007"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Беляева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Беляева Л.Л."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Гребные электрические установки",
+                "rooms": [
+                    "Г-007"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Беляева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Беляева Л.Л."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Программируемые контроллеры",
+                "rooms": [
+                    "В-207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гусева",
+                        "initials": "а",
+                        "fullName": "доц. Гусева Е.В."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Программируемые контроллеры",
+                "rooms": [
+                    "В-207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гусева",
+                        "initials": "а",
+                        "fullName": "доц. Гусева Е.В."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Специальные электрические машины и преобразователи ст.пр.",
+                "rooms": [
+                    "Г-001"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пронина",
+                        "initials": "а",
+                        "fullName": "Пронина А.К."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н А Я К А Ф Е Д Р А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н А Я К А Ф Е Д Р А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н А Я К А Ф Е Д Р А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н А Я К А Ф Е Д Р А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н А Я К А Ф Е Д Р А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н А Я К А Ф Е Д Р А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "У В С С и С",
+                "rooms": [
+                    "В-207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матвеев",
+                        "initials": "в ",
+                        "fullName": "доц. Матвеев Ю. В."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Гребные электрические установки",
+                "rooms": [
+                    "А-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Беляева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Беляева Л.Л."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Судовые автоматизированные электроэнергетические системы",
+                "rooms": [
+                    "Б-003"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Конева",
+                        "initials": "а ",
+                        "fullName": "доц. Конева С. А."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Судовые автоматизированные Э Э С",
+                "rooms": [
+                    "В-207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Беляева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Беляева Л.Л."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Судовые автоматизированные Э Э С",
+                "rooms": [
+                    "Б-003"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Беляева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Беляева Л.Л."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Специальные Э М и преобразователи ст.пр.",
+                "rooms": [
+                    "Г-007"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пронина",
+                        "initials": "а",
+                        "fullName": "Пронина А.К."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Устройства внутри- судовой связи и сигнализ.",
+                "rooms": [
+                    "А-301"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матвеев",
+                        "initials": "в ",
+                        "fullName": "доц. Матвеев Ю. В."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Программируемые контроллеры",
+                "rooms": [
+                    "В-207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гусева",
+                        "initials": "а",
+                        "fullName": "доц. Гусева Е.В."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Программируемые контроллеры",
+                "rooms": [
+                    "В-207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гусева",
+                        "initials": "а",
+                        "fullName": "доц. Гусева Е.В."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Специальные электрические машины и преобразователи ст.пр.",
+                "rooms": [
+                    "Г-001"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Пронина",
+                        "initials": "а",
+                        "fullName": "Пронина А.К."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "В О Е Н Н А Я К А Ф Е Д Р А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н А Я К А Ф Е Д Р А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н А Я К А Ф Е Д Р А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н А Я К А Ф Е Д Р А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н А Я К А Ф Е Д Р А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "В О Е Н Н А Я К А Ф Е Д Р А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Гребные электрические установки",
+                "rooms": [
+                    "Г-007"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Беляева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Беляева Л.Л."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Гребные электрические установки",
+                "rooms": [
+                    "Г-007"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Беляева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Беляева Л.Л."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Устройства внутри- судовой связи и сигнализ.",
+                "rooms": [
+                    "А-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Матвеев",
+                        "initials": "в ",
+                        "fullName": "доц. Матвеев Ю. В."
+                    }
+                ],
+                "groups": [
+                    "Э-б-17-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

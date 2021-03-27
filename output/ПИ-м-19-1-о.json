@@ -2,59 +2,14 @@
     "odd": {
         "monday": [
             {
-                "subject": "КРКД 14.09.2020",
-                "rooms": [
-                    "Б-503"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Шумейко",
-                        "initials": "о",
-                        "fullName": "доц. Шумейко И.П."
-                    }
-                ],
-                "groups": [
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 1,
-                "parity": "odd",
-                "type": "practics",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Обработка изображений и СКЗ",
+                "subject": "Компьютерное моделирование",
                 "rooms": [],
                 "lecturers": [
                     {
-                        "state": "seniorLecturer",
-                        "surname": "Кузнецов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Кузнецов С.А."
-                    }
-                ],
-                "groups": [
-                    "ИС-м-19-1-о",
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Глубокое обучение",
-                "rooms": [
-                    "Б-507"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Кузнецов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Кузнецов С.А."
+                        "state": "docent",
+                        "surname": "Безуглая",
+                        "initials": "я",
+                        "fullName": "доц.Безуглая А.Е."
                     }
                 ],
                 "groups": [
@@ -62,25 +17,49 @@
                 ],
                 "pair": 3,
                 "parity": "odd",
-                "type": "lab",
+                "type": "lecture",
                 "day": "monday",
                 "date": ""
             },
             {
-                "subject": "Академический ин.яз.",
-                "rooms": [],
+                "subject": "Управление IT-проектами ст.препод.",
+                "rooms": [
+                    "Г-512"
+                ],
                 "lecturers": [
                     {
-                        "state": "docent",
-                        "surname": "Корж",
-                        "initials": "ж",
-                        "fullName": "доц. Корж Т.Н."
+                        "state": "",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "Смирнова Н.Б."
                     }
                 ],
                 "groups": [
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар",
+                "rooms": [
+                    "Г-512"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шумейко",
+                        "initials": "о",
+                        "fullName": "доц.Шумейко И.П."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 5,
                 "parity": "odd",
                 "type": "practics",
                 "day": "monday",
@@ -93,9 +72,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-б-17-1-о",
-                    "ИС-б-17-2-о",
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 1,
@@ -109,9 +85,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-б-17-1-о",
-                    "ИС-б-17-2-о",
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 2,
@@ -125,7 +98,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 3,
@@ -139,7 +111,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 4,
@@ -153,7 +124,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 5,
@@ -167,7 +137,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 6,
@@ -181,7 +150,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 7,
@@ -191,114 +159,18 @@
                 "date": ""
             }
         ],
-        "wednesday": [],
-        "thursday": [
+        "wednesday": [
             {
-                "subject": "Web-ГИС-т",
+                "subject": "Компьютерное моделирование",
                 "rooms": [
-                    "Г-502"
+                    "Г-512"
                 ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Дымченко",
-                        "initials": "о",
-                        "fullName": "ст.пр. Дымченко И.В."
-                    }
-                ],
-                "groups": [
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "lab",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "Web-ГИС-т Л-до 15.11 ПЗ-с 29.11.",
-                "rooms": [
-                    "Г-502"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Дымченко",
-                        "initials": "о",
-                        "fullName": "Дымченко И.В."
-                    }
-                ],
-                "groups": [
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 5,
-                "parity": "odd",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            }
-        ],
-        "friday": [
-            {
-                "subject": "БД и обл.технологии",
-                "rooms": [],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Пелипас",
-                        "initials": "с",
-                        "fullName": "доц. Пелипас В.О."
-                    },
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Строганов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Строганов В.А."
-                    }
-                ],
-                "groups": [
-                    "ИС-м-19-1-о",
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 1,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "БД и ОТ",
-                "rooms": [
-                    "Г-501"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Строганов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Строганов В.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "lab",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "AR\/VR-технологии",
-                "rooms": [
-                    "Г-502"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Дымченко",
-                        "initials": "о",
-                        "fullName": "ст.пр. Дымченко И.В."
+                        "surname": "Безуглая",
+                        "initials": "я",
+                        "fullName": "доц.Безуглая А.Е."
                     }
                 ],
                 "groups": [
@@ -307,20 +179,20 @@
                 "pair": 3,
                 "parity": "odd",
                 "type": "lab",
-                "day": "friday",
+                "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "Web-ГИС-т 11.09.2020",
+                "subject": "Компьютерное моделирование",
                 "rooms": [
-                    "Г-502"
+                    "Г-512"
                 ],
                 "lecturers": [
                     {
-                        "state": "",
-                        "surname": "Дымченко",
-                        "initials": "о",
-                        "fullName": "Дымченко И.В."
+                        "state": "docent",
+                        "surname": "Безуглая",
+                        "initials": "я",
+                        "fullName": "доц.Безуглая А.Е."
                     }
                 ],
                 "groups": [
@@ -329,41 +201,34 @@
                 "pair": 4,
                 "parity": "odd",
                 "type": "practics",
-                "day": "friday",
+                "day": "wednesday",
                 "date": ""
             }
         ],
-        "saturday": []
-    },
-    "even": {
-        "monday": [
+        "thursday": [
             {
-                "subject": "AR\/VR-технологии 21.09.20",
-                "rooms": [
-                    "Г-502"
-                ],
+                "subject": "Управление IT-проектами ст.пр. до 20.03.2021г. (кроме 18.03.2021)",
+                "rooms": [],
                 "lecturers": [
                     {
-                        "state": "seniorLecturer",
-                        "surname": "Дымченко",
-                        "initials": "о",
-                        "fullName": "ст.пр. Дымченко И.В."
+                        "state": "",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "Смирнова Н.Б."
                     }
                 ],
                 "groups": [
                     "ПИ-м-19-1-о"
                 ],
-                "pair": 1,
-                "parity": "even",
-                "type": "practics",
-                "day": "monday",
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
                 "date": ""
             },
             {
-                "subject": "Научный семинар (jc)",
-                "rooms": [
-                    "Б-503"
-                ],
+                "subject": "Геоматика и простанственный анализ (кроме 18.03.2021)",
+                "rooms": [],
                 "lecturers": [
                     {
                         "state": "docent",
@@ -375,49 +240,102 @@
                 "groups": [
                     "ПИ-м-19-1-о"
                 ],
-                "pair": 2,
-                "parity": "even",
-                "type": "practics",
-                "day": "monday",
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
                 "date": ""
-            },
+            }
+        ],
+        "friday": [
             {
-                "subject": "Глубокое обучение",
+                "subject": "Геоматика и простанственный анализ",
                 "rooms": [
-                    "Б-507"
+                    "Г-502"
                 ],
                 "lecturers": [
                     {
                         "state": "seniorLecturer",
-                        "surname": "Кузнецов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Кузнецов С.А."
+                        "surname": "Дымченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Дымченко И.В."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Геоматика и простанственный анализ",
+                "rooms": [
+                    "Г-502"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дымченко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Дымченко И.В."
                     }
                 ],
                 "groups": [
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 3,
-                "parity": "even",
+                "parity": "odd",
                 "type": "lab",
-                "day": "monday",
+                "day": "friday",
                 "date": ""
-            },
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
             {
-                "subject": "Академический ин.яз.",
-                "rooms": [],
+                "subject": "Управление IT-проектами ст.препод.",
+                "rooms": [
+                    "Г-512"
+                ],
                 "lecturers": [
                     {
-                        "state": "docent",
-                        "surname": "Корж",
-                        "initials": "ж",
-                        "fullName": "доц. Корж Т.Н."
+                        "state": "",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "Смирнова Н.Б."
                     }
                 ],
                 "groups": [
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Управление IT-проектами ст.препод. с 20.03.2021г.",
+                "rooms": [
+                    "Б-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "Смирнова Н.Б."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 5,
                 "parity": "even",
                 "type": "practics",
                 "day": "monday",
@@ -430,9 +348,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-б-17-1-о",
-                    "ИС-б-17-2-о",
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 1,
@@ -446,7 +361,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 2,
@@ -460,7 +374,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 3,
@@ -474,7 +387,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 4,
@@ -488,7 +400,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 5,
@@ -502,9 +413,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-б-17-1-о",
-                    "ИС-б-17-2-о",
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 6,
@@ -518,9 +426,6 @@
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
-                    "ИС-б-17-1-о",
-                    "ИС-б-17-2-о",
-                    "ИС-м-19-1-о",
                     "ПИ-м-19-1-о"
                 ],
                 "pair": 7,
@@ -532,29 +437,95 @@
         ],
         "wednesday": [
             {
-                "subject": "ОИ и СКЗ (ф-в)",
+                "subject": "Научный семинар",
                 "rooms": [
-                    "Г-511"
+                    "Г-512"
                 ],
                 "lecturers": [
                     {
-                        "state": "seniorLecturer",
-                        "surname": "Кузнецов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Кузнецов С.А."
+                        "state": "docent",
+                        "surname": "Шумейко",
+                        "initials": "о",
+                        "fullName": "доц.Шумейко И.П."
                     }
                 ],
                 "groups": [
                     "ПИ-м-19-1-о"
                 ],
-                "pair": 1,
+                "pair": 3,
                 "parity": "even",
-                "type": "lab",
+                "type": "practics",
                 "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "Проектная деятельность",
+                "subject": "Компьютерное моделирование",
+                "rooms": [
+                    "Г-512"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Безуглая",
+                        "initials": "я",
+                        "fullName": "доц.Безуглая А.Е."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Управление IT-проектами ст.пр. до 20.03.2021г. (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "Смирнова Н.Б."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Геоматика и простанственный анализ (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шумейко",
+                        "initials": "о",
+                        "fullName": "доц. Шумейко И.П."
+                    }
+                ],
+                "groups": [
+                    "ПИ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Геоматика и простанственный анализ",
                 "rooms": [
                     "Г-502"
                 ],
@@ -572,168 +543,20 @@
                 "pair": 2,
                 "parity": "even",
                 "type": "practics",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "ПИ\/м-19-1-о",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 7,
-                "parity": "even",
-                "type": "",
-                "day": "wednesday",
-                "date": ""
-            }
-        ],
-        "thursday": [
-            {
-                "subject": "БКС (ф-в) Л-до 22.10. ПЗ-с 5.11.",
-                "rooms": [
-                    "Б-503"
-                ],
-                "lecturers": [
-                    {
-                        "state": "",
-                        "surname": "Чернега",
-                        "initials": "а",
-                        "fullName": "Чернега В.С."
-                    }
-                ],
-                "groups": [
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 1,
-                "parity": "even",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "БКС (ф-в)",
-                "rooms": [
-                    "Б-503"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Чернега",
-                        "initials": "а",
-                        "fullName": "доц. Чернега В.С."
-                    }
-                ],
-                "groups": [
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 2,
-                "parity": "even",
-                "type": "lab",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "КРКД Л-до 19.10. ПЗ-с 3.12.",
-                "rooms": [],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Шумейко",
-                        "initials": "о",
-                        "fullName": "доц. Шумейко И.П."
-                    }
-                ],
-                "groups": [
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 3,
-                "parity": "even",
-                "type": "",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "Коммерциализация РКД",
-                "rooms": [
-                    "Б-507"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Шумейко",
-                        "initials": "о",
-                        "fullName": "доц. Шумейко И.П."
-                    }
-                ],
-                "groups": [
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 4,
-                "parity": "even",
-                "type": "practics",
-                "day": "thursday",
-                "date": ""
-            }
-        ],
-        "friday": [
-            {
-                "subject": "БД и ОТ",
-                "rooms": [
-                    "Б-507"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Строганов",
-                        "initials": "в",
-                        "fullName": "ст.пр. Строганов В.А."
-                    }
-                ],
-                "groups": [
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 1,
-                "parity": "even",
-                "type": "lab",
                 "day": "friday",
                 "date": ""
             },
             {
-                "subject": "Глубокое обучение",
-                "rooms": [
-                    "Б-507"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Бондарев",
-                        "initials": "в",
-                        "fullName": "доц. Бондарев В.Н."
-                    }
-                ],
-                "groups": [
-                    "ИС-м-19-1-о",
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": 2,
-                "parity": "even",
-                "type": "lecture",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "AR\/VR-техн. Л-до 6.11.ПЗ-с 20.11",
+                "subject": "Геоматика и простанственный анализ",
                 "rooms": [
                     "Г-502"
                 ],
                 "lecturers": [
                     {
-                        "state": "",
+                        "state": "seniorLecturer",
                         "surname": "Дымченко",
                         "initials": "о",
-                        "fullName": "Дымченко И.В."
+                        "fullName": "ст.пр. Дымченко И.В."
                     }
                 ],
                 "groups": [
@@ -741,7 +564,7 @@
                 ],
                 "pair": 3,
                 "parity": "even",
-                "type": "",
+                "type": "lab",
                 "day": "friday",
                 "date": ""
             }
@@ -749,23 +572,7 @@
         "saturday": []
     },
     "none": {
-        "monday": [
-            {
-                "subject": "ПИ\/м-19-1-о",
-                "rooms": [
-                    "10"
-                ],
-                "lecturers": [],
-                "groups": [
-                    "ПИ-м-19-1-о"
-                ],
-                "pair": "",
-                "parity": "none",
-                "type": "",
-                "day": "monday",
-                "date": ""
-            }
-        ],
+        "monday": [],
         "tuesday": [],
         "wednesday": [],
         "thursday": [],

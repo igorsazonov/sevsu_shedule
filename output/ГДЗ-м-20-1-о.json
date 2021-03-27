@@ -1,0 +1,394 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Академический иностранный язык \nдоц (11:50)",
+                "rooms": [
+                    "Г-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Фотограмметрия (14:00)",
+                "rooms": [
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шумейко",
+                        "initials": "о",
+                        "fullName": "доц. Шумейко И.П."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Теория и методология исследовательской деятельности в геодезии \n(Лекции: 18.02 04.03 18.03 01.04 15.04 29.04)",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рапацкий",
+                        "initials": "й",
+                        "fullName": "доц. Рапацкий Ю.Л."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Компьютерные технологии в геодезии и дистанционном зондировании",
+                "rooms": [
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Костовска",
+                        "initials": "а",
+                        "fullName": "доц. Костовска С.К."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Компьютерные технологии в геодезии и дистанционном зондировании",
+                "rooms": [
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Костовска",
+                        "initials": "а",
+                        "fullName": "доц. Костовска С.К."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Дистанционное зондирование",
+                "rooms": [
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Костовска",
+                        "initials": "а",
+                        "fullName": "доц. Костовска С.К."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дистанционное зондирование",
+                "rooms": [
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Костовска",
+                        "initials": "а",
+                        "fullName": "доц. Костовска С.К."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Дистанционное зондирование",
+                "rooms": [
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Костовска",
+                        "initials": "а",
+                        "fullName": "доц. Костовска С.К."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "УНИВЕРСИТЕТСКАЯ 33 !!!",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык \nдоц (11:50)",
+                "rooms": [
+                    "Г-403"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Михайлова",
+                        "initials": "а",
+                        "fullName": "Михайлова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Фотограмметрия (14:00)",
+                "rooms": [
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шумейко",
+                        "initials": "о",
+                        "fullName": "доц. Шумейко И.П."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Фотограмметрия (15:40)",
+                "rooms": [
+                    "Б-503"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шумейко",
+                        "initials": "о",
+                        "fullName": "доц. Шумейко И.П."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Теория и методология исследовательской деятельности в геодезии",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рапацкий",
+                        "initials": "й",
+                        "fullName": "доц. Рапацкий Ю.Л."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Компьютерные технологии в геодезии и дистанционном зондировании",
+                "rooms": [
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Костовска",
+                        "initials": "а",
+                        "fullName": "доц. Костовска С.К."
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Организация и планирование топографо-геодезического производства И.",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дарвиш",
+                        "fullName": "доц. Дарвиш"
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Организация и планирование топографо-геодезического производства И.",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дарвиш",
+                        "fullName": "доц. Дарвиш"
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Организация и планирование топографо-геодезического производства И.",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дарвиш",
+                        "fullName": "доц. Дарвиш"
+                    }
+                ],
+                "groups": [
+                    "ГДЗ-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

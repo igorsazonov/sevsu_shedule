@@ -1,0 +1,475 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Иностранный язык для научных исследований",
+                "rooms": [
+                    "В-411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Корж",
+                        "initials": "ж ",
+                        "fullName": "доц. Корж Т. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в физике",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Холявка",
+                        "initials": "а ",
+                        "fullName": "проф. Холявка М. Г."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Биофизика мембран",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Савченко",
+                        "initials": "о ",
+                        "fullName": "доц. Савченко Е. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЯМР- спектроскопия биомолекул",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лантушенко",
+                        "initials": "о ",
+                        "fullName": "доц. Лантушенко А. О."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Специальный физический практикум",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лантушенко",
+                        "initials": "о ",
+                        "fullName": "доц. Лантушенко А. О."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Синергетика в физике (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рыбакова",
+                        "initials": "а ",
+                        "fullName": "доц. Рыбакова К. А."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "Г-405"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Философские вопросы естествознания (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Петренко",
+                        "initials": "о ",
+                        "fullName": "доц. Петренко Н. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "Г-405"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Философские вопросы естествознания (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Петренко",
+                        "initials": "о ",
+                        "fullName": "доц. Петренко Н. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "Г-405"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Иностранный язык для научных исследований",
+                "rooms": [
+                    "В-411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Корж",
+                        "initials": "ж ",
+                        "fullName": "доц. Корж Т. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в физике",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Холявка",
+                        "initials": "а ",
+                        "fullName": "проф. Холявка М. Г."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Биофизика мембран",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Савченко",
+                        "initials": "о ",
+                        "fullName": "доц. Савченко Е. В."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЯМР- спектроскопия биомолекул",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лантушенко",
+                        "initials": "о ",
+                        "fullName": "доц. Лантушенко А. О."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Специальный физический практикум",
+                "rooms": [
+                    "Г-408"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лантушенко",
+                        "initials": "о ",
+                        "fullName": "доц. Лантушенко А. О."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Синергетика в физике (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рыбакова",
+                        "initials": "а ",
+                        "fullName": "доц. Рыбакова К. А."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "Г-405"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Математическая биофизика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Евстигнеев",
+                        "initials": "в ",
+                        "fullName": "доц. Евстигнеев В. П."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "Г-405"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Математическая биофизика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Евстигнеев",
+                        "initials": "в ",
+                        "fullName": "доц. Евстигнеев В. П."
+                    }
+                ],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "Г-405"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-м-20-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

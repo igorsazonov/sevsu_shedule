@@ -1,0 +1,961 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. язык",
+                "rooms": [
+                    "В-304",
+                    "Г-304",
+                    "В-204",
+                    "В-205",
+                    "Г-403",
+                    "А-003",
+                    "А-004"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "Алдошина Я.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "Малыгина К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "Остапенко А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности (до 26.04)",
+                "rooms": [
+                    "В-311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "ст.пр. Гутник В.С."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Безопасность жизнедеятельности (16.02 02.03 16.03 30.03)",
+                "rooms": [
+                    "369",
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "ст.пр. Гутник В.С."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Охрана труда в предпринимательстве",
+                "rooms": [
+                    "307",
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "ст.пр. Гутник В.С."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Численные методы в управлении",
+                "rooms": [
+                    "307",
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Папкова",
+                        "initials": "а",
+                        "fullName": "доц. Папкова Ю.И."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. язык",
+                "rooms": [
+                    "В-304",
+                    "Г-303",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "В-213",
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "Алдошина Я.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "Малыгина К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "Остапенко А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Численные методы в управлении",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сидоров",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сидоров С.М."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Бизнес-статистика",
+                "rooms": [
+                    "В-304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Коцуба",
+                        "initials": "а",
+                        "fullName": "асс. Коцуба А.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Бизнес-статистика (кроме 18.03.2021)",
+                "rooms": [
+                    "369",
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Савельева",
+                        "initials": "а",
+                        "fullName": "доц. Савельева Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Организация коммерческой деятельности (кроме 18.03.2021)",
+                "rooms": [
+                    "354",
+                    "354"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Литвинова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Литвинова Р.Н."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Теоретические основы товароведения",
+                "rooms": [
+                    "369",
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мильченко",
+                        "initials": "о",
+                        "fullName": "доц. Мильченко И.П."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Организация коммерческой деятельности",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Кулешова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Кулешова Т.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретические основы товароведения",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мильченко",
+                        "initials": "о",
+                        "fullName": "доц. Мильченко И.П."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Цифровизация предпр. деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "асс. Черкашина Е.Ю."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Цифровизация предпр. деятельности",
+                "rooms": [
+                    "359"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Голдаева",
+                        "initials": "а",
+                        "fullName": "пр. Голдаева Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Элективные курсы по ФКиС (08.02 22.02 22.03)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. язык",
+                "rooms": [
+                    "В-304",
+                    "Г-304",
+                    "В-204",
+                    "В-205",
+                    "Г-403",
+                    "А-003",
+                    "А-004"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "Алдошина Я.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "Малыгина К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "Остапенко А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности (до 26.04)",
+                "rooms": [
+                    "В-311"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "ст.пр. Гутник В.С."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Численные методы в управлении",
+                "rooms": [
+                    "В-316"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Сидоров",
+                        "initials": "в",
+                        "fullName": "ст.пр. Сидоров С.М."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Офис-менеджмент (факультатив)",
+                "rooms": [
+                    "307",
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мильченко",
+                        "initials": "о",
+                        "fullName": "доц. Мильченко И.П."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Численные методы в управлении",
+                "rooms": [
+                    "307",
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Папкова",
+                        "initials": "а",
+                        "fullName": "доц. Папкова Ю.И."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Цифровизация предпр. деятельности",
+                "rooms": [
+                    "307",
+                    "307"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ярухин",
+                        "initials": "н",
+                        "fullName": "доц. Ярухин С.Ю."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Элективные курсы по ФКиС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Ин. язык",
+                "rooms": [
+                    "В-304",
+                    "Г-303",
+                    "А-004",
+                    "В-204",
+                    "В-205",
+                    "В-213",
+                    "В-214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Алдошина",
+                        "initials": "а",
+                        "fullName": "Алдошина Я.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Малыгина",
+                        "initials": "а",
+                        "fullName": "Малыгина К.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Маслиева",
+                        "initials": "а",
+                        "fullName": "Маслиева Е.С."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Косова",
+                        "initials": "а",
+                        "fullName": "Косова Е.И."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Остапенко",
+                        "initials": "о",
+                        "fullName": "Остапенко А.А."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Миронова",
+                        "initials": "а",
+                        "fullName": "Миронова Н.Д."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Межова",
+                        "initials": "а",
+                        "fullName": "Межова Н.В."
+                    }
+                ],
+                "groups": [
+                    "ЭК-б-20-1-о",
+                    "ЭК-б-20-2-о",
+                    "ЭК-б-20-3-о",
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Офис-менеджмент (факультатив)",
+                "rooms": [
+                    "В-314"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мильченко",
+                        "initials": "о",
+                        "fullName": "доц. Мильченко И.П."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Управленческая бухгалтерия",
+                "rooms": [
+                    "369",
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковалева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Ковалева С.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-1-о",
+                    "М-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Управленческая бухгалтерия",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ковалева",
+                        "initials": "а",
+                        "fullName": "ст.пр. Ковалева С.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Охрана труда в предпринимательстве",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "ст.пр. Гутник В.С."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Организация коммерческой деятельности",
+                "rooms": [
+                    "361"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Кулешова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Кулешова Т.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Теоретические основы товароведения",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мильченко",
+                        "initials": "о",
+                        "fullName": "доц. Мильченко И.П."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Цифровизация предпр. деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Черкашина",
+                        "initials": "а",
+                        "fullName": "асс. Черкашина Е.Ю."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Цифровизация предпр. деятельности",
+                "rooms": [
+                    "359"
+                ],
+                "lecturers": [
+                    {
+                        "state": "lecturer",
+                        "surname": "Голдаева",
+                        "initials": "а",
+                        "fullName": "пр. Голдаева Е.В."
+                    }
+                ],
+                "groups": [
+                    "М-б-20-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

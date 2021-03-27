@@ -1,0 +1,633 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Водный режим контуров",
+                "rooms": [
+                    "280",
+                    "380",
+                    "454",
+                    "460",
+                    "А-36"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Браславский",
+                        "initials": "й",
+                        "fullName": "доц. Браславский Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр.",
+                "rooms": [
+                    "454",
+                    "378",
+                    "А-36"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "Бабкина Е.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "474",
+                    "460",
+                    "376"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Кузьмина",
+                        "initials": "а",
+                        "fullName": "асс. Кузьмина М.А."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Ядерная физика",
+                "rooms": [
+                    "А-37",
+                    "185",
+                    "497"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рипп",
+                        "initials": "п",
+                        "fullName": "доц. Рипп А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Электрические машины",
+                "rooms": [
+                    "А-36",
+                    "376",
+                    "460",
+                    "А-23",
+                    "497"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гайдук",
+                        "initials": "к",
+                        "fullName": "ст.пр. Гайдук С.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Детали машин и оборудования",
+                "rooms": [
+                    "454"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пичугова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Пичугова Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Механика жидкостей",
+                "rooms": [
+                    "А-22",
+                    "А-34",
+                    "454"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Глушкова",
+                        "initials": "а",
+                        "fullName": "доц. Глушкова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Ядерная физика",
+                "rooms": [
+                    "А-38",
+                    "А-36",
+                    "454"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рипп",
+                        "initials": "п",
+                        "fullName": "доц. Рипп А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Физика ядерных реакторов (кроме 18.03.2021)",
+                "rooms": [
+                    "268"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мерзликин",
+                        "initials": "н",
+                        "fullName": "доц. Мерзликин Г.Я."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Детали машин и оборудования (кроме 18.03.2021)",
+                "rooms": [
+                    "А-34",
+                    "376"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пичугова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Пичугова Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Механика жидкостей (кроме 18.03.2021)",
+                "rooms": [
+                    "А-12",
+                    "185"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Глушкова",
+                        "initials": "а",
+                        "fullName": "доц. Глушкова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Водный режим контуров",
+                "rooms": [
+                    "280",
+                    "493",
+                    "454",
+                    "460",
+                    "А-36"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Браславский",
+                        "initials": "й",
+                        "fullName": "доц. Браславский Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр.",
+                "rooms": [
+                    "454",
+                    "493",
+                    "268"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "Бабкина Е.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ягнич",
+                        "initials": "ч",
+                        "fullName": "ст.пр. Ягнич А.Я."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Ядерная физика",
+                "rooms": [
+                    "А-37",
+                    "185",
+                    "454"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рипп",
+                        "initials": "п",
+                        "fullName": "доц. Рипп А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Электрические машины",
+                "rooms": [
+                    "А-36",
+                    "378",
+                    "460",
+                    "А-23"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гайдук",
+                        "initials": "к",
+                        "fullName": "ст.пр. Гайдук С.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Детали машин и оборудования",
+                "rooms": [
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пичугова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Пичугова Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Механика жидкостей",
+                "rooms": [
+                    "А-22",
+                    "А-36",
+                    "462"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Глушкова",
+                        "initials": "а",
+                        "fullName": "доц. Глушкова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Ядерная физика",
+                "rooms": [
+                    "А-38",
+                    "А-36",
+                    "454"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Рипп",
+                        "initials": "п",
+                        "fullName": "доц. Рипп А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Водный режим контуров",
+                "rooms": [
+                    "280",
+                    "378"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Браславский",
+                        "initials": "й",
+                        "fullName": "доц. Браславский Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Механика жидкостей (кроме 18.03.2021)",
+                "rooms": [
+                    "А-12",
+                    "185"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Глушкова",
+                        "initials": "а",
+                        "fullName": "доц. Глушкова Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Физика ядерных реакторов",
+                "rooms": [
+                    "268",
+                    "185"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мерзликин",
+                        "initials": "н",
+                        "fullName": "доц. Мерзликин Г.Я."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [
+                    "А-39",
+                    "А-42",
+                    "А-42"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Чернявская",
+                        "initials": "я",
+                        "fullName": "доц. Чернявская С.А."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Физика ядерных реакторов",
+                "rooms": [
+                    "А-39",
+                    "А-34"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мерзликин",
+                        "initials": "н",
+                        "fullName": "доц. Мерзликин Г.Я."
+                    }
+                ],
+                "groups": [
+                    "ЯЭ-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

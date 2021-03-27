@@ -1,0 +1,912 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Детали машин",
+                "rooms": [
+                    "В-313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пахалюк",
+                        "initials": "к",
+                        "fullName": "доц.Пахалюк В.И."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Сенсорные и преобразующие устройства",
+                "rooms": [
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Васютенко",
+                        "initials": "о",
+                        "fullName": "доц.Васютенко А.П."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Электромеханика и электропривод",
+                "rooms": [
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Круговой",
+                        "initials": "й",
+                        "fullName": "доц.Круговой А.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы мехатроники",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Карташов",
+                        "initials": "в",
+                        "fullName": "доц.Карташов Л.Е."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Детали машин",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пахалюк",
+                        "initials": "к",
+                        "fullName": "доц.Пахалюк В.И."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКФКС",
+                "rooms": [
+                    "В-314"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Осн.мехатроники",
+                "rooms": [
+                    "257",
+                    "116"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Карташов",
+                        "initials": "в",
+                        "fullName": "доц.Карташов Л.Е."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Модульные производ.системы",
+                "rooms": [
+                    "116",
+                    "257"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Майстришин",
+                        "initials": "н",
+                        "fullName": "доц.Майстришин М.М."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭМЭП",
+                "rooms": [
+                    "138"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Круговой",
+                        "initials": "й",
+                        "fullName": "доц.Круговой А.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "КПМС",
+                "rooms": [
+                    "223",
+                    "265"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Худаймуратов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Худаймуратов М.А."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "СПУ ст.пр.",
+                "rooms": [
+                    "265",
+                    "223"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Федоренко",
+                        "initials": "о",
+                        "fullName": "Федоренко С.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [
+                    "В-204"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр.",
+                "rooms": [
+                    "В-204"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр.",
+                "rooms": [
+                    "В-204"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Сенсорные и преобразующие устройства",
+                "rooms": [
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Васютенко",
+                        "initials": "о",
+                        "fullName": "доц.Васютенко А.П."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Электромеханика и электропривод",
+                "rooms": [
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Круговой",
+                        "initials": "й",
+                        "fullName": "доц.Круговой А.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Основы мехатроники",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Карташов",
+                        "initials": "в",
+                        "fullName": "доц.Карташов Л.Е."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Детали машин",
+                "rooms": [
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Пахалюк",
+                        "initials": "к",
+                        "fullName": "доц.Пахалюк В.И."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Теория автоматического управления доцент",
+                "rooms": [
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "Грушун А.И."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "МИП",
+                "rooms": [
+                    "257",
+                    "137Б"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Круговой",
+                        "initials": "й",
+                        "fullName": "доц.Круговой А.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Модульные производ.системы",
+                "rooms": [
+                    "137Б",
+                    "258"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Майстришин",
+                        "initials": "н",
+                        "fullName": "доц.Майстришин М.М."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ТАУ",
+                "rooms": [
+                    "258",
+                    "138"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Грушун",
+                        "initials": "н",
+                        "fullName": "доц.Грушун А.И."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [
+                    "223"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [
+                    "257"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТТП-б-19-1-о",
+                    "КТП-б-19-1-о",
+                    "ТБ-б-19-1-о",
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Моделирование систем и процессов",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осипов",
+                        "initials": "в",
+                        "fullName": "доц.Осипов К.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о",
+                    "БС-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МСП",
+                "rooms": [
+                    "223",
+                    "219"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Осипов",
+                        "initials": "в",
+                        "fullName": "доц.Осипов К.Н."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "КПМС",
+                "rooms": [
+                    "223"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Худаймуратов",
+                        "initials": "в",
+                        "fullName": "ст.пр. Худаймуратов М.А."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [
+                    "В-204"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "АТП-б-19-1-о",
+                    "МР-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр.",
+                "rooms": [
+                    "В-204"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык ст.пр.",
+                "rooms": [
+                    "В-204"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Роговенко",
+                        "initials": "о",
+                        "fullName": "Роговенко Н.С."
+                    }
+                ],
+                "groups": [
+                    "АТП-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

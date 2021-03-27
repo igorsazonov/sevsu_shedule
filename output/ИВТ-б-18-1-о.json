@@ -2,91 +2,32 @@
     "odd": {
         "monday": [
             {
-                "subject": "Схемотехника",
+                "subject": "ИНЖЕНЕРИЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ",
                 "rooms": [
-                    "В-514"
-                ],
-                "lecturers": [
-                    {
-                        "state": "assistant",
-                        "surname": "Пахомова",
-                        "initials": "а",
-                        "fullName": "асс. Пахомова А.А."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 1,
-                "parity": "odd",
-                "type": "lab",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
-                "rooms": [],
-                "lecturers": [],
-                "groups": [
-                    "ИВТ-б-18-1-о",
-                    "ИВТ-б-18-2-о",
-                    "УТС-б-18-1-о",
-                    "УТС-б-18-2-о"
-                ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "practics",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Схемотехника",
-                "rooms": [
-                    "В-514"
+                    "422"
                 ],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Заморенов",
+                        "surname": "Конюхов",
                         "initials": "в",
-                        "fullName": "доц. Заморенов М.В."
+                        "fullName": "доц. Конюхов А.Ю."
                     }
                 ],
                 "groups": [
-                    "ИВТ-б-18-1-о"
+                    "ИВТ-б-18-1-о",
+                    "ИВТ-б-18-2-о"
                 ],
                 "pair": 3,
                 "parity": "odd",
-                "type": "lab",
+                "type": "lecture",
                 "day": "monday",
                 "date": ""
             },
             {
-                "subject": "ТБД",
+                "subject": "СИСТЕМНОЕ ПРОГРАММИРОВАНИЕ",
                 "rooms": [
-                    "В-513"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Ченгарь",
-                        "initials": "ь",
-                        "fullName": "доц. Ченгарь О.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "lab",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "СП",
-                "rooms": [
-                    "А-101"
+                    "421"
                 ],
                 "lecturers": [
                     {
@@ -97,11 +38,35 @@
                     }
                 ],
                 "groups": [
-                    "ИВТ-б-18-1-о"
+                    "ИВТ-б-18-1-о",
+                    "ИВТ-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "СИСТЕМНОЕ ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ",
+                "rooms": [
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Шалимова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Шалимова Е.М."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о",
+                    "ИВТ-б-18-2-о"
                 ],
                 "pair": 5,
                 "parity": "odd",
-                "type": "lab",
+                "type": "lecture",
                 "day": "monday",
                 "date": ""
             }
@@ -160,6 +125,28 @@
                 "date": ""
             },
             {
+                "subject": "Инженерия ПО",
+                "rooms": [
+                    "А-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Конюхов",
+                        "initials": "в",
+                        "fullName": "доц. Конюхов А.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
                 "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
                 "rooms": [],
                 "lecturers": [],
@@ -169,6 +156,21 @@
                 "pair": 5,
                 "parity": "odd",
                 "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "СПО ст.пр.Шалимова",
+                "rooms": [
+                    "А-505"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
                 "day": "tuesday",
                 "date": ""
             },
@@ -201,255 +203,6 @@
         ],
         "wednesday": [
             {
-                "subject": "ТБД",
-                "rooms": [
-                    "В-513"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Ченгарь",
-                        "initials": "ь",
-                        "fullName": "доц. Ченгарь О.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 1,
-                "parity": "odd",
-                "type": "lab",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "ИСКМ (CMT) ПЗ",
-                "rooms": [
-                    "В-513"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Доронина",
-                        "initials": "а",
-                        "fullName": "проф. Доронина  Ю.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "ИСКМ (CMT)",
-                "rooms": [
-                    "В-513"
-                ],
-                "lecturers": [
-                    {
-                        "state": "professor",
-                        "surname": "Доронина",
-                        "initials": "а",
-                        "fullName": "проф. Доронина  Ю.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 3,
-                "parity": "odd",
-                "type": "practics",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "Технологии ПБД",
-                "rooms": [
-                    "А-505"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Ченгарь",
-                        "initials": "ь",
-                        "fullName": "доц. Ченгарь О.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "practics",
-                "day": "wednesday",
-                "date": ""
-            }
-        ],
-        "thursday": [
-            {
-                "subject": "Web-приложения и МИТ",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Лелеков",
-                        "initials": "в",
-                        "fullName": "доц. Лелеков С.Г."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о",
-                    "ИВТ-б-18-2-о"
-                ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "Системное программирование",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Шалимова",
-                        "initials": "а",
-                        "fullName": "ст.пр. Шалимова Е.М."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о",
-                    "ИВТ-б-18-2-о"
-                ],
-                "pair": 3,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ТБД",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Ченгарь",
-                        "initials": "ь",
-                        "fullName": "доц. Ченгарь О.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о",
-                    "ИВТ-б-18-2-о"
-                ],
-                "pair": 4,
-                "parity": "odd",
-                "type": "lecture",
-                "day": "thursday",
-                "date": ""
-            }
-        ],
-        "friday": [
-            {
-                "subject": "Web-прилож. и МИТ",
-                "rooms": [
-                    "В-213"
-                ],
-                "lecturers": [
-                    {
-                        "state": "assistant",
-                        "surname": "Оболенский",
-                        "initials": "й",
-                        "fullName": "асс. Оболенский Д.М."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 1,
-                "parity": "odd",
-                "type": "lab",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "СП",
-                "rooms": [
-                    "А-004"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Шалимова",
-                        "initials": "а",
-                        "fullName": "ст.пр. Шалимова Е.М."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 2,
-                "parity": "odd",
-                "type": "lab",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "Технологии ПБД ПЗ",
-                "rooms": [
-                    "А-505"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Ченгарь",
-                        "initials": "ь",
-                        "fullName": "доц. Ченгарь О.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 3,
-                "parity": "odd",
-                "type": "",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "Web-прилож. и МИТ",
-                "rooms": [
-                    "А-004"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Лелеков",
-                        "initials": "в",
-                        "fullName": "доц. Лелеков С.Г."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 3,
-                "parity": "odd",
-                "type": "lab",
-                "day": "friday",
-                "date": ""
-            },
-            {
                 "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
                 "rooms": [],
                 "lecturers": [],
@@ -457,74 +210,457 @@
                     "ИВТ-б-18-1-о",
                     "ИВТ-б-18-2-о"
                 ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы крит. компью.",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Доронина",
+                        "fullName": "проф. Доронина"
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Обр. и анализ БД",
+                "rooms": [
+                    "А-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Проект. транс. языка ассемблера",
+                "rooms": [
+                    "А-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лелеков",
+                        "initials": "в",
+                        "fullName": "доц. Лелеков С.Г."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы крит. компью.",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Доронина",
+                        "initials": "а",
+                        "fullName": "проф. Доронина Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Обр. и анализ БД (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
+                "rooms": [
+                    "А-505"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Сист.пр. обесп. (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Владимирова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Владимирова Е.С."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
+                "rooms": [
+                    "А-101"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Инженерия ПО (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Конюхов",
+                        "initials": "в",
+                        "fullName": "доц. Конюхов А.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
+                "rooms": [
+                    "В-513"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ЭК по ФК и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о",
+                    "ИВТ-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МВПр и С Шевченко",
+                "rooms": [
+                    "А-505"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ЭК по ФК и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
                 "pair": 4,
                 "parity": "odd",
                 "type": "practics",
                 "day": "friday",
                 "date": ""
+            },
+            {
+                "subject": "Обеспечение качества тест. ПО",
+                "rooms": [
+                    "А-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Конюхов",
+                        "initials": "в",
+                        "fullName": "доц. Конюхов А.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Агент. М (фак-в) Доронина",
+                "rooms": [
+                    "А-501"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
             }
         ],
-        "saturday": []
+        "saturday": [
+            {
+                "subject": "ОБРАБОТКА И АНАЛИЗ БОЛЬШИХ ДАННЫХ",
+                "rooms": [
+                    "416"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о",
+                    "ИВТ-б-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "МОДЕЛИРОВАНИЕ ВЫЧИСЛИТЕЛЬНЫХ ПРОЦЕССОВ И СИСТЕМ",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шевченко",
+                        "initials": "о",
+                        "fullName": "доц. Шевченко В.И."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о",
+                    "ИВТ-б-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
     },
     "even": {
         "monday": [
             {
-                "subject": "Схемотехника",
+                "subject": "АГЕНТНОЕ МОДЕЛИРОВАНИЕ( факультатив)",
                 "rooms": [
-                    "В-514"
+                    "418"
                 ],
                 "lecturers": [
                     {
-                        "state": "assistant",
-                        "surname": "Пахомова",
+                        "state": "professor",
+                        "surname": "Доронина",
                         "initials": "а",
-                        "fullName": "асс. Пахомова А.А."
+                        "fullName": "проф. Доронина Ю.В."
                     }
                 ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 1,
-                "parity": "even",
-                "type": "lab",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
-                "rooms": [],
-                "lecturers": [],
                 "groups": [
                     "ИВТ-б-18-1-о",
-                    "ИВТ-б-18-2-о",
-                    "УТС-б-18-1-о",
-                    "УТС-б-18-2-о"
-                ],
-                "pair": 2,
-                "parity": "even",
-                "type": "practics",
-                "day": "monday",
-                "date": ""
-            },
-            {
-                "subject": "Схемотехника",
-                "rooms": [
-                    "В-514"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Заморенов",
-                        "initials": "в",
-                        "fullName": "доц. Заморенов М.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
+                    "ИВТ-б-18-2-о"
                 ],
                 "pair": 3,
                 "parity": "even",
-                "type": "lab",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ОСНОВЫ КРИТИЧЕСКОГО КОМПЬЮТИНГА",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Доронина",
+                        "initials": "а",
+                        "fullName": "проф. Доронина Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о",
+                    "ИВТ-б-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "СИСТЕМНОЕ ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ",
+                "rooms": [
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Шалимова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Шалимова Е.М."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о",
+                    "ИВТ-б-18-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
                 "day": "monday",
                 "date": ""
             }
@@ -557,6 +693,19 @@
                 "date": ""
             },
             {
+                "subject": "ЭКпоФКиС (9.02;9.03.21г)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
                 "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
                 "rooms": [],
                 "lecturers": [],
@@ -570,6 +719,21 @@
                 "date": ""
             },
             {
+                "subject": "СПО ст.пр.Шалимова",
+                "rooms": [
+                    "В-214"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
                 "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
                 "rooms": [],
                 "lecturers": [],
@@ -579,6 +743,28 @@
                 "pair": 4,
                 "parity": "even",
                 "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Инженерия ПО",
+                "rooms": [
+                    "А-505"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Конюхов",
+                        "initials": "в",
+                        "fullName": "доц. Конюхов А.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
                 "day": "tuesday",
                 "date": ""
             },
@@ -624,73 +810,168 @@
         ],
         "wednesday": [
             {
-                "subject": "Схемотехника",
-                "rooms": [
-                    "А-101"
-                ],
-                "lecturers": [
-                    {
-                        "state": "assistant",
-                        "surname": "Пахомова",
-                        "initials": "а",
-                        "fullName": "асс. Пахомова А.А."
-                    }
-                ],
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
                 "groups": [
-                    "ИВТ-б-18-1-о"
+                    "ИВТ-б-18-1-о",
+                    "ИВТ-б-18-2-о"
                 ],
-                "pair": 1,
+                "pair": 3,
                 "parity": "even",
                 "type": "practics",
                 "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "ИСКМ (CMT) ПЗ",
+                "subject": "Основы крит. компью.",
                 "rooms": [
-                    "В-513"
+                    "В-213"
                 ],
                 "lecturers": [
                     {
                         "state": "professor",
                         "surname": "Доронина",
-                        "initials": "а",
-                        "fullName": "проф. Доронина  Ю.В."
+                        "fullName": "проф. Доронина"
                     }
                 ],
                 "groups": [
                     "ИВТ-б-18-1-о"
                 ],
-                "pair": 2,
+                "pair": 4,
                 "parity": "even",
                 "type": "",
                 "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "СП",
+                "subject": "Обр. и анализ БД",
                 "rooms": [
-                    "В-514"
+                    "А-505"
                 ],
                 "lecturers": [
                     {
-                        "state": "",
-                        "surname": "Шалимова",
-                        "initials": "а",
-                        "fullName": "Шалимова Е.М."
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
                     }
                 ],
                 "groups": [
                     "ИВТ-б-18-1-о"
                 ],
-                "pair": 2,
+                "pair": 4,
                 "parity": "even",
                 "type": "lab",
                 "day": "wednesday",
                 "date": ""
             },
             {
-                "subject": "ТБД Ченгарь ЛЗ",
+                "subject": "Моделиров. выч. пр. и систем",
+                "rooms": [
+                    "А-501"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Заморенов",
+                        "fullName": "доц. Заморенов"
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы крит. компью.",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Доронина",
+                        "initials": "а",
+                        "fullName": "проф. Доронина Ю.В."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЭКпоФКиС (11 25.02.21г)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Обр. и анализ БД (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
                 "rooms": [
                     "А-505"
                 ],
@@ -700,43 +981,19 @@
                 ],
                 "pair": 3,
                 "parity": "even",
-                "type": "",
-                "day": "wednesday",
+                "type": "lab",
+                "day": "thursday",
                 "date": ""
             },
             {
-                "subject": "ИСКМ (CMT)",
-                "rooms": [
-                    "В-513"
-                ],
+                "subject": "Сист.пр. обесп. (кроме 18.03.2021)",
+                "rooms": [],
                 "lecturers": [
                     {
-                        "state": "professor",
-                        "surname": "Доронина",
+                        "state": "seniorLecturer",
+                        "surname": "Владимирова",
                         "initials": "а",
-                        "fullName": "проф. Доронина  Ю.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 3,
-                "parity": "even",
-                "type": "practics",
-                "day": "wednesday",
-                "date": ""
-            },
-            {
-                "subject": "Технологии ПБД",
-                "rooms": [
-                    "А-505"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Ченгарь",
-                        "initials": "ь",
-                        "fullName": "доц. Ченгарь О.В."
+                        "fullName": "ст.пр. Владимирова Е.С."
                     }
                 ],
                 "groups": [
@@ -744,12 +1001,75 @@
                 ],
                 "pair": 4,
                 "parity": "even",
-                "type": "practics",
-                "day": "wednesday",
+                "type": "",
+                "day": "thursday",
                 "date": ""
             },
             {
-                "subject": "ИВТ\/б-18-1-о",
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
+                "rooms": [
+                    "А-101"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Инженерия ПО (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Конюхов",
+                        "initials": "в",
+                        "fullName": "доц. Конюхов А.Ю."
+                    }
+                ],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
+                "rooms": [
+                    "В-513"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ИВТ-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ВОЕННО-УЧЕБНЫЙ ЦЕНТР (4чел.)",
                 "rooms": [],
                 "lecturers": [],
                 "groups": [
@@ -758,108 +1078,30 @@
                 "pair": 7,
                 "parity": "even",
                 "type": "",
-                "day": "wednesday",
-                "date": ""
-            }
-        ],
-        "thursday": [
-            {
-                "subject": "Web-приложения и МИТ",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Лелеков",
-                        "initials": "в",
-                        "fullName": "доц. Лелеков С.Г."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о",
-                    "ИВТ-б-18-2-о"
-                ],
-                "pair": 2,
-                "parity": "even",
-                "type": "lecture",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "Системное программирование",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "seniorLecturer",
-                        "surname": "Шалимова",
-                        "initials": "а",
-                        "fullName": "ст.пр. Шалимова Е.М."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о",
-                    "ИВТ-б-18-2-о"
-                ],
-                "pair": 3,
-                "parity": "even",
-                "type": "lecture",
-                "day": "thursday",
-                "date": ""
-            },
-            {
-                "subject": "ТБД",
-                "rooms": [
-                    "remote"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Ченгарь",
-                        "initials": "ь",
-                        "fullName": "доц. Ченгарь О.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о",
-                    "ИВТ-б-18-2-о"
-                ],
-                "pair": 4,
-                "parity": "even",
-                "type": "lecture",
                 "day": "thursday",
                 "date": ""
             }
         ],
         "friday": [
             {
-                "subject": "Web-прилож. и МИТ",
+                "subject": "Агент. М (фак-в) Доронина",
                 "rooms": [
-                    "В-213"
+                    "А-505"
                 ],
-                "lecturers": [
-                    {
-                        "state": "assistant",
-                        "surname": "Оболенский",
-                        "initials": "й",
-                        "fullName": "асс. Оболенский Д.М."
-                    }
-                ],
+                "lecturers": [],
                 "groups": [
                     "ИВТ-б-18-1-о"
                 ],
-                "pair": 1,
+                "pair": 3,
                 "parity": "even",
                 "type": "lab",
                 "day": "friday",
                 "date": ""
             },
             {
-                "subject": "СП",
+                "subject": "Системное программиров.",
                 "rooms": [
-                    "А-004"
+                    "А-501"
                 ],
                 "lecturers": [
                     {
@@ -872,73 +1114,44 @@
                 "groups": [
                     "ИВТ-б-18-1-о"
                 ],
-                "pair": 2,
+                "pair": 4,
                 "parity": "even",
-                "type": "lab",
+                "type": "practics",
                 "day": "friday",
                 "date": ""
             },
             {
-                "subject": "Технологии ПБД ПЗ",
+                "subject": "Обеспечение качества тест. ПО",
                 "rooms": [
                     "А-505"
                 ],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Ченгарь",
-                        "initials": "ь",
-                        "fullName": "доц. Ченгарь О.В."
-                    }
-                ],
-                "groups": [
-                    "ИВТ-б-18-1-о"
-                ],
-                "pair": 3,
-                "parity": "even",
-                "type": "",
-                "day": "friday",
-                "date": ""
-            },
-            {
-                "subject": "Web-прилож. и МИТ",
-                "rooms": [
-                    "А-004"
-                ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Лелеков",
+                        "surname": "Конюхов",
                         "initials": "в",
-                        "fullName": "доц. Лелеков С.Г."
+                        "fullName": "доц. Конюхов А.Ю."
                     }
                 ],
                 "groups": [
                     "ИВТ-б-18-1-о"
                 ],
-                "pair": 3,
+                "pair": 5,
                 "parity": "even",
-                "type": "lab",
+                "type": "practics",
                 "day": "friday",
                 "date": ""
             },
             {
-                "subject": "ТБД",
+                "subject": "МВПр и С доц.Заморенов",
                 "rooms": [
-                    "В-513"
+                    "А-501"
                 ],
-                "lecturers": [
-                    {
-                        "state": "docent",
-                        "surname": "Ченгарь",
-                        "initials": "ь",
-                        "fullName": "доц. Ченгарь О.В."
-                    }
-                ],
+                "lecturers": [],
                 "groups": [
                     "ИВТ-б-18-1-о"
                 ],
-                "pair": 4,
+                "pair": 6,
                 "parity": "even",
                 "type": "lab",
                 "day": "friday",
@@ -947,46 +1160,46 @@
         ],
         "saturday": [
             {
-                "subject": "Web-приложения и МИТ",
+                "subject": "ОБРАБОТКА И АНАЛИЗ БОЛЬШИХ ДАННЫХ",
                 "rooms": [
-                    "remote"
+                    "416"
                 ],
                 "lecturers": [
                     {
                         "state": "docent",
-                        "surname": "Лелеков",
-                        "initials": "в",
-                        "fullName": "доц. Лелеков С.Г."
+                        "surname": "Мащенко",
+                        "initials": "о",
+                        "fullName": "доц. Мащенко Е.Н."
                     }
                 ],
                 "groups": [
                     "ИВТ-б-18-1-о",
                     "ИВТ-б-18-2-о"
                 ],
-                "pair": 4,
+                "pair": 2,
                 "parity": "even",
                 "type": "lecture",
                 "day": "saturday",
                 "date": ""
             },
             {
-                "subject": "Схемотехника",
+                "subject": "МОДЕЛИРОВАНИЕ ВЫЧИСЛИТЕЛЬНЫХ ПРОЦЕССОВ И СИСТЕМ",
                 "rooms": [
-                    "remote"
+                    "418"
                 ],
                 "lecturers": [
                     {
-                        "state": "professor",
-                        "surname": "Моисеев",
-                        "initials": "в",
-                        "fullName": "проф. Моисеев Д.В."
+                        "state": "docent",
+                        "surname": "Шевченко",
+                        "initials": "о",
+                        "fullName": "доц. Шевченко В.И."
                     }
                 ],
                 "groups": [
                     "ИВТ-б-18-1-о",
                     "ИВТ-б-18-2-о"
                 ],
-                "pair": 5,
+                "pair": 3,
                 "parity": "even",
                 "type": "lecture",
                 "day": "saturday",

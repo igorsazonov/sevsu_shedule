@@ -1,0 +1,1095 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "463"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Физика. Электромагнитизм и оптика.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Довгаленко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Довгаленко В.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ЛЗ",
+                "rooms": [
+                    "360"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "463"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Введение в специальность",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Белая",
+                        "initials": "я",
+                        "fullName": "доц. Белая М.Н."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "487"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Информатика ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скрябина",
+                        "initials": "а",
+                        "fullName": "Скрябина  Е.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "380"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Информатика ст.пр.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Скрябина",
+                        "initials": "а",
+                        "fullName": "Скрябина  Е.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "380"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Высшая математика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Обжерин",
+                        "initials": "н",
+                        "fullName": "проф. Обжерин  Ю.Э."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности Л - 10.02. 24.02. 10.03. 24.03.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "доц. Гутник С.А."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ Л",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Физика. Электромагнитизм и оптика.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Довгаленко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Довгаленко В.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "А-38"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Компьютерная графика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Емченко",
+                        "initials": "о",
+                        "fullName": "доц. Емченко Е.А."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "315"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "История \/История России всеобщая история\/",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дмитриева",
+                        "initials": "а",
+                        "fullName": "доц. Дмитриева В.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "429"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Обжерин",
+                        "initials": "н",
+                        "fullName": "проф. Обжерин  Ю.Э."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "429"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Социальная экология \/Общеуниверсит.ПУЛ\/ 1 чел.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Хренова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Хренова Т.К."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "463"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Физика. Электромагнитизм и оптика.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Довгаленко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Довгаленко В.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ЛЗ",
+                "rooms": [
+                    "360"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Бабкина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Бабкина Е.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "463"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Введение в специальность",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Белая",
+                        "initials": "я",
+                        "fullName": "доц. Белая М.Н."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "487"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Высшая математика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Обжерин",
+                        "initials": "н",
+                        "fullName": "проф. Обжерин  Ю.Э."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности Л - 10.02. 24.02. 10.03. 24.03.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "доц. Гутник С.А."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ Л",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Физика. Электромагнитизм и оптика.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Довгаленко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Довгаленко В.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "А-38"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Компьютерная графика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Емченко",
+                        "initials": "о",
+                        "fullName": "доц. Емченко Е.А."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "315"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "История \/История России всеобщая история\/",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дмитриева",
+                        "initials": "а",
+                        "fullName": "доц. Дмитриева В.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Л",
+                "rooms": [
+                    "А-23"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "История \/История России всеобщая история\/",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дмитриева",
+                        "initials": "а",
+                        "fullName": "доц. Дмитриева В.В."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "429"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Высшая математика",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Обжерин",
+                        "initials": "н",
+                        "fullName": "проф. Обжерин  Ю.Э."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [
+                    "429"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Социальная экология \/Общеуниверсит.ПУЛ\/ 1 чел.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Косовская",
+                        "initials": "я",
+                        "fullName": "ст.пр. Косовская М.А."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Хренова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Хренова Т.К."
+                    }
+                ],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПЗ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Общеуниверситетский ПУЛ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СМ-б-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

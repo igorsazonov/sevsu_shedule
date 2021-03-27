@@ -1,0 +1,692 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "БОТППдоц. Веляев",
+                "rooms": [
+                    "04."
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "БОТППдоц. Веляев",
+                "rooms": [
+                    "04."
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Биохимические основы технологии пищевых производств",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Веляев",
+                        "initials": "в",
+                        "fullName": "доц.Веляев Ю.О."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Товароведение продовольственных товаров ст.пр.",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Светличная",
+                        "initials": "я",
+                        "fullName": "Светличная О.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ТПТ ст.пр.",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Светличная",
+                        "initials": "я",
+                        "fullName": "Светличная О.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Микробиол.ПП",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Прокопенко",
+                        "initials": "о",
+                        "fullName": "доц.Прокопенко И.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ТПОПОП ст.пр.",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Графова",
+                        "initials": "а",
+                        "fullName": "Графова А.Е."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Теплотехнические процессы и оборудование предприятий общественного питания проф.",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Покинтелица",
+                        "initials": "а",
+                        "fullName": "Покинтелица Н.И."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Микробиология пищевых продуктов",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Прокопенко",
+                        "initials": "о",
+                        "fullName": "доц.Прокопенко И.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ТПТст.пр.Светличная",
+                "rooms": [
+                    "04."
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Прикладная механика",
+                "rooms": [
+                    "В-303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "доц.Поляков А.М."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а",
+                        "fullName": "доц.Кабанкова Е.Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Павлова",
+                        "initials": "а",
+                        "fullName": "Павлова Т.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ЭКФКС",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о",
+                    "КТП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а",
+                        "fullName": "доц.Кабанкова Е.Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Павлова",
+                        "initials": "а",
+                        "fullName": "Павлова Т.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "ОХАМИП Веляев Ю.О",
+                "rooms": [
+                    "04."
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОХАМИП Веляев Ю.О",
+                "rooms": [
+                    "04."
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ОПГСКК ст.пр.",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Чуб",
+                        "initials": "б",
+                        "fullName": "Чуб О.П."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Организация питания в гостиничных и санаторно-курортных комплексах ст.пр.",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Чуб",
+                        "initials": "б",
+                        "fullName": "Чуб О.П."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "БОТПП Веляев ЛЗ04",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "БОТПП Веляев ЛЗ04",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Осн.химико-аналитических методов исследования в пищ.промышленности",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Веляев",
+                        "initials": "в",
+                        "fullName": "доц.Веляев Ю.О."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Товароведение продовольственных товаров ст.пр.",
+                "rooms": [
+                    "189"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Светличная",
+                        "initials": "я",
+                        "fullName": "Светличная О.В."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ОХАМИП Веляев ЛЗ04",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ОХАМИП Веляев ЛЗ04",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ТПОПОП ст.пр.",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Графова",
+                        "initials": "а",
+                        "fullName": "Графова А.Е."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Теплотехнические процессы и оборудование предприятий общественного питания проф.",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Покинтелица",
+                        "initials": "а",
+                        "fullName": "Покинтелица Н.И."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Микробиология пищевых продуктов",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Прокопенко",
+                        "initials": "о",
+                        "fullName": "доц.Прокопенко И.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ТПТст.пр.Светличная",
+                "rooms": [
+                    "04."
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а",
+                        "fullName": "доц.Кабанкова Е.Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Павлова",
+                        "initials": "а",
+                        "fullName": "Павлова Т.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Приклад. механика",
+                "rooms": [
+                    "В-313"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Поляков",
+                        "initials": "в",
+                        "fullName": "доц.Поляков А.М."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык асс.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а",
+                        "fullName": "доц.Кабанкова Е.Н."
+                    },
+                    {
+                        "state": "",
+                        "surname": "Павлова",
+                        "initials": "а",
+                        "fullName": "Павлова Т.А."
+                    }
+                ],
+                "groups": [
+                    "ТП-б-19-1-о",
+                    "ТП-б-19-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

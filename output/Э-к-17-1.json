@@ -1,0 +1,1838 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 Планирование и организация работы структурного подразделения",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 Планирование и организация работы структурного подразделения",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 Планирование и организация работы структурного подразделения",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроприводы",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроприводы",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Белов",
+                        "initials": "в",
+                        "fullName": "Белов В.И."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ПМ.01 Наладка и обслуживание судового электрооборудования",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Наладка и обслуживание судового электрооборудования",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Наладка и обслуживание судового электрооборудования",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПРАВОВЫЕ ОСНОВЫ ПРОФ. ДЕЯТЕЛЬНОСТИ",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПРАВОВЫЕ ОСНОВЫ ПРОФ. ДЕЯТЕЛЬНОСТИ",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Колесник",
+                        "initials": "к",
+                        "fullName": "Колесник Е.А."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык в профессиональной деятельности",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык в профессиональной деятельности",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Соломонова",
+                        "initials": "а",
+                        "fullName": "Соломонова О.В."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.315",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Васильченко",
+                        "initials": "о",
+                        "fullName": "Васильченко О.И."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ПМ.01 Измерение электрических и электромеханических величин",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Измерение электрических и электромеханических величин",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.318",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кононенко",
+                        "initials": "о",
+                        "fullName": "Кононенко И.А."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 Планирование и организация работы структурного подразделения",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 Планирование и организация работы структурного подразделения",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 Планирование и организация работы структурного подразделения",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроприводы",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроприводы",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Белов",
+                        "initials": "в",
+                        "fullName": "Белов В.И."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ПМ.01 Наладка и обслуживание судового электрооборудования",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Наладка и обслуживание судового электрооборудования",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Наладка и обслуживание судового электрооборудования",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Гребные электроустановки",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Гребные электроустановки",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хмелин",
+                        "initials": "н",
+                        "fullName": "Хмелин В.В."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕМЕНТЫ ЗАЩИТЫ АПР",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕМЕНТЫ ЗАЩИТЫ АПР",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Масалов",
+                        "initials": "в",
+                        "fullName": "Масалов А.В."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Измерение электрических и электромеханических величин",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Измерение электрических и электромеханических величин",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Измерение электрических и электромеханических величин",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ПМ.01 Элементы защиты. Автоматизация процессов регулирования и контроля",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Элементы защиты. Автоматизация процессов регулирования и контроля",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Элементы защиты. Автоматизация процессов регулирования и контроля",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сакевич",
+                        "initials": "ч",
+                        "fullName": "Сакевич А.Л."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 Планирование и организация работы структурного подразделения",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 Планирование и организация работы структурного подразделения",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 Планирование и организация работы структурного подразделения",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Васильченко",
+                        "initials": "о",
+                        "fullName": "Васильченко О.И."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.315",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 Планирование и организация работы структурного подразделения",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ситникова",
+                        "initials": "а",
+                        "fullName": "Ситникова О.Г."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.113б",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Белов",
+                        "initials": "в",
+                        "fullName": "Белов В.И."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.404",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.404",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ПМ.01 Наладка и обслуживание судового электрооборудования",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Масалов",
+                        "initials": "в",
+                        "fullName": "Масалов А.В."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.317а",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Колесник",
+                        "initials": "к",
+                        "fullName": "Колесник Е.А."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.223",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.223",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Соломонова",
+                        "initials": "а",
+                        "fullName": "Соломонова О.В."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.109",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.109",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ПМ.03 Планирование и организация работы структурного подразделения",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ситникова",
+                        "initials": "а",
+                        "fullName": "Ситникова О.Г."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.306",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Белов",
+                        "initials": "в",
+                        "fullName": "Белов В.И."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.209",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.209",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Васильченко",
+                        "initials": "о",
+                        "fullName": "Васильченко О.И."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.315",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "ПМ.01 Наладка и обслуживание судового электрооборудования",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Масалов",
+                        "initials": "в",
+                        "fullName": "Масалов А.В."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.317а",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Хмелин",
+                        "initials": "н",
+                        "fullName": "Хмелин В.В."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.306",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.306",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Масалов",
+                        "initials": "в",
+                        "fullName": "Масалов А.В."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.317а",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.317а",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Измерение электрических и электромеханических величин",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кононенко",
+                        "initials": "о",
+                        "fullName": "Кононенко И.А."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.318",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ПМ.01 Элементы защиты. Автоматизация процессов регулирования и контроля",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Масалов",
+                        "initials": "в",
+                        "fullName": "Масалов А.В."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.317а",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Сакевич",
+                        "initials": "ч",
+                        "fullName": "Сакевич А.Л."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.01 Судовые электроэнергетические системы",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Васильченко",
+                        "initials": "о",
+                        "fullName": "Васильченко О.И."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.315",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.03 Планирование и организация работы структурного подразделения",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Ситникова",
+                        "initials": "а",
+                        "fullName": "Ситникова О.Г."
+                    }
+                ],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.306",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Э-к-17-1"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

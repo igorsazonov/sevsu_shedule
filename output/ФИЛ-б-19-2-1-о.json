@@ -1,0 +1,959 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "О Б Щ И Й У Н И В Е Р С И Т Е Т С К И Й П У Л",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-19-1-1-о",
+                    "ФИЛ-б-19-1-2-о",
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ С СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-19-1-1-о",
+                    "ФИЛ-б-19-1-2-о",
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Цифровые технологии в гуман. знании",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц. Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Цифровые технологии в гуман. знании",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц. Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Основы научных исследований",
+                "rooms": [
+                    "206",
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тяллева",
+                        "initials": "а",
+                        "fullName": "доц. Тяллева И.А."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Правоведение",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Оболенский",
+                        "initials": "й",
+                        "fullName": "доц. Оболенский Ю.Б."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Правоведение",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Оболенский",
+                        "initials": "й",
+                        "fullName": "доц. Оболенский Ю.Б."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Введение в теорию коммуникации",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Барашева",
+                        "initials": "а",
+                        "fullName": "доц. Барашева Д.Е."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Введение в теорию коммуникации",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Барашева",
+                        "initials": "а",
+                        "fullName": "доц. Барашева Д.Е."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Третий иностр. язык (исп.)",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вишнякова",
+                        "initials": "а",
+                        "fullName": "доц. Вишнякова А.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Третий иностр. язык (исп.)",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вишнякова",
+                        "initials": "а",
+                        "fullName": "доц. Вишнякова А.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностр. Яз: ПГ ПФ",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дубкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дубкова  Ю.С."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностр. Яз: ПГ ПФ",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дубкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дубкова  Ю.С."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Иностр. Яз: ПГ ПФ",
+                "rooms": [
+                    "301",
+                    "301"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дубкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дубкова  Ю.С."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Практический курс ОЯ",
+                "rooms": [
+                    "301",
+                    "301"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дубкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дубкова Ю.С."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "История мировой литературы 19 в.",
+                "rooms": [
+                    "301",
+                    "301"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дашко",
+                        "initials": "о",
+                        "fullName": "доц. Дашко Е.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-3-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Правоведение (19.02.21г; 519.03.21г; 2 16.04.21г)",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Оболенский",
+                        "initials": "й",
+                        "fullName": "доц. Оболенский Ю.Б."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-3-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Пр. курс ОЯ",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дубкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дубкова Ю.С."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Пр. курс ОЯ",
+                "rooms": [
+                    "206"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дубкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дубкова Ю.С."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по ВИЯ (фр.)",
+                "rooms": [
+                    "261"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Мурзина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Мурзина М.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по ВИЯ (фр.)",
+                "rooms": [
+                    "261"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Мурзина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Мурзина М.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "О Б Щ И Й У Н И В Е Р С И Т Е Т С К И Й П У Л",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-19-1-1-о",
+                    "ФИЛ-б-19-1-2-о",
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ С СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-19-1-1-о",
+                    "ФИЛ-б-19-1-2-о",
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Цифровые технологии в гуман. знании",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц. Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Цифровые технологии в гуман. знании",
+                "rooms": [
+                    "В-213"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Воронин",
+                        "initials": "н",
+                        "fullName": "доц. Воронин Д.Ю."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "П Р А В О В Е Д Е Н И Е (10 24.02.21г; 10 24.03.21г; )",
+                "rooms": [
+                    "231",
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Оболенский",
+                        "initials": "й",
+                        "fullName": "доц. Оболенский Ю.Б."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-1-1-о",
+                    "ФИЛ-б-19-1-2-о",
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ВВЕДЕНИЕ В ТЕОРИЮ КОММУНИКАЦИИ",
+                "rooms": [
+                    "357",
+                    "354"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Барашева",
+                        "initials": "а",
+                        "fullName": "доц. Барашева Д.Е."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-1-1-о",
+                    "ФИЛ-б-19-1-2-о",
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ИСТОРИЯ МИРОВОЙ ЛИТЕРАТУРЫ .",
+                "rooms": [
+                    "19В",
+                    "231",
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дашко",
+                        "initials": "о",
+                        "fullName": "доц. Дашко Е.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-1-1-о",
+                    "ФИЛ-б-19-1-2-о",
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ОСНОВЫ НАУЧНЫХ ИССЛЕДОВАНИЙ",
+                "rooms": [
+                    "357",
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Тяллева",
+                        "initials": "а",
+                        "fullName": "доц. Тяллева И.А."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-1-1-о",
+                    "ФИЛ-б-19-1-2-о",
+                    "ФИЛ-б-19-2-1-о",
+                    "ФИЛ-б-19-2-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Третий иностр. язык (исп.)",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вишнякова",
+                        "initials": "а",
+                        "fullName": "доц. Вишнякова А.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Третий иностр. язык (исп.)",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вишнякова",
+                        "initials": "а",
+                        "fullName": "доц. Вишнякова А.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностр. Яз: ПГ ПФ",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дубкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дубкова  Ю.С."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностр. Яз: ПГ ПФ",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дубкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дубкова  Ю.С."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Пр. курс ОЯ",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дубкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дубкова Ю.С."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Пр. курс ОЯ",
+                "rooms": [
+                    "214"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дубкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дубкова Ю.С."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Иностр. Яз: ПГ ПФ",
+                "rooms": [
+                    "301",
+                    "301"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дубкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дубкова  Ю.С."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Практический курс ОЯ",
+                "rooms": [
+                    "301",
+                    "301"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Дубкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Дубкова Ю.С."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Практикум по ВИЯ (фр.)",
+                "rooms": [
+                    "261"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Мурзина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Мурзина М.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по ВИЯ (фр.)",
+                "rooms": [
+                    "261"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Мурзина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Мурзина М.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Практ. по ВИЯ (фр.)",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Мурзина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Мурзина М.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Практ. по ВИЯ (фр.)",
+                "rooms": [
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Мурзина",
+                        "initials": "а",
+                        "fullName": "ст.пр. Мурзина М.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ЭК по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-19-2-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,1752 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Тренинг навыков консультирования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинг навыков консультирования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинг навыков консультирования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология фасилитативного взаимодействия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинг навыков консультирования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология фасилитативного взаимодействия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология фасилитативного взаимодействия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология фасилитативного взаимодействия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Основы психиатрии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психиатрии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психиатрии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика социальной психологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психиатрии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика социальной психологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Психологическая коррекция и реабилитация",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая коррекция и реабилитация",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая коррекция и реабилитация",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психолог. обеспеч. служебной деят.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая коррекция и реабилитация",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологич. коррекция и реабилитация",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Тренинговые технологии в работе психолога",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кажарская",
+                        "initials": "я",
+                        "fullName": "доц. Кажарская О.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинговые технологии в работе психолога",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кажарская",
+                        "initials": "я",
+                        "fullName": "доц. Кажарская О.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика соц. психол.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинговые технологии в работе психолога",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кажарская",
+                        "initials": "я",
+                        "fullName": "доц. Кажарская О.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинг навыков консультиров.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинговые технологии в работе психолога",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кажарская",
+                        "initials": "я",
+                        "fullName": "доц. Кажарская О.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Психологическое обеспечение служебной деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическое обеспечение служебной деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическое обеспечение служебной деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология переговоров в экстремальных условиях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическое обеспечение служебной деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология переговоров в экстремальных условиях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология переговоров в экстремальных условиях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика социальной психологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика социальной психологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология переговоров в экстремальных условиях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология переговоров в экстремальных условиях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика социальной психологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика социальной психологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Тренинг навыков консультирования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинг навыков консультирования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинг навыков консультирования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология фасилитативного взаимодействия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинг навыков консультирования",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lab",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология фасилитативного взаимодействия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология фасилитативного взаимодействия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Психология фасилитативного взаимодействия",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Основы психиатрии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психиатрии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психиатрии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lab",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика социальной психологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психиатрии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Смирнова",
+                        "initials": "а",
+                        "fullName": "доц. Смирнова С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика социальной психологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Психологическая коррекция и реабилитация",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая коррекция и реабилитация",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая коррекция и реабилитация",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психолог. обеспеч. служебной деят.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическая коррекция и реабилитация",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психологич. коррекция и реабилитация",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Тренинговые технологии в работе психолога",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кажарская",
+                        "initials": "я",
+                        "fullName": "доц. Кажарская О.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинговые технологии в работе психолога",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кажарская",
+                        "initials": "я",
+                        "fullName": "доц. Кажарская О.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика соц. психол.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинговые технологии в работе психолога",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кажарская",
+                        "initials": "я",
+                        "fullName": "доц. Кажарская О.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинг навыков консультиров.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинговые технологии в работе психолога",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кажарская",
+                        "initials": "я",
+                        "fullName": "доц. Кажарская О.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Психологическое обеспечение служебной деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическое обеспечение служебной деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "30нед. 22.03 - 28.03.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "31нед. 29.03 - 4.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "32нед. 5.04 - 11.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "33нед. 12.04 - 18.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "34нед. 19.04 - 25.04.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "35нед. 26.04 - 2.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическое обеспечение служебной деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология переговоров в экстремальных условиях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психологическое обеспечение служебной деятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология переговоров в экстремальных условиях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология переговоров в экстремальных условиях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика социальной психологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика социальной психологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "36нед. 3.05 - 9.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "37нед. 10.05 - 16.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "38нед. 17.05 - 23.05.21",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "39нед. 24.05 - 30.05.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "40нед. 31.05 - 6.06.21",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "41нед. 7.06 - 13.06.21г",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология переговоров в экстремальных условиях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Психология переговоров в экстремальных условиях",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Харланова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Харланова Т.Н."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика социальной психологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Содержание и методика социальной психологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бессонова",
+                        "initials": "а",
+                        "fullName": "доц. Бессонова Т.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-16оз"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

@@ -1,0 +1,852 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Восстановление и упрочение деталей ст.пр.",
+                "rooms": [
+                    "12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Огрызков",
+                        "initials": "в",
+                        "fullName": "Огрызков С.В."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ТЭТО ст.пр.",
+                "rooms": [
+                    "16"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Остренко",
+                        "initials": "о",
+                        "fullName": "Остренко А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ТЭТТТМО ст.пр.",
+                "rooms": [
+                    "12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Остренко",
+                        "initials": "о",
+                        "fullName": "Остренко А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о",
+                    "КТП-б-18-1-о",
+                    "ТБ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о",
+                    "КТП-б-18-1-о",
+                    "ТБ-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о",
+                    "КТП-б-18-1-о",
+                    "ТБ-б-18-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ТЭТО",
+                "rooms": [
+                    "12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ксенофонтова",
+                        "initials": "а",
+                        "fullName": "доц.Ксенофонтова В.А."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЭТТТМО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ксенофонтова",
+                        "initials": "а",
+                        "fullName": "доц. Ксенофонтова В.А."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЭТТ ОстренкоЛЗ16",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "КЭСТТТМО Соустова",
+                "rooms": [
+                    "08."
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Исп.транс.средств ст.пр.",
+                "rooms": [
+                    "09."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Огрызков",
+                        "initials": "в",
+                        "fullName": "Огрызков С.В."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Практикум по межкультурной коммун.",
+                "rooms": [
+                    "12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а",
+                        "fullName": "доц.Кабанкова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "КЭСТТТМО ст.пр.",
+                "rooms": [
+                    "12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Соустова",
+                        "initials": "а",
+                        "fullName": "Соустова Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Маркетинг на транспорте ст.пр.",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кулешова",
+                        "initials": "а",
+                        "fullName": "Кулешова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "КЭСТТТМО Соустова",
+                "rooms": [
+                    "08."
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЭТТ Соустова",
+                "rooms": [
+                    "16"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ТЭТО Остренко",
+                "rooms": [
+                    "16"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ТЭТТТМОДомнина",
+                "rooms": [
+                    "14",
+                    "257",
+                    "252"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Восстановление и упрочение деталей ст.пр.",
+                "rooms": [
+                    "12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Огрызков",
+                        "initials": "в",
+                        "fullName": "Огрызков С.В."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Исп.транс.средств ст.пр.",
+                "rooms": [
+                    "16"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Огрызков",
+                        "initials": "в",
+                        "fullName": "Огрызков С.В."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ТЭТТТМО ст.пр.",
+                "rooms": [
+                    "12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Остренко",
+                        "initials": "о",
+                        "fullName": "Остренко А.Г."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о",
+                    "КТП-б-18-1-о",
+                    "ТБ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о",
+                    "КТП-б-18-1-о",
+                    "ТБ-б-18-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Военно-учебный центр",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о",
+                    "ТТП-б-18-1-о",
+                    "АТП-б-18-1-о",
+                    "КТП-б-18-1-о",
+                    "ТБ-б-18-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Авт.эксп.доц.БабкинА.В",
+                "rooms": [
+                    "12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Соустова",
+                        "initials": "а",
+                        "fullName": "Соустова Л.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЭТТТМО",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ксенофонтова",
+                        "initials": "а",
+                        "fullName": "доц. Ксенофонтова В.А."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "КЭСТТТМОСоустова08.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ВУД Огрызков",
+                "rooms": [
+                    "09.",
+                    "258",
+                    "13"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ВУД Огрызков 09.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Практикум по межкультурной коммун.",
+                "rooms": [
+                    "12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кабанкова",
+                        "initials": "а",
+                        "fullName": "доц.Кабанкова Е.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "КЭСТТТМО ст.пр.",
+                "rooms": [
+                    "12"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Соустова",
+                        "initials": "а",
+                        "fullName": "Соустова Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Маркетинг на транспорте ст.пр.",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Кулешова",
+                        "initials": "а",
+                        "fullName": "Кулешова Т.В."
+                    }
+                ],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Элективные курсы по физической культуре и спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "КЭСТТТМОСоустова08.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ТЭТТТМОДомнина 14",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ТЭТО ОстренкоЛЗ16",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЭТ-б-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

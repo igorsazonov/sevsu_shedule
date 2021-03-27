@@ -1,0 +1,670 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "ПСИХОЛОГИЯ СЕМЬИ И СЕМЕЙНОЕ КОНСУЛЬТИРОВАНИЕ",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кадышева",
+                        "initials": "а",
+                        "fullName": "доц. Кадышева Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о",
+                    "ПСД-с-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПСИХОЛОГИЯ СТРЕССА И СТРЕССОУСТОЙЧИВОГО ПОВЕДЕНИЯ",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о",
+                    "ПСД-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПСИХОЛОГИЯ ТРУДА И ИНЖЕНЕРНАЯ ПСИХОЛОГИЯ",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Медведева",
+                        "initials": "а",
+                        "fullName": "доц. Медведева С.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о",
+                    "ПСД-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Основы нейропсихологии",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Психология семьи и семейное консультирование",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кадышева",
+                        "initials": "а",
+                        "fullName": "доц. Кадышева Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Психология труда и инженерная психология",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Медведева",
+                        "initials": "а",
+                        "fullName": "доц. Медведева С.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психология управления",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моторная",
+                        "initials": "я",
+                        "fullName": "доц. Моторная С.Е."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психосоматики",
+                "rooms": [
+                    "358"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психология стресса и стрессоустойчивое поведение",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "ПСИХОЛОГИЯ УПРАВЛЕНИЯ",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моторная",
+                        "initials": "я",
+                        "fullName": "доц. Моторная С.Е."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о",
+                    "ПСД-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ОСНОВЫ ПСИХОСОМАТИКИ",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о",
+                    "ПСД-с-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Психолого-лингвистические основы коммуникаций в научной сфере",
+                "rooms": [
+                    "47"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Луговая",
+                        "initials": "я",
+                        "fullName": "асс. Луговая С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинг навыков консультирования",
+                "rooms": [
+                    "47"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФК И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "ПСИХОЛОГИЯ СЕМЬИ И СЕМЕЙНОЕ КОНСУЛЬТИРОВАНИЕ",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кадышева",
+                        "initials": "а",
+                        "fullName": "доц. Кадышева Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о",
+                    "ПСД-с-18-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПСИХОЛОГИЯ СТРЕССА И СТРЕССОУСТОЙЧИВОГО ПОВЕДЕНИЯ",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Султанова",
+                        "initials": "а",
+                        "fullName": "доц. Султанова И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о",
+                    "ПСД-с-18-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ПСИХОЛОГИЯ ТРУДА И ИНЖЕНЕРНАЯ ПСИХОЛОГИЯ",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Медведева",
+                        "initials": "а",
+                        "fullName": "доц. Медведева С.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о",
+                    "ПСД-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Основы нейропсихологии",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Психология семьи и семейное консультирование",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кадышева",
+                        "initials": "а",
+                        "fullName": "доц. Кадышева Л.Б."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Психология труда и инженерная психология",
+                "rooms": [
+                    "203"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Медведева",
+                        "initials": "а",
+                        "fullName": "доц. Медведева С.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психология управления",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моторная",
+                        "initials": "я",
+                        "fullName": "доц. Моторная С.Е."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Основы психосоматики",
+                "rooms": [
+                    "59"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Пароньянц",
+                        "initials": "ц",
+                        "fullName": "ст.пр. Пароньянц И.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Психология стресса и стрессоустойчивое поведение",
+                "rooms": [
+                    "236"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "ПСИХОЛОГИЯ УПРАВЛЕНИЯ",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Моторная",
+                        "initials": "я",
+                        "fullName": "доц. Моторная С.Е."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о",
+                    "ПСД-с-18-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ОСНОВЫ НЕЙРОПСИХОЛОГИИ",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Махрина",
+                        "initials": "а",
+                        "fullName": "доц. Махрина Е.А."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о",
+                    "ПСД-с-18-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Психолого-лингвистические основы коммуникаций в научной сфере",
+                "rooms": [
+                    "47"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Луговая",
+                        "initials": "я",
+                        "fullName": "асс. Луговая С.И."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Тренинг навыков консультирования",
+                "rooms": [
+                    "47"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Чабаненко",
+                        "initials": "о",
+                        "fullName": "асс. Чабаненко С.В."
+                    }
+                ],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФК И СПОРТУ (до 10.04.21г)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ПСД-с-18-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

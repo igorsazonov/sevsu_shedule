@@ -1,0 +1,359 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Научный семинар (journal club)",
+                "rooms": [
+                    "210",
+                    "210",
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попкова",
+                        "initials": "а",
+                        "fullName": "доц. Попкова М.Д."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о",
+                    "Д-м-19-1-о",
+                    "Г-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Инновации в ландшафтном дизайне",
+                "rooms": [
+                    "306"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гончарик",
+                        "initials": "к",
+                        "fullName": "доц. Гончарик А.А."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Университетская 33 !!!",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Организация образовательной деятельности и методика преподавания профессиональных дисциплин \n(Лекции: 16.02 02.03 09.03 16.03 23.03 30.03 06.04 13.04)",
+                "rooms": [
+                    "Г-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Улейская",
+                        "initials": "я",
+                        "fullName": "доц. Улейская Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Современные технологии выращивания декоративных растений",
+                "rooms": [
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Улейская",
+                        "initials": "я",
+                        "fullName": "доц. Улейская Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика и организация деятельности в архитектурно-ландшафтной деятельности",
+                "rooms": [
+                    "В-411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Локоть",
+                        "initials": "ь",
+                        "fullName": "доц. Локоть Д.И."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Экономика и организация деятельности в архитектурно-ландшафтной деятельности",
+                "rooms": [
+                    "В-411"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Локоть",
+                        "initials": "ь",
+                        "fullName": "доц. Локоть Д.И."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Компьютерное моделирование в архитектурно-ландшафтном проектировании \n(Лекции: 18.02 04.03 18.03 01.04)",
+                "rooms": [
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ашбель",
+                        "initials": "ь",
+                        "fullName": "доц. Ашбель Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Компьютерное моделирование в архитектурно-ландшафтном проектировании",
+                "rooms": [
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ашбель",
+                        "initials": "ь",
+                        "fullName": "доц. Ашбель Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Научный семинар (journal club)",
+                "rooms": [
+                    "210",
+                    "210"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Попкова",
+                        "initials": "а",
+                        "fullName": "доц. Попкова М.Д."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о",
+                    "Д-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Инновации в ландшафтном дизайне",
+                "rooms": [
+                    "306"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гончарик",
+                        "initials": "к",
+                        "fullName": "доц. Гончарик А.А."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Организация образовательной деятельности и методика преподавания профессиональных дисциплин \n(Лекции: 16.02 02.03 09.03 16.03 23.03 30.03 06.04 13.04)",
+                "rooms": [
+                    "Г-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Улейская",
+                        "initials": "я",
+                        "fullName": "доц. Улейская Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Организация образовательной деятельности и методика преподавания профессиональных дисциплин",
+                "rooms": [
+                    "Г-507"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Улейская",
+                        "initials": "я",
+                        "fullName": "доц. Улейская Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Современные технологии выращивания декоративных растений",
+                "rooms": [
+                    "В-310"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Улейская",
+                        "initials": "я",
+                        "fullName": "доц. Улейская Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Компьютерное моделирование в архитектурно-ландшафтном проектировании",
+                "rooms": [
+                    "305"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ашбель",
+                        "initials": "ь",
+                        "fullName": "доц. Ашбель Е.В."
+                    }
+                ],
+                "groups": [
+                    "ЛА-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lab",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

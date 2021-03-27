@@ -1,0 +1,777 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Элективные курсы по ФК и С",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-20-1-о",
+                    "Ю-б-20-2-о",
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Риторика в юриспруденции",
+                "rooms": [
+                    "423",
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Р.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-1-о",
+                    "Ю-б-20-2-о",
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Территориальные основы правоприменения",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Зенин",
+                        "initials": "н",
+                        "fullName": "проф. Зенин С.С."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Римское право",
+                "rooms": [
+                    "418"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Р.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык Асс. вак. \/ А.\/",
+                "rooms": [
+                    "А 001",
+                    "А 002",
+                    "А 003",
+                    "А 301",
+                    "Б 301"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Потовская",
+                        "initials": "я",
+                        "fullName": "Потовская К.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "асс. Грищук А.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а",
+                        "fullName": "асс. Еремина Ю.Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Севастьянова",
+                        "initials": "а",
+                        "fullName": "асс. Севастьянова И.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Попова",
+                        "fullName": "асс. Попова"
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-1-о",
+                    "Ю-б-20-2-о",
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Юридическая психология",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Некрасов",
+                        "initials": "в",
+                        "fullName": "доц. Некрасов М.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-1-о",
+                    "Ю-б-20-2-о",
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Безопасность жизнедеятельности 17.02 3.03. 17.03 31.03",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гутник",
+                        "initials": "к",
+                        "fullName": "ст.пр. Гутник В.С."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-1-о",
+                    "Ю-б-20-2-о",
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Элективные курсы по ФК и С (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "История государства и права России (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Оболенский",
+                        "initials": "й",
+                        "fullName": "доц. Оболенский Ю.Б."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Теория государства и права (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Некрасов",
+                        "initials": "в",
+                        "fullName": "доц. Некрасов М.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык Асс. вак. \/ А.\/ (кроме 18.03.2021)",
+                "rooms": [
+                    "А 001",
+                    "А 002",
+                    "А 003",
+                    "А 004",
+                    "В 204"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Потовская",
+                        "initials": "я",
+                        "fullName": "Потовская К.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "асс. Грищук А.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а",
+                        "fullName": "асс. Еремина Ю.Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Севастьянова",
+                        "initials": "а",
+                        "fullName": "асс. Севастьянова И.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Попова",
+                        "fullName": "асс. Попова"
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Юридическая психология",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Некрасов",
+                        "initials": "в",
+                        "fullName": "доц. Некрасов М.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Матвеева",
+                        "initials": "а",
+                        "fullName": "асс. Матвеева Я.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "ОУ ПУЛ: Порядок защиты трудовых прав",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Малахова",
+                        "initials": "а",
+                        "fullName": "доц. Малахова С.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "ОУ ПУЛ: Порядок защиты трудовых прав",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Малахова",
+                        "initials": "а",
+                        "fullName": "доц. Малахова С.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "417",
+                    "417"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Чемшит",
+                        "initials": "т",
+                        "fullName": "проф. Чемшит А.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-1-о",
+                    "Ю-б-20-2-о",
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Теория государства и права",
+                "rooms": [
+                    "423",
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Некрасов",
+                        "initials": "в",
+                        "fullName": "доц. Некрасов М.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-1-о",
+                    "Ю-б-20-2-о",
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "История государства и права России",
+                "rooms": [
+                    "423",
+                    "423"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Оболенский",
+                        "initials": "й",
+                        "fullName": "доц. Оболенский Ю.Б."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-1-о",
+                    "Ю-б-20-2-о",
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Безопасность жизнедеятельности",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Шагова",
+                        "initials": "а",
+                        "fullName": "асс. Шагова Ю.О."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Риторика в юриспруденции",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Р.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык Асс. вак. \/ А.\/",
+                "rooms": [
+                    "А 001",
+                    "А 002",
+                    "А 003",
+                    "А 301",
+                    "Б 301"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Потовская",
+                        "initials": "я",
+                        "fullName": "Потовская К.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "асс. Грищук А.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а",
+                        "fullName": "асс. Еремина Ю.Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Севастьянова",
+                        "initials": "а",
+                        "fullName": "асс. Севастьянова И.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Попова",
+                        "fullName": "асс. Попова"
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-1-о",
+                    "Ю-б-20-2-о",
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Территориальные основы правоприменения",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Зенин",
+                        "initials": "н",
+                        "fullName": "проф. Зенин С.С."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-1-о",
+                    "Ю-б-20-2-о",
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Римское право",
+                "rooms": [
+                    "422",
+                    "422"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Ткаченко",
+                        "initials": "о",
+                        "fullName": "доц. Ткаченко Р.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-1-о",
+                    "Ю-б-20-2-о",
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Элективные курсы по ФК и С (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "История государства и права России (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Оболенский",
+                        "initials": "й",
+                        "fullName": "доц. Оболенский Ю.Б."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Теория государства и права (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Некрасов",
+                        "initials": "в",
+                        "fullName": "доц. Некрасов М.А."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык Асс. вак. \/ А.\/ (кроме 18.03.2021)",
+                "rooms": [
+                    "А 001",
+                    "А 002",
+                    "А 003",
+                    "А 004",
+                    "В 204"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Потовская",
+                        "initials": "я",
+                        "fullName": "Потовская К.С."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Грищук",
+                        "initials": "к",
+                        "fullName": "асс. Грищук А.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Еремина",
+                        "initials": "а",
+                        "fullName": "асс. Еремина Ю.Ю."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Севастьянова",
+                        "initials": "а",
+                        "fullName": "асс. Севастьянова И.В."
+                    },
+                    {
+                        "state": "assistant",
+                        "surname": "Попова",
+                        "fullName": "асс. Попова"
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-3-о",
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Безопасность жизнедеятельности 26.02 12.03 26.03 9.04 23.04",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Шагова",
+                        "initials": "а",
+                        "fullName": "асс. Шагова Ю.О."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Философия",
+                "rooms": [
+                    "421"
+                ],
+                "lecturers": [
+                    {
+                        "state": "assistant",
+                        "surname": "Матвеева",
+                        "initials": "а",
+                        "fullName": "асс. Матвеева Я.В."
+                    }
+                ],
+                "groups": [
+                    "Ю-б-20-4-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

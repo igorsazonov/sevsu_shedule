@@ -1,0 +1,565 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Практику по КРО ВИЯ",
+                "rooms": [
+                    "301"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Мервозединова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Мервозединова И.Р."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Практику по КРО ВИЯ",
+                "rooms": [
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Мервозединова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Мервозединова И.Р."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о",
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Деловой английский язык",
+                "rooms": [
+                    "110"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Халезова",
+                        "initials": "а",
+                        "fullName": "доц. Халезова Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Теория и практика перевода основного иностранного языка",
+                "rooms": [
+                    "110"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шутова",
+                        "initials": "а",
+                        "fullName": "доц. Шутова О.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "История основного языка",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шутова",
+                        "initials": "а",
+                        "fullName": "доц. Шутова О.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по КРО ВИЯ",
+                "rooms": [
+                    "261"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Мервозединова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Мервозединова И.Р."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ЭК по ФК и Спорту(18.02.21г)",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Практикум по КРО Анг.Я",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вишнякова",
+                        "initials": "а",
+                        "fullName": "доц. Вишнякова А.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по КРО Анг.Я",
+                "rooms": [
+                    "231"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вишнякова",
+                        "initials": "а",
+                        "fullName": "доц. Вишнякова А.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Практику по КРО ВИЯ",
+                "rooms": [
+                    "301"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Мервозединова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Мервозединова И.Р."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Практику по КРО ВИЯ",
+                "rooms": [
+                    "207"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Мервозединова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Мервозединова И.Р."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о",
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Деловой английский язык",
+                "rooms": [
+                    "110"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Халезова",
+                        "initials": "а",
+                        "fullName": "доц. Халезова Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Теория и практика перевода основного иностранного языка",
+                "rooms": [
+                    "110"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шутова",
+                        "initials": "а",
+                        "fullName": "доц. Шутова О.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Методика преподавания литературы",
+                "rooms": [
+                    "110"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Храбкова",
+                        "initials": "а",
+                        "fullName": "доц. Храбкова В.Е."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "ЭК по ФК и Спорту",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по КРО ВИЯ",
+                "rooms": [
+                    "261"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Мервозединова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Мервозединова И.Р."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Пр по КРО ВИЯ Мервозединова",
+                "rooms": [
+                    "261"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "История мировой литературы 1-й половины 20 в",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаренко",
+                        "initials": "о",
+                        "fullName": "доц. Макаренко Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИСТОРИЯ МИРОВОЙ ЛИТЕРАТУР-й ПОЛОВИНЫ 20в",
+                "rooms": [
+                    "Ы 1",
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Макаренко",
+                        "initials": "о",
+                        "fullName": "доц. Макаренко Л.В."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о",
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МЕТОДИКА ПРЕПОДАВАНИЯ ЛИТЕРАТУРЫ",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Храброва",
+                        "initials": "а",
+                        "fullName": "доц. Храброва В.Е."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о",
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИСТОРИЯ ОСНОВНОГО ЯЗЫКА",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шутова",
+                        "initials": "а",
+                        "fullName": "доц. Шутова О.Н."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-1-о",
+                    "ФИЛ-б-18-1-2-о",
+                    "ФИЛ-б-18-2-1-о",
+                    "ФИЛ-б-18-2-2-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Практикум по КРО Анг.Я",
+                "rooms": [
+                    "304"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вишнякова",
+                        "initials": "а",
+                        "fullName": "доц. Вишнякова А.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Практикум по КРО Анг.Я",
+                "rooms": [
+                    "216"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Вишнякова",
+                        "initials": "а",
+                        "fullName": "доц. Вишнякова А.Л."
+                    }
+                ],
+                "groups": [
+                    "ФИЛ-б-18-1-2-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

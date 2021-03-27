@@ -1,0 +1,429 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Менеджмент бизнес-процессов",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Русина",
+                        "initials": "а",
+                        "fullName": "доц. Русина Н.А."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Менеджмент бизнес-процессов",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Русина",
+                        "initials": "а",
+                        "fullName": "доц. Русина Н.А."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Управление рисками проектов",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шуневыч",
+                        "initials": "ч",
+                        "fullName": "доц. Шуневыч О.Б."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дельвик",
+                        "initials": "к",
+                        "fullName": "доц. Дельвик Н.А."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Исследование и анализ рынков",
+                "rooms": [
+                    "155"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гребешкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Гребешкова И.А."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lab",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Национальная система ПОД\/ФТ",
+                "rooms": [
+                    "212"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Колесова",
+                        "initials": "а",
+                        "fullName": "доц. Колесова И.В."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Национальная система ПОД\/ФТ",
+                "rooms": [
+                    "353"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Колесова",
+                        "initials": "а",
+                        "fullName": "доц. Колесова И.В."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Стратегическое управление проектами (Strategic Management of Projects)",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Митус",
+                        "initials": "с",
+                        "fullName": "доц. Митус К.Н."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Исследование и анализ рынков",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гребешкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Гребешкова И.А."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Исследование и анализ рынков",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Гребешкова",
+                        "initials": "а",
+                        "fullName": "ст.пр. Гребешкова И.А."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Финансовое управление проектами",
+                "rooms": [
+                    "362"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Писарюк",
+                        "initials": "к",
+                        "fullName": "доц. Писарюк С.Н."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Финансовое управление проектами",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Писарюк",
+                        "initials": "к",
+                        "fullName": "доц. Писарюк С.Н."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление командами",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Русина",
+                        "initials": "а",
+                        "fullName": "доц. Русина Н.А."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Управление рисками проектов",
+                "rooms": [
+                    "369"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Шуневыч",
+                        "initials": "ч",
+                        "fullName": "доц. Шуневыч О.Б."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Академический иностранный язык",
+                "rooms": [
+                    "357"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дельвик",
+                        "initials": "к",
+                        "fullName": "доц. Дельвик Н.А."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [],
+        "friday": [
+            {
+                "subject": "Управление командами",
+                "rooms": [
+                    "155"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Русина",
+                        "initials": "а",
+                        "fullName": "доц. Русина Н.А."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар (journal club)",
+                "rooms": [
+                    "151"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Цуканов",
+                        "initials": "в",
+                        "fullName": "проф. Цуканов А.В."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Стратегическое управление проектами (Strategic Management of Projects)",
+                "rooms": [
+                    "365"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Митус",
+                        "initials": "с",
+                        "fullName": "доц. Митус К.Н."
+                    }
+                ],
+                "groups": [
+                    "М-м-20-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

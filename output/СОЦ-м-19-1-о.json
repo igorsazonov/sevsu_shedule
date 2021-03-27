@@ -1,0 +1,732 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Приклад. соц.исслед.:управление проектом",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Приклад. соц.исслед.:управление проектом",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательская работа",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Современные теории управ. персоналом проф.",
+                "rooms": [
+                    "6."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Дерюгин",
+                        "initials": "н",
+                        "fullName": "Дерюгин П.П."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Современные теории управ. персоналом проф.",
+                "rooms": [
+                    "6."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Дерюгин",
+                        "initials": "н",
+                        "fullName": "Дерюгин П.П."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Научно-исследовательская работа",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Приклад. соц.исслед.:управление проектом",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Приклад. соц.исслед.:управление проектом",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Иност. язык Большого Средиземноморья",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Селиверстова",
+                        "initials": "а",
+                        "fullName": "доц.Селиверстова М.О."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волконская",
+                        "initials": "я",
+                        "fullName": "доц.Волконская С.А."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Противодейст.коррупции доц.Волконская С.А",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательская работа",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательская работа",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Приклад. соц.исслед.:управление проектом",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Иност. язык Большого Средиземноморья",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Селиверстова",
+                        "initials": "а",
+                        "fullName": "доц.Селиверстова М.О."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Корж",
+                        "initials": "ж",
+                        "fullName": "доц.Корж Т.Н."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Корж",
+                        "initials": "ж",
+                        "fullName": "доц.Корж Т.Н."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Приклад. соц.исслед.:управление проектом",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Приклад. соц.исслед.:управление проектом",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательская работа",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Современные теории управ. персоналом проф.",
+                "rooms": [
+                    "6."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Дерюгин",
+                        "initials": "н",
+                        "fullName": "Дерюгин П.П."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Современные теории управ. персоналом проф.",
+                "rooms": [
+                    "6."
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Дерюгин",
+                        "initials": "н",
+                        "fullName": "Дерюгин П.П."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Научно-исследовательская работа",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Приклад. соц.исслед.:управление проектом",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Приклад. соц.исслед.:управление проектом",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Иност. язык Большого Средиземноморья",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Селиверстова",
+                        "initials": "а",
+                        "fullName": "доц.Селиверстова М.О."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Волконская",
+                        "initials": "я",
+                        "fullName": "доц.Волконская С.А."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Совр.теории упр.персонал.проф.Дерюгин П.П",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательская работа",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Научно-исследовательская работа",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Приклад. соц.исслед.:управление проектом",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Мудрян",
+                        "initials": "н",
+                        "fullName": "доц.Мудрян Н.С."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 7,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": [
+            {
+                "subject": "Иност. язык Большого Средиземноморья",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Селиверстова",
+                        "initials": "а",
+                        "fullName": "доц.Селиверстова М.О."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Корж",
+                        "initials": "ж",
+                        "fullName": "доц.Корж Т.Н."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык",
+                "rooms": [
+                    "7."
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Корж",
+                        "initials": "ж",
+                        "fullName": "доц.Корж Т.Н."
+                    }
+                ],
+                "groups": [
+                    "СОЦ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

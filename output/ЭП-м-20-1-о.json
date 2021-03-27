@@ -1,0 +1,365 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Расчет и проектирование очистных сооружений",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Расчет и проектирование очистных сооружений",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "initials": "к",
+                        "fullName": "доц. Кучерик Г.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Управление экологическими проектами",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гавриш",
+                        "initials": "ш",
+                        "fullName": "доц. Гавриш В.М."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык. Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дельвиг",
+                        "initials": "г",
+                        "fullName": "доц. Дельвиг Н.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Управление экологической безопасностью (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дербасова",
+                        "initials": "а",
+                        "fullName": "доц. Дербасова Н.М."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Ресурсосберегающие и малоотходные технологии в энергетике (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гавриш",
+                        "initials": "ш",
+                        "fullName": "доц. Гавриш В.М."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Экологические проблемы региона",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "initials": "к",
+                        "fullName": "доц. Кучерик Г.В."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследовательской деятельности в экологии",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукина",
+                        "initials": "а",
+                        "fullName": "доц. Лукина Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [
+            {
+                "subject": "Управление экологическими проектами",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гавриш",
+                        "initials": "ш",
+                        "fullName": "доц. Гавриш В.М."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "lecture",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Иностранный язык. Академический иностранный язык",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дельвиг",
+                        "initials": "г",
+                        "fullName": "доц. Дельвиг Н.А."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Системный анализ качества окружающей среды",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дербасова",
+                        "initials": "а",
+                        "fullName": "доц. Дербасова Н.М."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Управление экологической безопасностью (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Дербасова",
+                        "initials": "а",
+                        "fullName": "доц. Дербасова Н.М."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Ресурсосберегающие и малоотходные технологии в энергетике (кроме 18.03.2021)",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Гавриш",
+                        "initials": "ш",
+                        "fullName": "доц. Гавриш В.М."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Методология исследоват. деят-ти в экологии 11.02. 25.02. 11.03 25.03 8.04.",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукина",
+                        "initials": "а",
+                        "fullName": "доц. Лукина Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "Расчет и проектирование очистных сооружений",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Кучерик",
+                        "initials": "к",
+                        "fullName": "доц. Кучерик Г.В."
+                    },
+                    {
+                        "state": "seniorLecturer",
+                        "surname": "Ленивенко",
+                        "initials": "о",
+                        "fullName": "ст.пр. Ленивенко Н.Н."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "Международное сотрудничество в области охраны окружающей среды",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Лукина",
+                        "initials": "а",
+                        "fullName": "доц. Лукина Л.И."
+                    }
+                ],
+                "groups": [
+                    "ЭП-м-20-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

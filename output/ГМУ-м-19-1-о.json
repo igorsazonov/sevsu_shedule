@@ -1,0 +1,526 @@
+{
+    "odd": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "ГОГОЛЯ 14",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар (Journal club)",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Намханова",
+                        "initials": "а",
+                        "fullName": "проф. Намханова М.В."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар (Journal club)",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Намханова",
+                        "initials": "а",
+                        "fullName": "проф. Намханова М.В."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление бюджетными и внебюджетными инвестициями",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Клименко",
+                        "initials": "о",
+                        "fullName": "Клименко А.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление бюджетными и внебюджетными инвестициями",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Клименко",
+                        "initials": "о",
+                        "fullName": "Клименко А.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Управление организациями бюджетного сектора",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бунецкий",
+                        "initials": "й",
+                        "fullName": "доц. Бунецкий Л.Л."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление организациями бюджетного сектора",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бунецкий",
+                        "initials": "й",
+                        "fullName": "доц. Бунецкий Л.Л."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [
+                    "499"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "practics",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Управление бюджетными и внебюджетными инвестициями",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Клименко",
+                        "initials": "о",
+                        "fullName": "Клименко А.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "odd",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Управление бюджетными и внебюджетными инвестициями",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Клименко",
+                        "initials": "о",
+                        "fullName": "Клименко А.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "odd",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Управление организациями бюджетного сектора",
+                "rooms": [
+                    "482"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бунецкий",
+                        "initials": "й",
+                        "fullName": "доц. Бунецкий Л.Л."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Управление организациями бюджетного сектора",
+                "rooms": [
+                    "482"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бунецкий",
+                        "initials": "й",
+                        "fullName": "доц. Бунецкий Л.Л."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [
+                    "497"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "odd",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "even": {
+        "monday": [],
+        "tuesday": [
+            {
+                "subject": "Научный семинар (Journal club)",
+                "rooms": [
+                    "302"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Намханова",
+                        "initials": "а",
+                        "fullName": "проф. Намханова М.В."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Научный семинар (Journal club)",
+                "rooms": [
+                    "187"
+                ],
+                "lecturers": [
+                    {
+                        "state": "professor",
+                        "surname": "Намханова",
+                        "initials": "а",
+                        "fullName": "проф. Намханова М.В."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление бюджетными и внебюджетными инвестициями",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Клименко",
+                        "initials": "о",
+                        "fullName": "Клименко А.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Управление бюджетными и внебюджетными инвестициями",
+                "rooms": [
+                    "254"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Клименко",
+                        "initials": "о",
+                        "fullName": "Клименко А.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [],
+        "thursday": [
+            {
+                "subject": "Управление бюджетными и внебюджетными инвестициями",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Клименко",
+                        "initials": "о",
+                        "fullName": "Клименко А.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 5,
+                "parity": "even",
+                "type": "lecture",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Управление бюджетными и внебюджетными инвестициями",
+                "rooms": [
+                    "303"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Клименко",
+                        "initials": "о",
+                        "fullName": "Клименко А.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 6,
+                "parity": "even",
+                "type": "practics",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [],
+        "saturday": [
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [
+                    "497"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 1,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Управление организациями бюджетного сектора",
+                "rooms": [
+                    "482"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бунецкий",
+                        "initials": "й",
+                        "fullName": "доц. Бунецкий Л.Л."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 2,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Управление организациями бюджетного сектора",
+                "rooms": [
+                    "482"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бунецкий",
+                        "initials": "й",
+                        "fullName": "доц. Бунецкий Л.Л."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 3,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            },
+            {
+                "subject": "Противодействие коррупции",
+                "rooms": [
+                    "497"
+                ],
+                "lecturers": [
+                    {
+                        "state": "docent",
+                        "surname": "Бабков",
+                        "initials": "в",
+                        "fullName": "доц. Бабков Д.И."
+                    }
+                ],
+                "groups": [
+                    "ГМУ-м-19-1-о"
+                ],
+                "pair": 4,
+                "parity": "even",
+                "type": "practics",
+                "day": "saturday",
+                "date": ""
+            }
+        ]
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}

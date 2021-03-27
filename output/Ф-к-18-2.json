@@ -1,0 +1,1280 @@
+{
+    "odd": {
+        "monday": [
+            {
+                "subject": "Пм.02 ОРГАНИЗ. РАСЧ-В С БЮДЖЕТ.",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асташова",
+                        "initials": "а",
+                        "fullName": "Асташова Д.Т."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.214",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Пм.03 ФИНАНСЫ ОРГАНИЗАЦИЙ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "Пм.03 ФИНАНСЫ ОРГАНИЗАЦИЙ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асташова",
+                        "initials": "а",
+                        "fullName": "Асташова Д.Т."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "МАКРОЭКОНОМИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "МАКРОЭКОНОМИКА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Петрова",
+                        "initials": "а",
+                        "fullName": "Петрова М.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "Пм.03 АНАЛИЗ ФХД",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "Пм.03 АНАЛИЗ ФХД",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Райская",
+                        "initials": "я",
+                        "fullName": "Райская Н.П."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Смоленский",
+                        "initials": "й",
+                        "fullName": "Смоленский А.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "Пм.03 ФИНАНСЫ ОРГАНИЗАЦИЙ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Пм.03 ФИНАНСЫ ОРГАНИЗАЦИЙ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асташова",
+                        "initials": "а",
+                        "fullName": "Асташова Д.Т."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Пм.03 АНАЛИЗ ФХД",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "Пм.03 АНАЛИЗ ФХД",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Райская",
+                        "initials": "я",
+                        "fullName": "Райская Н.П."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "Пм.03 ФИНАНСЫ ОРГАНИЗАЦИЙ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "Пм.03 ФИНАНСЫ ОРГАНИЗАЦИЙ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асташова",
+                        "initials": "а",
+                        "fullName": "Асташова Д.Т."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ОРГАНИЗАЦИЯ РАСЧЁТОВ С БЮДЖЕТАМИ РФ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ОРГАНИЗАЦИЯ РАСЧЁТОВ С БЮДЖЕТАМИ РФ",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асташова",
+                        "initials": "а",
+                        "fullName": "Асташова Д.Т."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "odd",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Смоленский",
+                        "initials": "й",
+                        "fullName": "Смоленский А.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ОРГАНИЗАЦИЯ РАСЧЁТОВ С БЮДЖЕТАМИ РФ",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ПМ.02 ОРГАНИЗАЦИЯ РАСЧЁТОВ С БЮДЖЕТАМИ РФ",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асташова",
+                        "initials": "а",
+                        "fullName": "Асташова Д.Т."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Жигулева",
+                        "initials": "а",
+                        "fullName": "Жигулева И.А."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МАКРОЭКОНОМИКА",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "МАКРОЭКОНОМИКА",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Петрова",
+                        "initials": "а",
+                        "fullName": "Петрова М.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "odd",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "even": {
+        "monday": [
+            {
+                "subject": "Пм.03 АНАЛИЗ ФХД",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Райская",
+                        "initials": "я",
+                        "fullName": "Райская Н.П."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.115",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асташова",
+                        "initials": "а",
+                        "fullName": "Асташова Д.Т."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.214",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.214",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Петрова",
+                        "initials": "а",
+                        "fullName": "Петрова М.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.406",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.406",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "monday",
+                "date": ""
+            }
+        ],
+        "tuesday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Райская",
+                        "initials": "я",
+                        "fullName": "Райская Н.П."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.207",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.207",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Смоленский",
+                        "initials": "й",
+                        "fullName": "Смоленский А.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "tuesday",
+                "date": ""
+            }
+        ],
+        "wednesday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асташова",
+                        "initials": "а",
+                        "fullName": "Асташова Д.Т."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.214",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.214",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Райская",
+                        "initials": "я",
+                        "fullName": "Райская Н.П."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.203",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.203",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "wednesday",
+                "date": ""
+            }
+        ],
+        "thursday": [
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асташова",
+                        "initials": "а",
+                        "fullName": "Асташова Д.Т."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.214",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.214",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асташова",
+                        "initials": "а",
+                        "fullName": "Асташова Д.Т."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.214",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.214",
+                "rooms": [],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": "",
+                "parity": "even",
+                "type": "",
+                "day": "thursday",
+                "date": ""
+            }
+        ],
+        "friday": [
+            {
+                "subject": "",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Смоленский",
+                        "initials": "й",
+                        "fullName": "Смоленский А.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "с\/з",
+                "rooms": [
+                    "1"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Асташова",
+                        "initials": "а",
+                        "fullName": "Асташова Д.Т."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.214",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.214",
+                "rooms": [
+                    "2"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Жигулева",
+                        "initials": "а",
+                        "fullName": "Жигулева И.А."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.400",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.400",
+                "rooms": [
+                    "3"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [
+                    {
+                        "state": "",
+                        "surname": "Петрова",
+                        "initials": "а",
+                        "fullName": "Петрова М.В."
+                    }
+                ],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.406",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            },
+            {
+                "subject": "ауд.406",
+                "rooms": [
+                    "4"
+                ],
+                "lecturers": [],
+                "groups": [
+                    "Ф-к-18-2"
+                ],
+                "pair": 0,
+                "parity": "even",
+                "type": "",
+                "day": "friday",
+                "date": ""
+            }
+        ],
+        "saturday": []
+    },
+    "none": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": []
+    }
+}
